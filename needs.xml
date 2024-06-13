@@ -1,30 +1,6 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
-		<id>2e0f6c30</id>
-		<found>2024-06-13T11:24:46.712437</found>
-		<foodbank>
-			<name>South &amp; East Bristol</name>
-			<slug>south-east-bristol</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/south-east-bristol/</self>
-				<html>https://www.givefood.org.uk/needs/at/south-east-bristol/</html>
-			</urls>
-		</foodbank>
-		<needs>UHT Milk (Long Life)
-Tinned Tomatoes
-Tinned Vegetables
-Fruit Juice (Long Life)
-Tinned Vegetarian Meals
-Shampoo
-Size 4 Nappies
-Sanitary Towels
-Size 5/6 Nappies
-Shower Gel / Soap</needs>
-		<excess>Baby Wipes</excess>
-		<self>https://www.givefood.org.uk/api/2/need/2e0f6c30/</self>
-	</need>
-	<need>
 		<id>8990d106</id>
 		<found>2024-06-13T10:31:23.574062</found>
 		<foodbank>
@@ -2748,5 +2724,34 @@ Long Grain Rice</needs>
 		<excess>Pasta
 Cereal</excess>
 		<self>https://www.givefood.org.uk/api/2/need/adad0b5a/</self>
+	</need>
+	<need>
+		<id>44542f98</id>
+		<found>2024-06-04T12:21:01.996175</found>
+		<foodbank>
+			<name>Warminster and District</name>
+			<slug>warminster-and-district</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/warminster-and-district/</self>
+				<html>https://www.givefood.org.uk/needs/at/warminster-and-district/</html>
+			</urls>
+		</foodbank>
+		<needs>Semi Skimmed Milk (UHT)
+Fruit Juice – Long Life Carton
+Pasta Sauce – Jars &amp; Packets
+Tinned Potatoes &amp; Instant Mash
+Tinned Vegetables – Carrots &amp; Peas
+Tinned Soup
+Tinned Meat/fish
+Tinned Pasta/packet Pasta In Sauce
+Tinned Fruit
+Tinned Creamed Rice/custard
+Squash Bottles
+Coffee Jars
+Jam
+Biscuits/snack Bars
+Toiletries &amp; Household Cleaning Products</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/44542f98/</self>
 	</need>
 </needs>
