@@ -14,23 +14,20 @@ jobs:
       - name: Check out this repo
         uses: actions/checkout@v2
 
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
       - name: Fetch latest JSON data
         run: |
           timestamp=$(date -u +"%Y-%m-%d")
           mkdir -p data
           curl https://www.givefood.org.uk/api/2/needs/ -o data/needs_${timestamp}.json
 
-      - name: Fetch latest XML data
+      - name: Extract and save today's data
         run: |
           timestamp=$(date -u +"%Y-%m-%d")
-          mkdir -p data
-          curl https://www.givefood.org.uk/api/2/needs/?format=xml -o data/needs_${timestamp}.xml
-
-      - name: Fetch latest YAML data
-        run: |
-          timestamp=$(date -u +"%Y-%m-%d")
-          mkdir -p data
-          curl https://www.givefood.org.uk/api/2/needs/?format=yaml -o data/needs_${timestamp}.yaml
+          mkdir -p data/daily
+          jq --arg today "$timestamp" '.[] | select(.created | startswith($today))' data/needs_${timestamp}.json > data/daily/needs_${timestamp}.json
 
       - name: Commit and push if it changed
         run: |
@@ -38,5 +35,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest need data: ${timestamp}" || exit 0
+          git commit -m "Daily need data: ${timestamp}" || exit 0
           git push
+
