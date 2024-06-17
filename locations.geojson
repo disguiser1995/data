@@ -1639,6 +1639,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2655654,
+          52.8959383
+        ]
+      },
+      "properties": {
+        "name": "Long Eaton, Long Eaton & Sawley Food Bank",
+        "slug": "long-eaton",
+        "address": "Baptist Church\r\nStation Street\r\nLong Eaton\r\nNottingham\r\nNG10 1GJ",
+        "url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/long-eaton/",
+        "network": "Trussell Trust",
+        "email": "info@longeatonsawley.foodbank.org.uk",
+        "telephone": "07950547671",
+        "foodbank": "Long Eaton & Sawley",
+        "foodbank_slug": "long-eaton-sawley",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/",
+        "parliamentary_constituency": "Erewash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.2238,
           55.977867
         ]
@@ -8723,29 +8746,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3023045,
-          52.88468839999999
-        ]
-      },
-      "properties": {
-        "name": "Sawley, Long Eaton & Sawley Food Bank",
-        "slug": "sawley",
-        "address": "165 Wilmot Street\r\nSawley\r\nLong Eaton\r\nNottingham\r\nNG10 3EL",
-        "url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/sawley/",
-        "network": "Trussell Trust",
-        "email": "info@longeatonsawley.foodbank.org.uk",
-        "telephone": "07950547671",
-        "foodbank": "Long Eaton & Sawley",
-        "foodbank_slug": "long-eaton-sawley",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/",
-        "parliamentary_constituency": "Erewash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.7708744,
           52.0342435
         ]
@@ -8762,6 +8762,29 @@
         "foodbank_slug": "milton-keynes",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/milton-keynes/",
         "parliamentary_constituency": "Milton Keynes Central"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3023042,
+          52.8846885
+        ]
+      },
+      "properties": {
+        "name": "Sawley, Long Eaton & Sawley Food Bank",
+        "slug": "sawley",
+        "address": "165 Wilmot Street\r\nSawley\r\nLong Eaton\r\nNottingham\r\nNG10 3EL",
+        "url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/sawley/",
+        "network": "Trussell Trust",
+        "email": "info@longeatonsawley.foodbank.org.uk",
+        "telephone": "07950547671",
+        "foodbank": "Long Eaton & Sawley",
+        "foodbank_slug": "long-eaton-sawley",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/long-eaton-sawley/",
+        "parliamentary_constituency": "Erewash"
       }
     },
     {
