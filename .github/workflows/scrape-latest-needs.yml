@@ -1,1 +1,42 @@
-.github/workflows/scrape-latest-needs.yml
+name: Scrape latest needs
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天运行一次
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+
+      - name: Fetch latest JSON data
+        run: |
+          timestamp=$(date -u +"%Y-%m-%d")
+          mkdir -p data
+          curl https://www.givefood.org.uk/api/2/needs/ -o data/needs_${timestamp}.json
+
+      - name: Fetch latest XML data
+        run: |
+          timestamp=$(date -u +"%Y-%m-%d")
+          mkdir -p data
+          curl https://www.givefood.org.uk/api/2/needs/?format=xml -o data/needs_${timestamp}.xml
+
+      - name: Fetch latest YAML data
+        run: |
+          timestamp=$(date -u +"%Y-%m-%d")
+          mkdir -p data
+          curl https://www.givefood.org.uk/api/2/needs/?format=yaml -o data/needs_${timestamp}.yaml
+
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest need data: ${timestamp}" || exit 0
+          git push
