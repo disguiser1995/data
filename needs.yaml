@@ -1,3 +1,32 @@
+- excess: 'Cereal
+
+    Tinned Beans
+
+    Pasta
+
+    Rice'
+  foodbank:
+    name: Bournemouth
+    slug: bournemouth
+    urls:
+      html: https://www.givefood.org.uk/needs/at/bournemouth/
+      self: https://www.givefood.org.uk/api/2/foodbank/bournemouth/
+  found: 2024-06-20 13:37:08.265112
+  id: 39198d4a
+  needs: 'Tinned Meat
+
+    Tinned Fruit
+
+    Tinned Puddings
+
+    Tinned Soup
+
+    Spreads
+
+    Sauces
+
+    Toiletries, Especially Shampoo, Conditioner, Soap And Shower Gel'
+  self: https://www.givefood.org.uk/api/2/need/39198d4a/
 - excess: Pasta
   foodbank:
     name: Chichester District
@@ -3681,32 +3710,3 @@
 
     Rice'
   self: https://www.givefood.org.uk/api/2/need/68dd045d/
-- excess: 'Cereals
-
-    Rice
-
-    Tea
-
-    Pasta
-
-    Baked Beans
-
-    Tinned Tomatoes
-
-    Cleaning Products
-
-    Conditioner'
-  foodbank:
-    name: Market Drayton
-    slug: market-drayton
-    urls:
-      html: https://www.givefood.org.uk/needs/at/market-drayton/
-      self: https://www.givefood.org.uk/api/2/foodbank/market-drayton/
-  found: 2024-06-10 10:09:44.337750
-  id: 168a56de
-  needs: 'Cartons Of Long Life Juice
-
-    Soup
-
-    Antibacterial Wipes'
-  self: https://www.givefood.org.uk/api/2/need/168a56de/
