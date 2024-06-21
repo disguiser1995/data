@@ -1,6 +1,56 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>f76df26b</id>
+		<found>2024-06-21T17:03:04.391867</found>
+		<foodbank>
+			<name>Hailsham</name>
+			<slug>hailsham</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/hailsham/</self>
+				<html>https://www.givefood.org.uk/needs/at/hailsham/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Vegetables (Sweetcorn, Carrots, Peas)
+Tinned Tomatoes
+Jelly/puddings
+Instant Coffee
+Tea
+Tinned Meat (Hot Dogs, Chicken In Sauce Etc. - Not Pies)
+Tinned Fruit
+Tinned Potatoes
+Soap
+Shower Gel
+Nappies Sizes 4, 5 &amp; 6</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/f76df26b/</self>
+	</need>
+	<need>
+		<id>b73793a1</id>
+		<found>2024-06-21T16:51:13.957589</found>
+		<foodbank>
+			<name>Fylde</name>
+			<slug>fylde</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/fylde/</self>
+				<html>https://www.givefood.org.uk/needs/at/fylde/</html>
+			</urls>
+		</foodbank>
+		<needs>Basmati Rice
+Honey And Jam
+Tea Bags
+Tomato Sauce
+Salad Cream
+Cereals
+Soup
+Tinned Meat
+Tinned Spaghetti
+Tinned Vegetables
+Deodorants</needs>
+		<excess>Pasta</excess>
+		<self>https://www.givefood.org.uk/api/2/need/b73793a1/</self>
+	</need>
+	<need>
 		<id>d0c1ffb3</id>
 		<found>2024-06-21T16:36:15.666180</found>
 		<foodbank>
@@ -2768,56 +2818,5 @@ Squash
 Coffee</needs>
 		<excess>Baked Beans</excess>
 		<self>https://www.givefood.org.uk/api/2/need/3407eef2/</self>
-	</need>
-	<need>
-		<id>3106abd8</id>
-		<found>2024-06-11T12:41:59.743293</found>
-		<foodbank>
-			<name>Andover</name>
-			<slug>andover</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/andover/</self>
-				<html>https://www.givefood.org.uk/needs/at/andover/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Fruit
-Long Life Milk
-Long Life Fruit Juice
-Tinned Meat &amp; Fish
-Tinned Sweetcorn
-Chocolate Spread
-Mayonnaise
-Instant Noodles
-Shampoo &amp; Conditioner
-Double &amp; King Size Duvets In Excellent Condition Please</needs>
-		<excess>Plant Based Milk</excess>
-		<self>https://www.givefood.org.uk/api/2/need/3106abd8/</self>
-	</need>
-	<need>
-		<id>58644d8f</id>
-		<found>2024-06-11T12:27:47.487838</found>
-		<foodbank>
-			<name>Fylde</name>
-			<slug>fylde</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/fylde/</self>
-				<html>https://www.givefood.org.uk/needs/at/fylde/</html>
-			</urls>
-		</foodbank>
-		<needs>Jam
-Salt
-Tinned Soup
-Tomato Sauce
-Tea And Coffee
-Toothpaste
-Sanitary Pads
-Cereals
-Soup
-Tinned Meat
-Tinned Spaghetti
-Tinned Vegetables
-Deodorants</needs>
-		<excess>Pasta</excess>
-		<self>https://www.givefood.org.uk/api/2/need/58644d8f/</self>
 	</need>
 </needs>
