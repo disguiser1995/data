@@ -15669,6 +15669,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1008378,
+          57.1671018
+        ]
+      },
+      "properties": {
+        "name": "The Mission, Aberdeen North Food Bank",
+        "slug": "the-mission",
+        "address": "St Machar Drive\r\nAberdeen\r\nAB24 3RX",
+        "url": "https://www.givefood.org.uk/needs/at/aberdeen-north/the-mission/",
+        "network": "Trussell Trust",
+        "email": "info@aberdeennorth.foodbank.org.uk",
+        "telephone": "01224518936",
+        "foodbank": "Aberdeen North",
+        "foodbank_slug": "aberdeen-north",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/aberdeen-north/",
+        "parliamentary_constituency": "Aberdeen North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6521046,
           54.9744244
         ]
@@ -15754,29 +15777,6 @@
         "foodbank_slug": "fylde",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/fylde/",
         "parliamentary_constituency": "Fylde"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1008378,
-          57.1671018
-        ]
-      },
-      "properties": {
-        "name": "The Mission, Aberdeen North Food Bank",
-        "slug": "the-mission",
-        "address": "St Machar Dr,\r\nAberdeen\r\nAB24 3RX",
-        "url": "https://www.givefood.org.uk/needs/at/aberdeen-north/the-mission/",
-        "network": "Trussell Trust",
-        "email": "info@aberdeennorth.foodbank.org.uk",
-        "telephone": "01224518936",
-        "foodbank": "Aberdeen North",
-        "foodbank_slug": "aberdeen-north",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/aberdeen-north/",
-        "parliamentary_constituency": "Aberdeen North"
       }
     },
     {
