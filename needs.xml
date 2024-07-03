@@ -1,6 +1,72 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>51d327ef</id>
+		<found>2024-07-03T13:31:17.648252</found>
+		<foodbank>
+			<name>Oldham</name>
+			<slug>oldham</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/oldham/</self>
+				<html>https://www.givefood.org.uk/needs/at/oldham/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Meat
+Jam
+Tinned Fish
+Juice/cordial
+Pasta
+Washing Powder
+Baby Wipes
+Shampoo/shower Gel /Deodorant
+Rice 500g/1kg</needs>
+		<excess>Baked Beans</excess>
+		<self>https://www.givefood.org.uk/api/2/need/51d327ef/</self>
+	</need>
+	<need>
+		<id>a94a2921</id>
+		<found>2024-07-03T13:30:44.654105</found>
+		<foodbank>
+			<name>Farnborough</name>
+			<slug>farnborough</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/farnborough/</self>
+				<html>https://www.givefood.org.uk/needs/at/farnborough/</html>
+			</urls>
+		</foodbank>
+		<needs>Breakfast Bars
+Tinned Fish
+Rice Pudding
+Pot Noodles
+Tinned Tomatoes
+Pasta Sauce
+Tinned Meat
+Biscuits (Small Packets)
+Variety Packs Of Cereal
+Custard Sachets
+Long Life Juice
+Long Life Semi Skimmed Milk
+Small Jars Of Coffee
+Small Long Life Fruit Juice 200ml
+Small Tins Of Ham
+Sponge Puddings
+Tinned Corned Beef
+Tinned Meat
+Tinned Spaghetti
+Tins Of Hot Dogs
+Tins Of Meatballs
+Toothpaste
+Washing Up Liquid</needs>
+		<excess>Tinned Soup
+Tinned Baked Beans
+Tinned Veg (Pulses)
+Baby Food
+Packets Of Dried Rice Or Pasta
+Skimmed Milk
+Chocolate Breakfast Cereals</excess>
+		<self>https://www.givefood.org.uk/api/2/need/a94a2921/</self>
+	</need>
+	<need>
 		<id>5cc36625</id>
 		<found>2024-07-03T13:01:43.290789</found>
 		<foodbank>
@@ -2891,53 +2957,5 @@ Pasta
 Tinned Meat
 Tea</excess>
 		<self>https://www.givefood.org.uk/api/2/need/b149cd80/</self>
-	</need>
-	<need>
-		<id>2f781285</id>
-		<found>2024-06-24T16:37:50.865548</found>
-		<foodbank>
-			<name>Caterham</name>
-			<slug>caterham</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/caterham/</self>
-				<html>https://www.givefood.org.uk/needs/at/caterham/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Meat
-Tinned Fish
-Cooking And Pasta Sauces
-Tinned Fruit
-Tinned Pulses And Beans
-Tomato Ketchup And Fruit Sauces
-Small (100g) Jars Of Coffee
-Jams And Spreads
-Sweet Biscuits
-Chocolates</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/2f781285/</self>
-	</need>
-	<need>
-		<id>c250c84a</id>
-		<found>2024-06-24T16:33:59.837544</found>
-		<foodbank>
-			<name>Uttlesford</name>
-			<slug>uttlesford</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/uttlesford/</self>
-				<html>https://www.givefood.org.uk/needs/at/uttlesford/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Fruit
-Tinned Vegetables
-Adult Toothpaste
-Carrier Bags
-Instant Mash
-Tinned Meat
-Microwave Rice
-Pasta Meals With Meat
-Savoury Snacks
-Toilet Roll</needs>
-		<excess>Biscuits</excess>
-		<self>https://www.givefood.org.uk/api/2/need/c250c84a/</self>
 	</need>
 </needs>
