@@ -1,6 +1,25 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>db5aa72a</id>
+		<found>2024-07-09T13:42:05.013718</found>
+		<foodbank>
+			<name>Cheadle and District</name>
+			<slug>cheadle-and-district</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/cheadle-and-district/</self>
+				<html>https://www.givefood.org.uk/needs/at/cheadle-and-district/</html>
+			</urls>
+		</foodbank>
+		<needs>Chocolate Treats
+Tinned Fruit
+Rice Pudding
+Tinned Tomatoes
+Toilet Rolls</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/db5aa72a/</self>
+	</need>
+	<need>
 		<id>0e813ca2</id>
 		<found>2024-07-09T13:08:27.871387</found>
 		<foodbank>
@@ -2883,77 +2902,5 @@ Tinned Sponge Pudding
 Tinned Custard</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/afafcb5b/</self>
-	</need>
-	<need>
-		<id>9d2389c1</id>
-		<found>2024-07-01T00:21:46.727452</found>
-		<foodbank>
-			<name>Ivybridge</name>
-			<slug>ivybridge</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/ivybridge/</self>
-				<html>https://www.givefood.org.uk/needs/at/ivybridge/</html>
-			</urls>
-		</foodbank>
-		<needs>Carrier Bags - Plastic Bag For Life Type (Must Be Clean)
-Gluten Free Products (But Not Pasta Or Cereal)
-Tinned Meat
-Coffee
-Long Life Fruit Juice (Carton)
-Gravy Granules
-Tinned Spaghetti
-Sponge Puddings (Twin Pack)
-Toilet Rolls
-Sugar (500g)
-Cup-a-soup
-Salt (Small)
-Pasta Packets (Microwaveable)
-Tinned Rice Pudding
-Tinned Fruit
-Tinned Soup
-Tinned Tomatoes
-Tinned Custard
-Adult Toothpaste
-Washing Up Liquid
-Cooking Oil
-Powdered Milk
-Instant Mash</needs>
-		<excess>Salad Cream
-Stock Cubes
-Cooking Sauces (Packet)
-Mayonnaise
-Hair Shampoo
-Shower Gel
-Multi Pack Crisps / Snacks
-Hp/brown Sauce
-Trifle Kit
-Packets Of Stuffing
-Turkey Gravy Granules
-Chocolate (Treat)
-Long Life Milk
-Pasta Sauce
-Biscuits
-Baked Beans
-Jam
-Fruit Squash
-Tinned Veg
-Tinned Fish
-Angel Delight
-Rice Sachets (Microwaveable)
-Tinned Mushrooms
-Tomato Ketchup
-Tinned Potatoes
-Soap (Bar)
-Sanitary Towels
-Kitchen Towel Rolls
-Boxes Of Tissues
-Breakfast Cereals
-Handwash
-Pasta
-Tea
-Rice (500g)
-Oats
-Muesli</excess>
-		<self>https://www.givefood.org.uk/api/2/need/9d2389c1/</self>
 	</need>
 </needs>
