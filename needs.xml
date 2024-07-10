@@ -1,52 +1,6 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
-		<id>af075d34</id>
-		<found>2024-07-10T19:51:47.419296</found>
-		<foodbank>
-			<name>Chiltern</name>
-			<slug>chiltern</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/chiltern/</self>
-				<html>https://www.givefood.org.uk/needs/at/chiltern/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Hot Dogs
-Tinned Rice Pudding
-Tea Bags (Packs Of 40)
-Toilet Rolls
-Washing Up Liquid
-Bags For Life
-Large Nappies (Sizes 5,6 &amp; 7)</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/af075d34/</self>
-	</need>
-	<need>
-		<id>5afccf3f</id>
-		<found>2024-07-10T19:04:02.968241</found>
-		<foodbank>
-			<name>Doncaster</name>
-			<slug>doncaster</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/doncaster/</self>
-				<html>https://www.givefood.org.uk/needs/at/doncaster/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Soup
-Tinned Fish
-UHT Juice Or Dilute Squash
-UHT Milk
-Rice Pudding
-Tinned Tomatoes
-Tinned Fruit
-Tinned Vegetables
-Coffee Jars - Large And Small
-Tinned Meat</needs>
-		<excess>Teabags
-Pasta</excess>
-		<self>https://www.givefood.org.uk/api/2/need/5afccf3f/</self>
-	</need>
-	<need>
 		<id>fcb7ca01</id>
 		<found>2024-07-10T16:25:05.733395</found>
 		<foodbank>
@@ -2882,5 +2836,55 @@ Toiletries
 Pet Food</needs>
 		<excess>Baked Beans</excess>
 		<self>https://www.givefood.org.uk/api/2/need/bccfd407/</self>
+	</need>
+	<need>
+		<id>bd3e9642</id>
+		<found>2024-07-02T10:37:56.878348</found>
+		<foodbank>
+			<name>Andover</name>
+			<slug>andover</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/andover/</self>
+				<html>https://www.givefood.org.uk/needs/at/andover/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Soup
+Tinned Vegetables
+Long Life Fruit Juice
+Tinned Meat &amp; Fish
+Long Life Milk
+Jam, Marmalade &amp; Chocolate Spread
+Biscuits
+Washing Up Liquid
+Shampoo &amp; Conditioner
+Deodorant</needs>
+		<excess>Plant Based Milk</excess>
+		<self>https://www.givefood.org.uk/api/2/need/bd3e9642/</self>
+	</need>
+	<need>
+		<id>97c669a4</id>
+		<found>2024-07-02T10:25:55.075660</found>
+		<foodbank>
+			<name>Bradford North</name>
+			<slug>bradford-north</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/bradford-north/</self>
+				<html>https://www.givefood.org.uk/needs/at/bradford-north/</html>
+			</urls>
+		</foodbank>
+		<needs>UHT Long-life Milk
+Tinned Vegetables
+Tinned Tomatoes
+Tinned Meat
+Tinned Soup
+Razors
+Deodorants
+Nappies Size 6</needs>
+		<excess>Rice
+Pasta
+Baked Beans
+Tea Bags
+Tinned Pulses - Chickpeas, Kidney Beans Etc</excess>
+		<self>https://www.givefood.org.uk/api/2/need/97c669a4/</self>
 	</need>
 </needs>
