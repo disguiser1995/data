@@ -1,6 +1,25 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>b8c3d3d9</id>
+		<found>2024-07-10T07:11:33.344067</found>
+		<foodbank>
+			<name>Saltash</name>
+			<slug>saltash</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/saltash/</self>
+				<html>https://www.givefood.org.uk/needs/at/saltash/</html>
+			</urls>
+		</foodbank>
+		<needs>Angel Delight / Custard
+Jam
+Coffee
+Tinned Meat (Not Fray Bentos Pies)</needs>
+		<excess>Cereal
+Baked Beans</excess>
+		<self>https://www.givefood.org.uk/api/2/need/b8c3d3d9/</self>
+	</need>
+	<need>
 		<id>84385949</id>
 		<found>2024-07-09T21:29:08.397361</found>
 		<foodbank>
@@ -2833,34 +2852,5 @@ Pasta
 Toiletries. Shampoo, Toothpaste, Toilet Rolls, Deodorants, Shower Gel, Shaving Gel And Bars Of Soap</needs>
 		<excess>Tinned Beans</excess>
 		<self>https://www.givefood.org.uk/api/2/need/757fe079/</self>
-	</need>
-	<need>
-		<id>2c35ccfa</id>
-		<found>2024-07-01T14:20:18.056508</found>
-		<foodbank>
-			<name>Somer Valley</name>
-			<slug>somer-valley</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/somer-valley/</self>
-				<html>https://www.givefood.org.uk/needs/at/somer-valley/</html>
-			</urls>
-		</foodbank>
-		<needs>Veg Soup
-Meat Soup
-Puddings (Sponge, Jelly Etc )
-Tinned Pulses (eg. Kidney Beans, Chickpeas, Lentils,
-Fruit (Tinned)
-Tea Bags
-Coffee
-Powdered Milk
-Corned Beef
-Meat Pies
-Rice (1kg Packets)
-Shower Gel
-Toilet Cleane (No Bleach)
-Shampoo
-Conditioner</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/2c35ccfa/</self>
 	</need>
 </needs>
