@@ -270,28 +270,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1783798,
-          51.0782756
-        ]
-      },
-      "properties": {
-        "name": "Shepway",
-        "slug": "shepway",
-        "address": "Folkestone Rainbow Centre\r\n69 Sandgate Road\r\nFolkestone\r\nCT20 2AF",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/shepway/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/shepway/",
-        "network": "Trussell Trust",
-        "email": "foodbank@rainbow-centre.org",
-        "telephone": "07913573403",
-        "parliamentary_constituency": "Folkestone and Hythe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.8960727,
           52.24259559999999
         ]
@@ -417,6 +395,28 @@
         "email": "info@bromleyborough.foodbank.org.uk",
         "telephone": "08009202324",
         "parliamentary_constituency": "Orpington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1783798,
+          51.0782756
+        ]
+      },
+      "properties": {
+        "name": "Shepway",
+        "slug": "shepway",
+        "address": "Folkestone Rainbow Centre\r\n69 Sandgate Road\r\nFolkestone\r\nCT20 2AF",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/shepway/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/shepway/",
+        "network": "Trussell Trust",
+        "email": "foodbank@rainbow-centre.org",
+        "telephone": "07913573403",
+        "parliamentary_constituency": "Folkestone and Hythe"
       }
     },
     {
@@ -2338,8 +2338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2131439,
-          56.2035883
+          -3.2125496,
+          56.2040401
         ]
       },
       "properties": {
@@ -4516,6 +4516,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.1617679,
+          51.6729649
+        ]
+      },
+      "properties": {
+        "name": "Lifeshare (Llanelli)",
+        "slug": "lifeshare-llanelli",
+        "address": "Antioch Centre\r\nCopperworks Road\r\nLlanelli\r\nSA15 2NE",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/lifeshare-llanelli/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/lifeshare-llanelli/",
+        "network": "Independent",
+        "email": "info@antiochchurch.co.uk",
+        "telephone": "01554741674",
+        "parliamentary_constituency": "Llanelli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.8174404,
           51.3661308
         ]
@@ -4553,28 +4575,6 @@
         "email": "manager@barnsley.foodbank.org.uk",
         "telephone": "01226593782",
         "parliamentary_constituency": "Barnsley South"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1617679,
-          51.6729649
-        ]
-      },
-      "properties": {
-        "name": "Lifeshare (Llanelli)",
-        "slug": "lifeshare-llanelli",
-        "address": "Antioch Centre\r\nCopperworks Road\r\nLlanelli\r\nSA15 2NE",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/lifeshare-llanelli/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/lifeshare-llanelli/",
-        "network": "Independent",
-        "email": "info@antiochchurch.co.uk",
-        "telephone": "01554741674",
-        "parliamentary_constituency": "Llanelli"
       }
     },
     {
