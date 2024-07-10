@@ -3525,6 +3525,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.9053396,
+          57.0600477
+        ]
+      },
+      "properties": {
+        "name": "Sleat Food Shed, Skye & Lochalsh Food Bank",
+        "slug": "sleat-food-shed",
+        "address": "Ardvasar Community Hall\r\nArdvasar\r\nIsle of Skye\r\nIV45 8RS",
+        "url": "https://www.givefood.org.uk/needs/at/skye-lochalsh/sleat-food-shed/",
+        "network": "IFAN",
+        "email": "info@skyefoodbank.co.uk",
+        "telephone": "01478612032",
+        "foodbank": "Skye & Lochalsh",
+        "foodbank_slug": "skye-lochalsh",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/skye-lochalsh/",
+        "parliamentary_constituency": "Inverness, Skye and West Ross-shire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.030244,
           53.497057
         ]
@@ -3541,6 +3564,29 @@
         "foodbank_slug": "tameside-east",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/tameside-east/",
         "parliamentary_constituency": "Stalybridge and Hyde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.503627,
+          57.39580309999999
+        ]
+      },
+      "properties": {
+        "name": "Lochcarron Medical Partnership, Skye & Lochalsh Food Bank",
+        "slug": "lochcarron-medical-partnership",
+        "address": "Ferguson Medical Centre\r\nLochcarron\r\nStrathcarron\r\nRoss-shire\r\nIV54 8YQ",
+        "url": "https://www.givefood.org.uk/needs/at/skye-lochalsh/lochcarron-medical-partnership/",
+        "network": "IFAN",
+        "email": "info@skyefoodbank.co.uk",
+        "telephone": "01478612032",
+        "foodbank": "Skye & Lochalsh",
+        "foodbank_slug": "skye-lochalsh",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/skye-lochalsh/",
+        "parliamentary_constituency": "Inverness, Skye and West Ross-shire"
       }
     },
     {
@@ -18521,29 +18567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9065528,
-          50.949898
-        ]
-      },
-      "properties": {
-        "name": "Lydd, Shepway Food Bank",
-        "slug": "lydd",
-        "address": "Hardy Hall\r\nSkinner Road\r\nLydd\r\nRomney Marsh\r\nTN29 9HN",
-        "url": "https://www.givefood.org.uk/needs/at/shepway/lydd/",
-        "network": "Trussell Trust",
-        "email": "foodbank@rainbow-centre.org",
-        "telephone": "07913573403",
-        "foodbank": "Shepway",
-        "foodbank_slug": "shepway",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/shepway/",
-        "parliamentary_constituency": "Folkestone and Hythe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.4238652,
           57.59461469999999
         ]
@@ -18606,6 +18629,29 @@
         "foodbank_slug": "chepstow",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/chepstow/",
         "parliamentary_constituency": "Monmouthshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9065528,
+          50.949898
+        ]
+      },
+      "properties": {
+        "name": "Lydd, Shepway Food Bank",
+        "slug": "lydd",
+        "address": "Hardy Hall\r\nSkinner Road\r\nLydd\r\nRomney Marsh\r\nTN29 9HN",
+        "url": "https://www.givefood.org.uk/needs/at/shepway/lydd/",
+        "network": "Trussell Trust",
+        "email": "foodbank@rainbow-centre.org",
+        "telephone": "07913573403",
+        "foodbank": "Shepway",
+        "foodbank_slug": "shepway",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/shepway/",
+        "parliamentary_constituency": "Folkestone and Hythe"
       }
     },
     {
