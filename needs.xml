@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>271ef8c2</id>
+		<found>2024-07-15T15:04:52.611559</found>
+		<foodbank>
+			<name>St Austell</name>
+			<slug>st-austell</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/st-austell/</self>
+				<html>https://www.givefood.org.uk/needs/at/st-austell/</html>
+			</urls>
+		</foodbank>
+		<needs>Chocolate/treats
+Toilet Roll
+Tinned Custard
+Tinned Fruit
+Long Life Fruit Juice</needs>
+		<excess>Beans
+Pasta
+Tinned Meat
+Tea</excess>
+		<self>https://www.givefood.org.uk/api/2/need/271ef8c2/</self>
+	</need>
+	<need>
 		<id>0f73f585</id>
 		<found>2024-07-15T13:34:47.389303</found>
 		<foodbank>
@@ -2849,34 +2871,5 @@ Tinned Rice Pudding
 UHT Milk, Full Fat &quot;Blue Top&quot;</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/2bdce0b1/</self>
-	</need>
-	<need>
-		<id>2ecd6671</id>
-		<found>2024-07-04T17:51:25.203667</found>
-		<foodbank>
-			<name>Fylde</name>
-			<slug>fylde</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/fylde/</self>
-				<html>https://www.givefood.org.uk/needs/at/fylde/</html>
-			</urls>
-		</foodbank>
-		<needs>Beans
-Chocolate
-Custard
-Jam
-Milk
-Pasta Sauces
-Soup
-Tinned Fruit
-Tinned Meat
-Cereals
-Soup
-Tinned Meat
-Tinned Spaghetti
-Tinned Vegetables
-Deodorants</needs>
-		<excess>Pasta</excess>
-		<self>https://www.givefood.org.uk/api/2/need/2ecd6671/</self>
 	</need>
 </needs>
