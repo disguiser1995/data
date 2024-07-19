@@ -1,6 +1,25 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>6c81f7ef</id>
+		<found>2024-07-19T15:16:57.314759</found>
+		<foodbank>
+			<name>Bognor Regis</name>
+			<slug>bognor-regis</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/bognor-regis/</self>
+				<html>https://www.givefood.org.uk/needs/at/bognor-regis/</html>
+			</urls>
+		</foodbank>
+		<needs>UHT Milk (Green)
+UHT Fruit Juice
+Pasta Sauce
+Tinned Fruit
+Tinned Fish</needs>
+		<excess>Pulses</excess>
+		<self>https://www.givefood.org.uk/api/2/need/6c81f7ef/</self>
+	</need>
+	<need>
 		<id>010026ce</id>
 		<found>2024-07-19T14:05:24.688799</found>
 		<foodbank>
@@ -56,6 +75,31 @@ Tinned Curry</needs>
 		<excess>Beans
 Pasta</excess>
 		<self>https://www.givefood.org.uk/api/2/need/2f7e5dae/</self>
+	</need>
+	<need>
+		<id>eccca73d</id>
+		<found>2024-07-19T13:25:32.311570</found>
+		<foodbank>
+			<name>Bassetlaw</name>
+			<slug>bassetlaw</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/bassetlaw/</self>
+				<html>https://www.givefood.org.uk/needs/at/bassetlaw/</html>
+			</urls>
+		</foodbank>
+		<needs>Rice
+Chopped Tomatoes
+Tinned Vegetables
+Cooking Sauces
+Soup
+Tinned Fish
+Long Life Milk
+Tinned Fruit
+Tinned Meat
+Rice Pudding
+Toiletries</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/eccca73d/</self>
 	</need>
 	<need>
 		<id>60423e09</id>
@@ -151,6 +195,49 @@ Tinned Fruit
 Tea Bags/ Coffee</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/a6a8d2ff/</self>
+	</need>
+	<need>
+		<id>7d552991</id>
+		<found>2024-07-19T09:31:12.364875</found>
+		<foodbank>
+			<name>Woking</name>
+			<slug>woking</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/woking/</self>
+				<html>https://www.givefood.org.uk/needs/at/woking/</html>
+			</urls>
+		</foodbank>
+		<needs>Deodorant Roll On &amp; Spray Type
+Adult Toothpaste
+Honey
+Chocolate Spread
+Hot Chocolate
+Long Life Sponge Puddings
+Long Life Fruit Juice
+Tinned Mixed Vegetables
+Shaving Gel &amp; Foam
+Long Life Milk Whole And Semi Skimmed Types
+Tinned Custard
+Surface Cleaner Spray
+Toilet Cleaner Liquid
+Tinned Sweetcorn
+Disposable Razors
+Fruit Squash
+Hair Conditioner
+Anti Bacterial Cleaning Wipes
+Instant Mashed Potato
+Mayonnaise
+Tinned Salmon</needs>
+		<excess>Tea Bags
+Soup
+Porridge
+Tinned Pulses
+Cereal
+Pasta
+Jars Of Cooking Sauce
+Bubble Bath
+Baked Beans</excess>
+		<self>https://www.givefood.org.uk/api/2/need/7d552991/</self>
 	</need>
 	<need>
 		<id>40289005</id>
@@ -2616,79 +2703,5 @@ Shampoo</needs>
 Baked Beans
 Sanitaryware</excess>
 		<self>https://www.givefood.org.uk/api/2/need/3dfef541/</self>
-	</need>
-	<need>
-		<id>93dbdd4c</id>
-		<found>2024-07-09T11:50:02.163903</found>
-		<foodbank>
-			<name>Waterloo</name>
-			<slug>waterloo</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/waterloo/</self>
-				<html>https://www.givefood.org.uk/needs/at/waterloo/</html>
-			</urls>
-		</foodbank>
-		<needs>Bars Of Hand Soap
-Halal Tinned Meat
-Tinned Fish - Small Tins Of Sardines, Mackerel
-Tinned Meat No Pork
-UHT Milk, Full Fat &quot;Blue Top&quot;
-Tinned Rice Pudding</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/93dbdd4c/</self>
-	</need>
-	<need>
-		<id>25cb1c7e</id>
-		<found>2024-07-09T11:12:23.847971</found>
-		<foodbank>
-			<name>Perth and Kinross</name>
-			<slug>perth-and-kinross</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/perth-and-kinross/</self>
-				<html>https://www.givefood.org.uk/needs/at/perth-and-kinross/</html>
-			</urls>
-		</foodbank>
-		<needs>UHT Milk
-Long Life Juice
-Instant Snacks/noodles
-Jars Of Cooking Sauce
-Tinned Fruit
-Tinned Vegetables
-Small Boxes Of Cereal
-Long Life Puddings
-Coffee
-Shampoo
-Small Washing Powder</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/25cb1c7e/</self>
-	</need>
-	<need>
-		<id>22548a96</id>
-		<found>2024-07-09T10:48:02.773177</found>
-		<foodbank>
-			<name>Romsey</name>
-			<slug>romsey</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/romsey/</self>
-				<html>https://www.givefood.org.uk/needs/at/romsey/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Meat
-Rice Pudding/custard Snack Pot
-Jam, Marmite &amp; Peanut Butter
-Tinned Tomatoes
-Tinned Carrots
-Sun Cream - SPF 30/50
-Desserts
-Chocolate &amp; Sweets
-Sponge Puddings
-Sugar</needs>
-		<excess>Pasta
-Porridge Oats
-Incontinence Pads
-Rice
-Baked Beans
-Pet Food</excess>
-		<self>https://www.givefood.org.uk/api/2/need/22548a96/</self>
 	</need>
 </needs>
