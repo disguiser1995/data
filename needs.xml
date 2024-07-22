@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>abc39963</id>
+		<found>2024-07-22T14:53:31.341544</found>
+		<foodbank>
+			<name>Mid Norfolk</name>
+			<slug>mid-norfolk</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/mid-norfolk/</self>
+				<html>https://www.givefood.org.uk/needs/at/mid-norfolk/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Soup
+Tinned Meat
+Long Life/uht Fruit Juice
+Shampoo
+Laundry Detergent
+Toilet Roll</needs>
+		<excess>Breakfast Cereal
+Baked Beans
+Sanitaryware</excess>
+		<self>https://www.givefood.org.uk/api/2/need/abc39963/</self>
+	</need>
+	<need>
 		<id>c6f91bc8</id>
 		<found>2024-07-22T14:26:25.513147</found>
 		<foodbank>
@@ -78,26 +100,6 @@ Mens Deodorant</needs>
 Cereal
 Beans</excess>
 		<self>https://www.givefood.org.uk/api/2/need/210e1670/</self>
-	</need>
-	<need>
-		<id>9aacfb57</id>
-		<found>2024-07-22T13:04:21.543743</found>
-		<foodbank>
-			<name>North Lakes</name>
-			<slug>north-lakes</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/north-lakes/</self>
-				<html>https://www.givefood.org.uk/needs/at/north-lakes/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Potatoes
-Custard
-Rice Pudding
-Tinned Pasta
-Tinned Meat (E.g. Stew, Chicken, Ham)
-Tinned Fruit​</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/9aacfb57/</self>
 	</need>
 	<need>
 		<id>b1cb8cd1</id>
