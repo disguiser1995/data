@@ -10701,29 +10701,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.283038,
-          51.378035
-        ]
-      },
-      "properties": {
-        "name": "St George's Church Tolworth, Kingston Food Bank",
-        "slug": "st-georges-church-tolworth",
-        "address": "Hamilton Avenue\r\nTolworth\r\nKT6 7PF",
-        "url": "https://www.givefood.org.uk/needs/at/kingston/st-georges-church-tolworth/",
-        "network": "Trussell Trust",
-        "email": "info@kingston.foodbank.org.uk",
-        "telephone": "02083911100",
-        "foodbank": "Kingston",
-        "foodbank_slug": "kingston",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/kingston/",
-        "parliamentary_constituency": "Kingston and Surbiton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.3607341,
           50.6399873
         ]
@@ -10740,6 +10717,29 @@
         "foodbank_slug": "launceston",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/launceston/",
         "parliamentary_constituency": "North Cornwall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2833444,
+          51.3782037
+        ]
+      },
+      "properties": {
+        "name": "St George's Church, Kingston Food Bank",
+        "slug": "st-georges-church",
+        "address": "Hamilton Avenue\r\nTolworth\r\nKT6 7PF",
+        "url": "https://www.givefood.org.uk/needs/at/kingston/st-georges-church/",
+        "network": "Trussell Trust",
+        "email": "info@kingston.foodbank.org.uk",
+        "telephone": "02083911100",
+        "foodbank": "Kingston",
+        "foodbank_slug": "kingston",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/kingston/",
+        "parliamentary_constituency": "Kingston and Surbiton"
       }
     },
     {
