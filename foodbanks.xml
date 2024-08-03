@@ -9399,45 +9399,6 @@ CH41 1JW</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>The Shack Food Project</name>
-		<alt_name/>
-		<slug>the-shack-food-project</slug>
-		<phone>07722126031</phone>
-		<secondary_phone/>
-		<email>info@the-shack-food-project.org.uk</email>
-		<address>10 Lower Street
-Kettering
-NN16 8DH</address>
-		<postcode>NN16 8DH</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>52.40048059999999,-0.7286296999999999</lat_lng>
-		<network>Independent</network>
-		<created>2023-12-07T10:16:51.962252</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/the-shack-food-project/</self>
-			<html>https://www.givefood.org.uk/needs/at/the-shack-food-project/</html>
-			<homepage>https://www.the-shack-food-project.org.uk</homepage>
-			<shopping_list>https://www.the-shack-food-project.org.uk</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Kettering</parliamentary_constituency>
-			<mp>Philip Hollobone</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>1537</mp_parl_id>
-			<ward>Northall</ward>
-			<district>North Northamptonshire</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/kettering/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/kettering/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Manna Food Bank</name>
 		<alt_name/>
 		<slug>manna</slug>
@@ -9474,6 +9435,45 @@ TW18 9HS</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/runnymede-and-weybridge/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/runnymede-and-weybridge/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>The Shack Food Project</name>
+		<alt_name/>
+		<slug>the-shack-food-project</slug>
+		<phone>07722126031</phone>
+		<secondary_phone/>
+		<email>info@the-shack-food-project.org.uk</email>
+		<address>10 Lower Street
+Kettering
+NN16 8DH</address>
+		<postcode>NN16 8DH</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>52.40048059999999,-0.7286296999999999</lat_lng>
+		<network>Independent</network>
+		<created>2023-12-07T10:16:51.962252</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/the-shack-food-project/</self>
+			<html>https://www.givefood.org.uk/needs/at/the-shack-food-project/</html>
+			<homepage>https://www.the-shack-food-project.org.uk</homepage>
+			<shopping_list>https://www.the-shack-food-project.org.uk</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Kettering</parliamentary_constituency>
+			<mp>Philip Hollobone</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>1537</mp_parl_id>
+			<ward>Northall</ward>
+			<district>North Northamptonshire</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/kettering/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/kettering/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -36472,6 +36472,46 @@ NP20 5PP</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Sunderland Food Bank</name>
+		<alt_name/>
+		<slug>sunderland</slug>
+		<phone>01915437247</phone>
+		<secondary_phone/>
+		<email>office@sunderlandfoodbank.org.uk</email>
+		<address>Unit 7/9 First Avenue
+Drum Industrial Estate
+Chester le Street
+DH2 1AG</address>
+		<postcode>DH2 1AG</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>54.8766365,-1.5859899</lat_lng>
+		<network>Trussell Trust</network>
+		<created>2019-10-08T21:53:47.179272</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/sunderland/</self>
+			<html>https://www.givefood.org.uk/needs/at/sunderland/</html>
+			<homepage>https://sunderland.foodbank.org.uk</homepage>
+			<shopping_list>https://sunderland.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1077549</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North Durham</parliamentary_constituency>
+			<mp>Kevan Jones</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>1438</mp_parl_id>
+			<ward>North Lodge</ward>
+			<district>County Durham</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-durham/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-durham/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Southend Food Bank</name>
 		<alt_name/>
 		<slug>southend</slug>
@@ -36668,46 +36708,6 @@ GU34 1HD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/east-hampshire/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/east-hampshire/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Sunderland Food Bank</name>
-		<alt_name/>
-		<slug>sunderland</slug>
-		<phone>01915437247</phone>
-		<secondary_phone/>
-		<email>office@sunderlandfoodbank.org.uk</email>
-		<address>Unit 7/9 First Avenue
-Drum Industrial Estate
-Chester le Street
-DH2 1AG</address>
-		<postcode>DH2 1AG</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>54.8766365,-1.5859899</lat_lng>
-		<network>Trussell Trust</network>
-		<created>2019-10-08T21:53:47.179272</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/sunderland/</self>
-			<html>https://www.givefood.org.uk/needs/at/sunderland/</html>
-			<homepage>https://sunderland.foodbank.org.uk</homepage>
-			<shopping_list>https://sunderland.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1077549</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North Durham</parliamentary_constituency>
-			<mp>Kevan Jones</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>1438</mp_parl_id>
-			<ward>North Lodge</ward>
-			<district>County Durham</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-durham/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-durham/</html>
 			</urls>
 		</politics>
 	</foodbank>

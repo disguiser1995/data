@@ -7297,37 +7297,6 @@
     html: https://www.givefood.org.uk/needs/at/wirral/
     self: https://www.givefood.org.uk/api/2/foodbank/wirral/
     shopping_list: https://wirral.foodbank.org.uk/give-help/donate-food/
-- address: "10 Lower Street\r\nKettering\r\nNN16 8DH"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2023-12-07 10:16:51.962252
-  email: info@the-shack-food-project.org.uk
-  lat_lng: 52.40048059999999,-0.7286296999999999
-  name: The Shack Food Project
-  network: Independent
-  phone: '07722126031'
-  politics:
-    district: North Northamptonshire
-    mp: Philip Hollobone
-    mp_parl_id: 1537
-    mp_party: Conservative
-    parliamentary_constituency: Kettering
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/kettering/
-      self: https://www.givefood.org.uk/api/2/constituency/kettering/
-    ward: Northall
-  postcode: NN16 8DH
-  secondary_phone: null
-  slug: the-shack-food-project
-  urls:
-    homepage: https://www.the-shack-food-project.org.uk
-    html: https://www.givefood.org.uk/needs/at/the-shack-food-project/
-    self: https://www.givefood.org.uk/api/2/foodbank/the-shack-food-project/
-    shopping_list: https://www.the-shack-food-project.org.uk
 - address: "PO Box 682\r\nStaines\r\nMiddlesex\r\nTW18 9HS"
   alt_name: null
   charity:
@@ -7359,6 +7328,37 @@
     html: https://www.givefood.org.uk/needs/at/manna/
     self: https://www.givefood.org.uk/api/2/foodbank/manna/
     shopping_list: https://www.mannafoodbank.co.uk/latest_shortages
+- address: "10 Lower Street\r\nKettering\r\nNN16 8DH"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2023-12-07 10:16:51.962252
+  email: info@the-shack-food-project.org.uk
+  lat_lng: 52.40048059999999,-0.7286296999999999
+  name: The Shack Food Project
+  network: Independent
+  phone: '07722126031'
+  politics:
+    district: North Northamptonshire
+    mp: Philip Hollobone
+    mp_parl_id: 1537
+    mp_party: Conservative
+    parliamentary_constituency: Kettering
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/kettering/
+      self: https://www.givefood.org.uk/api/2/constituency/kettering/
+    ward: Northall
+  postcode: NN16 8DH
+  secondary_phone: null
+  slug: the-shack-food-project
+  urls:
+    homepage: https://www.the-shack-food-project.org.uk
+    html: https://www.givefood.org.uk/needs/at/the-shack-food-project/
+    self: https://www.givefood.org.uk/api/2/foodbank/the-shack-food-project/
+    shopping_list: https://www.the-shack-food-project.org.uk
 - address: "Stepping Stones Pantry\r\n30 Barrack Street\r\nArmagh\r\nBT60 1AD"
   alt_name: null
   charity:
@@ -28019,38 +28019,6 @@
     html: https://www.givefood.org.uk/needs/at/cardiff/
     self: https://www.givefood.org.uk/api/2/foodbank/cardiff/
     shopping_list: https://cardiff.foodbank.org.uk/give-help/donate-food/
-- address: "Durham Christian Partnership\r\nUnits 7/9 First Avenue\r\nDrum Industrial\
-    \ Estate\r\nChester-le-Street\r\nDH2 1AG"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&subid=0
-    registration_id: '1077549'
-  closed: false
-  country: England
-  created: 2019-07-23 10:29:51.413048
-  email: web1@durhamfoodbank.org.uk
-  lat_lng: 54.8766365,-1.5859899
-  name: Durham Food Bank
-  network: Trussell Trust
-  phone: 01913037559
-  politics:
-    district: County Durham
-    mp: Kevan Jones
-    mp_parl_id: 1438
-    mp_party: Labour
-    parliamentary_constituency: North Durham
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/north-durham/
-      self: https://www.givefood.org.uk/api/2/constituency/north-durham/
-    ward: North Lodge
-  postcode: DH2 1AG
-  secondary_phone: null
-  slug: durham
-  urls:
-    homepage: https://durham.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/durham/
-    self: https://www.givefood.org.uk/api/2/foodbank/durham/
-    shopping_list: https://durham.foodbank.org.uk/give-help/donate-food/
 - address: "Unit 4\r\nBelvedere Trading Estate\r\nAlbemarle Road\r\nTaunton\r\nTA1\
     \ 1BH"
   alt_name: null
@@ -28207,6 +28175,38 @@
     html: https://www.givefood.org.uk/needs/at/hollingdean-fiveways/
     self: https://www.givefood.org.uk/api/2/foodbank/hollingdean-fiveways/
     shopping_list: https://hollingdean.foodbank.org.uk/give-help/donate-food/
+- address: "Durham Christian Partnership\r\nUnits 7/9 First Avenue\r\nDrum Industrial\
+    \ Estate\r\nChester-le-Street\r\nDH2 1AG"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&subid=0
+    registration_id: '1077549'
+  closed: false
+  country: England
+  created: 2019-07-23 10:29:51.413048
+  email: web1@durhamfoodbank.org.uk
+  lat_lng: 54.8766365,-1.5859899
+  name: Durham Food Bank
+  network: Trussell Trust
+  phone: 01913037559
+  politics:
+    district: County Durham
+    mp: Kevan Jones
+    mp_parl_id: 1438
+    mp_party: Labour
+    parliamentary_constituency: North Durham
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/north-durham/
+      self: https://www.givefood.org.uk/api/2/constituency/north-durham/
+    ward: North Lodge
+  postcode: DH2 1AG
+  secondary_phone: null
+  slug: durham
+  urls:
+    homepage: https://durham.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/durham/
+    self: https://www.givefood.org.uk/api/2/foodbank/durham/
+    shopping_list: https://durham.foodbank.org.uk/give-help/donate-food/
 - address: "Unit 1\r\nGovanhill Workspace\r\n69 Dixon Road\r\nGovanhill\r\nGlasgow\r\
     \nG42 8AT"
   alt_name: null
@@ -28332,6 +28332,38 @@
     html: https://www.givefood.org.uk/needs/at/newport/
     self: https://www.givefood.org.uk/api/2/foodbank/newport/
     shopping_list: https://newport.foodbank.org.uk/give-help/donate-food/
+- address: "Unit 7/9 First Avenue\r\nDrum Industrial Estate\r\nChester le Street\r\
+    \nDH2 1AG"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&subid=0
+    registration_id: '1077549'
+  closed: false
+  country: England
+  created: 2019-10-08 21:53:47.179272
+  email: office@sunderlandfoodbank.org.uk
+  lat_lng: 54.8766365,-1.5859899
+  name: Sunderland Food Bank
+  network: Trussell Trust
+  phone: 01915437247
+  politics:
+    district: County Durham
+    mp: Kevan Jones
+    mp_parl_id: 1438
+    mp_party: Labour
+    parliamentary_constituency: North Durham
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/north-durham/
+      self: https://www.givefood.org.uk/api/2/constituency/north-durham/
+    ward: North Lodge
+  postcode: DH2 1AG
+  secondary_phone: null
+  slug: sunderland
+  urls:
+    homepage: https://sunderland.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/sunderland/
+    self: https://www.givefood.org.uk/api/2/foodbank/sunderland/
+    shopping_list: https://sunderland.foodbank.org.uk/give-help/donate-food/
 - address: "Friendship House\r\n484 Southchurch Road\r\nSouthend on Sea\r\nSS1 2QA"
   alt_name: null
   charity:
@@ -28487,38 +28519,6 @@
     html: https://www.givefood.org.uk/needs/at/alton/
     self: https://www.givefood.org.uk/api/2/foodbank/alton/
     shopping_list: https://alton.foodbank.org.uk/give-help/donate-food/
-- address: "Unit 7/9 First Avenue\r\nDrum Industrial Estate\r\nChester le Street\r\
-    \nDH2 1AG"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1077549&subid=0
-    registration_id: '1077549'
-  closed: false
-  country: England
-  created: 2019-10-08 21:53:47.179272
-  email: office@sunderlandfoodbank.org.uk
-  lat_lng: 54.8766365,-1.5859899
-  name: Sunderland Food Bank
-  network: Trussell Trust
-  phone: 01915437247
-  politics:
-    district: County Durham
-    mp: Kevan Jones
-    mp_parl_id: 1438
-    mp_party: Labour
-    parliamentary_constituency: North Durham
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/north-durham/
-      self: https://www.givefood.org.uk/api/2/constituency/north-durham/
-    ward: North Lodge
-  postcode: DH2 1AG
-  secondary_phone: null
-  slug: sunderland
-  urls:
-    homepage: https://sunderland.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/sunderland/
-    self: https://www.givefood.org.uk/api/2/foodbank/sunderland/
-    shopping_list: https://sunderland.foodbank.org.uk/give-help/donate-food/
 - address: "Highway House Community Centre\r\n13-15 Church Road\r\nPenryn\r\nTR10\
     \ 8DA"
   alt_name: null
