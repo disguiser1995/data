@@ -1,6 +1,37 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>438b0349</id>
+		<found>2024-08-08T04:05:00.797371</found>
+		<foodbank>
+			<name>Bradford North</name>
+			<slug>bradford-north</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/bradford-north/</self>
+				<html>https://www.givefood.org.uk/needs/at/bradford-north/</html>
+			</urls>
+		</foodbank>
+		<needs>UHT Long-life Milk
+Tinned Vegetables
+Tinned Meat
+Tinned Fish
+Tinned Tomatoes
+Rice Pudding
+Custard
+Tinned Soup
+Toothpaste
+Tampons
+Washing Up Liquid
+Deodorant
+Toothbrushes</needs>
+		<excess>Rice
+Pasta
+Baked Beans
+Tea Bags
+Tinned Pulses - Chickpeas, Kidney Beans Etc</excess>
+		<self>https://www.givefood.org.uk/api/2/need/438b0349/</self>
+	</need>
+	<need>
 		<id>f16036b4</id>
 		<found>2024-08-06T18:01:11.898333</found>
 		<foodbank>
@@ -2872,33 +2903,5 @@ Clean, Strong Carrier Bags</needs>
 		<excess>Tinned Soup
 Pasta</excess>
 		<self>https://www.givefood.org.uk/api/2/need/57e6426e/</self>
-	</need>
-	<need>
-		<id>642369c5</id>
-		<found>2024-07-29T12:35:38.931297</found>
-		<foodbank>
-			<name>Crowthorne</name>
-			<slug>crowthorne</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/crowthorne/</self>
-				<html>https://www.givefood.org.uk/needs/at/crowthorne/</html>
-			</urls>
-		</foodbank>
-		<needs>Tins Of Meat For Stews/curries/pies
-Jam
-Tins Of Spaghetti
-Jars Of Pasta Sauce
-Pasta
-Cleaning Products
-Toilet Roll
-Bin Bags
-Personal Care
-Bars Of Soap
-Shower Gel
-Mens Deodrant</needs>
-		<excess>Coffee
-Cereal
-Beans</excess>
-		<self>https://www.givefood.org.uk/api/2/need/642369c5/</self>
 	</need>
 </needs>
