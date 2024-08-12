@@ -1,6 +1,29 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>55d170e4</id>
+		<found>2024-08-12T16:24:21.420493</found>
+		<foodbank>
+			<name>Mid Norfolk</name>
+			<slug>mid-norfolk</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/mid-norfolk/</self>
+				<html>https://www.givefood.org.uk/needs/at/mid-norfolk/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Meat
+Shower Gel
+Long Life/uht Fruit Juice
+Savoury Treats/biscuits
+Laundry Detergent
+Nappies Size 5 &amp; 6</needs>
+		<excess>Breakfast Cereal
+Tea Bags
+Baked Beans
+Sanitaryware</excess>
+		<self>https://www.givefood.org.uk/api/2/need/55d170e4/</self>
+	</need>
+	<need>
 		<id>3c3da42e</id>
 		<found>2024-08-12T14:39:26.155435</found>
 		<foodbank>
@@ -2770,47 +2793,5 @@ Spaghetti
 Pasta Sauce</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/3b88a28b/</self>
-	</need>
-	<need>
-		<id>059aeb4f</id>
-		<found>2024-08-02T09:02:14.671073</found>
-		<foodbank>
-			<name>Woking</name>
-			<slug>woking</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/woking/</self>
-				<html>https://www.givefood.org.uk/needs/at/woking/</html>
-			</urls>
-		</foodbank>
-		<needs>Shampoo
-Shower Gel
-Chocolate Spread
-Hot Chocolate
-Tinned Mixed Vegetables
-Coffee
-Jam
-Mayonnaise
-Hair Conditioner
-Dog Food
-Shaving Gel &amp; Foam
-Long Life Sponge Puddings
-Long Life Fruit Juice
-Surface Cleaner Spray
-Tinned Sweetcorn
-Toilet Cleaner Liquid
-Instant Mashed Potato
-Tinned Salmon
-Marmite
-Corned Beef Tins</needs>
-		<excess>Tea Bags
-Soup
-Porridge
-Tinned Pulses
-Cereal
-Pasta
-Jars Of Cooking Sauce
-Bubble Bath
-Baked Beans</excess>
-		<self>https://www.givefood.org.uk/api/2/need/059aeb4f/</self>
 	</need>
 </needs>
