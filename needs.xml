@@ -1,6 +1,50 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>bf258114</id>
+		<found>2024-08-17T13:07:02.785518</found>
+		<foodbank>
+			<name>Sherborne</name>
+			<slug>sherborne</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/sherborne/</self>
+				<html>https://www.givefood.org.uk/needs/at/sherborne/</html>
+			</urls>
+		</foodbank>
+		<needs>Pulses/beans + Lentils
+Tinned Soups
+Tinned Carrots
+Tinned Peas
+Tinned Sweetcorn
+Tinned Mixed Vegetables
+Tinned Potatoes
+Tinned Tomatoes
+Tinned Baked Beans
+Tinned Beans &amp; Sausages
+Tinned Spaghetti Or Ravioli In Sauce
+Tinned Corned Beef And Ham
+Tinned Meatballs In Sauce
+Tinned Hot Dogs
+Tinned Mince In Gravy
+Tinned Hotpot
+Tinned Stewed/casseroled Meat/chicken/curries/chilli
+Tinned Fruits In Syrup/juice
+Tinned Rice Pudding
+Tinned Instant Custard
+Long Life Milk (Including Alternative Milks)
+Jams
+Preserves
+Spreads
+Honey
+Meat Pastes
+Pasta Sauces
+Toilet Rolls
+Bottles Of Squash
+Children's Lunch Box Items</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/bf258114/</self>
+	</need>
+	<need>
 		<id>e7a827a5</id>
 		<found>2024-08-17T08:39:47.722804</found>
 		<foodbank>
@@ -2633,29 +2677,5 @@ Pasta
 Oats + Porridge
 Cereals</excess>
 		<self>https://www.givefood.org.uk/api/2/need/0226046f/</self>
-	</need>
-	<need>
-		<id>e205a61f</id>
-		<found>2024-08-07T10:44:31.685645</found>
-		<foodbank>
-			<name>Exmouth</name>
-			<slug>exmouth</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/exmouth/</self>
-				<html>https://www.givefood.org.uk/needs/at/exmouth/</html>
-			</urls>
-		</foodbank>
-		<needs>Cartons Of Fruit Juices
-Tinned Meat Such As Ham Or Corned Beef
-Tins Of Tuna
-Sandwich Spreads
-Peanut Butter
-Healthy Snacks
-Crisps/nuts
-Biscuits
-Wet Wipes
-Period Products</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/e205a61f/</self>
 	</need>
 </needs>
