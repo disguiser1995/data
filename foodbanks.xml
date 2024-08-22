@@ -20606,6 +20606,45 @@ SG18 0BH</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Wansbeck Valley Food Bank</name>
+		<alt_name/>
+		<slug>wansbeck-valley</slug>
+		<phone>01670943014</phone>
+		<secondary_phone>07841908477</secondary_phone>
+		<email>wansbeckvalleyfoodbank@gmail.com</email>
+		<address>Northgate Hospital
+Morpeth
+NE61 3BP</address>
+		<postcode>NE61 3BP</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>55.1873575,-1.7101101</lat_lng>
+		<network>Independent</network>
+		<created>2020-06-30T16:05:00.690773</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/wansbeck-valley/</self>
+			<html>https://www.givefood.org.uk/needs/at/wansbeck-valley/</html>
+			<homepage>https://wansbeckvalleyfoodbank.org</homepage>
+			<shopping_list>https://wansbeckvalleyfoodbank.org/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1177303</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1177303&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North Northumberland</parliamentary_constituency>
+			<mp>Ian Lavery</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>4139</mp_parl_id>
+			<ward>Pegswood</ward>
+			<district>Northumberland</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-northumberland/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-northumberland/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Feedo Needo Food Bank</name>
 		<alt_name/>
 		<slug>feedo-needo</slug>
@@ -20682,45 +20721,6 @@ N5 1ED</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/islington-north/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/islington-north/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Wansbeck Valley Food Bank</name>
-		<alt_name/>
-		<slug>wansbeck-valley</slug>
-		<phone>01670943014</phone>
-		<secondary_phone>07841908477</secondary_phone>
-		<email>wansbeckvalleyfoodbank@gmail.com</email>
-		<address>Northgate Hospital
-Morpeth
-NE61 3BP</address>
-		<postcode>NE61 3BP</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>55.1873575,-1.7101101</lat_lng>
-		<network>Independent</network>
-		<created>2020-06-30T16:05:00.690773</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/wansbeck-valley/</self>
-			<html>https://www.givefood.org.uk/needs/at/wansbeck-valley/</html>
-			<homepage>https://wansbeckvalleyfoodbank.org</homepage>
-			<shopping_list>https://wansbeckvalleyfoodbank.org/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1177303</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1177303&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North Northumberland</parliamentary_constituency>
-			<mp>Ian Lavery</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>4139</mp_parl_id>
-			<ward>Pegswood</ward>
-			<district>Northumberland</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-northumberland/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-northumberland/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -35578,48 +35578,6 @@ NE6 3DP</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Fylde Food Bank</name>
-		<alt_name/>
-		<slug>fylde</slug>
-		<phone>01253727455</phone>
-		<secondary_phone/>
-		<email>info@fylde.foodbank.org.uk</email>
-		<address>The Annex
-United Reformed Church
-St George's Road
-Lytham St Anne's 
-Lancashire
-FY8 2AE</address>
-		<postcode>FY8 2AE</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.7523532,-3.0319884</lat_lng>
-		<network>Trussell Trust</network>
-		<created>2019-07-13T11:05:02.786109</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/fylde/</self>
-			<html>https://www.givefood.org.uk/needs/at/fylde/</html>
-			<homepage>https://fylde.foodbank.org.uk</homepage>
-			<shopping_list>https://fylde.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1157247</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157247&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Fylde</parliamentary_constituency>
-			<mp>Mark Menzies</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>3998</mp_parl_id>
-			<ward>Kilgrimol</ward>
-			<district>Fylde</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/fylde/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/fylde/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Faversham Food Bank</name>
 		<alt_name/>
 		<slug>faversham</slug>
@@ -35821,6 +35779,48 @@ PL14 4AB</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/south-east-cornwall/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/south-east-cornwall/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Fylde Food Bank</name>
+		<alt_name/>
+		<slug>fylde</slug>
+		<phone>01253727455</phone>
+		<secondary_phone/>
+		<email>info@fylde.foodbank.org.uk</email>
+		<address>The Annex
+United Reformed Church
+St George's Road
+Lytham St Anne's 
+Lancashire
+FY8 2AE</address>
+		<postcode>FY8 2AE</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>53.7523532,-3.0319884</lat_lng>
+		<network>Trussell Trust</network>
+		<created>2019-07-13T11:05:02.786109</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/fylde/</self>
+			<html>https://www.givefood.org.uk/needs/at/fylde/</html>
+			<homepage>https://fylde.foodbank.org.uk</homepage>
+			<shopping_list>https://fylde.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1157247</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157247&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Fylde</parliamentary_constituency>
+			<mp>Mark Menzies</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>3998</mp_parl_id>
+			<ward>Kilgrimol</ward>
+			<district>Fylde</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/fylde/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/fylde/</html>
 			</urls>
 		</politics>
 	</foodbank>
