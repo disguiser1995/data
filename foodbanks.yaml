@@ -3916,38 +3916,6 @@
     html: https://www.givefood.org.uk/needs/at/bassetlaw/
     self: https://www.givefood.org.uk/api/2/foodbank/bassetlaw/
     shopping_list: https://bassetlawfoodbank.org/food-we-need/
-- address: "St Michael and All Angels Church\r\nChurch Street\r\nSouth Normanton\r\
-    \nDerbyshire\r\nDE55 2BT"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2020-01-13 12:14:41.487180
-  email: info@southnormantonarea.foodbank.org.uk
-  lat_lng: 53.1080006,-1.3408752
-  name: South Normanton Area Food Bank
-  network: Trussell Trust
-  phone: 07999551691
-  politics:
-    district: Bolsover
-    mp: Mark Fletcher
-    mp_parl_id: 4774
-    mp_party: Conservative
-    parliamentary_constituency: Bolsover
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/bolsover/
-      self: https://www.givefood.org.uk/api/2/constituency/bolsover/
-    ward: South Normanton East
-  postcode: DE55 2BT
-  secondary_phone: null
-  slug: south-normanton-area
-  urls:
-    homepage: https://southnormantonarea.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/south-normanton-area/
-    self: https://www.givefood.org.uk/api/2/foodbank/south-normanton-area/
-    shopping_list: https://southnormantonarea.foodbank.org.uk/give-help/donate-food/
 - address: "The Methodist Church Basement\r\nMain Road\r\nWindermere\r\nLA23 1DY"
   alt_name: null
   charity:
@@ -4167,6 +4135,38 @@
     html: https://www.givefood.org.uk/needs/at/leslie-community-pantry/
     self: https://www.givefood.org.uk/api/2/foodbank/leslie-community-pantry/
     shopping_list: https://lesliecommunitypantry.co.uk
+- address: "St Michael and All Angels Church\r\nChurch Street\r\nSouth Normanton\r\
+    \nDerbyshire\r\nDE55 2BT"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2020-01-13 12:14:41.487180
+  email: info@southnormantonarea.foodbank.org.uk
+  lat_lng: 53.1080006,-1.3408752
+  name: South Normanton Area Food Bank
+  network: Trussell Trust
+  phone: 07999551691
+  politics:
+    district: Bolsover
+    mp: Mark Fletcher
+    mp_parl_id: 4774
+    mp_party: Conservative
+    parliamentary_constituency: Bolsover
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/bolsover/
+      self: https://www.givefood.org.uk/api/2/constituency/bolsover/
+    ward: South Normanton East
+  postcode: DE55 2BT
+  secondary_phone: null
+  slug: south-normanton-area
+  urls:
+    homepage: https://southnormantonarea.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/south-normanton-area/
+    self: https://www.givefood.org.uk/api/2/foodbank/south-normanton-area/
+    shopping_list: https://southnormantonarea.foodbank.org.uk/give-help/donate-food/
 - address: "51A Huddersfield Road\r\nMirfield\r\nWF14 8AB"
   alt_name: null
   charity:
@@ -12245,37 +12245,6 @@
     html: https://www.givefood.org.uk/needs/at/windsor-food-share/
     self: https://www.givefood.org.uk/api/2/foodbank/windsor-food-share/
     shopping_list: https://www.windsorfoodshare.org.uk/food-donations/
-- address: "54 Merseybank Avenue\r\nChorlton-cum-Hardy\r\nManchester\r\nM21 7NN"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1194705&subid=0
-    registration_id: '1194705'
-  closed: false
-  country: England
-  created: 2023-10-19 10:47:29.127914
-  email: info@perryspantry.org
-  lat_lng: 53.4224662,-2.2625293
-  name: Perry's Pantry Food Bank
-  network: Independent
-  phone: 07563573358
-  politics:
-    district: Manchester
-    mp: Jeff Smith
-    mp_parl_id: 4456
-    mp_party: Labour
-    parliamentary_constituency: Manchester Withington
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/manchester-withington/
-      self: https://www.givefood.org.uk/api/2/constituency/manchester-withington/
-    ward: Chorlton Park
-  postcode: M21 7NN
-  secondary_phone: null
-  slug: perrys-pantry
-  urls:
-    homepage: https://www.perryspantry.org
-    html: https://www.givefood.org.uk/needs/at/perrys-pantry/
-    self: https://www.givefood.org.uk/api/2/foodbank/perrys-pantry/
-    shopping_list: https://www.perryspantry.org
 - address: "Peniel Pentecostal Church\r\nNew Street\r\nGlynneath\r\nSA11 5AA"
   alt_name: null
   charity:
@@ -12307,6 +12276,37 @@
     html: https://www.givefood.org.uk/needs/at/vale-of-neath/
     self: https://www.givefood.org.uk/api/2/foodbank/vale-of-neath/
     shopping_list: https://valeofneath.foodbank.org.uk/give-help/donate-food/
+- address: "54 Merseybank Avenue\r\nChorlton-cum-Hardy\r\nManchester\r\nM21 7NN"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1194705&subid=0
+    registration_id: '1194705'
+  closed: false
+  country: England
+  created: 2023-10-19 10:47:29.127914
+  email: info@perryspantry.org
+  lat_lng: 53.4224662,-2.2625293
+  name: Perry's Pantry Food Bank
+  network: Independent
+  phone: 07563573358
+  politics:
+    district: Manchester
+    mp: Jeff Smith
+    mp_parl_id: 4456
+    mp_party: Labour
+    parliamentary_constituency: Manchester Withington
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/manchester-withington/
+      self: https://www.givefood.org.uk/api/2/constituency/manchester-withington/
+    ward: Chorlton Park
+  postcode: M21 7NN
+  secondary_phone: null
+  slug: perrys-pantry
+  urls:
+    homepage: https://www.perryspantry.org
+    html: https://www.givefood.org.uk/needs/at/perrys-pantry/
+    self: https://www.givefood.org.uk/api/2/foodbank/perrys-pantry/
+    shopping_list: https://www.perryspantry.org
 - address: "41 Monkmoor Street\r\nHereford\r\nHR1 2DX"
   alt_name: null
   charity:
