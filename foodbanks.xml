@@ -927,6 +927,47 @@ BD16 2LZ</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Dengie Food Bank</name>
+		<alt_name/>
+		<slug>dengie</slug>
+		<phone>01621776821</phone>
+		<secondary_phone/>
+		<email>foodbankdengie@gmail.com</email>
+		<address>United Reformed Church Hall
+11 North Street
+Southminster
+Essex
+CM0 7DF</address>
+		<postcode>CM0 7DF</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.6630731,0.8308327</lat_lng>
+		<network>Independent</network>
+		<created>2024-09-08T14:22:47.611985</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/dengie/</self>
+			<html>https://www.givefood.org.uk/needs/at/dengie/</html>
+			<homepage>https://www.facebook.com/p/Dengie-Food-Pantry-Food-Bank-100064879771886/?locale=en_GB</homepage>
+			<shopping_list>https://www.facebook.com/p/Dengie-Food-Pantry-Food-Bank-100064879771886/?locale=en_GB</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Maldon</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Southminster</ward>
+			<district>Maldon</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/maldon/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/maldon/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Epping Forest Food Bank</name>
 		<alt_name/>
 		<slug>epping-forest</slug>
