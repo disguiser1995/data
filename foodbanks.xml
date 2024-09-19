@@ -1250,6 +1250,46 @@ CF83 8FL</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Blyth Food Bank</name>
+		<alt_name/>
+		<slug>blyth</slug>
+		<phone>01670354904</phone>
+		<secondary_phone/>
+		<email>blythfoodbank@email.com</email>
+		<address>1 Seaforth Street
+Blyth
+Northumberland
+NE24 1AY</address>
+		<postcode>NE24 1AY</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>55.1283524,-1.5103879</lat_lng>
+		<network>Independent</network>
+		<created>2024-09-19T14:05:51.584166</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/blyth/</self>
+			<html>https://www.givefood.org.uk/needs/at/blyth/</html>
+			<homepage>https://blythfoodbank.uk</homepage>
+			<shopping_list>https://blythfoodbank.uk/donate/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Blyth and Ashington</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Croft</ward>
+			<district>Northumberland</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/blyth-and-ashington/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/blyth-and-ashington/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Hailsham Food Bank</name>
 		<alt_name/>
 		<slug>hailsham</slug>
@@ -27206,48 +27246,6 @@ OL1 4ER</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Handsworth Food Bank</name>
-		<alt_name/>
-		<slug>handsworth</slug>
-		<phone>07599878715</phone>
-		<secondary_phone/>
-		<email>foodbank@sheffieldchristianlifecentre.co.uk</email>
-		<address>Grace Church
-1 Richmond Road
-Handsworth
-Sheffield
-South Yorkshire
-S13 8TB</address>
-		<postcode>S13 8TB</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.370923,-1.3872968</lat_lng>
-		<network>Trussell Trust</network>
-		<created>2020-01-10T22:58:04.867236</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/handsworth/</self>
-			<html>https://www.givefood.org.uk/needs/at/handsworth/</html>
-			<homepage>https://handsworth.foodbank.org.uk</homepage>
-			<shopping_list>https://handsworth.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1052591</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1052591&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Sheffield South East</parliamentary_constituency>
-			<mp>Clive Betts</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>394</mp_parl_id>
-			<ward>Richmond</ward>
-			<district>Sheffield</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/sheffield-south-east/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/sheffield-south-east/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Trafford South Food Bank</name>
 		<alt_name/>
 		<slug>trafford-south</slug>
@@ -27446,6 +27444,48 @@ TR4 9LD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/truro-and-falmouth/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/truro-and-falmouth/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Handsworth Food Bank</name>
+		<alt_name/>
+		<slug>handsworth</slug>
+		<phone>07599878715</phone>
+		<secondary_phone/>
+		<email>foodbank@sheffieldchristianlifecentre.co.uk</email>
+		<address>Grace Church
+1 Richmond Road
+Handsworth
+Sheffield
+South Yorkshire
+S13 8TB</address>
+		<postcode>S13 8TB</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>53.370923,-1.3872968</lat_lng>
+		<network>Trussell Trust</network>
+		<created>2020-01-10T22:58:04.867236</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/handsworth/</self>
+			<html>https://www.givefood.org.uk/needs/at/handsworth/</html>
+			<homepage>https://handsworth.foodbank.org.uk</homepage>
+			<shopping_list>https://handsworth.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1052591</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1052591&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Sheffield South East</parliamentary_constituency>
+			<mp>Clive Betts</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>394</mp_parl_id>
+			<ward>Richmond</ward>
+			<district>Sheffield</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/sheffield-south-east/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/sheffield-south-east/</html>
 			</urls>
 		</politics>
 	</foodbank>
