@@ -11776,6 +11776,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7101101,
+          55.1873575
+        ]
+      },
+      "properties": {
+        "name": "Wansbeck Valley",
+        "slug": "wansbeck-valley",
+        "address": "Northgate Hospital\r\nMorpeth\r\nNE61 3BP",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/wansbeck-valley/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/wansbeck-valley/",
+        "network": "Independent",
+        "email": "wansbeckvalleyfoodbank@gmail.com",
+        "telephone": "01670943014",
+        "parliamentary_constituency": "North Northumberland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8909114,
           52.4759706
         ]
@@ -11835,28 +11857,6 @@
         "email": "washingtoncfp@gmail.com",
         "telephone": "07450766226",
         "parliamentary_constituency": "Washington and Gateshead South"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7101101,
-          55.1873575
-        ]
-      },
-      "properties": {
-        "name": "Wansbeck Valley",
-        "slug": "wansbeck-valley",
-        "address": "Northgate Hospital\r\nMorpeth\r\nNE61 3BP",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/wansbeck-valley/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/wansbeck-valley/",
-        "network": "Independent",
-        "email": "wansbeckvalleyfoodbank@gmail.com",
-        "telephone": "01670943014",
-        "parliamentary_constituency": "North Northumberland"
       }
     },
     {
@@ -19806,28 +19806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3939499,
-          52.7509473
-        ]
-      },
-      "properties": {
-        "name": "King's Lynn",
-        "slug": "kings-lynn",
-        "address": "TS Vancouver Building\r\nSt Margaret's Lane\r\nKing's Lynn\r\nPE30 5DS",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/kings-lynn/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/kings-lynn/",
-        "network": "Trussell Trust",
-        "email": "info@kingslynn.foodbank.org.uk",
-        "telephone": "07582558143",
-        "parliamentary_constituency": "North West Norfolk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.7179965,
           51.6127941
         ]
@@ -19843,6 +19821,28 @@
         "email": "info@porttalbot.foodbank.org.uk",
         "telephone": "07491922211",
         "parliamentary_constituency": "Aberafan Maesteg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3939499,
+          52.7509473
+        ]
+      },
+      "properties": {
+        "name": "King's Lynn",
+        "slug": "kings-lynn",
+        "address": "TS Vancouver Building\r\nSt Margaret's Lane\r\nKing's Lynn\r\nPE30 5DS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/kings-lynn/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/kings-lynn/",
+        "network": "Trussell Trust",
+        "email": "info@kingslynn.foodbank.org.uk",
+        "telephone": "07582558143",
+        "parliamentary_constituency": "North West Norfolk"
       }
     },
     {
