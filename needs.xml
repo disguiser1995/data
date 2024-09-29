@@ -74,25 +74,6 @@ Tinned Meat And Tinned Meat Meals</needs>
 		<self>https://www.givefood.org.uk/api/2/need/2601c46f/</self>
 	</need>
 	<need>
-		<id>7c05545b</id>
-		<found>2024-09-28T17:03:57.834432</found>
-		<foodbank>
-			<name>Jubilee Storehouse</name>
-			<slug>jubilee-storehouse</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/jubilee-storehouse/</self>
-				<html>https://www.givefood.org.uk/needs/at/jubilee-storehouse/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Ravioli
-Tinned Meatballs
-Spaghetti Rings
-Baked Beans And Sausages
-Shower Gel</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/7c05545b/</self>
-	</need>
-	<need>
 		<id>a93828be</id>
 		<found>2024-09-28T15:28:33.163612</found>
 		<foodbank>
@@ -2645,5 +2626,26 @@ Snacks / Crisps (Etc)
 Personal Toiletries</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/8c2a5905/</self>
+	</need>
+	<need>
+		<id>e265b4ac</id>
+		<found>2024-09-16T17:26:12.564151</found>
+		<foodbank>
+			<name>Godalming &amp; Villages Community Store</name>
+			<slug>godalming-villages-community-store</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/godalming-villages-community-store/</self>
+				<html>https://www.givefood.org.uk/needs/at/godalming-villages-community-store/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Ham
+Regular &amp; Decaf Instant Coffee
+Tinned Vegetables
+Mayonnaise
+Hot Chocolate: Instant &amp; Made With Milk
+Meat Flavoured Instant Noodles
+Shaving Foam/gel</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/e265b4ac/</self>
 	</need>
 </needs>
