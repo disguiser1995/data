@@ -1,6 +1,36 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>d96df259</id>
+		<found>2024-10-01T13:55:23.345397</found>
+		<foodbank>
+			<name>North Norfolk</name>
+			<slug>north-norfolk</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/north-norfolk/</self>
+				<html>https://www.givefood.org.uk/needs/at/north-norfolk/</html>
+			</urls>
+		</foodbank>
+		<needs>Pasta Sauce
+Cupa Soups
+Tinned Rice Pudding
+Chocolate + Sweets
+Fruit Juice
+Microwave Rice
+Mug Shots
+Tinned Fruit
+Gluten-free Products
+Jam + Marmalade
+Raisin Snack Packs
+Cereal Bars
+Nappies (Size 6)</needs>
+		<excess>Baked Beans
+Pasta
+Tea Bags
+Hair Conditioner</excess>
+		<self>https://www.givefood.org.uk/api/2/need/d96df259/</self>
+	</need>
+	<need>
 		<id>c0622fb8</id>
 		<found>2024-10-01T13:29:06.349081</found>
 		<foodbank>
@@ -2638,23 +2668,5 @@ Baked Beans
 Tea
 Cereal</excess>
 		<self>https://www.givefood.org.uk/api/2/need/3c250172/</self>
-	</need>
-	<need>
-		<id>bc106a9e</id>
-		<found>2024-09-19T08:59:49.667611</found>
-		<foodbank>
-			<name>Tewkesbury</name>
-			<slug>tewkesbury</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/tewkesbury/</self>
-				<html>https://www.givefood.org.uk/needs/at/tewkesbury/</html>
-			</urls>
-		</foodbank>
-		<needs>UHT Milk
-Sanitary Towels And Tampons
-Jam, Honey And Marmalade
-Biscuits</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/bc106a9e/</self>
 	</need>
 </needs>
