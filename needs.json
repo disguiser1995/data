@@ -1,5 +1,20 @@
 [
   {
+    "id": "0dea0650",
+    "found": "2024-10-04T14:45:49.140",
+    "foodbank": {
+      "name": "Bedford",
+      "slug": "bedford",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/bedford/",
+        "html": "https://www.givefood.org.uk/needs/at/bedford/"
+      }
+    },
+    "needs": "Tinned Meat\nTinned Tuna\nTinned Sweetcorn\nTinned Fruit\nCup A Soup\nLong Life Fruit Juice\nLong Life Sponge Puddings\nCoffee\nLong Life Milk\nTin Openers",
+    "excess": "",
+    "self": "https://www.givefood.org.uk/api/2/need/0dea0650/"
+  },
+  {
     "id": "7bffcc2e",
     "found": "2024-10-04T12:53:35.600",
     "foodbank": {
@@ -28,6 +43,21 @@
     "needs": "Multi Pack Crisps\nSmall Size Laundry Detergent Non Bio Type\nTinned Ham & Spam\nBars Of Chocolate & Chocolate Snack Bars\nDisposable Razors (M&f)\nTinned Vegan & Vegetarian Meals\nHot Chocolate\nDeodorant (M&f)\nTinned Meat Meals\nLong Life Sponge Puddings\nCooking Oil\nTinned Custard\nPeanut Butter\nTinned Rice Pudding\nTinned Salmon\nLong Life Milk Full Type (Blue)\nLong Life Fruit Juice\nHoney",
     "excess": "Tea Bags\nSoup\nPorridge\nTinned Pulses\nCereal\nPasta\nJars Of Cooking Sauce\nBubble Bath\nBaked Beans",
     "self": "https://www.givefood.org.uk/api/2/need/1467c50d/"
+  },
+  {
+    "id": "006d680d",
+    "found": "2024-10-04T12:16:30.165",
+    "foodbank": {
+      "name": "Harrow",
+      "slug": "harrow",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/harrow/",
+        "html": "https://www.givefood.org.uk/needs/at/harrow/"
+      }
+    },
+    "needs": "Carrier Bags (Bags For Life)\nLong Life Milk Semi Skimmed & Whole Milk\nLong Life Fruit Juice\nSquash\nTinned Ravioli / Bolognese\nTinned Spaghetti And Sausages\nChopped Pork & Ham\nSponge Pudding (Microwavable)\nTinned Fruit\nTinned Mixed Vegetables\nTinned Tomatoes\nCooking Oil\nTinned Beef / Meat Meals\nTinned Chicken Meals\nTinned Meat / Corned Beef\nTinned Vegetarian & Vegan Meals\nTinned Meat Soup\nPacket Meat Soup\nTinned Fish (Tuna & Other Types Of Fish )\nTinned Meatballs\nTinned / Jarred Hot Dogs\nTinned Carrots\nTinned Peas\nTinned Potatoes\nPacket Mashed Potato\nIrish Stew / Tinned Lamb Meals\nTinned Macaroni Cheese\nTinned Custard\nPorridge\nCoffee (Small Jars)\nTea\nToiletries / Cleaning Products - We Need:\nBaby Toiletries\nBaby Nappies (Size 4,5,6 & 7)\nShampoo\nShower Gel / Body Wash\nShaving Foam / Shaving Gel\nMen's & Women's Razors\nAdult Toothbrushes\nAdult Toothpaste\nWashing Powder\nWashing Up Liquid\nMen's & Women's Deodorant\nCleaning Products\nKetchup\nPasta Sauce\nJam / Marmalade\nPeanut Butter\nHoney\nChocolate Spread",
+    "excess": "Baked Beans\nVegetable Tinned Soup\nCereal\nToilet Paper",
+    "self": "https://www.givefood.org.uk/api/2/need/006d680d/"
   },
   {
     "id": "0892b204",
@@ -1468,35 +1498,5 @@
     "needs": "Tinned Carrots\nTinned Snack Meals\nCream Crackers\nGood Strong Carrier Bags\nTinned Meat\nTinned Pulses\nShampoo",
     "excess": "",
     "self": "https://www.givefood.org.uk/api/2/need/62260ae7/"
-  },
-  {
-    "id": "6152a583",
-    "found": "2024-09-24T22:47:37.272",
-    "foodbank": {
-      "name": "Penryn & Falmouth",
-      "slug": "penryn-falmouth",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/penryn-falmouth/",
-        "html": "https://www.givefood.org.uk/needs/at/penryn-falmouth/"
-      }
-    },
-    "needs": "Savoury Biscuits And Crackers\nTinned Custard\nTinned Ham/corned Beef\nPasta Sauce\nTinned Fruit\nTinned Rice Pudding\nTinned Veg Soups",
-    "excess": "",
-    "self": "https://www.givefood.org.uk/api/2/need/6152a583/"
-  },
-  {
-    "id": "2c6db62b",
-    "found": "2024-09-24T20:35:45.819",
-    "foodbank": {
-      "name": "Brecon",
-      "slug": "brecon",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/brecon/",
-        "html": "https://www.givefood.org.uk/needs/at/brecon/"
-      }
-    },
-    "needs": "Toilet Rolls\nCustard\nRice Pudding\nNoodles (Not 'Instant')\nTinned Tomatoes\nSingle Portions Pots Of Baked Beans\nDrinking Chocolate\nDried Milk Powder\nTea Bags - 40s\nSmall Jars Of Coffee\nWashing Detergent: Sheets And Powder\nNappy Pants/pull-ups Size 6\nChildren's (Not Baby) Bubble Shampoo",
-    "excess": "Non-dairy Milk Alternatives\nGluten-free Pasta\nSanitary Towels And Tampons",
-    "self": "https://www.givefood.org.uk/api/2/need/2c6db62b/"
   }
 ]
