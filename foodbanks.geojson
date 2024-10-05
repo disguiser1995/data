@@ -1194,28 +1194,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.4679737,
-          52.1371889
-        ]
-      },
-      "properties": {
-        "name": "Impakt Food Community Larder",
-        "slug": "impakt-food-community-larder",
-        "address": "Hawes Court\r\nBedford\r\nMK40 1SY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/impakt-food-community-larder/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/impakt-food-community-larder/",
-        "network": null,
-        "email": "admin@impakt.org.uk",
-        "telephone": "01234307040",
-        "parliamentary_constituency": "Bedford"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.16031,
           51.86846540000001
         ]
@@ -1341,6 +1319,28 @@
         "email": "info@littlehamptondistrict.foodbank.org.uk",
         "telephone": "07925862289",
         "parliamentary_constituency": "Bognor Regis and Littlehampton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4679737,
+          52.1371889
+        ]
+      },
+      "properties": {
+        "name": "Impakt Food Community Larder",
+        "slug": "impakt-food-community-larder",
+        "address": "Hawes Court\r\nBedford\r\nMK40 1SY",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/impakt-food-community-larder/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/impakt-food-community-larder/",
+        "network": "Independent",
+        "email": "admin@impakt.org.uk",
+        "telephone": "01234307040",
+        "parliamentary_constituency": "Bedford"
       }
     },
     {
@@ -7574,28 +7574,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.3953481,
-          53.87088790000001
-        ]
-      },
-      "properties": {
-        "name": "Ribble Valley",
-        "slug": "ribble-valley",
-        "address": "Trinity Methodist Church Community Hub\r\nWesleyan Row\r\nParson Lane\r\nClitheroe\r\nBB7 2JY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/ribble-valley/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/ribble-valley/",
-        "network": "Trussell Trust",
-        "email": "info@ribblevalley.foodbank.org.uk",
-        "telephone": "07849534431",
-        "parliamentary_constituency": "Pendle and Clitheroe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.010512,
           56.3193711
         ]
@@ -7611,6 +7589,28 @@
         "email": "info@cupar.foodbank.org.uk",
         "telephone": "07474453153",
         "parliamentary_constituency": "North East Fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3953481,
+          53.87088790000001
+        ]
+      },
+      "properties": {
+        "name": "Ribble Valley",
+        "slug": "ribble-valley",
+        "address": "Trinity Methodist Church Community Hub\r\nWesleyan Row\r\nParson Lane\r\nClitheroe\r\nBB7 2JY",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/ribble-valley/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/ribble-valley/",
+        "network": "Trussell Trust",
+        "email": "info@ribblevalley.foodbank.org.uk",
+        "telephone": "07849534431",
+        "parliamentary_constituency": "Pendle and Clitheroe"
       }
     },
     {
