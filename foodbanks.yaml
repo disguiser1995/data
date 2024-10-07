@@ -19254,38 +19254,6 @@
     html: https://www.givefood.org.uk/needs/at/walk-inn/
     self: https://www.givefood.org.uk/api/2/foodbank/walk-inn/
     shopping_list: https://balcproject.org.uk/walk-inn-foodbank/
-- address: "c/o Abergavenny Baptist Church\r\nFrogmore Street\r\nAbergavenny\r\nNP7\
-    \ 5AL"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: Wales
-  created: 2019-12-21 23:53:46.942495
-  email: info@abergavenny.foodbank.org.uk
-  lat_lng: 51.8248175,-3.0213877
-  name: Abergavenny Food Bank
-  network: Trussell Trust
-  phone: 07340795328
-  politics:
-    district: Monmouthshire
-    mp: David Davies
-    mp_parl_id: 1545
-    mp_party: Conservative
-    parliamentary_constituency: Monmouthshire
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/monmouthshire/
-      self: https://www.givefood.org.uk/api/2/constituency/monmouthshire/
-    ward: Grofield
-  postcode: NP7 5AL
-  secondary_phone: null
-  slug: abergavenny
-  urls:
-    homepage: https://abergavenny.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/abergavenny/
-    self: https://www.givefood.org.uk/api/2/foodbank/abergavenny/
-    shopping_list: https://abergavenny.foodbank.org.uk/give-help/donate-food/
 - address: "Kentish Town Congregational Church\r\nKentish Town Road\r\nChurch Avenue\r\
     \nNW1 8PD"
   alt_name: null
@@ -19413,6 +19381,37 @@
     html: https://www.givefood.org.uk/needs/at/south-derbyshire-cvs/
     self: https://www.givefood.org.uk/api/2/foodbank/south-derbyshire-cvs/
     shopping_list: https://sdcvs.org.uk/services/food-projects
+- address: "Abergavenny Baptist Church\r\nFrogmore Street\r\nAbergavenny\r\nNP7 5AL"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: Wales
+  created: 2019-12-21 23:53:46.942495
+  email: info@abergavenny.foodbank.org.uk
+  lat_lng: 51.8248175,-3.0213877
+  name: Abergavenny Food Bank
+  network: Trussell Trust
+  phone: 07340795328
+  politics:
+    district: Monmouthshire
+    mp: David Davies
+    mp_parl_id: 1545
+    mp_party: Conservative
+    parliamentary_constituency: Monmouthshire
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/monmouthshire/
+      self: https://www.givefood.org.uk/api/2/constituency/monmouthshire/
+    ward: Grofield
+  postcode: NP7 5AL
+  secondary_phone: null
+  slug: abergavenny
+  urls:
+    homepage: https://abergavenny.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/abergavenny/
+    self: https://www.givefood.org.uk/api/2/foodbank/abergavenny/
+    shopping_list: https://abergavenny.foodbank.org.uk/give-help/donate-food/
 - address: "Unit 26\r\nChilterns Shopping Centre\r\nFrogmoor\r\nHigh Wycombe\r\nHP13\
     \ 5ES"
   alt_name: null
