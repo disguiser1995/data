@@ -1,6 +1,26 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>be741211</id>
+		<found>2024-10-15T23:07:44.465464</found>
+		<foodbank>
+			<name>Larkhall &amp; District</name>
+			<slug>larkhall-district</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/larkhall-district/</self>
+				<html>https://www.givefood.org.uk/needs/at/larkhall-district/</html>
+			</urls>
+		</foodbank>
+		<needs>Longlife Breakfast Juice
+Tinned Vegetables
+Longlife (UHT) Milk (1 Litre)</needs>
+		<excess>Beans
+Soup
+Tea
+Breakfast Cereal</excess>
+		<self>https://www.givefood.org.uk/api/2/need/be741211/</self>
+	</need>
+	<need>
 		<id>012a9007</id>
 		<found>2024-10-15T21:43:43.609852</found>
 		<foodbank>
@@ -2581,20 +2601,5 @@ Shaving Foam/gel
 Deodorant For Both Men And Women</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/363b0f0e/</self>
-	</need>
-	<need>
-		<id>7b30eb5b</id>
-		<found>2024-10-05T01:15:48.649713</found>
-		<foodbank>
-			<name>Connect25</name>
-			<slug>connect25</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/connect25/</self>
-				<html>https://www.givefood.org.uk/needs/at/connect25/</html>
-			</urls>
-		</foodbank>
-		<needs>Unknown</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/7b30eb5b/</self>
 	</need>
 </needs>
