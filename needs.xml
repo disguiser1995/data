@@ -1,6 +1,25 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>34a4b229</id>
+		<found>2024-10-21T16:56:21.873995</found>
+		<foodbank>
+			<name>Norwood &amp; Brixton</name>
+			<slug>norwood-brixton</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/norwood-brixton/</self>
+				<html>https://www.givefood.org.uk/needs/at/norwood-brixton/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Soup
+Savoury Snacks - Crisps, Breadsticks Etc
+Tinned Tomatoes
+Bars Of Soap
+Packets Of Biscuits</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/34a4b229/</self>
+	</need>
+	<need>
 		<id>2862418c</id>
 		<found>2024-10-21T09:36:58.420717</found>
 		<foodbank>
@@ -2629,25 +2648,5 @@ Ready Made Sauces For Pasta, Curries, Chinese Meals
 Ready Made Sponge Puddings</needs>
 		<excess>Pasta</excess>
 		<self>https://www.givefood.org.uk/api/2/need/ac700ea8/</self>
-	</need>
-	<need>
-		<id>c3bdea9f</id>
-		<found>2024-10-09T09:45:35.858781</found>
-		<foodbank>
-			<name>Meon Valley</name>
-			<slug>meon-valley</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/meon-valley/</self>
-				<html>https://www.givefood.org.uk/needs/at/meon-valley/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Meat Meals
-Tinned Custard
-Tinned Rice Pudding
-Small Steamed Puddings
-Cup A Soups
-Deodorant</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/c3bdea9f/</self>
 	</need>
 </needs>
