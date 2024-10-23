@@ -1662,29 +1662,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4666166,
-          55.9347435
-        ]
-      },
-      "properties": {
-        "name": "Broxburn, West Lothian Food Bank",
-        "slug": "broxburn",
-        "address": "Broxburn Parish Church\r\n2A Church Street\r\nBroxburn\r\nEH52 5EL",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/broxburn/",
-        "network": "Trussell Trust",
-        "email": "info@westlothian.foodbank.org.uk",
-        "telephone": "01501229307",
-        "foodbank": "West Lothian",
-        "foodbank_slug": "west-lothian",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
-        "parliamentary_constituency": "Livingston"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7016731,
           51.9900226
         ]
@@ -4123,8 +4100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4757762,
-          51.76683689999999
+          0.7271247,
+          51.5461895
         ]
       },
       "properties": {
@@ -4323,6 +4300,29 @@
         "foodbank_slug": "north-ayrshire",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/north-ayrshire/",
         "parliamentary_constituency": "North Ayrshire and Arran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4666166,
+          55.9347435
+        ]
+      },
+      "properties": {
+        "name": "Broxburn, West Lothian Food Bank",
+        "slug": "broxburn",
+        "address": "Broxburn Parish Church\r\n2A Church Street\r\nBroxburn\r\nEH52 5EL",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/broxburn/",
+        "network": "Trussell Trust",
+        "email": "info@westlothian.foodbank.org.uk",
+        "telephone": "01501229307",
+        "foodbank": "West Lothian",
+        "foodbank_slug": "west-lothian",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
+        "parliamentary_constituency": "Livingston"
       }
     },
     {
@@ -7435,29 +7435,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5248822,
-          55.87539959999999
-        ]
-      },
-      "properties": {
-        "name": "Dedridge, West Lothian Food Bank",
-        "slug": "dedridge",
-        "address": "Crofthead Farm\r\nTemplar Rise\r\nLivingston\r\nEH54 6DG",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/dedridge/",
-        "network": "Trussell Trust",
-        "email": "info@westlothian.foodbank.org.uk",
-        "telephone": "01501229307",
-        "foodbank": "West Lothian",
-        "foodbank_slug": "west-lothian",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
-        "parliamentary_constituency": "Livingston"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5429619,
           54.8982875
         ]
@@ -7474,6 +7451,29 @@
         "foodbank_slug": "washington-community",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/washington-community/",
         "parliamentary_constituency": "Washington and Gateshead South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5248822,
+          55.87539959999999
+        ]
+      },
+      "properties": {
+        "name": "Dedridge, West Lothian Food Bank",
+        "slug": "dedridge",
+        "address": "Crofthead Farm\r\nTemplar Rise\r\nLivingston\r\nEH54 6DG",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/dedridge/",
+        "network": "Trussell Trust",
+        "email": "info@westlothian.foodbank.org.uk",
+        "telephone": "01501229307",
+        "foodbank": "West Lothian",
+        "foodbank_slug": "west-lothian",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
+        "parliamentary_constituency": "Livingston"
       }
     },
     {
@@ -8153,10 +8153,10 @@
         ]
       },
       "properties": {
-        "name": "Deans, West Lothian Food Bank",
-        "slug": "deans",
-        "address": "St Peter's\r\n9 Carmondean Centre\r\nLivingston\r\nEH54 8PT",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/deans/",
+        "name": "Carmondean, West Lothian Food Bank",
+        "slug": "carmondean",
+        "address": "St Peter's RC\r\n9 Carmondean Centre\r\nLivingston\r\nEH54 8PT",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/carmondean/",
         "network": "Trussell Trust",
         "email": "info@westlothian.foodbank.org.uk",
         "telephone": "01501229307",
@@ -9114,15 +9114,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7000409,
-          55.8967095
+          -3.6996379,
+          55.8966735
         ]
       },
       "properties": {
-        "name": "Armadale Charity Shop, West Lothian Food Bank",
-        "slug": "armadale-charity-shop",
-        "address": "Little Owls Nursery\r\n59a South Street\r\nArmadale\r\nEH48 3ET",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/armadale-charity-shop/",
+        "name": "Armadale, West Lothian Food Bank",
+        "slug": "armadale",
+        "address": "59a South Street\r\nArmadale\r\nWest Lothian\r\nEH48 3ET",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/armadale/",
         "network": "Trussell Trust",
         "email": "info@westlothian.foodbank.org.uk",
         "telephone": "01501229307",
@@ -21787,29 +21787,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6898430999999999,
-          51.5958063
-        ]
-      },
-      "properties": {
-        "name": "Hawkwell Baptist Church, Southend Food Bank",
-        "slug": "hawkwell-baptist-church",
-        "address": "Rectory Road\r\nRochford\r\nSS4 1UG",
-        "url": "https://www.givefood.org.uk/needs/at/southend/hawkwell-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Rayleigh and Wickford"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.1293244,
           52.19755379999999
         ]
@@ -24179,29 +24156,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.601045899999999,
-          55.977476
-        ]
-      },
-      "properties": {
-        "name": "Linlithgow, West Lothian Food Bank",
-        "slug": "linlithgow",
-        "address": "Cross House\r\nThe Cross\r\nLinlithgow\r\nEH49 7AL",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/linlithgow/",
-        "network": "Trussell Trust",
-        "email": "info@westlothian.foodbank.org.uk",
-        "telephone": "01501229307",
-        "foodbank": "West Lothian",
-        "foodbank_slug": "west-lothian",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
-        "parliamentary_constituency": "Bathgate and Linlithgow"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1438219,
           51.2610462
         ]
@@ -24225,22 +24179,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6833402,
-          51.54205409999999
+          -3.601045899999999,
+          55.977476
         ]
       },
       "properties": {
-        "name": "Westcliff, Southend Food Bank",
-        "slug": "westcliff",
-        "address": "St Saviour's Church\r\nKings Road\r\nWestcliff On Sea\r\nSS0 8LL",
-        "url": "https://www.givefood.org.uk/needs/at/southend/westcliff/",
+        "name": "Linlithgow, West Lothian Food Bank",
+        "slug": "linlithgow",
+        "address": "Cross House\r\nThe Cross\r\nLinlithgow\r\nEH49 7AL",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/linlithgow/",
         "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend West and Leigh"
+        "email": "info@westlothian.foodbank.org.uk",
+        "telephone": "01501229307",
+        "foodbank": "West Lothian",
+        "foodbank_slug": "west-lothian",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/west-lothian/",
+        "parliamentary_constituency": "Bathgate and Linlithgow"
       }
     },
     {
@@ -24563,6 +24517,29 @@
         "foodbank_slug": "brecon",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/brecon/",
         "parliamentary_constituency": "Brecon, Radnor and Cwm Tawe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6833402,
+          51.54205409999999
+        ]
+      },
+      "properties": {
+        "name": "Westcliff, Southend Food Bank",
+        "slug": "westcliff",
+        "address": "St Saviour's Church\r\nKings Road\r\nWestcliff On Sea\r\nSS0 8LL",
+        "url": "https://www.givefood.org.uk/needs/at/southend/westcliff/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend West and Leigh"
       }
     },
     {
@@ -28296,29 +28273,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7208738,
-          51.54549
-        ]
-      },
-      "properties": {
-        "name": "Ferndale Baptist Church, Southend Food Bank",
-        "slug": "ferndale-baptist-church",
-        "address": "North Avenue\r\nSouthend on Sea\r\nSS2 5HU",
-        "url": "https://www.givefood.org.uk/needs/at/southend/ferndale-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend East and Rochford"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.7428112,
           51.7976946
         ]
@@ -29405,10 +29359,10 @@
         ]
       },
       "properties": {
-        "name": "Whitburn Charity Shop, West Lothian Food Bank",
-        "slug": "whitburn-charity-shop",
+        "name": "Whitburn, West Lothian Food Bank",
+        "slug": "whitburn",
         "address": "6 West Main Street\r\nWhitburn\r\nEH47 0QZ",
-        "url": "https://www.givefood.org.uk/needs/at/west-lothian/whitburn-charity-shop/",
+        "url": "https://www.givefood.org.uk/needs/at/west-lothian/whitburn/",
         "network": "Trussell Trust",
         "email": "info@westlothian.foodbank.org.uk",
         "telephone": "01501229307",
