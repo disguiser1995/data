@@ -3870,6 +3870,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.6967795999999999,
+          51.59547680000001
+        ]
+      },
+      "properties": {
+        "name": "Hawkwell & Hockley, Southend Food Bank",
+        "slug": "hawkwell-hockley",
+        "address": "Faith, Hope & Charity Shop Book Hub\r\n40 Hedingham Place\r\nRochford\r\nEssex\r\nSS4 1UP",
+        "url": "https://www.givefood.org.uk/needs/at/southend/hawkwell-hockley/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Rayleigh and Wickford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.030244,
           53.497057
         ]
@@ -4093,6 +4116,29 @@
         "foodbank_slug": "north-ayrshire",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/north-ayrshire/",
         "parliamentary_constituency": "North Ayrshire and Arran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4757762,
+          51.76683689999999
+        ]
+      },
+      "properties": {
+        "name": "Southchurch (Ferndale), Southend Food Bank",
+        "slug": "southchurch-ferndale",
+        "address": "Ferndale Baptist Church\r\nNorth Avenue\r\nSouthend on Sea\r\nEssex\r\nSS2 4ET",
+        "url": "https://www.givefood.org.uk/needs/at/southend/southchurch-ferndale/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend West and Leigh"
       }
     },
     {
@@ -10246,13 +10292,13 @@
         ]
       },
       "properties": {
-        "name": "Earls Hall Baptist Church, Southend Food Bank",
-        "slug": "earls-hall-baptist-church",
-        "address": "120 Hobleythick Lane\r\nWestcliff On Sea\r\nSS0 0RJ",
-        "url": "https://www.givefood.org.uk/needs/at/southend/earls-hall-baptist-church/",
+        "name": "Earls Hall, Southend Food Bank",
+        "slug": "earls-hall",
+        "address": "Earls Hall Baptist Church\r\n120 Hobleythick Lane\r\nWestcliff On Sea\r\nSS0 0RJ",
+        "url": "https://www.givefood.org.uk/needs/at/southend/earls-hall/",
         "network": "Trussell Trust",
         "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
+        "telephone": null,
         "foodbank": "Southend",
         "foodbank_slug": "southend",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
@@ -13185,29 +13231,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6546776999999999,
-          51.5698987
-        ]
-      },
-      "properties": {
-        "name": "Eastwood Baptist Church, Southend Food Bank",
-        "slug": "eastwood-baptist-church",
-        "address": "Rayleigh Road\r\nEastwood\r\nSouthend on Sea\r\nSS9 5PY",
-        "url": "https://www.givefood.org.uk/needs/at/southend/eastwood-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend West and Leigh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.114811,
           51.618949
         ]
@@ -13270,6 +13293,29 @@
         "foodbank_slug": "richmond",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/richmond/",
         "parliamentary_constituency": "Twickenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6546776999999999,
+          51.5698987
+        ]
+      },
+      "properties": {
+        "name": "Eastwood, Southend Food Bank",
+        "slug": "eastwood",
+        "address": "Eastwood Baptist Church\r\nRayleigh Road\r\nEastwood\r\nSouthend on Sea\r\nSS9 5PY",
+        "url": "https://www.givefood.org.uk/needs/at/southend/eastwood/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend West and Leigh"
       }
     },
     {
@@ -19326,29 +19372,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7298521,
-          51.5402766
-        ]
-      },
-      "properties": {
-        "name": "Belle Vue Baptist Church, Southend Food Bank",
-        "slug": "belle-vue-baptist-church",
-        "address": "Belle Vue Avenue\r\nSouthend On Sea\r\nSS1 2QZ",
-        "url": "https://www.givefood.org.uk/needs/at/southend/belle-vue-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend East and Rochford"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.371655,
           52.5405594
         ]
@@ -19526,6 +19549,29 @@
         "foodbank_slug": "badenoch-strathspey",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/badenoch-strathspey/",
         "parliamentary_constituency": "Moray West, Nairn and Strathspey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7299852,
+          51.5401834
+        ]
+      },
+      "properties": {
+        "name": "Southchurch (Belle Vue), Southend Food Bank",
+        "slug": "southchurch-belle-vue",
+        "address": "Belle Vue Baptist Church\r\nBelle Vue Avenue\r\nSouthend On Sea\r\nSS1 2QZ",
+        "url": "https://www.givefood.org.uk/needs/at/southend/southchurch-belle-vue/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend East and Rochford"
       }
     },
     {
@@ -28710,29 +28756,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6527405,
-          51.5482251
-        ]
-      },
-      "properties": {
-        "name": "West Leigh Baptist Church, Southend Food Bank",
-        "slug": "west-leigh-baptist-church",
-        "address": "1150 London Road\r\nLeigh-on-Sea\r\nSS9 2AJ",
-        "url": "https://www.givefood.org.uk/needs/at/southend/west-leigh-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend West and Leigh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.9758995,
           55.8665868
         ]
@@ -28887,6 +28910,29 @@
         "foodbank_slug": "knowsley",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/knowsley/",
         "parliamentary_constituency": "St Helens South and Whiston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6527405,
+          51.5482251
+        ]
+      },
+      "properties": {
+        "name": "Leigh, Southend Food Bank",
+        "slug": "leigh",
+        "address": "West Leigh Baptist Church\r\n1150 London Road\r\nLeigh-on-Sea\r\nSS9 2AJ",
+        "url": "https://www.givefood.org.uk/needs/at/southend/leigh/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend West and Leigh"
       }
     },
     {
@@ -33057,6 +33103,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.7770608999999999,
+          51.5323158
+        ]
+      },
+      "properties": {
+        "name": "Shoeburyness, Southend Food Bank",
+        "slug": "shoeburyness",
+        "address": "Shoeburyness and Thorpe Bay Baptist Church\r\n90 Thorpdene Gardens\r\nShoeburyness\r\nSS3 9JD",
+        "url": "https://www.givefood.org.uk/needs/at/southend/shoeburyness/",
+        "network": "Trussell Trust",
+        "email": "info@southend.foodbank.org.uk",
+        "telephone": null,
+        "foodbank": "Southend",
+        "foodbank_slug": "southend",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
+        "parliamentary_constituency": "Southend East and Rochford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.361622,
           51.459219
         ]
@@ -33073,29 +33142,6 @@
         "foodbank_slug": "thurrock",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/thurrock/",
         "parliamentary_constituency": "Thurrock"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.7770608999999999,
-          51.5323158
-        ]
-      },
-      "properties": {
-        "name": "Shoeburyness and Thorpe Bay Baptist Church, Southend Food Bank",
-        "slug": "shoeburyness-and-thorpe-bay-baptist-church",
-        "address": "90 Thorpdene Gardens\r\nShoeburyness\r\nSS3 9JD",
-        "url": "https://www.givefood.org.uk/needs/at/southend/shoeburyness-and-thorpe-bay-baptist-church/",
-        "network": "Trussell Trust",
-        "email": "info@southend.foodbank.org.uk",
-        "telephone": "07714425102",
-        "foodbank": "Southend",
-        "foodbank_slug": "southend",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/southend/",
-        "parliamentary_constituency": "Southend East and Rochford"
       }
     },
     {
