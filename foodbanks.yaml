@@ -6392,37 +6392,6 @@
     html: https://www.givefood.org.uk/needs/at/caistor/
     self: https://www.givefood.org.uk/api/2/foodbank/caistor/
     shopping_list: http://www.caistorfoodbank.org
-- address: "St John's Church\r\n26 Bridgetown\r\nTotnes\r\nDevon\r\nTQ9 5AD"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2023-11-10 19:37:15.512384
-  email: contact@steppingstonestotnes.co.uk
-  lat_lng: 50.4301348,-3.6790225
-  name: Stepping Stones Totnes Food Bank
-  network: Independent
-  phone: 07988639514
-  politics:
-    district: South Hams
-    mp: Anthony Mangnall
-    mp_parl_id: 4762
-    mp_party: Conservative
-    parliamentary_constituency: South Devon
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-devon/
-      self: https://www.givefood.org.uk/api/2/constituency/south-devon/
-    ward: Totnes
-  postcode: TQ9 5AD
-  secondary_phone: null
-  slug: stepping-stones-totnes
-  urls:
-    homepage: https://www.facebook.com/SteppingStonesTotnes
-    html: https://www.givefood.org.uk/needs/at/stepping-stones-totnes/
-    self: https://www.givefood.org.uk/api/2/foodbank/stepping-stones-totnes/
-    shopping_list: https://www.facebook.com/SteppingStonesTotnes
 - address: "c/o 4 Chelsea Close\r\nNuneaton\r\nWarwickshire\r\nCV11 6UD"
   alt_name: null
   charity:
@@ -6517,6 +6486,37 @@
     html: https://www.givefood.org.uk/needs/at/epsom-and-ewell/
     self: https://www.givefood.org.uk/api/2/foodbank/epsom-and-ewell/
     shopping_list: https://epsomewell.foodbank.org.uk/give-help/donate-food/
+- address: "St John's Church\r\n26 Bridgetown\r\nTotnes\r\nDevon\r\nTQ9 5AD"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2023-11-10 19:37:15.512384
+  email: contact@steppingstonestotnes.co.uk
+  lat_lng: 50.4301348,-3.6790225
+  name: Stepping Stones Totnes Food Bank
+  network: Independent
+  phone: 07988639514
+  politics:
+    district: South Hams
+    mp: Anthony Mangnall
+    mp_parl_id: 4762
+    mp_party: Conservative
+    parliamentary_constituency: South Devon
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-devon/
+      self: https://www.givefood.org.uk/api/2/constituency/south-devon/
+    ward: Totnes
+  postcode: TQ9 5AD
+  secondary_phone: null
+  slug: stepping-stones-totnes
+  urls:
+    homepage: https://www.facebook.com/SteppingStonesTotnes
+    html: https://www.givefood.org.uk/needs/at/stepping-stones-totnes/
+    self: https://www.givefood.org.uk/api/2/foodbank/stepping-stones-totnes/
+    shopping_list: https://www.facebook.com/SteppingStonesTotnes
 - address: "St Peter's Church\r\n518 Walton Road\r\nWest Molesey\r\nKT8 2QF"
   alt_name: null
   charity:
@@ -6580,37 +6580,6 @@
     html: https://www.givefood.org.uk/needs/at/dunfermline/
     self: https://www.givefood.org.uk/api/2/foodbank/dunfermline/
     shopping_list: https://dunfermline.foodbank.org.uk/give-help/donate-food/
-- address: "Unit 2\r\n6-12 St James Street\r\nHull\r\nHU3 2DH"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144286&subid=0
-    registration_id: '1144286'
-  closed: false
-  country: England
-  created: 2019-07-13 13:09:11.816246
-  email: admin@hull.foodbank.org.uk
-  lat_lng: 53.7370038,-0.3495884
-  name: Hull Food Bank
-  network: Trussell Trust
-  phone: 01482224783
-  politics:
-    district: Kingston upon Hull, City of
-    mp: Emma Hardy
-    mp_parl_id: 4645
-    mp_party: Labour
-    parliamentary_constituency: Kingston upon Hull West and Haltemprice
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/kingston-upon-hull-west-and-haltemprice/
-      self: https://www.givefood.org.uk/api/2/constituency/kingston-upon-hull-west-and-haltemprice/
-    ward: St Andrew's & Docklands
-  postcode: HU3 2DH
-  secondary_phone: null
-  slug: hull
-  urls:
-    homepage: https://hull.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/hull/
-    self: https://www.givefood.org.uk/api/2/foodbank/hull/
-    shopping_list: https://hull.foodbank.org.uk/give-help/donate-food/
 - address: "14 Burners Lane\r\nKiln Farm\r\nMK11 3HB"
   alt_name: null
   charity:
@@ -6673,6 +6642,68 @@
     html: https://www.givefood.org.uk/needs/at/3food4u/
     self: https://www.givefood.org.uk/api/2/foodbank/3food4u/
     shopping_list: https://3food4u.org
+- address: "Unit 2\r\n6-12 St James Street\r\nHull\r\nHU3 2DH"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144286&subid=0
+    registration_id: '1144286'
+  closed: false
+  country: England
+  created: 2019-07-13 13:09:11.816246
+  email: admin@hull.foodbank.org.uk
+  lat_lng: 53.7370038,-0.3495884
+  name: Hull Food Bank
+  network: Trussell Trust
+  phone: 01482224783
+  politics:
+    district: Kingston upon Hull, City of
+    mp: Emma Hardy
+    mp_parl_id: 4645
+    mp_party: Labour
+    parliamentary_constituency: Kingston upon Hull West and Haltemprice
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/kingston-upon-hull-west-and-haltemprice/
+      self: https://www.givefood.org.uk/api/2/constituency/kingston-upon-hull-west-and-haltemprice/
+    ward: St Andrew's & Docklands
+  postcode: HU3 2DH
+  secondary_phone: null
+  slug: hull
+  urls:
+    homepage: https://hull.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/hull/
+    self: https://www.givefood.org.uk/api/2/foodbank/hull/
+    shopping_list: https://hull.foodbank.org.uk/give-help/donate-food/
+- address: "King’s Church\r\nProspect Place\r\nWhessoe Road\r\nDarlington\r\nDL3 0QT"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1113455&subid=0
+    registration_id: '1113455'
+  closed: false
+  country: England
+  created: 2019-09-11 14:07:47.107690
+  email: admin@kingschurchdarlington.org
+  lat_lng: 54.54133849999999,-1.558539
+  name: King's (Darlington) Food Bank
+  network: Independent
+  phone: 01325469884
+  politics:
+    district: Darlington
+    mp: Peter Gibson
+    mp_parl_id: 4754
+    mp_party: Conservative
+    parliamentary_constituency: Darlington
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/darlington/
+      self: https://www.givefood.org.uk/api/2/constituency/darlington/
+    ward: North Road
+  postcode: DL3 0QT
+  secondary_phone: null
+  slug: kings-darlington
+  urls:
+    homepage: https://www.kingschurchdarlington.org/foodbank
+    html: https://www.givefood.org.uk/needs/at/kings-darlington/
+    self: https://www.givefood.org.uk/api/2/foodbank/kings-darlington/
+    shopping_list: https://www.kingschurchdarlington.org/foodbank/donations/
 - address: "Ballyloughan Presbyterian Church\r\n88 Doury Road\r\nBallymena\r\nAntrim\r\
     \nBT43 6JE"
   alt_name: null
@@ -6705,37 +6736,6 @@
     html: https://www.givefood.org.uk/needs/at/ballymena-north/
     self: https://www.givefood.org.uk/api/2/foodbank/ballymena-north/
     shopping_list: https://ballymenanorth.foodbank.org.uk/give-help/donate-food/
-- address: "King’s Church\r\nProspect Place\r\nWhessoe Road\r\nDarlington\r\nDL3 0QT"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1113455&subid=0
-    registration_id: '1113455'
-  closed: false
-  country: England
-  created: 2019-09-11 14:07:47.107690
-  email: admin@kingschurchdarlington.org
-  lat_lng: 54.54133849999999,-1.558539
-  name: King's (Darlington) Food Bank
-  network: Independent
-  phone: 01325469884
-  politics:
-    district: Darlington
-    mp: Peter Gibson
-    mp_parl_id: 4754
-    mp_party: Conservative
-    parliamentary_constituency: Darlington
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/darlington/
-      self: https://www.givefood.org.uk/api/2/constituency/darlington/
-    ward: North Road
-  postcode: DL3 0QT
-  secondary_phone: null
-  slug: kings-darlington
-  urls:
-    homepage: https://www.kingschurchdarlington.org/foodbank
-    html: https://www.givefood.org.uk/needs/at/kings-darlington/
-    self: https://www.givefood.org.uk/api/2/foodbank/kings-darlington/
-    shopping_list: https://www.kingschurchdarlington.org/foodbank/donations/
 - address: "St. Andrews Church\r\nWayneflete Street\r\nEarlsfield\r\nLondon\r\nSW18\
     \ 3QG"
   alt_name: null
@@ -7579,6 +7579,38 @@
     html: https://www.givefood.org.uk/needs/at/peeblesshire/
     self: https://www.givefood.org.uk/api/2/foodbank/peeblesshire/
     shopping_list: https://peeblesshire.foodbank.org.uk/give-help/donate-food/
+- address: "Middle Lane Methodist Church\r\nLightfoot Road\r\nMiddle Lane\r\nCrouch\
+    \ End\r\nLondon\r\nN8 8NT"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1205581&subid=0
+    registration_id: '1205581'
+  closed: false
+  country: England
+  created: 2023-11-14 16:38:38.046049
+  email: wearehornsey@gmail.com
+  lat_lng: 51.58466970000001,-0.1227118
+  name: Hornsey Food Bank
+  network: Independent
+  phone: null
+  politics:
+    district: Haringey
+    mp: Catherine West MP
+    mp_parl_id: 4523
+    mp_party: Labour
+    parliamentary_constituency: Hornsey and Friern Barnet
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hornsey-and-friern-barnet/
+      self: https://www.givefood.org.uk/api/2/constituency/hornsey-and-friern-barnet/
+    ward: Hornsey
+  postcode: N8 8NT
+  secondary_phone: null
+  slug: hornsey
+  urls:
+    homepage: https://www.hornseyfoodbank.com
+    html: https://www.givefood.org.uk/needs/at/hornsey/
+    self: https://www.givefood.org.uk/api/2/foodbank/hornsey/
+    shopping_list: https://www.hornseyfoodbank.com/get-involved
 - address: "Methil Evangelical Church\r\nBowling Green Street\r\nMethil\r\nKY8 3DH"
   alt_name: null
   charity:
@@ -7610,38 +7642,6 @@
     html: https://www.givefood.org.uk/needs/at/levenmouth/
     self: https://www.givefood.org.uk/api/2/foodbank/levenmouth/
     shopping_list: https://levenmouth.foodbank.org.uk/give-help/donate-food/
-- address: "Middle Lane Methodist Church\r\nLightfoot Road\r\nMiddle Lane\r\nCrouch\
-    \ End\r\nLondon\r\nN8 8NT"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1205581&subid=0
-    registration_id: '1205581'
-  closed: false
-  country: England
-  created: 2023-11-14 16:38:38.046049
-  email: wearehornsey@gmail.com
-  lat_lng: 51.58466970000001,-0.1227118
-  name: Hornsey Food Bank
-  network: Independent
-  phone: 07940030353
-  politics:
-    district: Haringey
-    mp: Catherine West MP
-    mp_parl_id: 4523
-    mp_party: Labour
-    parliamentary_constituency: Hornsey and Friern Barnet
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hornsey-and-friern-barnet/
-      self: https://www.givefood.org.uk/api/2/constituency/hornsey-and-friern-barnet/
-    ward: Hornsey
-  postcode: N8 8NT
-  secondary_phone: null
-  slug: hornsey
-  urls:
-    homepage: https://www.hornseyfoodbank.com
-    html: https://www.givefood.org.uk/needs/at/hornsey/
-    self: https://www.givefood.org.uk/api/2/foodbank/hornsey/
-    shopping_list: https://www.hornseyfoodbank.com/get-involved
 - address: "Unit 65 Elderpark Workspace\r\n100 Elderpark Street\r\nGlasgow\r\nG51\
     \ 3TR"
   alt_name: null
