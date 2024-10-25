@@ -754,28 +754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9866189,
-          52.1293859
-        ]
-      },
-      "properties": {
-        "name": "Towcester",
-        "slug": "towcester",
-        "address": "St John Ambulance Hall\r\nIslington Road\r\nTowcester\r\nNN12 6AU",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/towcester/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/towcester/",
-        "network": "Trussell Trust",
-        "email": "info@towcester.foodbank.org.uk",
-        "telephone": "07724832043",
-        "parliamentary_constituency": "South Northamptonshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7864677,
           52.5268374
         ]
@@ -791,6 +769,50 @@
         "email": "info@northsolihull.foodbank.org.uk",
         "telephone": "07902030134",
         "parliamentary_constituency": "Birmingham Erdington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1955545,
+          51.28326370000001
+        ]
+      },
+      "properties": {
+        "name": "Sevenoaks",
+        "slug": "sevenoaks",
+        "address": "St John the Baptist Church Hall\r\nQuaker\u2019s Hall Lane\r\nSevenoaks\r\nTN13 3TX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/sevenoaks/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/sevenoaks/",
+        "network": "Independent",
+        "email": "sevenoaksfoodbank@gmail.com",
+        "telephone": "01732451710",
+        "parliamentary_constituency": "Sevenoaks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2966244,
+          51.159463
+        ]
+      },
+      "properties": {
+        "name": "Nourish Community",
+        "slug": "nourish-community",
+        "address": "Nourish Community Foodbank\r\nUnit 5\r\nKingstanding Way\r\nTunbridge Wells\r\nTN2 3UP",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/nourish-community/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/nourish-community/",
+        "network": "Independent",
+        "email": "office@nourishcommunityfoodbank.org.uk",
+        "telephone": "01892548892",
+        "parliamentary_constituency": "Tunbridge Wells"
       }
     },
     {
@@ -842,28 +864,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1955545,
-          51.28326370000001
-        ]
-      },
-      "properties": {
-        "name": "Sevenoaks",
-        "slug": "sevenoaks",
-        "address": "St John the Baptist Church Hall\r\nQuaker\u2019s Hall Lane\r\nSevenoaks\r\nTN13 3TX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/sevenoaks/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/sevenoaks/",
-        "network": "Independent",
-        "email": "sevenoaksfoodbank@gmail.com",
-        "telephone": "01732451710",
-        "parliamentary_constituency": "Sevenoaks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.290961,
           54.612537
         ]
@@ -886,21 +886,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2966244,
-          51.159463
+          -0.9866189,
+          52.1293859
         ]
       },
       "properties": {
-        "name": "Nourish Community",
-        "slug": "nourish-community",
-        "address": "Nourish Community Foodbank\r\nUnit 5\r\nKingstanding Way\r\nTunbridge Wells\r\nTN2 3UP",
+        "name": "Towcester",
+        "slug": "towcester",
+        "address": "St John Ambulance Hall\r\nIslington Road\r\nTowcester\r\nNN12 6AU",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/nourish-community/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/nourish-community/",
-        "network": "Independent",
-        "email": "office@nourishcommunityfoodbank.org.uk",
-        "telephone": "01892548892",
-        "parliamentary_constituency": "Tunbridge Wells"
+        "url": "https://www.givefood.org.uk/needs/at/towcester/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/towcester/",
+        "network": "Trussell Trust",
+        "email": "info@towcester.foodbank.org.uk",
+        "telephone": "07724832043",
+        "parliamentary_constituency": "South Northamptonshire"
       }
     },
     {
@@ -13492,28 +13492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.6174978,
-          54.4871557
-        ]
-      },
-      "properties": {
-        "name": "Whitby",
-        "slug": "whitby",
-        "address": "Whitby Evangelical Church\r\n12 Skinner St\r\nWhitby\r\nYO21 3AJ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/whitby/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/whitby/",
-        "network": "IFAN",
-        "email": "b.g.davies141@gmail.com",
-        "telephone": "07789765696",
-        "parliamentary_constituency": "Scarborough and Whitby"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8225532,
           52.5634475
         ]
@@ -13661,6 +13639,28 @@
         "email": "info@skelmersdale.foodbank.org.uk",
         "telephone": "07989052832",
         "parliamentary_constituency": "West Lancashire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6174978,
+          54.4871557
+        ]
+      },
+      "properties": {
+        "name": "Whitby",
+        "slug": "whitby",
+        "address": "Whitby Evangelical Church\r\n12 Skinner St\r\nWhitby\r\nYO21 3AJ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/whitby/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/whitby/",
+        "network": "IFAN",
+        "email": "b.g.davies141@gmail.com",
+        "telephone": "07789765696",
+        "parliamentary_constituency": "Scarborough and Whitby"
       }
     },
     {
