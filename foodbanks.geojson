@@ -1018,28 +1018,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.6638305999999999,
-          51.91693
-        ]
-      },
-      "properties": {
-        "name": "Leighton Linslade Helpers",
-        "slug": "leighton-linslade-helpers",
-        "address": "Leighton Linslade Community Fridge\r\n30 Waterborne Walk\r\nLeighton Buzzard\r\nLU7 1DH",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/leighton-linslade-helpers/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/leighton-linslade-helpers/",
-        "network": "Independent",
-        "email": "help@leightonlinsladehelpers.org.uk",
-        "telephone": "01525837219",
-        "parliamentary_constituency": "Dunstable and Leighton Buzzard"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.0444643,
           53.8802062
         ]
@@ -1121,6 +1099,28 @@
         "email": "foodbank@thekcfoundation.co.uk",
         "telephone": "07976479111",
         "parliamentary_constituency": "Newcastle upon Tyne East and Wallsend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6638305999999999,
+          51.91693
+        ]
+      },
+      "properties": {
+        "name": "Leighton Linslade Helpers",
+        "slug": "leighton-linslade-helpers",
+        "address": "Leighton Linslade Community Fridge\r\n30 Waterborne Walk\r\nLeighton Buzzard\r\nLU7 1DH",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/leighton-linslade-helpers/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/leighton-linslade-helpers/",
+        "network": "Independent",
+        "email": "help@leightonlinsladehelpers.org.uk",
+        "telephone": "01525837219",
+        "parliamentary_constituency": "Dunstable and Leighton Buzzard"
       }
     },
     {
@@ -1590,6 +1590,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.0823029,
+          51.47085670000001
+        ]
+      },
+      "properties": {
+        "name": "Spring Community Hub",
+        "slug": "spring-community-hub",
+        "address": "The Hub\r\n86-88 Vestry Road\r\nCamberwell\r\nLondon\r\nSE5 8PQ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/spring-community-hub/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/spring-community-hub/",
+        "network": "IFAN",
+        "email": "foodbank@springcommunityhub.org.uk",
+        "telephone": "07901617189",
+        "parliamentary_constituency": "Peckham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3319917,
+          55.8639054
+        ]
+      },
+      "properties": {
+        "name": "Govan",
+        "slug": "govan",
+        "address": "16 Holmfauldhead Place\r\nGlasgow\r\nG51 4PP",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/govan/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/govan/",
+        "network": null,
+        "email": "jimandkirsty@hotmail.com",
+        "telephone": "07982231929",
+        "parliamentary_constituency": "Glasgow South West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.1821968,
           52.7685403
         ]
@@ -1656,50 +1700,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6948046,
-          53.7657864
-        ]
-      },
-      "properties": {
-        "name": "Noor",
-        "slug": "noor",
-        "address": "Noor Hall\r\nNoor St\r\nPreston\r\nPR1 1QS",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/noor/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/noor/",
-        "network": "IFAN",
-        "email": "hello@noorfoodbank.co.uk",
-        "telephone": null,
-        "parliamentary_constituency": "Preston"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3319917,
-          55.8639054
-        ]
-      },
-      "properties": {
-        "name": "Govan",
-        "slug": "govan",
-        "address": "16 Holmfauldhead Place\r\nGlasgow\r\nG51 4PP",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/govan/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/govan/",
-        "network": null,
-        "email": "jimandkirsty@hotmail.com",
-        "telephone": "07982231929",
-        "parliamentary_constituency": "Glasgow South West"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2375982,
           53.47709500000001
         ]
@@ -1744,21 +1744,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0823029,
-          51.47085670000001
+          -7.4658843,
+          54.8264619
         ]
       },
       "properties": {
-        "name": "Spring Community Hub",
-        "slug": "spring-community-hub",
-        "address": "The Hub\r\n86-88 Vestry Road\r\nCamberwell\r\nLondon\r\nSE5 8PQ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/spring-community-hub/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/spring-community-hub/",
-        "network": "IFAN",
-        "email": "foodbank@springcommunityhub.org.uk",
-        "telephone": "07901617189",
-        "parliamentary_constituency": "Peckham"
+        "name": "Strabane",
+        "slug": "strabane",
+        "address": "Grass Roots Food Market\r\n5D John Wesley Street\r\nStrabane\r\nCo Tyrone\r\nBT82 8RJ",
+        "country": "Northern Ireland",
+        "url": "https://www.givefood.org.uk/needs/at/strabane/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/strabane/",
+        "network": "Trussell Trust",
+        "email": "foodbank@strabanecommunityproject.org.uk",
+        "telephone": "02871414142",
+        "parliamentary_constituency": "West Tyrone"
       }
     },
     {
@@ -1788,21 +1788,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.4658843,
-          54.8264619
+          -2.6948046,
+          53.7657864
         ]
       },
       "properties": {
-        "name": "Strabane",
-        "slug": "strabane",
-        "address": "Grass Roots Food Market\r\n5D John Wesley Street\r\nStrabane\r\nCo Tyrone\r\nBT82 8RJ",
-        "country": "Northern Ireland",
-        "url": "https://www.givefood.org.uk/needs/at/strabane/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/strabane/",
-        "network": "Trussell Trust",
-        "email": "foodbank@strabanecommunityproject.org.uk",
-        "telephone": "02871414142",
-        "parliamentary_constituency": "West Tyrone"
+        "name": "Noor",
+        "slug": "noor",
+        "address": "Noor Hall\r\nNoor St\r\nPreston\r\nPR1 1QS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/noor/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/noor/",
+        "network": "IFAN",
+        "email": "hello@noorfoodbank.co.uk",
+        "telephone": null,
+        "parliamentary_constituency": "Preston"
       }
     },
     {
@@ -1832,43 +1832,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.8334938,
-          52.439411
+          -1.4853008,
+          53.0253812
         ]
       },
       "properties": {
-        "name": "Craven Arms",
-        "slug": "craven-arms",
-        "address": "11 Market Street\r\nCraven Arms\r\nSY7 9NW",
+        "name": "Hope for Belper",
+        "slug": "hope-for-belper",
+        "address": "Belper Baptist Church\r\nBridge Street\r\nBelper\r\nDE56 1AZ",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/craven-arms/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/craven-arms/",
+        "url": "https://www.givefood.org.uk/needs/at/hope-for-belper/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/hope-for-belper/",
         "network": "Independent",
-        "email": "angelatrew@gmail.com",
-        "telephone": "07852310514",
-        "parliamentary_constituency": "South Shropshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2280799,
-          53.486361
-        ]
-      },
-      "properties": {
-        "name": "Mustard Tree",
-        "slug": "mustard-tree",
-        "address": "110 Oldham Road\r\nAncoats\r\nManchester\r\nM4 6AG",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/mustard-tree/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/mustard-tree/",
-        "network": "Independent",
-        "email": "information@mustardtree.org.uk",
-        "telephone": "01618502282",
-        "parliamentary_constituency": "Manchester Central"
+        "email": "foodhub@hopeforbelper.com",
+        "telephone": null,
+        "parliamentary_constituency": "Mid Derbyshire"
       }
     },
     {
@@ -1964,28 +1942,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5370465999999999,
-          50.80834350000001
-        ]
-      },
-      "properties": {
-        "name": "Littlehampton & District",
-        "slug": "littlehampton-district",
-        "address": "Littlehampton Baptist Church\r\nFitzalan Road\r\nLittlehampton\r\nBN17 5NY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/littlehampton-district/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/littlehampton-district/",
-        "network": "Trussell Trust",
-        "email": "info@littlehamptondistrict.foodbank.org.uk",
-        "telephone": "07925862289",
-        "parliamentary_constituency": "Bognor Regis and Littlehampton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2700527,
           53.1255858
         ]
@@ -2008,21 +1964,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4853008,
-          53.0253812
+          -0.5370465999999999,
+          50.80834350000001
         ]
       },
       "properties": {
-        "name": "Hope for Belper",
-        "slug": "hope-for-belper",
-        "address": "Belper Baptist Church\r\nBridge Street\r\nBelper\r\nDE56 1AZ",
+        "name": "Littlehampton & District",
+        "slug": "littlehampton-district",
+        "address": "Littlehampton Baptist Church\r\nFitzalan Road\r\nLittlehampton\r\nBN17 5NY",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/hope-for-belper/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/hope-for-belper/",
+        "url": "https://www.givefood.org.uk/needs/at/littlehampton-district/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/littlehampton-district/",
+        "network": "Trussell Trust",
+        "email": "info@littlehamptondistrict.foodbank.org.uk",
+        "telephone": "07925862289",
+        "parliamentary_constituency": "Bognor Regis and Littlehampton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8334938,
+          52.439411
+        ]
+      },
+      "properties": {
+        "name": "Craven Arms",
+        "slug": "craven-arms",
+        "address": "11 Market Street\r\nCraven Arms\r\nSY7 9NW",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/craven-arms/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/craven-arms/",
         "network": "Independent",
-        "email": "foodhub@hopeforbelper.com",
-        "telephone": null,
-        "parliamentary_constituency": "Mid Derbyshire"
+        "email": "angelatrew@gmail.com",
+        "telephone": "07852310514",
+        "parliamentary_constituency": "South Shropshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2280799,
+          53.486361
+        ]
+      },
+      "properties": {
+        "name": "Mustard Tree",
+        "slug": "mustard-tree",
+        "address": "110 Oldham Road\r\nAncoats\r\nManchester\r\nM4 6AG",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/mustard-tree/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/mustard-tree/",
+        "network": "Independent",
+        "email": "information@mustardtree.org.uk",
+        "telephone": "01618502282",
+        "parliamentary_constituency": "Manchester Central"
       }
     },
     {
@@ -2140,28 +2140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2083026,
-          53.4604614
-        ]
-      },
-      "properties": {
-        "name": "Ardwick & Longsight",
-        "slug": "ardwick-longsight",
-        "address": "Transformation Community Resource Centre\r\n11 Richmond Grove\r\nLongsight\r\nM13 0LN",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/ardwick-longsight/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/ardwick-longsight/",
-        "network": "IFAN",
-        "email": "info@ardwickandlongsightfoodbank.org.uk",
-        "telephone": "01612733977",
-        "parliamentary_constituency": "Manchester Rusholme"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.1854794,
           51.5921994
         ]
@@ -2206,6 +2184,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9497506,
+          53.4439396
+        ]
+      },
+      "properties": {
+        "name": "Glossopdale",
+        "slug": "glossopdale",
+        "address": "c/o The Bureau\r\nBank House\r\n22 Henry Street\r\nGlossop\r\nSK13 8BW",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/glossopdale/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/glossopdale/",
+        "network": "Independent",
+        "email": "sarah.glossopdalefoodbank@gmail.com",
+        "telephone": "07811684282",
+        "parliamentary_constituency": "High Peak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.3246888,
           55.8935603
         ]
@@ -2228,21 +2228,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9497506,
-          53.4439396
+          -2.2083026,
+          53.4604614
         ]
       },
       "properties": {
-        "name": "Glossopdale",
-        "slug": "glossopdale",
-        "address": "c/o The Bureau\r\nBank House\r\n22 Henry Street\r\nGlossop\r\nSK13 8BW",
+        "name": "Ardwick & Longsight",
+        "slug": "ardwick-longsight",
+        "address": "Transformation Community Resource Centre\r\n11 Richmond Grove\r\nLongsight\r\nM13 0LN",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/glossopdale/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/glossopdale/",
-        "network": "Independent",
-        "email": "sarah.glossopdalefoodbank@gmail.com",
-        "telephone": "07811684282",
-        "parliamentary_constituency": "High Peak"
+        "url": "https://www.givefood.org.uk/needs/at/ardwick-longsight/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/ardwick-longsight/",
+        "network": "IFAN",
+        "email": "info@ardwickandlongsightfoodbank.org.uk",
+        "telephone": "01612733977",
+        "parliamentary_constituency": "Manchester Rusholme"
       }
     },
     {
@@ -2338,21 +2338,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2603159,
-          50.8622222
+          -0.29104,
+          52.210893
         ]
       },
       "properties": {
-        "name": "Hailsham",
-        "slug": "hailsham",
-        "address": "4 Market Square\r\nHailsham\r\nBN27 1AG",
+        "name": "St Neots",
+        "slug": "st-neots",
+        "address": "c/o Brittains Unit 2B\r\nLittle End Road\r\nEaton Socon\r\nSt Neots\r\nCambridgeshire\r\nPE19 8JH",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/hailsham/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/hailsham/",
+        "url": "https://www.givefood.org.uk/needs/at/st-neots/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/st-neots/",
         "network": "Trussell Trust",
-        "email": "info@hailsham.foodbank.org.uk",
-        "telephone": "01323398358",
-        "parliamentary_constituency": "Sussex Weald"
+        "email": "info@stneots.foodbank.org.uk",
+        "telephone": "01480475426",
+        "parliamentary_constituency": "St Neots and Mid Cambridgeshire"
       }
     },
     {
@@ -2426,21 +2426,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.29104,
-          52.210893
+          0.2603159,
+          50.8622222
         ]
       },
       "properties": {
-        "name": "St Neots",
-        "slug": "st-neots",
-        "address": "c/o Brittains Unit 2B\r\nLittle End Road\r\nEaton Socon\r\nSt Neots\r\nCambridgeshire\r\nPE19 8JH",
+        "name": "Hailsham",
+        "slug": "hailsham",
+        "address": "4 Market Square\r\nHailsham\r\nBN27 1AG",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/st-neots/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/st-neots/",
+        "url": "https://www.givefood.org.uk/needs/at/hailsham/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/hailsham/",
         "network": "Trussell Trust",
-        "email": "info@stneots.foodbank.org.uk",
-        "telephone": "01480475426",
-        "parliamentary_constituency": "St Neots and Mid Cambridgeshire"
+        "email": "info@hailsham.foodbank.org.uk",
+        "telephone": "01323398358",
+        "parliamentary_constituency": "Sussex Weald"
       }
     },
     {
@@ -19146,6 +19146,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3035024,
+          51.0562851
+        ]
+      },
+      "properties": {
+        "name": "Winchester Basics Bank",
+        "slug": "winchester-basics-bank",
+        "address": "21A Penton Place\r\nMilland Road\r\nWinchester\r\nHampshire\r\nSO23 0PZ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/winchester-basics-bank/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/winchester-basics-bank/",
+        "network": "Independent",
+        "email": "winchbbank@gmail.com",
+        "telephone": "01962855774",
+        "parliamentary_constituency": "Winchester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1381789,
           50.8339992
         ]
@@ -19205,28 +19227,6 @@
         "email": "info@sparkhill.foodbank.org.uk",
         "telephone": "01217081398",
         "parliamentary_constituency": "Birmingham Yardley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3035024,
-          51.0562851
-        ]
-      },
-      "properties": {
-        "name": "Winchester Basics Bank",
-        "slug": "winchester-basics-bank",
-        "address": "21A Penton Place\r\nMilland Road\r\nWinchester\r\nHampshire\r\nSO23 0PZ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/winchester-basics-bank/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/winchester-basics-bank/",
-        "network": "Independent",
-        "email": "winchbbank@gmail.com",
-        "telephone": "01962855774",
-        "parliamentary_constituency": "Winchester"
       }
     },
     {
