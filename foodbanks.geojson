@@ -10654,28 +10654,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4851572,
-          52.902613
-        ]
-      },
-      "properties": {
-        "name": "Market Drayton",
-        "slug": "market-drayton",
-        "address": "The Parish Rooms\r\nChurch Street\r\nMarket Drayton\r\nTF9 1AF",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/market-drayton/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/market-drayton/",
-        "network": "Trussell Trust",
-        "email": "info@marketdrayton.foodbank.org.uk",
-        "telephone": "01630654007",
-        "parliamentary_constituency": "North Shropshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0517568,
           51.5513275
         ]
@@ -10779,6 +10757,28 @@
         "email": "info@witney.foodbank.org.uk",
         "telephone": "07949442342",
         "parliamentary_constituency": "Witney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4851572,
+          52.902613
+        ]
+      },
+      "properties": {
+        "name": "Market Drayton",
+        "slug": "market-drayton",
+        "address": "The Parish Rooms\r\nChurch Street\r\nMarket Drayton\r\nTF9 1AF",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/market-drayton/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/market-drayton/",
+        "network": "Trussell Trust",
+        "email": "info@marketdrayton.foodbank.org.uk",
+        "telephone": "01630654007",
+        "parliamentary_constituency": "North Shropshire"
       }
     },
     {
@@ -19278,28 +19278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8734683,
-          52.2143612
-        ]
-      },
-      "properties": {
-        "name": "Arden",
-        "slug": "arden",
-        "address": "c/o Globe House\r\nThe Priory\r\nAlcester\r\nB49 5DZ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/arden/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/arden/",
-        "network": "Trussell Trust",
-        "email": "ardenfoodbank@gmail.com",
-        "telephone": "07733551926",
-        "parliamentary_constituency": "Stratford-on-Avon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.170397,
           52.9110545
         ]
@@ -19403,6 +19381,28 @@
         "email": "info@leekdistrict.foodbank.org.uk",
         "telephone": "01538373289",
         "parliamentary_constituency": "Staffordshire Moorlands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8734683,
+          52.2143612
+        ]
+      },
+      "properties": {
+        "name": "Arden",
+        "slug": "arden",
+        "address": "c/o Globe House\r\nThe Priory\r\nAlcester\r\nB49 5DZ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/arden/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/arden/",
+        "network": "Trussell Trust",
+        "email": "ardenfoodbank@gmail.com",
+        "telephone": "07733551926",
+        "parliamentary_constituency": "Stratford-on-Avon"
       }
     },
     {
@@ -19806,43 +19806,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3939499,
-          52.7509473
+          -0.1741501,
+          50.8320506
         ]
       },
       "properties": {
-        "name": "King's Lynn",
-        "slug": "kings-lynn",
-        "address": "TS Vancouver Building\r\nSt Margaret's Lane\r\nKing's Lynn\r\nPE30 5DS",
+        "name": "Shoreham",
+        "slug": "shoreham",
+        "address": "Oaks Trust Ltd\r\n21/23 Clarendon Villas\r\nHove\r\nEast Sussex\r\nBN3 3RE",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/kings-lynn/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/kings-lynn/",
+        "url": "https://www.givefood.org.uk/needs/at/shoreham/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/shoreham/",
         "network": "Trussell Trust",
-        "email": "info@kingslynn.foodbank.org.uk",
-        "telephone": "07582558143",
-        "parliamentary_constituency": "North West Norfolk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3927317,
-          51.43546070000001
-        ]
-      },
-      "properties": {
-        "name": "Gravesham",
-        "slug": "gravesham",
-        "address": "Riverside Community Centre\r\nDickens Road\r\nGravesend\r\nKent\r\nDA12 2JY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/gravesham/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/gravesham/",
-        "network": "Trussell Trust",
-        "email": "info@graveshamfoodbank.org.uk",
-        "telephone": "01474559555",
-        "parliamentary_constituency": "Gravesham"
+        "email": "info@shoreham.foodbank.org.uk",
+        "telephone": "07708384906",
+        "parliamentary_constituency": "Hove and Portslade"
       }
     },
     {
@@ -19894,28 +19872,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.045339999999999,
-          54.5119048
-        ]
-      },
-      "properties": {
-        "name": "Lisburn",
-        "slug": "lisburn",
-        "address": "1-3 Graham Gardens\r\nLisburn\r\nBT28 1XE",
-        "country": "Northern Ireland",
-        "url": "https://www.givefood.org.uk/needs/at/lisburn/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/lisburn/",
-        "network": "Trussell Trust",
-        "email": "team@lisburnfoodbank.org",
-        "telephone": "07756965868",
-        "parliamentary_constituency": "Lagan Valley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.4563835999999999,
           51.5721724
         ]
@@ -19931,6 +19887,28 @@
         "email": "info@basildon.foodbank.org.uk",
         "telephone": "07424660862",
         "parliamentary_constituency": "Basildon and Billericay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3939499,
+          52.7509473
+        ]
+      },
+      "properties": {
+        "name": "King's Lynn",
+        "slug": "kings-lynn",
+        "address": "TS Vancouver Building\r\nSt Margaret's Lane\r\nKing's Lynn\r\nPE30 5DS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/kings-lynn/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/kings-lynn/",
+        "network": "Trussell Trust",
+        "email": "info@kingslynn.foodbank.org.uk",
+        "telephone": "07582558143",
+        "parliamentary_constituency": "North West Norfolk"
       }
     },
     {
@@ -19960,6 +19938,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.3927317,
+          51.43546070000001
+        ]
+      },
+      "properties": {
+        "name": "Gravesham",
+        "slug": "gravesham",
+        "address": "Riverside Community Centre\r\nDickens Road\r\nGravesend\r\nKent\r\nDA12 2JY",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/gravesham/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/gravesham/",
+        "network": "Trussell Trust",
+        "email": "info@graveshamfoodbank.org.uk",
+        "telephone": "01474559555",
+        "parliamentary_constituency": "Gravesham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.4701045999999999,
           51.7529143
         ]
@@ -19982,21 +19982,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1741501,
-          50.8320506
+          -6.045339999999999,
+          54.5119048
         ]
       },
       "properties": {
-        "name": "Shoreham",
-        "slug": "shoreham",
-        "address": "Oaks Trust Ltd\r\n21/23 Clarendon Villas\r\nHove\r\nEast Sussex\r\nBN3 3RE",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/shoreham/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/shoreham/",
+        "name": "Lisburn",
+        "slug": "lisburn",
+        "address": "1-3 Graham Gardens\r\nLisburn\r\nBT28 1XE",
+        "country": "Northern Ireland",
+        "url": "https://www.givefood.org.uk/needs/at/lisburn/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/lisburn/",
         "network": "Trussell Trust",
-        "email": "info@shoreham.foodbank.org.uk",
-        "telephone": "07708384906",
-        "parliamentary_constituency": "Hove and Portslade"
+        "email": "team@lisburnfoodbank.org",
+        "telephone": "07756965868",
+        "parliamentary_constituency": "Lagan Valley"
       }
     },
     {
