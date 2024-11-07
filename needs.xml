@@ -1,6 +1,40 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>9e017a0d</id>
+		<found>2024-11-07T14:54:16.915729</found>
+		<foodbank>
+			<name>Epsom and Ewell</name>
+			<slug>epsom-and-ewell</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/epsom-and-ewell/</self>
+				<html>https://www.givefood.org.uk/needs/at/epsom-and-ewell/</html>
+			</urls>
+		</foodbank>
+		<needs>Cooking Sauces
+Packet Soup
+Beans/Pasta With Meat
+Brown Sauce/Mayonnaise
+Powdered Milk
+Instant Coffee
+Honey/Chocolate Spread
+Long Life Sponge Puddings
+Chocolate Biscuit Bars
+Crisps
+Sugar (500Gr)
+Squash
+Long Life Juice
+Adult Toothbrushes
+Shaving Foam
+Loo Roll
+Female Deodorant
+Hair Conditioner
+Washing Up Liquid</needs>
+		<excess>Dog Food
+Cat Food</excess>
+		<self>https://www.givefood.org.uk/api/2/need/9e017a0d/</self>
+	</need>
+	<need>
 		<id>4a387aa2</id>
 		<found>2024-11-07T14:33:52.121017</found>
 		<foodbank>
@@ -3043,45 +3077,5 @@ Pasta
 Cereal
 Sanitary Items</excess>
 		<self>https://www.givefood.org.uk/api/2/need/bb190018/</self>
-	</need>
-	<need>
-		<id>84c799de</id>
-		<found>2024-11-02T18:00:09.134410</found>
-		<foodbank>
-			<name>Slough</name>
-			<slug>slough</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/slough/</self>
-				<html>https://www.givefood.org.uk/needs/at/slough/</html>
-			</urls>
-		</foodbank>
-		<needs>Soup (Tinned)
-Cooking Sauces (Long-Life)
-Fruit Juice (Long-Life)
-Milk (Long-Life)
-Fruit (Tinned)
-Tuna (Tinned)
-Meat (Tinned)
-Vegetarian Meals (Tinned)
-Vegetables (Tinned)
-Rice Pudding (Long-Life)
-Instant Mash
-Sponge Puddings (Long-Life)
-Custard (Long-Life)
-Coffee &amp; Tea (Small Sizes)
-Tomatoes (Tinned)
-Deodorants
-Sanitary Pads
-Toilet Rolls
-Washing Up Liquid
-Shampoo
-Shaving Foam/Gel
-Toothpaste
-Child Toothbrushes
-Nappies Size 6+,7 &amp; 8
-Soap
-Strong Carrier Bags</needs>
-		<excess>Pasta</excess>
-		<self>https://www.givefood.org.uk/api/2/need/84c799de/</self>
 	</need>
 </needs>
