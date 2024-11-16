@@ -1,6 +1,64 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>6b256235</id>
+		<found>2024-11-16T16:29:34.128834</found>
+		<foodbank>
+			<name>Bedford</name>
+			<slug>bedford</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/bedford/</self>
+				<html>https://www.givefood.org.uk/needs/at/bedford/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Meat
+Tinned Tuna
+Jars Of Jam
+Tinned Fruit
+Cup A Soup
+Long Life Fruit Juice
+Long Life Sponge Puddings
+Coffee
+Long Life Milk
+Tin Openers</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/6b256235/</self>
+	</need>
+	<need>
+		<id>fb816f2f</id>
+		<found>2024-11-16T15:59:05.855449</found>
+		<foodbank>
+			<name>Hinckley Area</name>
+			<slug>hinckley-area</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/hinckley-area/</self>
+				<html>https://www.givefood.org.uk/needs/at/hinckley-area/</html>
+			</urls>
+		</foodbank>
+		<needs>Small Tins Of Baked Beans (200 G)
+Tinned Fish (105 G)
+Small Tins Of Veg (250 G)
+Large Tins Of Veg (325 G)
+Puddings/Long Dated Cakes
+Coffee (100 G)
+Small Tins Of Fruit (Up To 320 G)
+Biscuits
+UHT Milk
+Confectionery
+Small Cereal (Up To 12 Portions)
+Fruit Juice (1 Litre)
+Cooked Cold Meat (Chicken/Ham)
+Ketchup
+40S Tea Bags
+Sugar (500 G)
+Shampoo
+Dog Food
+Feminine Hygiene
+Toothpaste</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/fb816f2f/</self>
+	</need>
+	<need>
 		<id>cf8c433b</id>
 		<found>2024-11-16T11:37:02.651837</found>
 		<foodbank>
@@ -2617,50 +2675,5 @@ Spreads/Jams
 UHT Fruit Juice</needs>
 		<excess>Pulses</excess>
 		<self>https://www.givefood.org.uk/api/2/need/00eadd5d/</self>
-	</need>
-	<need>
-		<id>d222894b</id>
-		<found>2024-11-08T06:36:01.899523</found>
-		<foodbank>
-			<name>Aylesbury</name>
-			<slug>aylesbury</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/aylesbury/</self>
-				<html>https://www.givefood.org.uk/needs/at/aylesbury/</html>
-			</urls>
-		</foodbank>
-		<needs>Tea Or Instant Coffee
-Tinned Or Packet Soup
-Tinned Meat
-Tinned Fish</needs>
-		<excess>Tinned Vegetables
-Breakfast Cereal</excess>
-		<self>https://www.givefood.org.uk/api/2/need/d222894b/</self>
-	</need>
-	<need>
-		<id>121afa9c</id>
-		<found>2024-11-08T00:52:04.502330</found>
-		<foodbank>
-			<name>Daventry</name>
-			<slug>daventry</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/daventry/</self>
-				<html>https://www.givefood.org.uk/needs/at/daventry/</html>
-			</urls>
-		</foodbank>
-		<needs>Long Life Milk
-Fray Bentos Pies (Various)
-Tinned Curry (Various)
-Meatballs
-Tinned Stewed Steak
-Tinned Carrots
-Tinned Potatoes
-Deodorant (Male &amp; Female)
-Conditioner
-Shampoo
-2 In 1 Shampoo &amp; Conditioner
-Toothpaste</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/121afa9c/</self>
 	</need>
 </needs>
