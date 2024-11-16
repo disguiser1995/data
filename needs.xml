@@ -1,31 +1,6 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
-		<id>10cbda46</id>
-		<found>2024-11-16T17:48:04.801744</found>
-		<foodbank>
-			<name>Hayle</name>
-			<slug>hayle</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/hayle/</self>
-				<html>https://www.givefood.org.uk/needs/at/hayle/</html>
-			</urls>
-		</foodbank>
-		<needs>Canned Meat Products (E.g. Hot Dogs, Meatballs, Ravioli, Spaghetti Bolognese, Sausage And Beans, Corned Beef And Ham)
-Canned Fish Products (E.g. Tuna, Sardines And Mackerel)
-Canned Macaroni Cheese
-Canned Rice Pudding And Custard
-Instant Coffee
-Jam
-Peanut Butter
-Toiletries (Especially Toilet Rolls, Toothbrushes, Toothpaste, Non-Gender Specific Shampoo And Shower Gel, Period Products)
-Dog And Cat Food
-Laundry Liquid Or Powder - Non Bio
-Washing Up Liquid</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/10cbda46/</self>
-	</need>
-	<need>
 		<id>7370d1bf</id>
 		<found>2024-11-16T16:38:21.332610</found>
 		<foodbank>
@@ -2689,5 +2664,32 @@ UHT Milk</needs>
 		<excess>Pasta
 Cereal</excess>
 		<self>https://www.givefood.org.uk/api/2/need/5d13db8f/</self>
+	</need>
+	<need>
+		<id>5326e099</id>
+		<found>2024-11-08T11:43:33.778907</found>
+		<foodbank>
+			<name>Black Country</name>
+			<slug>black-country</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/black-country/</self>
+				<html>https://www.givefood.org.uk/needs/at/black-country/</html>
+			</urls>
+		</foodbank>
+		<needs>Tea Bags Box Of 40's
+Small Jar Coffee
+Long Life Milk
+Tinned Spaghetti
+Tinned Fish
+Breakfast Cereal
+Jars Of Pasta Sauce/cooking Sauce
+Instant Noodles
+Tinned Fruit In Juice
+Roll On Deodorant
+Shower Gel
+Bars Of Soap
+Toilet Roll</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/5326e099/</self>
 	</need>
 </needs>
