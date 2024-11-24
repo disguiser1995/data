@@ -7461,6 +7461,37 @@
     html: https://www.givefood.org.uk/needs/at/newcastle-staffs/
     self: https://www.givefood.org.uk/api/2/foodbank/newcastle-staffs/
     shopping_list: https://newcastlestaffs.foodbank.org.uk/give-help/donate-food/
+- address: "Vestry Hall\r\nNeasden Lane\r\nLondon\r\nNW10 2TS"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2020-01-24 16:32:14.860173
+  email: info@brent.foodbank.org.uk
+  lat_lng: 51.5496009,-0.2492455
+  name: Brent Food Bank
+  network: Trussell
+  phone: 02037455972
+  politics:
+    district: Brent
+    mp: Dawn Butler
+    mp_parl_id: 1489
+    mp_party: Labour
+    parliamentary_constituency: Brent East
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/brent-east/
+      self: https://www.givefood.org.uk/api/2/constituency/brent-east/
+    ward: Roundwood
+  postcode: NW10 2TS
+  secondary_phone: null
+  slug: brent
+  urls:
+    homepage: https://brent.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/brent/
+    self: https://www.givefood.org.uk/api/2/foodbank/brent/
+    shopping_list: https://brent.foodbank.org.uk/give-help/donate-food/
 - address: "Methodist Church\r\nBerry Lane\r\nRickmansworth\r\nHertfordshire\r\nWD3\
     \ 7HJ"
   alt_name: null
@@ -7713,37 +7744,6 @@
     html: https://www.givefood.org.uk/needs/at/canterbury/
     self: https://www.givefood.org.uk/api/2/foodbank/canterbury/
     shopping_list: https://canterburyfoodbank.org/
-- address: "Vestry Hall\r\nNeasden Lane\r\nLondon\r\nNW10 2TS"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2020-01-24 16:32:14.860173
-  email: info@brent.foodbank.org.uk
-  lat_lng: 51.5496009,-0.2492455
-  name: Brent Food Bank
-  network: Trussell
-  phone: 02037455972
-  politics:
-    district: Brent
-    mp: Dawn Butler
-    mp_parl_id: 1489
-    mp_party: Labour
-    parliamentary_constituency: Brent East
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/brent-east/
-      self: https://www.givefood.org.uk/api/2/constituency/brent-east/
-    ward: Roundwood
-  postcode: NW10 2TS
-  secondary_phone: null
-  slug: brent
-  urls:
-    homepage: https://brent.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/brent/
-    self: https://www.givefood.org.uk/api/2/foodbank/brent/
-    shopping_list: https://brent.foodbank.org.uk/give-help/donate-food/
 - address: "St John Ambulance Hall\r\nIslington Road\r\nTowcester\r\nNN12 6AU"
   alt_name: null
   charity:
