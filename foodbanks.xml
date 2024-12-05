@@ -18183,45 +18183,6 @@ FK10 2DR</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>GowanbankGRUB Food Bank</name>
-		<alt_name/>
-		<slug>gowanbankgrub</slug>
-		<phone>01413195410</phone>
-		<secondary_phone/>
-		<email>gbpcsecretary@gmail.com</email>
-		<address>415b Peat Road
-Glasgow
-G53 6SD</address>
-		<postcode>G53 6SD</postcode>
-		<closed>false</closed>
-		<country>Scotland</country>
-		<lat_lng>55.8146245,-4.360313</lat_lng>
-		<network>Independent</network>
-		<created>2021-04-03T10:58:56.823521</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/gowanbankgrub/</self>
-			<html>https://www.givefood.org.uk/needs/at/gowanbankgrub/</html>
-			<homepage>https://www.facebook.com/thegowanbankhub/</homepage>
-			<shopping_list>https://www.facebook.com/thegowanbankhub/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Glasgow South West</parliamentary_constituency>
-			<mp>Chris Stephens</mp>
-			<mp_party>Scottish National</mp_party>
-			<mp_parl_id>4463</mp_parl_id>
-			<ward>Greater Pollok</ward>
-			<district>Glasgow City</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/glasgow-south-west/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/glasgow-south-west/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Quinton Food Bank</name>
 		<alt_name/>
 		<slug>quinton</slug>
@@ -18341,6 +18302,45 @@ NE6 3DP</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/newcastle-upon-tyne-east-and-wallsend/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/newcastle-upon-tyne-east-and-wallsend/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>GowanbankGRUB Food Bank</name>
+		<alt_name/>
+		<slug>gowanbankgrub</slug>
+		<phone>01413195410</phone>
+		<secondary_phone/>
+		<email>gbpcsecretary@gmail.com</email>
+		<address>415b Peat Road
+Glasgow
+G53 6SD</address>
+		<postcode>G53 6SD</postcode>
+		<closed>false</closed>
+		<country>Scotland</country>
+		<lat_lng>55.8146245,-4.360313</lat_lng>
+		<network>Independent</network>
+		<created>2021-04-03T10:58:56.823521</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/gowanbankgrub/</self>
+			<html>https://www.givefood.org.uk/needs/at/gowanbankgrub/</html>
+			<homepage>https://www.facebook.com/thegowanbankhub/</homepage>
+			<shopping_list>https://www.facebook.com/thegowanbankhub/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Glasgow South West</parliamentary_constituency>
+			<mp>Chris Stephens</mp>
+			<mp_party>Scottish National</mp_party>
+			<mp_parl_id>4463</mp_parl_id>
+			<ward>Greater Pollok</ward>
+			<district>Glasgow City</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/glasgow-south-west/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/glasgow-south-west/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -33176,6 +33176,46 @@ OX20 1RS</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Hammersmith &amp; Fulham Food Bank</name>
+		<alt_name/>
+		<slug>hammersmith-fulham</slug>
+		<phone>02077313693</phone>
+		<secondary_phone/>
+		<email>info@hammersmithfulham.foodbank.org.uk</email>
+		<address>St. Matthews Church
+Wandsworth Bridge Road
+London
+SW6 2TX</address>
+		<postcode>SW6 2TX</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.4688764,-0.1905366</lat_lng>
+		<network>Trussell</network>
+		<created>2019-08-25T19:17:46.430394</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/hammersmith-fulham/</self>
+			<html>https://www.givefood.org.uk/needs/at/hammersmith-fulham/</html>
+			<homepage>https://hammersmithfulham.foodbank.org.uk</homepage>
+			<shopping_list>https://hammersmithfulham.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1148358</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1148358&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Chelsea and Fulham</parliamentary_constituency>
+			<mp>Greg Hands</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>1526</mp_parl_id>
+			<ward>Sands End</ward>
+			<district>Hammersmith and Fulham</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/chelsea-and-fulham/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/chelsea-and-fulham/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Silklife Food Bank</name>
 		<alt_name/>
 		<slug>silklife</slug>
@@ -33292,46 +33332,6 @@ NR29 4PX</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/great-yarmouth/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/great-yarmouth/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Hammersmith &amp; Fulham Food Bank</name>
-		<alt_name/>
-		<slug>hammersmith-fulham</slug>
-		<phone>02077313693</phone>
-		<secondary_phone/>
-		<email>info@hammersmithfulham.foodbank.org.uk</email>
-		<address>St. Matthews Church
-Wandsworth Bridge Road
-London
-SW6 2TX</address>
-		<postcode>SW6 2TX</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.4688764,-0.1905366</lat_lng>
-		<network>Trussell</network>
-		<created>2019-08-25T19:17:46.430394</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/hammersmith-fulham/</self>
-			<html>https://www.givefood.org.uk/needs/at/hammersmith-fulham/</html>
-			<homepage>https://hammersmithfulham.foodbank.org.uk</homepage>
-			<shopping_list>https://hammersmithfulham.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1148358</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1148358&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Chelsea and Fulham</parliamentary_constituency>
-			<mp>Greg Hands</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>1526</mp_parl_id>
-			<ward>Sands End</ward>
-			<district>Hammersmith and Fulham</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/chelsea-and-fulham/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/chelsea-and-fulham/</html>
 			</urls>
 		</politics>
 	</foodbank>
