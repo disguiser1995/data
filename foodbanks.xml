@@ -4685,46 +4685,6 @@ KA22 8EU</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Hart Food Bank</name>
-		<alt_name/>
-		<slug>hart</slug>
-		<phone>07926806256</phone>
-		<secondary_phone/>
-		<email>hart.foodbk@hotmail.co.uk</email>
-		<address>c/o Fleet Baptist Church
-115 Clarence Road
-Fleet
-GU51 3RS</address>
-		<postcode>GU51 3RS</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.279393,-0.840204</lat_lng>
-		<network>Trussell</network>
-		<created>2019-12-28T00:16:19.397783</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/hart/</self>
-			<html>https://www.givefood.org.uk/needs/at/hart/</html>
-			<homepage>https://hart.foodbank.org.uk</homepage>
-			<shopping_list>https://hart.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North East Hampshire</parliamentary_constituency>
-			<mp>Ranil Jayawardena</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4498</mp_parl_id>
-			<ward>Fleet Central</ward>
-			<district>Hart</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-east-hampshire/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-east-hampshire/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Abergavenny Food Bank</name>
 		<alt_name/>
 		<slug>abergavenny</slug>
@@ -4801,6 +4761,46 @@ LL42 1AD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/dwyfor-meirionnydd/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/dwyfor-meirionnydd/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Hart Food Bank</name>
+		<alt_name/>
+		<slug>hart</slug>
+		<phone>07926806256</phone>
+		<secondary_phone/>
+		<email>hart.foodbk@hotmail.co.uk</email>
+		<address>c/o Fleet Baptist Church
+115 Clarence Road
+Fleet
+GU51 3RS</address>
+		<postcode>GU51 3RS</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.279393,-0.840204</lat_lng>
+		<network>Trussell</network>
+		<created>2019-12-28T00:16:19.397783</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/hart/</self>
+			<html>https://www.givefood.org.uk/needs/at/hart/</html>
+			<homepage>https://hart.foodbank.org.uk</homepage>
+			<shopping_list>https://hart.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North East Hampshire</parliamentary_constituency>
+			<mp>Ranil Jayawardena</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4498</mp_parl_id>
+			<ward>Fleet Central</ward>
+			<district>Hart</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-east-hampshire/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-east-hampshire/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -14222,45 +14222,6 @@ NP25 3LR</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Elim Maldon Food Bank</name>
-		<alt_name/>
-		<slug>elim-maldon</slug>
-		<phone>07940830855</phone>
-		<secondary_phone/>
-		<email>rob_sefton@hotmail.com</email>
-		<address>17 Wantz Road
-Maldon
-CM9 5DB</address>
-		<postcode>CM9 5DB</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.7292211,0.6823189</lat_lng>
-		<network>IFAN</network>
-		<created>2020-09-15T09:39:11.934187</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/elim-maldon/</self>
-			<html>https://www.givefood.org.uk/needs/at/elim-maldon/</html>
-			<homepage>http://elimmaldon.org.uk/maldon-food-pantry</homepage>
-			<shopping_list>http://elimmaldon.org.uk/maldon-food-pantry/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Maldon</parliamentary_constituency>
-			<mp>John Whittingdale</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>39</mp_parl_id>
-			<ward>Maldon East</ward>
-			<district>Maldon</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/maldon/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/maldon/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Pontypridd Food Bank</name>
 		<alt_name/>
 		<slug>pontypridd</slug>
@@ -14339,6 +14300,45 @@ BT42 3FF</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/north-antrim/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/north-antrim/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Elim Maldon Food Bank</name>
+		<alt_name/>
+		<slug>elim-maldon</slug>
+		<phone>07940830855</phone>
+		<secondary_phone/>
+		<email>rob_sefton@hotmail.com</email>
+		<address>17 Wantz Road
+Maldon
+CM9 5DB</address>
+		<postcode>CM9 5DB</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.7292211,0.6823189</lat_lng>
+		<network>IFAN</network>
+		<created>2020-09-15T09:39:11.934187</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/elim-maldon/</self>
+			<html>https://www.givefood.org.uk/needs/at/elim-maldon/</html>
+			<homepage>http://elimmaldon.org.uk/maldon-food-pantry</homepage>
+			<shopping_list>http://elimmaldon.org.uk/maldon-food-pantry/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Maldon</parliamentary_constituency>
+			<mp>John Whittingdale</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>39</mp_parl_id>
+			<ward>Maldon East</ward>
+			<district>Maldon</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/maldon/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/maldon/</html>
 			</urls>
 		</politics>
 	</foodbank>
