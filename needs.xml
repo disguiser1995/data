@@ -1,6 +1,47 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>a480a750</id>
+		<found>2025-01-08T21:48:55.245540</found>
+		<foodbank>
+			<name>Shrewsbury</name>
+			<slug>shrewsbury</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/shrewsbury/</self>
+				<html>https://www.givefood.org.uk/needs/at/shrewsbury/</html>
+			</urls>
+		</foodbank>
+		<needs>Rice Pudding
+Tinned Tomatoes
+Tinned Potatoes
+Tinned Hot Dogs
+Tinned Meatballs</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/a480a750/</self>
+	</need>
+	<need>
+		<id>59b16395</id>
+		<found>2025-01-08T21:34:41.520046</found>
+		<foodbank>
+			<name>Harrogate District</name>
+			<slug>harrogate-district</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/harrogate-district/</self>
+				<html>https://www.givefood.org.uk/needs/at/harrogate-district/</html>
+			</urls>
+		</foodbank>
+		<needs>Strong Carrier Bags
+Tinned Meat
+Laundry Pods
+Washing-Up Liquid
+UHT Milk
+Sponge Puddings
+Female Deodorant
+Male Deodorant</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/59b16395/</self>
+	</need>
+	<need>
 		<id>4780efba</id>
 		<found>2025-01-08T21:11:52.871785</found>
 		<foodbank>
@@ -2601,62 +2642,5 @@ Toilet Roll
 Bars Of Soap</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/8773fd98/</self>
-	</need>
-	<need>
-		<id>67a95392</id>
-		<found>2024-12-25T20:57:27.983304</found>
-		<foodbank>
-			<name>Penryn &amp; Falmouth</name>
-			<slug>penryn-falmouth</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/penryn-falmouth/</self>
-				<html>https://www.givefood.org.uk/needs/at/penryn-falmouth/</html>
-			</urls>
-		</foodbank>
-		<needs>Toilet Rolls
-Longlife Semi-Skimmed Milk
-Squash- Small Bottles
-Breakfast Cereals
-Hand Soap
-Laundry Capsules
-Nappies - Sizes 5, 6 And 7</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/67a95392/</self>
-	</need>
-	<need>
-		<id>1f9c8caf</id>
-		<found>2024-12-25T09:45:10.258917</found>
-		<foodbank>
-			<name>Luton</name>
-			<slug>luton</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/luton/</self>
-				<html>https://www.givefood.org.uk/needs/at/luton/</html>
-			</urls>
-		</foodbank>
-		<needs>Milk (UHT)
-Dried Rice (500g)
-Meat (Tinned)
-Vegetables
-Fruit Juice
-Cereal
-Rice Pudding (Tinned)
-Instant Noodles
-Custard (Tinned)
-Vegetables (Tinned)
-Fruit (Tinned)
-Fruit Juice (Carton)
-Soup
-Baked Beans (Tinned)
-Tomatoes (Tinned)
-Fish (Tinned)
-Tinned Pasta In Sauce
-Sauce For Pasta
-Breakfast Cereal
-Tea Bags
-Biscuits (Single Packs)
-Sugar (500g)</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/1f9c8caf/</self>
 	</need>
 </needs>
