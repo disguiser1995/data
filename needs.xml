@@ -1,6 +1,28 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>20f68a2d</id>
+		<found>2025-01-08T01:14:00.675650</found>
+		<foodbank>
+			<name>Arden</name>
+			<slug>arden</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/arden/</self>
+				<html>https://www.givefood.org.uk/needs/at/arden/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Fruit
+Tinned Cold Meat
+Instant Mashed Potato
+Tinned Rice Pudding
+Coffee
+Shower Gel
+Shampoo
+Roll-On Deodorant</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/20f68a2d/</self>
+	</need>
+	<need>
 		<id>7a675276</id>
 		<found>2025-01-08T01:09:48.982894</found>
 		<foodbank>
@@ -2706,28 +2728,5 @@ Large Bottles Of Coke Or Lemonade
 Cooking Ingredients Or Sauces
 Tinned Macaroni Cheese</excess>
 		<self>https://www.givefood.org.uk/api/2/need/7bf463eb/</self>
-	</need>
-	<need>
-		<id>5b96c2d2</id>
-		<found>2024-12-23T17:19:26.547814</found>
-		<foodbank>
-			<name>Rugby</name>
-			<slug>rugby</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/rugby/</self>
-				<html>https://www.givefood.org.uk/needs/at/rugby/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Snack Meals
-Tinned Meat
-Washing Up Liquid
-Good Strong Carrier Bags
-Mashed Potato
-Cuppa Soup
-Cream Crackers</needs>
-		<excess>Baked Beans
-Pasta
-Soup</excess>
-		<self>https://www.givefood.org.uk/api/2/need/5b96c2d2/</self>
 	</need>
 </needs>
