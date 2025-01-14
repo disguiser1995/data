@@ -1,30 +1,6 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
-		<id>360d57e8</id>
-		<found>2025-01-14T10:00:14.500998</found>
-		<foodbank>
-			<name>Market Drayton</name>
-			<slug>market-drayton</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/market-drayton/</self>
-				<html>https://www.givefood.org.uk/needs/at/market-drayton/</html>
-			</urls>
-		</foodbank>
-		<needs>Toilet Rolls
-Tinned Fruit
-Tinned Spaghetti
-Full Fat (Blue) UHT Milk
-Cartons Of Long Life Fruit Juice
-Biscuits</needs>
-		<excess>Cereals
-Baked Beans
-Tea
-Rice
-Pasta</excess>
-		<self>https://www.givefood.org.uk/api/2/need/360d57e8/</self>
-	</need>
-	<need>
 		<id>ade880ba</id>
 		<found>2025-01-13T22:52:47.804164</found>
 		<foodbank>
@@ -2675,5 +2651,24 @@ Men And Women's Deodorant</needs>
 		<excess>Baby Products And Nappies
 Toilet Rolls</excess>
 		<self>https://www.givefood.org.uk/api/2/need/cb54c376/</self>
+	</need>
+	<need>
+		<id>7780e907</id>
+		<found>2025-01-06T14:46:47.594780</found>
+		<foodbank>
+			<name>Clevedon District</name>
+			<slug>clevedon-district</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/clevedon-district/</self>
+				<html>https://www.givefood.org.uk/needs/at/clevedon-district/</html>
+			</urls>
+		</foodbank>
+		<needs>Toilet Rolls
+Long Life Milk
+Antibacterial Spray
+Washing Powder
+Washing-Up Liquid</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/7780e907/</self>
 	</need>
 </needs>
