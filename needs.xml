@@ -1,6 +1,31 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>d184ddb5</id>
+		<found>2025-01-15T14:11:55.659052</found>
+		<foodbank>
+			<name>Ringwood</name>
+			<slug>ringwood</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/ringwood/</self>
+				<html>https://www.givefood.org.uk/needs/at/ringwood/</html>
+			</urls>
+		</foodbank>
+		<needs>Sponge Puddings
+Tinned Carrots
+Tinned Meat Pies
+Tinned Cold Meat
+Coffee
+Jam
+Rice Pudding
+Custard</needs>
+		<excess>Cereal
+Pasta (Dried)
+Tea
+Biscuits</excess>
+		<self>https://www.givefood.org.uk/api/2/need/d184ddb5/</self>
+	</need>
+	<need>
 		<id>e9bff38b</id>
 		<found>2025-01-15T08:09:12.275879</found>
 		<foodbank>
@@ -2621,27 +2646,5 @@ UHT Semi-Skimmed Milk
 UHT Full Fat Milk</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/c900d6b5/</self>
-	</need>
-	<need>
-		<id>ddcfd997</id>
-		<found>2025-01-06T21:47:10.849850</found>
-		<foodbank>
-			<name>Bromley Borough</name>
-			<slug>bromley-borough</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/bromley-borough/</self>
-				<html>https://www.givefood.org.uk/needs/at/bromley-borough/</html>
-			</urls>
-		</foodbank>
-		<needs>Cereals
-Cooking Sauces
-Squash
-Sugar
-Multi Surface Wipes/Sprays</needs>
-		<excess>Pasta
-Biscuits
-Cereal
-Tea</excess>
-		<self>https://www.givefood.org.uk/api/2/need/ddcfd997/</self>
 	</need>
 </needs>
