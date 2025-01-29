@@ -1,35 +1,34 @@
-- address: "The Leathwaite Centre\r\n227-229 Winchester Road\r\nStretford\r\nManchester\r\
-    \nM32 9PT"
+- address: "174/175 Cowick Street\r\nExeter\r\nDevon\r\nEX4 1AA"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1167416&subid=0
-    registration_id: '1167416'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1128795&subid=0
+    registration_id: '1128795'
   closed: false
   country: England
-  created: 2019-12-28 00:12:08.235832
-  email: info@stretford.foodbank.org.uk
-  lat_lng: 53.452427,-2.3350535
-  name: Stretford Food Bank
+  created: 2020-01-14 16:46:05.933510
+  email: info@exeterfoodbank.org.uk
+  lat_lng: 50.7177382,-3.5387787
+  name: Exeter Food Bank
   network: Trussell
-  phone: '01612430720'
+  phone: 07818226524
   politics:
-    district: Trafford
-    mp: Kate Green
-    mp_parl_id: 4120
-    mp_party: Labour
-    parliamentary_constituency: Stretford and Urmston
+    district: Exeter
+    mp: Simon Jupp
+    mp_parl_id: 4862
+    mp_party: Conservative
+    parliamentary_constituency: Exeter
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/stretford-and-urmston/
-      self: https://www.givefood.org.uk/api/2/constituency/stretford-and-urmston/
-    ward: Lostock & Barton
-  postcode: M32 9PT
+      html: https://www.givefood.org.uk/needs/in/constituency/exeter/
+      self: https://www.givefood.org.uk/api/2/constituency/exeter/
+    ward: St Thomas
+  postcode: EX4 1AA
   secondary_phone: null
-  slug: stretford
+  slug: exeter
   urls:
-    homepage: https://stretford.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/stretford/
-    self: https://www.givefood.org.uk/api/2/foodbank/stretford/
-    shopping_list: https://stretford.foodbank.org.uk/give-help/donate-food/
+    homepage: https://exeterfoodbank.co.uk
+    html: https://www.givefood.org.uk/needs/at/exeter/
+    self: https://www.givefood.org.uk/api/2/foodbank/exeter/
+    shopping_list: https://exeterfoodbank.co.uk/give-help/
 - address: "Aspect House\r\nWestbury Road\r\nFareham\r\nHants\r\nPO16 7XU"
   alt_name: null
   charity:
@@ -154,37 +153,6 @@
     html: https://www.givefood.org.uk/needs/at/himmah/
     self: https://www.givefood.org.uk/api/2/foodbank/himmah/
     shopping_list: https://himmah.org/food/
-- address: "174/175 Cowick Street\r\nExeter\r\nDevon\r\nEX4 1AA"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1128795&subid=0
-    registration_id: '1128795'
-  closed: false
-  country: England
-  created: 2020-01-14 16:46:05.933510
-  email: info@exeterfoodbank.org.uk
-  lat_lng: 50.7177382,-3.5387787
-  name: Exeter Food Bank
-  network: Trussell
-  phone: 07818226524
-  politics:
-    district: Exeter
-    mp: Simon Jupp
-    mp_parl_id: 4862
-    mp_party: Conservative
-    parliamentary_constituency: Exeter
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/exeter/
-      self: https://www.givefood.org.uk/api/2/constituency/exeter/
-    ward: St Thomas
-  postcode: EX4 1AA
-  secondary_phone: null
-  slug: exeter
-  urls:
-    homepage: https://exeterfoodbank.co.uk
-    html: https://www.givefood.org.uk/needs/at/exeter/
-    self: https://www.givefood.org.uk/api/2/foodbank/exeter/
-    shopping_list: https://exeterfoodbank.co.uk/give-help/
 - address: "Reigate Baptist Church\r\nSycamore Walk\r\nReigate\r\nRH2 7LR"
   alt_name: null
   charity:
@@ -248,6 +216,37 @@
     html: https://www.givefood.org.uk/needs/at/wetherby-district/
     self: https://www.givefood.org.uk/api/2/foodbank/wetherby-district/
     shopping_list: https://wetherbyanddistrict.foodbank.org.uk/give-help/donate-food/
+- address: "24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144614&subid=0
+    registration_id: '1144614'
+  closed: false
+  country: England
+  created: 2025-01-25 21:08:36.377311
+  email: foodbank@bbchurch.org
+  lat_lng: 52.08596379999999,-0.257392
+  name: Biggleswade Food Bank
+  network: Independent
+  phone: '01767312667'
+  politics:
+    district: Central Bedfordshire
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: North Bedfordshire
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/north-bedfordshire/
+      self: https://www.givefood.org.uk/api/2/constituency/north-bedfordshire/
+    ward: Biggleswade West
+  postcode: SG18 8EB
+  secondary_phone: null
+  slug: biggleswade
+  urls:
+    homepage: https://bbchurch.org.uk/foodbank
+    html: https://www.givefood.org.uk/needs/at/biggleswade/
+    self: https://www.givefood.org.uk/api/2/foodbank/biggleswade/
+    shopping_list: https://bbchurch.org.uk/foodbank-supporter
 - address: "Littlehampton Baptist Church\r\nFitzalan Road\r\nLittlehampton\r\nBN17\
     \ 5NY"
   alt_name: null
@@ -280,68 +279,38 @@
     html: https://www.givefood.org.uk/needs/at/littlehampton-district/
     self: https://www.givefood.org.uk/api/2/foodbank/littlehampton-district/
     shopping_list: https://littlehamptondistrict.foodbank.org.uk/give-help/donate-food/
-- address: "24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB"
+- address: "The Leathwaite Centre\r\n227-229 Winchester Road\r\nStretford\r\nManchester\r\
+    \nM32 9PT"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144614&subid=0
-    registration_id: '1144614'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1167416&subid=0
+    registration_id: '1167416'
   closed: false
   country: England
-  created: 2025-01-25 21:08:36.377311
-  email: foodbank@bbchurch.org
-  lat_lng: 52.08596379999999,-0.257392
-  name: Biggleswade Food Bank
-  network: Independent
-  phone: '01767312667'
-  politics:
-    district: Central Bedfordshire
-    mp: null
-    mp_parl_id: null
-    mp_party: null
-    parliamentary_constituency: North Bedfordshire
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/north-bedfordshire/
-      self: https://www.givefood.org.uk/api/2/constituency/north-bedfordshire/
-    ward: Biggleswade West
-  postcode: SG18 8EB
-  secondary_phone: null
-  slug: biggleswade
-  urls:
-    homepage: https://bbchurch.org.uk/foodbank
-    html: https://www.givefood.org.uk/needs/at/biggleswade/
-    self: https://www.givefood.org.uk/api/2/foodbank/biggleswade/
-    shopping_list: https://bbchurch.org.uk/foodbank-supporter
-- address: "E Block Offices\r\nWestway\r\nPorterfield Road\r\nRenfrew\r\nPA4 8DJ"
-  alt_name: null
-  charity:
-    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC044200
-    registration_id: SC044200
-  closed: false
-  country: Scotland
-  created: 2020-01-07 09:15:28.311760
-  email: info@renfrewshire.foodbank.org.uk
-  lat_lng: 55.87339840000001,-4.4047674
-  name: Renfrewshire Food Bank
+  created: 2019-12-28 00:12:08.235832
+  email: info@stretford.foodbank.org.uk
+  lat_lng: 53.452427,-2.3350535
+  name: Stretford Food Bank
   network: Trussell
-  phone: '03001022500'
+  phone: '01612430720'
   politics:
-    district: Renfrewshire
-    mp: Gavin Newlands
-    mp_parl_id: 4420
-    mp_party: Scottish National
-    parliamentary_constituency: Paisley and Renfrewshire North
+    district: Trafford
+    mp: Kate Green
+    mp_parl_id: 4120
+    mp_party: Labour
+    parliamentary_constituency: Stretford and Urmston
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/paisley-and-renfrewshire-north/
-      self: https://www.givefood.org.uk/api/2/constituency/paisley-and-renfrewshire-north/
-    ward: Renfrew South and Gallowhill
-  postcode: PA4 8DJ
+      html: https://www.givefood.org.uk/needs/in/constituency/stretford-and-urmston/
+      self: https://www.givefood.org.uk/api/2/constituency/stretford-and-urmston/
+    ward: Lostock & Barton
+  postcode: M32 9PT
   secondary_phone: null
-  slug: renfrewshire
+  slug: stretford
   urls:
-    homepage: https://renfrewshire.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/renfrewshire/
-    self: https://www.givefood.org.uk/api/2/foodbank/renfrewshire/
-    shopping_list: https://renfrewshire.foodbank.org.uk/give-help/donate-food/
+    homepage: https://stretford.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/stretford/
+    self: https://www.givefood.org.uk/api/2/foodbank/stretford/
+    shopping_list: https://stretford.foodbank.org.uk/give-help/donate-food/
 - address: "Rear of Day Centre\r\nLibrary Road\r\nFerndown\r\nBH22 9HA"
   alt_name: null
   charity:
@@ -404,6 +373,37 @@
     html: https://www.givefood.org.uk/needs/at/silverton-community-larder/
     self: https://www.givefood.org.uk/api/2/foodbank/silverton-community-larder/
     shopping_list: https://www.facebook.com/100064507461520
+- address: "E Block Offices\r\nWestway\r\nPorterfield Road\r\nRenfrew\r\nPA4 8DJ"
+  alt_name: null
+  charity:
+    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC044200
+    registration_id: SC044200
+  closed: false
+  country: Scotland
+  created: 2020-01-07 09:15:28.311760
+  email: info@renfrewshire.foodbank.org.uk
+  lat_lng: 55.87339840000001,-4.4047674
+  name: Renfrewshire Food Bank
+  network: Trussell
+  phone: '03001022500'
+  politics:
+    district: Renfrewshire
+    mp: Gavin Newlands
+    mp_parl_id: 4420
+    mp_party: Scottish National
+    parliamentary_constituency: Paisley and Renfrewshire North
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/paisley-and-renfrewshire-north/
+      self: https://www.givefood.org.uk/api/2/constituency/paisley-and-renfrewshire-north/
+    ward: Renfrew South and Gallowhill
+  postcode: PA4 8DJ
+  secondary_phone: null
+  slug: renfrewshire
+  urls:
+    homepage: https://renfrewshire.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/renfrewshire/
+    self: https://www.givefood.org.uk/api/2/foodbank/renfrewshire/
+    shopping_list: https://renfrewshire.foodbank.org.uk/give-help/donate-food/
 - address: "The Rugby Clubhouse\r\nChurch Balk\r\nThorne\r\nDoncaster\r\nDN8 5BU"
   alt_name: null
   charity:
@@ -622,38 +622,38 @@
     html: https://www.givefood.org.uk/needs/at/drumchapel/
     self: https://www.givefood.org.uk/api/2/foodbank/drumchapel/
     shopping_list: https://www.drumchapelfoodbank.com/donate-food
-- address: "Trinity Church\r\nNorthwest Centre\r\nAvion Crescent\r\nGrahame Park Way\r\
-    \nNW9 5QY"
+- address: "C/O Orpington Baptist Church\r\nStation Road\r\nOrpington\r\nKent\r\n\
+    BR6 0RZ"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1088614&subid=0
-    registration_id: '1088614'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1167961&subid=0
+    registration_id: '1167961'
   closed: false
   country: England
-  created: 2020-01-15 13:29:22.632268
-  email: info@colindale.foodbank.org.uk
-  lat_lng: 51.5896908,-0.2491029
-  name: Colindale Food Bank
+  created: 2019-10-10 07:31:15.600560
+  email: info@bromleyborough.foodbank.org.uk
+  lat_lng: 51.3718841,0.09336839999999999
+  name: Bromley Borough Food Bank
   network: Trussell
-  phone: 07415223963
+  phone: 08009202324
   politics:
-    district: Barnet
-    mp: Matthew Offord
-    mp_parl_id: 4006
+    district: Bromley
+    mp: Gareth Bacon
+    mp_parl_id: 4798
     mp_party: Conservative
-    parliamentary_constituency: Hendon
+    parliamentary_constituency: Orpington
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hendon/
-      self: https://www.givefood.org.uk/api/2/constituency/hendon/
-    ward: Colindale North
-  postcode: NW9 5QY
+      html: https://www.givefood.org.uk/needs/in/constituency/orpington/
+      self: https://www.givefood.org.uk/api/2/constituency/orpington/
+    ward: Petts Wood & Knoll
+  postcode: BR6 0RZ
   secondary_phone: null
-  slug: colindale
+  slug: bromley-borough
   urls:
-    homepage: https://colindale.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/colindale/
-    self: https://www.givefood.org.uk/api/2/foodbank/colindale/
-    shopping_list: https://colindale.foodbank.org.uk/give-help/donate-food/
+    homepage: https://bromleyborough.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/bromley-borough/
+    self: https://www.givefood.org.uk/api/2/foodbank/bromley-borough/
+    shopping_list: https://bromleyborough.foodbank.org.uk/give-help/donate-food/
 - address: "Victory Hall\r\nLapford\r\nDevon\r\nEX17 6PZ"
   alt_name: null
   charity:
@@ -749,38 +749,6 @@
     html: https://www.givefood.org.uk/needs/at/kings-heath/
     self: https://www.givefood.org.uk/api/2/foodbank/kings-heath/
     shopping_list: https://www.facebook.com/profile.php?id=100065267809395&locale=en_GB
-- address: "C/O Orpington Baptist Church\r\nStation Road\r\nOrpington\r\nKent\r\n\
-    BR6 0RZ"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1167961&subid=0
-    registration_id: '1167961'
-  closed: false
-  country: England
-  created: 2019-10-10 07:31:15.600560
-  email: info@bromleyborough.foodbank.org.uk
-  lat_lng: 51.3718841,0.09336839999999999
-  name: Bromley Borough Food Bank
-  network: Trussell
-  phone: 08009202324
-  politics:
-    district: Bromley
-    mp: Gareth Bacon
-    mp_parl_id: 4798
-    mp_party: Conservative
-    parliamentary_constituency: Orpington
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/orpington/
-      self: https://www.givefood.org.uk/api/2/constituency/orpington/
-    ward: Petts Wood & Knoll
-  postcode: BR6 0RZ
-  secondary_phone: null
-  slug: bromley-borough
-  urls:
-    homepage: https://bromleyborough.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/bromley-borough/
-    self: https://www.givefood.org.uk/api/2/foodbank/bromley-borough/
-    shopping_list: https://bromleyborough.foodbank.org.uk/give-help/donate-food/
 - address: "Methodist Church\r\nMortimer Street\r\nCleckheaton\r\nBD19 5AR"
   alt_name: null
   charity:
@@ -844,6 +812,38 @@
     html: https://www.givefood.org.uk/needs/at/wallingford/
     self: https://www.givefood.org.uk/api/2/foodbank/wallingford/
     shopping_list: https://www.wallingfordfoodbank.org.uk
+- address: "Trinity Church\r\nNorthwest Centre\r\nAvion Crescent\r\nGrahame Park Way\r\
+    \nNW9 5QY"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1088614&subid=0
+    registration_id: '1088614'
+  closed: false
+  country: England
+  created: 2020-01-15 13:29:22.632268
+  email: info@colindale.foodbank.org.uk
+  lat_lng: 51.5896908,-0.2491029
+  name: Colindale Food Bank
+  network: Trussell
+  phone: 07415223963
+  politics:
+    district: Barnet
+    mp: Matthew Offord
+    mp_parl_id: 4006
+    mp_party: Conservative
+    parliamentary_constituency: Hendon
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hendon/
+      self: https://www.givefood.org.uk/api/2/constituency/hendon/
+    ward: Colindale North
+  postcode: NW9 5QY
+  secondary_phone: null
+  slug: colindale
+  urls:
+    homepage: https://colindale.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/colindale/
+    self: https://www.givefood.org.uk/api/2/foodbank/colindale/
+    shopping_list: https://colindale.foodbank.org.uk/give-help/donate-food/
 - address: "c/o St Paul's Church\r\nSt Paul's Close\r\nSherborne\r\nDT9 4DU"
   alt_name: null
   charity:
@@ -907,38 +907,6 @@
     html: https://www.givefood.org.uk/needs/at/ladywood/
     self: https://www.givefood.org.uk/api/2/foodbank/ladywood/
     shopping_list: https://www.ladywoodfoodbank.org.uk
-- address: "The Crossroads Centre\r\nOld Town Hall\r\n26 Huddersfield Road\r\nMeltham\r\
-    \nHolmfirth\r\nHD9 4AG"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1079071&subid=0
-    registration_id: '1079071'
-  closed: false
-  country: England
-  created: 2024-09-04 12:50:13.079211
-  email: chrissmith@thecrossroadsproject.co.uk
-  lat_lng: 53.592367,-1.8489712
-  name: Crossroads Meltham Food Bank
-  network: Independent
-  phone: 01484929117
-  politics:
-    district: Kirklees
-    mp: null
-    mp_parl_id: null
-    mp_party: null
-    parliamentary_constituency: Colne Valley
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/colne-valley/
-      self: https://www.givefood.org.uk/api/2/constituency/colne-valley/
-    ward: Holme Valley North
-  postcode: HD9 4AG
-  secondary_phone: '07564764137'
-  slug: crossroads-meltham
-  urls:
-    homepage: https://www.thecrossroadsproject.co.uk/our-food-bank/
-    html: https://www.givefood.org.uk/needs/at/crossroads-meltham/
-    self: https://www.givefood.org.uk/api/2/foodbank/crossroads-meltham/
-    shopping_list: https://www.thecrossroadsproject.co.uk/ways-to-donate/donate-food-items/
 - address: "Methil Evangelical Church\r\nBowling Green Street\r\nMethil\r\nKY8 3DH"
   alt_name: null
   charity:
@@ -1001,6 +969,38 @@
     html: https://www.givefood.org.uk/needs/at/epping-forest/
     self: https://www.givefood.org.uk/api/2/foodbank/epping-forest/
     shopping_list: https://eppingforest.foodbank.org.uk/give-help/donate-food/
+- address: "The Crossroads Centre\r\nOld Town Hall\r\n26 Huddersfield Road\r\nMeltham\r\
+    \nHolmfirth\r\nHD9 4AG"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1079071&subid=0
+    registration_id: '1079071'
+  closed: false
+  country: England
+  created: 2024-09-04 12:50:13.079211
+  email: chrissmith@thecrossroadsproject.co.uk
+  lat_lng: 53.592367,-1.8489712
+  name: Crossroads Meltham Food Bank
+  network: Independent
+  phone: 01484929117
+  politics:
+    district: Kirklees
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: Colne Valley
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/colne-valley/
+      self: https://www.givefood.org.uk/api/2/constituency/colne-valley/
+    ward: Holme Valley North
+  postcode: HD9 4AG
+  secondary_phone: '07564764137'
+  slug: crossroads-meltham
+  urls:
+    homepage: https://www.thecrossroadsproject.co.uk/our-food-bank/
+    html: https://www.givefood.org.uk/needs/at/crossroads-meltham/
+    self: https://www.givefood.org.uk/api/2/foodbank/crossroads-meltham/
+    shopping_list: https://www.thecrossroadsproject.co.uk/ways-to-donate/donate-food-items/
 - address: "18 Palmerston Road\r\nUnion Square South\r\nAberdeen\r\nAB11 5QN"
   alt_name: null
   charity:
@@ -1032,6 +1032,37 @@
     html: https://www.givefood.org.uk/needs/at/aberdeen-south/
     self: https://www.givefood.org.uk/api/2/foodbank/aberdeen-south/
     shopping_list: https://aberdeensouth.foodbank.org.uk/give-help/interview-test/
+- address: "Hertford United Reformed Church\r\nCowbridge\r\nHertford\r\nSG14 1PG"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&subid=0
+    registration_id: '1157028'
+  closed: false
+  country: England
+  created: 2019-12-27 01:15:26.117126
+  email: info@hertforddistrict.foodbank.org.uk
+  lat_lng: 51.7980968,-0.0818335
+  name: Hertford & District Food Bank
+  network: Trussell
+  phone: 07851708470
+  politics:
+    district: East Hertfordshire
+    mp: Julie Marson
+    mp_parl_id: 4768
+    mp_party: Conservative
+    parliamentary_constituency: Hertford and Stortford
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/
+      self: https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/
+    ward: Hertford Bengeo
+  postcode: SG14 1PG
+  secondary_phone: null
+  slug: hertford-district
+  urls:
+    homepage: https://hertforddistrict.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/hertford-district/
+    self: https://www.givefood.org.uk/api/2/foodbank/hertford-district/
+    shopping_list: https://hertforddistrict.foodbank.org.uk/give-help/donate-food/
 - address: "2 Oliver Avenue\r\nSouth Norwood\r\nLondon\r\nSE25 6TY"
   alt_name: null
   charity:
@@ -1126,37 +1157,6 @@
     html: https://www.givefood.org.uk/needs/at/bingley/
     self: https://www.givefood.org.uk/api/2/foodbank/bingley/
     shopping_list: https://bingleyfoodbank.org.uk/how-to-donate-food/
-- address: "Hertford United Reformed Church\r\nCowbridge\r\nHertford\r\nSG14 1PG"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&subid=0
-    registration_id: '1157028'
-  closed: false
-  country: England
-  created: 2019-12-27 01:15:26.117126
-  email: info@hertforddistrict.foodbank.org.uk
-  lat_lng: 51.7980968,-0.0818335
-  name: Hertford & District Food Bank
-  network: Trussell
-  phone: 07851708470
-  politics:
-    district: East Hertfordshire
-    mp: Julie Marson
-    mp_parl_id: 4768
-    mp_party: Conservative
-    parliamentary_constituency: Hertford and Stortford
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/
-      self: https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/
-    ward: Hertford Bengeo
-  postcode: SG14 1PG
-  secondary_phone: null
-  slug: hertford-district
-  urls:
-    homepage: https://hertforddistrict.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/hertford-district/
-    self: https://www.givefood.org.uk/api/2/foodbank/hertford-district/
-    shopping_list: https://hertforddistrict.foodbank.org.uk/give-help/donate-food/
 - address: "c/o Melksham Baptist Church\r\nOld Broughton Road\r\nMelksham\r\nSN12\
     \ 8BX"
   alt_name: null
@@ -1220,37 +1220,37 @@
     html: https://www.givefood.org.uk/needs/at/aspire-supported-living/
     self: https://www.givefood.org.uk/api/2/foodbank/aspire-supported-living/
     shopping_list: https://www.aspireliving.org
-- address: "Elmgrove Road\r\nWest Cross\r\nSwansea\r\nSA3 5LD"
+- address: "St Michael the Archangel\r\nSt Michael's Road\r\nNewquay\r\nTR7 1RA"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1060756&subid=0
-    registration_id: '1060756'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1179381&subid=0
+    registration_id: '1179381'
   closed: false
-  country: Wales
-  created: 2019-07-23 11:32:00.722144
-  email: info@swansea.foodbank.org.uk
-  lat_lng: 51.5881824,-4.0088973
-  name: Swansea Food Bank
+  country: England
+  created: 2020-08-15 15:49:56.586751
+  email: operationsmanager@newquayfoodbank.co.uk
+  lat_lng: 50.412703,-5.0821539
+  name: Newquay Food Bank
   network: Trussell
-  phone: 07815534095
+  phone: 07810271202
   politics:
-    district: Swansea
-    mp: Tonia Antoniazzi
-    mp_parl_id: 4623
-    mp_party: Labour
-    parliamentary_constituency: Gower
+    district: Cornwall
+    mp: Steve Double
+    mp_parl_id: 4452
+    mp_party: Conservative
+    parliamentary_constituency: St Austell and Newquay
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/gower/
-      self: https://www.givefood.org.uk/api/2/constituency/gower/
-    ward: West Cross
-  postcode: SA3 5LD
+      html: https://www.givefood.org.uk/needs/in/constituency/st-austell-and-newquay/
+      self: https://www.givefood.org.uk/api/2/constituency/st-austell-and-newquay/
+    ward: Newquay Central & Pentire
+  postcode: TR7 1RA
   secondary_phone: null
-  slug: swansea
+  slug: newquay
   urls:
-    homepage: https://swansea.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/swansea/
-    self: https://www.givefood.org.uk/api/2/foodbank/swansea/
-    shopping_list: https://swansea.foodbank.org.uk/give-help/donate-food/
+    homepage: https://newquay.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/newquay/
+    self: https://www.givefood.org.uk/api/2/foodbank/newquay/
+    shopping_list: https://newquay.foodbank.org.uk/give-help/donate-food/
 - address: "Roche Meeting Rooms\r\nShortbrook Drive\r\nWestfield\r\nS20 8NF"
   alt_name: null
   charity:
@@ -1282,6 +1282,37 @@
     html: https://www.givefood.org.uk/needs/at/s20/
     self: https://www.givefood.org.uk/api/2/foodbank/s20/
     shopping_list: http://www.sheffieldfoodbank.org.uk/s20/
+- address: "Elmgrove Road\r\nWest Cross\r\nSwansea\r\nSA3 5LD"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1060756&subid=0
+    registration_id: '1060756'
+  closed: false
+  country: Wales
+  created: 2019-07-23 11:32:00.722144
+  email: info@swansea.foodbank.org.uk
+  lat_lng: 51.5881824,-4.0088973
+  name: Swansea Food Bank
+  network: Trussell
+  phone: 07815534095
+  politics:
+    district: Swansea
+    mp: Tonia Antoniazzi
+    mp_parl_id: 4623
+    mp_party: Labour
+    parliamentary_constituency: Gower
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/gower/
+      self: https://www.givefood.org.uk/api/2/constituency/gower/
+    ward: West Cross
+  postcode: SA3 5LD
+  secondary_phone: null
+  slug: swansea
+  urls:
+    homepage: https://swansea.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/swansea/
+    self: https://www.givefood.org.uk/api/2/foodbank/swansea/
+    shopping_list: https://swansea.foodbank.org.uk/give-help/donate-food/
 - address: "Tupton Community Hub\r\nNethermoor Road\r\nChesterfield\r\nS42 6EN"
   alt_name: null
   charity:
@@ -1344,37 +1375,6 @@
     html: https://www.givefood.org.uk/needs/at/batley/
     self: https://www.givefood.org.uk/api/2/foodbank/batley/
     shopping_list: https://batleyfoodbank.org.uk/how-to-donate/
-- address: "St Michael the Archangel\r\nSt Michael's Road\r\nNewquay\r\nTR7 1RA"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1179381&subid=0
-    registration_id: '1179381'
-  closed: false
-  country: England
-  created: 2020-08-15 15:49:56.586751
-  email: operationsmanager@newquayfoodbank.co.uk
-  lat_lng: 50.412703,-5.0821539
-  name: Newquay Food Bank
-  network: Trussell
-  phone: 07810271202
-  politics:
-    district: Cornwall
-    mp: Steve Double
-    mp_parl_id: 4452
-    mp_party: Conservative
-    parliamentary_constituency: St Austell and Newquay
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/st-austell-and-newquay/
-      self: https://www.givefood.org.uk/api/2/constituency/st-austell-and-newquay/
-    ward: Newquay Central & Pentire
-  postcode: TR7 1RA
-  secondary_phone: null
-  slug: newquay
-  urls:
-    homepage: https://newquay.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/newquay/
-    self: https://www.givefood.org.uk/api/2/foodbank/newquay/
-    shopping_list: https://newquay.foodbank.org.uk/give-help/donate-food/
 - address: "Calderbank Parish Church of Scotland\r\nMain Street\r\nCalderbank\r\n\
     ML6 9SG"
   alt_name: null
@@ -1660,6 +1660,37 @@
     html: https://www.givefood.org.uk/needs/at/eastwood/
     self: https://www.givefood.org.uk/api/2/foodbank/eastwood/
     shopping_list: https://eastwood-tc.gov.uk/directory/listing/eastwood-volunteer-bureau/
+- address: "YMCA Annexe\r\nRosemary Lane\r\nLincoln\r\nLN2 5AR"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1175176&subid=0
+    registration_id: '1175176'
+  closed: false
+  country: England
+  created: 2020-08-29 15:46:45.491171
+  email: lincolncommunitylarder@hotmail.co.uk
+  lat_lng: 53.229309,-0.5337256
+  name: Lincoln Community Larder Food Bank
+  network: IFAN
+  phone: 01522569291
+  politics:
+    district: Lincoln
+    mp: Karl McCartney
+    mp_parl_id: 4028
+    mp_party: Conservative
+    parliamentary_constituency: Lincoln
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/lincoln/
+      self: https://www.givefood.org.uk/api/2/constituency/lincoln/
+    ward: Abbey
+  postcode: LN2 5AR
+  secondary_phone: 07914655460
+  slug: lincoln-community-larder
+  urls:
+    homepage: http://www.lincolnlarder.co.uk
+    html: https://www.givefood.org.uk/needs/at/lincoln-community-larder/
+    self: https://www.givefood.org.uk/api/2/foodbank/lincoln-community-larder/
+    shopping_list: https://www.lincolnlarder.co.uk/donations/food/
 - address: "Liberty Centre\r\nPitreavie Way\r\nPitreavie Business Park\r\nDunfermline\r\
     \nFife\r\nKY11 8QS"
   alt_name: null
@@ -1692,37 +1723,6 @@
     html: https://www.givefood.org.uk/needs/at/dunfermline/
     self: https://www.givefood.org.uk/api/2/foodbank/dunfermline/
     shopping_list: https://dunfermline.foodbank.org.uk/give-help/donate-food/
-- address: "YMCA Annexe\r\nRosemary Lane\r\nLincoln\r\nLN2 5AR"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1175176&subid=0
-    registration_id: '1175176'
-  closed: false
-  country: England
-  created: 2020-08-29 15:46:45.491171
-  email: lincolncommunitylarder@hotmail.co.uk
-  lat_lng: 53.229309,-0.5337256
-  name: Lincoln Community Larder Food Bank
-  network: IFAN
-  phone: 01522569291
-  politics:
-    district: Lincoln
-    mp: Karl McCartney
-    mp_parl_id: 4028
-    mp_party: Conservative
-    parliamentary_constituency: Lincoln
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/lincoln/
-      self: https://www.givefood.org.uk/api/2/constituency/lincoln/
-    ward: Abbey
-  postcode: LN2 5AR
-  secondary_phone: 07914655460
-  slug: lincoln-community-larder
-  urls:
-    homepage: http://www.lincolnlarder.co.uk
-    html: https://www.givefood.org.uk/needs/at/lincoln-community-larder/
-    self: https://www.givefood.org.uk/api/2/foodbank/lincoln-community-larder/
-    shopping_list: https://www.lincolnlarder.co.uk/donations/food/
 - address: "The Foodbank Centre\r\nThe Close\r\nWarminster\r\nBA12 9AL"
   alt_name: null
   charity:
@@ -1754,38 +1754,6 @@
     html: https://www.givefood.org.uk/needs/at/warminster-and-district/
     self: https://www.givefood.org.uk/api/2/foodbank/warminster-and-district/
     shopping_list: http://warminsteranddistrictfoodbank.co.uk/can_you_help/
-- address: "The Salvation Army\r\n66a Commercial Street\r\nPontymister\r\nRisca\r\n\
-    Newport\r\nNP11 6BA"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=214779&subid=0
-    registration_id: '214779'
-  closed: false
-  country: Wales
-  created: 2020-01-16 14:08:38.790202
-  email: info@risca.foodbank.org.uk
-  lat_lng: 51.6040296,-3.0948891
-  name: Risca Food Bank
-  network: Trussell
-  phone: 07599973312
-  politics:
-    district: Caerphilly
-    mp: Chris Evans
-    mp_parl_id: 4040
-    mp_party: Labour Co-operative
-    parliamentary_constituency: Newport West and Islwyn
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/newport-west-and-islwyn/
-      self: https://www.givefood.org.uk/api/2/constituency/newport-west-and-islwyn/
-    ward: Risca West
-  postcode: NP11 6BA
-  secondary_phone: null
-  slug: risca
-  urls:
-    homepage: https://risca.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/risca/
-    self: https://www.givefood.org.uk/api/2/foodbank/risca/
-    shopping_list: https://risca.foodbank.org.uk/give-help/donate-food/
 - address: "Unit 26,\r\nRiverside 1\r\nSir Thomas Longley Road\r\nMedway City Estate\r\
     \nRochester\r\nKent\r\nME2 4DP"
   alt_name: null
@@ -1818,6 +1786,37 @@
     html: https://www.givefood.org.uk/needs/at/medway/
     self: https://www.givefood.org.uk/api/2/foodbank/medway/
     shopping_list: https://medway.foodbank.org.uk/give-help/donate-food/
+- address: "The Parish Rooms\r\nChurch Street\r\nMarket Drayton\r\nTF9 1AF"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144116&subid=0
+    registration_id: '1144116'
+  closed: false
+  country: England
+  created: 2019-09-27 17:54:54.685503
+  email: info@marketdrayton.foodbank.org.uk
+  lat_lng: 52.902613,-2.4851572
+  name: Market Drayton Food Bank
+  network: Trussell
+  phone: '01630654007'
+  politics:
+    district: Shropshire
+    mp: Helen Morgan
+    mp_parl_id: 4934
+    mp_party: Liberal Democrat
+    parliamentary_constituency: North Shropshire
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/north-shropshire/
+      self: https://www.givefood.org.uk/api/2/constituency/north-shropshire/
+    ward: Market Drayton West
+  postcode: TF9 1AF
+  secondary_phone: null
+  slug: market-drayton
+  urls:
+    homepage: https://marketdrayton.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/market-drayton/
+    self: https://www.givefood.org.uk/api/2/foodbank/market-drayton/
+    shopping_list: https://marketdrayton.foodbank.org.uk/give-help/donate-food/
 - address: "18 Fairways\r\nNew River Trading Estate\r\nCheshunt\r\nHertfordshire\r\
     \nEN8 0NJ"
   alt_name: null
@@ -1850,6 +1849,37 @@
     html: https://www.givefood.org.uk/needs/at/broxbourne/
     self: https://www.givefood.org.uk/api/2/foodbank/broxbourne/
     shopping_list: https://broxbourne.foodbank.org.uk/give-help/donate-food/
+- address: "The Tottenham Town Hall\r\nTown Hall Approach Road\r\nLondon\r\nN15 4RX"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1040704&subid=0
+    registration_id: '1040704'
+  closed: false
+  country: England
+  created: 2020-01-22 21:06:09.378300
+  email: info@tottenham.foodbank.org.uk
+  lat_lng: 51.5872187,-0.0725467
+  name: Tottenham Food Bank
+  network: Trussell
+  phone: 07939987566
+  politics:
+    district: Haringey
+    mp: David Lammy
+    mp_parl_id: 206
+    mp_party: Labour
+    parliamentary_constituency: Tottenham
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/tottenham/
+      self: https://www.givefood.org.uk/api/2/constituency/tottenham/
+    ward: Tottenham Central
+  postcode: N15 4RX
+  secondary_phone: null
+  slug: tottenham
+  urls:
+    homepage: https://tottenham.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/tottenham/
+    self: https://www.givefood.org.uk/api/2/foodbank/tottenham/
+    shopping_list: https://tottenham.foodbank.org.uk/give-help/donate-food/
 - address: "Penfold Park\r\nSt Albans Road\r\nWatford\r\nWD25 0GB"
   alt_name: null
   charity:
@@ -1912,68 +1942,38 @@
     html: https://www.givefood.org.uk/needs/at/chelwood-foodbank-plus/
     self: https://www.givefood.org.uk/api/2/foodbank/chelwood-foodbank-plus/
     shopping_list: http://www.chelwoodfoodbankplus.org/
-- address: "The Parish Rooms\r\nChurch Street\r\nMarket Drayton\r\nTF9 1AF"
+- address: "The Salvation Army\r\n66a Commercial Street\r\nPontymister\r\nRisca\r\n\
+    Newport\r\nNP11 6BA"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1144116&subid=0
-    registration_id: '1144116'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=214779&subid=0
+    registration_id: '214779'
   closed: false
-  country: England
-  created: 2019-09-27 17:54:54.685503
-  email: info@marketdrayton.foodbank.org.uk
-  lat_lng: 52.902613,-2.4851572
-  name: Market Drayton Food Bank
+  country: Wales
+  created: 2020-01-16 14:08:38.790202
+  email: info@risca.foodbank.org.uk
+  lat_lng: 51.6040296,-3.0948891
+  name: Risca Food Bank
   network: Trussell
-  phone: '01630654007'
+  phone: 07599973312
   politics:
-    district: Shropshire
-    mp: Helen Morgan
-    mp_parl_id: 4934
-    mp_party: Liberal Democrat
-    parliamentary_constituency: North Shropshire
+    district: Caerphilly
+    mp: Chris Evans
+    mp_parl_id: 4040
+    mp_party: Labour Co-operative
+    parliamentary_constituency: Newport West and Islwyn
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/north-shropshire/
-      self: https://www.givefood.org.uk/api/2/constituency/north-shropshire/
-    ward: Market Drayton West
-  postcode: TF9 1AF
+      html: https://www.givefood.org.uk/needs/in/constituency/newport-west-and-islwyn/
+      self: https://www.givefood.org.uk/api/2/constituency/newport-west-and-islwyn/
+    ward: Risca West
+  postcode: NP11 6BA
   secondary_phone: null
-  slug: market-drayton
+  slug: risca
   urls:
-    homepage: https://marketdrayton.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/market-drayton/
-    self: https://www.givefood.org.uk/api/2/foodbank/market-drayton/
-    shopping_list: https://marketdrayton.foodbank.org.uk/give-help/donate-food/
-- address: "The Tottenham Town Hall\r\nTown Hall Approach Road\r\nLondon\r\nN15 4RX"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1040704&subid=0
-    registration_id: '1040704'
-  closed: false
-  country: England
-  created: 2020-01-22 21:06:09.378300
-  email: info@tottenham.foodbank.org.uk
-  lat_lng: 51.5872187,-0.0725467
-  name: Tottenham Food Bank
-  network: Trussell
-  phone: 07939987566
-  politics:
-    district: Haringey
-    mp: David Lammy
-    mp_parl_id: 206
-    mp_party: Labour
-    parliamentary_constituency: Tottenham
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/tottenham/
-      self: https://www.givefood.org.uk/api/2/constituency/tottenham/
-    ward: Tottenham Central
-  postcode: N15 4RX
-  secondary_phone: null
-  slug: tottenham
-  urls:
-    homepage: https://tottenham.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/tottenham/
-    self: https://www.givefood.org.uk/api/2/foodbank/tottenham/
-    shopping_list: https://tottenham.foodbank.org.uk/give-help/donate-food/
+    homepage: https://risca.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/risca/
+    self: https://www.givefood.org.uk/api/2/foodbank/risca/
+    shopping_list: https://risca.foodbank.org.uk/give-help/donate-food/
 - address: "Zink HQ\r\nClough Street\r\nBuxton\r\nSK17 6LJ"
   alt_name: null
   charity:
@@ -2067,37 +2067,38 @@
     html: https://www.givefood.org.uk/needs/at/waterlooville/
     self: https://www.givefood.org.uk/api/2/foodbank/waterlooville/
     shopping_list: https://wecockchurch.org.uk/waterlooville-foodbank/
-- address: "25C West Stewart Street\r\nGreenock\r\nPA15 1SN"
+- address: "Unit 3\r\nCarrwood Road Industrial Estate\r\nCarrwood Road\r\nChesterfield\r\
+    \nS41 9QB"
   alt_name: null
   charity:
-    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC037754
-    registration_id: SC037754
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1174426&subid=0
+    registration_id: '1174426'
   closed: false
-  country: Scotland
-  created: 2020-01-16 13:44:30.802769
-  email: Inverclyde.foodbank@gmail.com
-  lat_lng: 55.9500713,-4.7627137
-  name: Inverclyde Food Bank
+  country: England
+  created: 2020-01-09 23:17:56.096525
+  email: info@chesterfield.foodbank.org.uk
+  lat_lng: 53.2756382,-1.4602122
+  name: Chesterfield Food Bank
   network: Trussell
-  phone: 01475787177
+  phone: 07529224996
   politics:
-    district: Inverclyde
-    mp: Ronnie Cowan
-    mp_parl_id: 4465
-    mp_party: Scottish National
-    parliamentary_constituency: Inverclyde and Renfrewshire West
+    district: Chesterfield
+    mp: Toby Perkins
+    mp_parl_id: 3952
+    mp_party: Labour
+    parliamentary_constituency: Chesterfield
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/inverclyde-and-renfrewshire-west/
-      self: https://www.givefood.org.uk/api/2/constituency/inverclyde-and-renfrewshire-west/
-    ward: Inverclyde North
-  postcode: PA15 1SN
+      html: https://www.givefood.org.uk/needs/in/constituency/chesterfield/
+      self: https://www.givefood.org.uk/api/2/constituency/chesterfield/
+    ward: Dunston
+  postcode: S41 9QB
   secondary_phone: null
-  slug: inverclyde
+  slug: chesterfield
   urls:
-    homepage: https://inverclyde.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/inverclyde/
-    self: https://www.givefood.org.uk/api/2/foodbank/inverclyde/
-    shopping_list: https://inverclyde.foodbank.org.uk/give-help/donate-food/
+    homepage: https://chesterfield.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/chesterfield/
+    self: https://www.givefood.org.uk/api/2/foodbank/chesterfield/
+    shopping_list: https://chesterfield.foodbank.org.uk/give-help/donate-food/
 - address: "Townstal Community Hall\r\nDavis Road\r\nDartmouth\r\nTQ6 9LJ"
   alt_name: null
   charity:
@@ -2161,38 +2162,69 @@
     html: https://www.givefood.org.uk/needs/at/the-orchard-liverpool/
     self: https://www.givefood.org.uk/api/2/foodbank/the-orchard-liverpool/
     shopping_list: https://www.facebook.com/orchardliverpool/
-- address: "Unit 3\r\nCarrwood Road Industrial Estate\r\nCarrwood Road\r\nChesterfield\r\
-    \nS41 9QB"
+- address: "Central Methodist Church\r\nNewgate\r\nPontefract\r\nWest Yorkshire\r\n\
+    WF8 1NB"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1174426&subid=0
-    registration_id: '1174426'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1155552&subid=0
+    registration_id: '1155552'
   closed: false
   country: England
-  created: 2020-01-09 23:17:56.096525
-  email: info@chesterfield.foodbank.org.uk
-  lat_lng: 53.2756382,-1.4602122
-  name: Chesterfield Food Bank
+  created: 2019-12-27 05:11:05.429979
+  email: info@pontefract.foodbank.org.uk
+  lat_lng: 53.6907614,-1.3158607
+  name: Pontefract Food Bank
   network: Trussell
-  phone: 07529224996
+  phone: 07935530583
   politics:
-    district: Chesterfield
-    mp: Toby Perkins
-    mp_parl_id: 3952
+    district: Wakefield
+    mp: Yvette Cooper
+    mp_parl_id: 420
     mp_party: Labour
-    parliamentary_constituency: Chesterfield
+    parliamentary_constituency: Pontefract, Castleford and Knottingley
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/chesterfield/
-      self: https://www.givefood.org.uk/api/2/constituency/chesterfield/
-    ward: Dunston
-  postcode: S41 9QB
+      html: https://www.givefood.org.uk/needs/in/constituency/pontefract-castleford-and-knottingley/
+      self: https://www.givefood.org.uk/api/2/constituency/pontefract-castleford-and-knottingley/
+    ward: Pontefract South
+  postcode: WF8 1NB
   secondary_phone: null
-  slug: chesterfield
+  slug: pontefract
   urls:
-    homepage: https://chesterfield.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/chesterfield/
-    self: https://www.givefood.org.uk/api/2/foodbank/chesterfield/
-    shopping_list: https://chesterfield.foodbank.org.uk/give-help/donate-food/
+    homepage: https://pontefract.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/pontefract/
+    self: https://www.givefood.org.uk/api/2/foodbank/pontefract/
+    shopping_list: https://pontefract.foodbank.org.uk/give-help/donate-food/
+- address: "25C West Stewart Street\r\nGreenock\r\nPA15 1SN"
+  alt_name: null
+  charity:
+    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC037754
+    registration_id: SC037754
+  closed: false
+  country: Scotland
+  created: 2020-01-16 13:44:30.802769
+  email: Inverclyde.foodbank@gmail.com
+  lat_lng: 55.9500713,-4.7627137
+  name: Inverclyde Food Bank
+  network: Trussell
+  phone: 01475787177
+  politics:
+    district: Inverclyde
+    mp: Ronnie Cowan
+    mp_parl_id: 4465
+    mp_party: Scottish National
+    parliamentary_constituency: Inverclyde and Renfrewshire West
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/inverclyde-and-renfrewshire-west/
+      self: https://www.givefood.org.uk/api/2/constituency/inverclyde-and-renfrewshire-west/
+    ward: Inverclyde North
+  postcode: PA15 1SN
+  secondary_phone: null
+  slug: inverclyde
+  urls:
+    homepage: https://inverclyde.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/inverclyde/
+    self: https://www.givefood.org.uk/api/2/foodbank/inverclyde/
+    shopping_list: https://inverclyde.foodbank.org.uk/give-help/donate-food/
 - address: "Access Centre\r\n47 West Street\r\nAlford\r\nLN13 9EZ"
   alt_name: null
   charity:
@@ -2255,38 +2287,6 @@
     html: https://www.givefood.org.uk/needs/at/pontarddulais-area/
     self: https://www.givefood.org.uk/api/2/foodbank/pontarddulais-area/
     shopping_list: https://www.facebook.com/pontarddulaisfoodbank/
-- address: "Central Methodist Church\r\nNewgate\r\nPontefract\r\nWest Yorkshire\r\n\
-    WF8 1NB"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1155552&subid=0
-    registration_id: '1155552'
-  closed: false
-  country: England
-  created: 2019-12-27 05:11:05.429979
-  email: info@pontefract.foodbank.org.uk
-  lat_lng: 53.6907614,-1.3158607
-  name: Pontefract Food Bank
-  network: Trussell
-  phone: 07935530583
-  politics:
-    district: Wakefield
-    mp: Yvette Cooper
-    mp_parl_id: 420
-    mp_party: Labour
-    parliamentary_constituency: Pontefract, Castleford and Knottingley
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/pontefract-castleford-and-knottingley/
-      self: https://www.givefood.org.uk/api/2/constituency/pontefract-castleford-and-knottingley/
-    ward: Pontefract South
-  postcode: WF8 1NB
-  secondary_phone: null
-  slug: pontefract
-  urls:
-    homepage: https://pontefract.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/pontefract/
-    self: https://www.givefood.org.uk/api/2/foodbank/pontefract/
-    shopping_list: https://pontefract.foodbank.org.uk/give-help/donate-food/
 - address: "Neighbourhood Centre\r\nRobin Hood Chase\r\nSt Anns\r\nNottingham\r\n\
     NG3 4EZ"
   alt_name: null
@@ -2382,38 +2382,6 @@
     html: https://www.givefood.org.uk/needs/at/lifeshare-manchester/
     self: https://www.givefood.org.uk/api/2/foodbank/lifeshare-manchester/
     shopping_list: https://www.lifeshare.org.uk/donate/
-- address: "The Well Project @ Haw Hill Park\r\nCastleford Road\r\nNormanton\r\nWest\
-    \ Yorkshire\r\nWF6 2DP"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1143947&subid=0
-    registration_id: '1143947'
-  closed: false
-  country: England
-  created: 2020-01-07 11:42:59.102304
-  email: info@normanton.foodbank.org.uk
-  lat_lng: 53.7016708,-1.4112562
-  name: Normanton Food Bank
-  network: Trussell
-  phone: 07307189851
-  politics:
-    district: Wakefield
-    mp: Yvette Cooper
-    mp_parl_id: 420
-    mp_party: Labour
-    parliamentary_constituency: Normanton and Hemsworth
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/normanton-and-hemsworth/
-      self: https://www.givefood.org.uk/api/2/constituency/normanton-and-hemsworth/
-    ward: Normanton
-  postcode: WF6 2DP
-  secondary_phone: null
-  slug: normanton
-  urls:
-    homepage: https://normanton.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/normanton/
-    self: https://www.givefood.org.uk/api/2/foodbank/normanton/
-    shopping_list: https://normanton.foodbank.org.uk/give-help/donate-food/
 - address: "Unit C Waltham House\r\nRiverview Road\r\nBeverley\r\nHU17 8DY"
   alt_name: null
   charity:
@@ -2445,6 +2413,37 @@
     html: https://www.givefood.org.uk/needs/at/east-yorkshire/
     self: https://www.givefood.org.uk/api/2/foodbank/east-yorkshire/
     shopping_list: https://eastyorkshire.foodbank.org.uk/give-help/donate-food/
+- address: "Unit 14-15 Newport Way\r\nCannon Park\r\nMiddlesbrough\r\nTS1 5JW"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151665&subid=0
+    registration_id: '1151665'
+  closed: false
+  country: England
+  created: 2019-07-13 11:02:55.178988
+  email: info@middlesbrough.foodbank.org.uk
+  lat_lng: 54.57497859999999,-1.2518419
+  name: Middlesbrough Food Bank
+  network: Trussell
+  phone: 07954131337
+  politics:
+    district: Middlesbrough
+    mp: Andy McDonald
+    mp_parl_id: 4269
+    mp_party: Labour
+    parliamentary_constituency: Middlesbrough and Thornaby East
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/middlesbrough-and-thornaby-east/
+      self: https://www.givefood.org.uk/api/2/constituency/middlesbrough-and-thornaby-east/
+    ward: Newport
+  postcode: TS1 5JW
+  secondary_phone: null
+  slug: middlesbrough
+  urls:
+    homepage: https://middlesbrough.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/middlesbrough/
+    self: https://www.givefood.org.uk/api/2/foodbank/middlesbrough/
+    shopping_list: https://middlesbrough.foodbank.org.uk/give-help/donate-food/
 - address: "North Lochs Community Association\r\nIsle of Lewis\r\nHS2 9NU"
   alt_name: null
   charity:
@@ -2507,37 +2506,38 @@
     html: https://www.givefood.org.uk/needs/at/whyteleafe-community-hub/
     self: https://www.givefood.org.uk/api/2/foodbank/whyteleafe-community-hub/
     shopping_list: https://www.whyteleafehub.org/food-hub
-- address: "Unit 14-15 Newport Way\r\nCannon Park\r\nMiddlesbrough\r\nTS1 5JW"
+- address: "Unit 3\r\nThe Wesley Centre\r\nCorner of Old York Street/ Royce Road\r\
+    \nHulme\r\nManchester\r\nM15 5BP"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151665&subid=0
-    registration_id: '1151665'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1170952&subid=0
+    registration_id: '1170952'
   closed: false
   country: England
-  created: 2019-07-13 11:02:55.178988
-  email: info@middlesbrough.foodbank.org.uk
-  lat_lng: 54.57497859999999,-1.2518419
-  name: Middlesbrough Food Bank
+  created: 2019-08-08 16:48:07.224153
+  email: info@manchestersouthcentral.foodbank.org.uk
+  lat_lng: 53.4674779,-2.2543144
+  name: Manchester South Central Food Bank
   network: Trussell
-  phone: 07954131337
+  phone: '01612263413'
   politics:
-    district: Middlesbrough
-    mp: Andy McDonald
-    mp_parl_id: 4269
-    mp_party: Labour
-    parliamentary_constituency: Middlesbrough and Thornaby East
+    district: Manchester
+    mp: Lucy Powell
+    mp_parl_id: 4263
+    mp_party: Labour Co-operative
+    parliamentary_constituency: Manchester Rusholme
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/middlesbrough-and-thornaby-east/
-      self: https://www.givefood.org.uk/api/2/constituency/middlesbrough-and-thornaby-east/
-    ward: Newport
-  postcode: TS1 5JW
+      html: https://www.givefood.org.uk/needs/in/constituency/manchester-rusholme/
+      self: https://www.givefood.org.uk/api/2/constituency/manchester-rusholme/
+    ward: Hulme
+  postcode: M15 5BP
   secondary_phone: null
-  slug: middlesbrough
+  slug: manchester-south-central
   urls:
-    homepage: https://middlesbrough.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/middlesbrough/
-    self: https://www.givefood.org.uk/api/2/foodbank/middlesbrough/
-    shopping_list: https://middlesbrough.foodbank.org.uk/give-help/donate-food/
+    homepage: https://manchestersouthcentral.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/manchester-south-central/
+    self: https://www.givefood.org.uk/api/2/foodbank/manchester-south-central/
+    shopping_list: https://manchestersouthcentral.foodbank.org.uk/give-help/donate-food/
 - address: "The Annex\r\nSt.Michael's Hall\r\nElvaston Lane\r\nAlvaston\r\nDE24 0PU"
   alt_name: null
   charity:
@@ -2664,38 +2664,100 @@
     html: https://www.givefood.org.uk/needs/at/easingwold/
     self: https://www.givefood.org.uk/api/2/foodbank/easingwold/
     shopping_list: https://edcca.org.uk
-- address: "Unit 3\r\nThe Wesley Centre\r\nCorner of Old York Street/ Royce Road\r\
-    \nHulme\r\nManchester\r\nM15 5BP"
+- address: "The Well Project @ Haw Hill Park\r\nCastleford Road\r\nNormanton\r\nWest\
+    \ Yorkshire\r\nWF6 2DP"
   alt_name: null
   charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1170952&subid=0
-    registration_id: '1170952'
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1143947&subid=0
+    registration_id: '1143947'
   closed: false
   country: England
-  created: 2019-08-08 16:48:07.224153
-  email: info@manchestersouthcentral.foodbank.org.uk
-  lat_lng: 53.4674779,-2.2543144
-  name: Manchester South Central Food Bank
+  created: 2020-01-07 11:42:59.102304
+  email: info@normanton.foodbank.org.uk
+  lat_lng: 53.7016708,-1.4112562
+  name: Normanton Food Bank
   network: Trussell
-  phone: '01612263413'
+  phone: 07307189851
   politics:
-    district: Manchester
-    mp: Lucy Powell
-    mp_parl_id: 4263
-    mp_party: Labour Co-operative
-    parliamentary_constituency: Manchester Rusholme
+    district: Wakefield
+    mp: Yvette Cooper
+    mp_parl_id: 420
+    mp_party: Labour
+    parliamentary_constituency: Normanton and Hemsworth
     urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/manchester-rusholme/
-      self: https://www.givefood.org.uk/api/2/constituency/manchester-rusholme/
-    ward: Hulme
-  postcode: M15 5BP
+      html: https://www.givefood.org.uk/needs/in/constituency/normanton-and-hemsworth/
+      self: https://www.givefood.org.uk/api/2/constituency/normanton-and-hemsworth/
+    ward: Normanton
+  postcode: WF6 2DP
   secondary_phone: null
-  slug: manchester-south-central
+  slug: normanton
   urls:
-    homepage: https://manchestersouthcentral.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/manchester-south-central/
-    self: https://www.givefood.org.uk/api/2/foodbank/manchester-south-central/
-    shopping_list: https://manchestersouthcentral.foodbank.org.uk/give-help/donate-food/
+    homepage: https://normanton.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/normanton/
+    self: https://www.givefood.org.uk/api/2/foodbank/normanton/
+    shopping_list: https://normanton.foodbank.org.uk/give-help/donate-food/
+- address: "4 Kansas Avenue\r\nMediaCityUK\r\nSalford\r\nM50 2GL"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1150870&subid=0
+    registration_id: '1150870'
+  closed: false
+  country: England
+  created: 2020-01-19 15:38:46.597932
+  email: info@salfordcentral.foodbank.org.uk
+  lat_lng: 53.47779269999999,-2.2962183
+  name: Salford Food Bank
+  network: Trussell
+  phone: '01616372120'
+  politics:
+    district: Salford
+    mp: Rebecca Long-Bailey
+    mp_parl_id: 4396
+    mp_party: Labour
+    parliamentary_constituency: Salford
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/salford/
+      self: https://www.givefood.org.uk/api/2/constituency/salford/
+    ward: Quays
+  postcode: M50 2GL
+  secondary_phone: null
+  slug: salford
+  urls:
+    homepage: https://salford.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/salford/
+    self: https://www.givefood.org.uk/api/2/foodbank/salford/
+    shopping_list: https://salford.foodbank.org.uk/give-help/donate-food/
+- address: "The Hub\r\n86-88 Vestry Road\r\nCamberwell\r\nLondon\r\nSE5 8PQ"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1172789&subid=0
+    registration_id: '1172789'
+  closed: false
+  country: England
+  created: 2020-02-11 07:57:37.396041
+  email: foodbank@springcommunityhub.org.uk
+  lat_lng: 51.47085670000001,-0.0823029
+  name: Spring Community Hub Food Bank
+  network: IFAN
+  phone: 07901617189
+  politics:
+    district: Southwark
+    mp: Harriet Harman
+    mp_parl_id: 150
+    mp_party: Labour
+    parliamentary_constituency: Peckham
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/peckham/
+      self: https://www.givefood.org.uk/api/2/constituency/peckham/
+    ward: St Giles
+  postcode: SE5 8PQ
+  secondary_phone: null
+  slug: spring-community-hub
+  urls:
+    homepage: https://www.springcommunityhub.org.uk/food-bank/
+    html: https://www.givefood.org.uk/needs/at/spring-community-hub/
+    self: https://www.givefood.org.uk/api/2/foodbank/spring-community-hub/
+    shopping_list: https://www.springcommunityhub.org.uk/food-bank/
 - address: "The Small Hall\r\nRamsey Methodist Church\r\nHigh Street\r\nRamsey\r\n\
     PE26 1AA"
   alt_name: null
@@ -2728,69 +2790,6 @@
     html: https://www.givefood.org.uk/needs/at/ramsey/
     self: https://www.givefood.org.uk/api/2/foodbank/ramsey/
     shopping_list: https://ramsey.foodbank.org.uk/give-help/donate-food/
-- address: "4 Kansas Avenue\r\nMediaCityUK\r\nSalford\r\nM50 2GL"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1150870&subid=0
-    registration_id: '1150870'
-  closed: false
-  country: England
-  created: 2020-01-19 15:38:46.597932
-  email: info@salfordcentral.foodbank.org.uk
-  lat_lng: 53.47779269999999,-2.2962183
-  name: Salford Food Bank
-  network: Trussell
-  phone: '01616372120'
-  politics:
-    district: Salford
-    mp: Rebecca Long-Bailey
-    mp_parl_id: 4396
-    mp_party: Labour
-    parliamentary_constituency: Salford
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/salford/
-      self: https://www.givefood.org.uk/api/2/constituency/salford/
-    ward: Quays
-  postcode: M50 2GL
-  secondary_phone: null
-  slug: salford
-  urls:
-    homepage: https://salford.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/salford/
-    self: https://www.givefood.org.uk/api/2/foodbank/salford/
-    shopping_list: https://salford.foodbank.org.uk/give-help/donate-food/
-- address: "Boldon Lane Community Library\r\nBoldon Lane\r\nSouth Shields\r\nNE34\
-    \ 0LZ"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1108921&subid=0
-    registration_id: '1108921'
-  closed: false
-  country: England
-  created: 2024-08-26 08:21:53.498815
-  email: hello@keycommunity.org.uk
-  lat_lng: 54.96924989999999,-1.4387577
-  name: Key To Life Food Bank
-  network: Independent
-  phone: 01914969710
-  politics:
-    district: South Tyneside
-    mp: null
-    mp_parl_id: null
-    mp_party: null
-    parliamentary_constituency: South Shields
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-shields/
-      self: https://www.givefood.org.uk/api/2/constituency/south-shields/
-    ward: Whiteleas
-  postcode: NE34 0LZ
-  secondary_phone: null
-  slug: key-to-life
-  urls:
-    homepage: https://keycommunity.org.uk/what-we-do/key-to-life-foodbank/
-    html: https://www.givefood.org.uk/needs/at/key-to-life/
-    self: https://www.givefood.org.uk/api/2/foodbank/key-to-life/
-    shopping_list: https://keycommunity.org.uk/what-we-do/key-to-life-foodbank/
 - address: "Jimmy's Place\r\nSt James' Church Centre\r\nChurch Street\r\nPoole\r\n\
     BH15 1JN"
   alt_name: null
@@ -2918,37 +2917,6 @@
     html: https://www.givefood.org.uk/needs/at/the-pantry/
     self: https://www.givefood.org.uk/api/2/foodbank/the-pantry/
     shopping_list: https://www.facebook.com/Pantry14/
-- address: "The Hub\r\n86-88 Vestry Road\r\nCamberwell\r\nLondon\r\nSE5 8PQ"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1172789&subid=0
-    registration_id: '1172789'
-  closed: false
-  country: England
-  created: 2020-02-11 07:57:37.396041
-  email: foodbank@springcommunityhub.org.uk
-  lat_lng: 51.47085670000001,-0.0823029
-  name: Spring Community Hub Food Bank
-  network: IFAN
-  phone: 07901617189
-  politics:
-    district: Southwark
-    mp: Harriet Harman
-    mp_parl_id: 150
-    mp_party: Labour
-    parliamentary_constituency: Peckham
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/peckham/
-      self: https://www.givefood.org.uk/api/2/constituency/peckham/
-    ward: St Giles
-  postcode: SE5 8PQ
-  secondary_phone: null
-  slug: spring-community-hub
-  urls:
-    homepage: https://www.springcommunityhub.org.uk/food-bank/
-    html: https://www.givefood.org.uk/needs/at/spring-community-hub/
-    self: https://www.givefood.org.uk/api/2/foodbank/spring-community-hub/
-    shopping_list: https://www.springcommunityhub.org.uk/food-bank/
 - address: "Unit 6\r\nFoundry Road\r\nBonnybridge\r\nFK4 2AP"
   alt_name: null
   charity:
@@ -2980,6 +2948,38 @@
     html: https://www.givefood.org.uk/needs/at/roots/
     self: https://www.givefood.org.uk/api/2/foodbank/roots/
     shopping_list: https://www.facebook.com/TeamRootsno1/
+- address: "Boldon Lane Community Library\r\nBoldon Lane\r\nSouth Shields\r\nNE34\
+    \ 0LZ"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1108921&subid=0
+    registration_id: '1108921'
+  closed: false
+  country: England
+  created: 2024-08-26 08:21:53.498815
+  email: hello@keycommunity.org.uk
+  lat_lng: 54.96924989999999,-1.4387577
+  name: Key To Life Food Bank
+  network: Independent
+  phone: 01914969710
+  politics:
+    district: South Tyneside
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: South Shields
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-shields/
+      self: https://www.givefood.org.uk/api/2/constituency/south-shields/
+    ward: Whiteleas
+  postcode: NE34 0LZ
+  secondary_phone: null
+  slug: key-to-life
+  urls:
+    homepage: https://keycommunity.org.uk/what-we-do/key-to-life-foodbank/
+    html: https://www.givefood.org.uk/needs/at/key-to-life/
+    self: https://www.givefood.org.uk/api/2/foodbank/key-to-life/
+    shopping_list: https://keycommunity.org.uk/what-we-do/key-to-life-foodbank/
 - address: "Fairview Community Centre\r\n90b Great Knolly's Street\r\nReading\r\n\
     RG1 7HL"
   alt_name: null
@@ -3261,38 +3261,6 @@
     html: https://www.givefood.org.uk/needs/at/enderby-mission-church/
     self: https://www.givefood.org.uk/api/2/foodbank/enderby-mission-church/
     shopping_list: https://www.enderbylifechurch.org/need-help
-- address: "Jubilee Wayside Community Centre\r\nWayside\r\nPotters Bar\r\nHertfordshire\r\
-    \nEN6 5NE"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1185255&subid=0
-    registration_id: '1185255'
-  closed: false
-  country: England
-  created: 2020-01-16 13:31:44.707466
-  email: info@pottersbar.foodbank.org.uk
-  lat_lng: 51.5513275,-0.0517568
-  name: Potters Bar Food Bank
-  network: Trussell
-  phone: 07367789410
-  politics:
-    district: Hertsmere
-    mp: Oliver Dowden
-    mp_parl_id: 4441
-    mp_party: Conservative
-    parliamentary_constituency: Hertsmere
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hertsmere/
-      self: https://www.givefood.org.uk/api/2/constituency/hertsmere/
-    ward: Potters Bar Oakmere
-  postcode: EN6 5NE
-  secondary_phone: 07310854178
-  slug: potters-bar
-  urls:
-    homepage: https://pottersbar.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/potters-bar/
-    self: https://www.givefood.org.uk/api/2/foodbank/potters-bar/
-    shopping_list: https://pottersbar.foodbank.org.uk/give-help/donate-food/
 - address: "Hattersley Baptist Church\r\nMelandra Crescent\r\nHattersley\r\nSK14 3RB"
   alt_name: null
   charity:
@@ -3481,6 +3449,38 @@
     html: https://www.givefood.org.uk/needs/at/smethwick/
     self: https://www.givefood.org.uk/api/2/foodbank/smethwick/
     shopping_list: https://smethwick.foodbank.org.uk/give-help/donate-food/
+- address: "Jubilee Wayside Community Centre\r\nWayside\r\nPotters Bar\r\nHertfordshire\r\
+    \nEN6 5NE"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1185255&subid=0
+    registration_id: '1185255'
+  closed: false
+  country: England
+  created: 2020-01-16 13:31:44.707466
+  email: info@pottersbar.foodbank.org.uk
+  lat_lng: 51.5513275,-0.0517568
+  name: Potters Bar Food Bank
+  network: Trussell
+  phone: 07367789410
+  politics:
+    district: Hertsmere
+    mp: Oliver Dowden
+    mp_parl_id: 4441
+    mp_party: Conservative
+    parliamentary_constituency: Hertsmere
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hertsmere/
+      self: https://www.givefood.org.uk/api/2/constituency/hertsmere/
+    ward: Potters Bar Oakmere
+  postcode: EN6 5NE
+  secondary_phone: 07310854178
+  slug: potters-bar
+  urls:
+    homepage: https://pottersbar.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/potters-bar/
+    self: https://www.givefood.org.uk/api/2/foodbank/potters-bar/
+    shopping_list: https://pottersbar.foodbank.org.uk/give-help/donate-food/
 - address: "8 Queensway House\r\nBuckland\r\nNewton Abbot\r\nTQ12 4BA"
   alt_name: null
   charity:
@@ -4264,37 +4264,6 @@
     html: https://www.givefood.org.uk/needs/at/ripon-community-house/
     self: https://www.givefood.org.uk/api/2/foodbank/ripon-community-house/
     shopping_list: https://www.riponcommunityhouse.co.uk/food-support-ripon-boroughbridge/
-- address: "St Margaret's Church\r\nBarcombe Avenue\r\nStreatham Hill\r\nSW2 3BH"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151274&subid=0
-    registration_id: '1151274'
-  closed: false
-  country: England
-  created: 2019-07-11 19:56:11.377000
-  email: support@lambethpartnership.foodbank.org.uk
-  lat_lng: 51.4382098,-0.1194779
-  name: Lambeth South & Croydon Food Bank
-  network: Trussell
-  phone: 07722121108
-  politics:
-    district: Lambeth
-    mp: Bell Ribeiro-Addy
-    mp_parl_id: 4764
-    mp_party: Labour
-    parliamentary_constituency: Streatham and Croydon North
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/streatham-and-croydon-north/
-      self: https://www.givefood.org.uk/api/2/constituency/streatham-and-croydon-north/
-    ward: Streatham Hill East
-  postcode: SW2 3BH
-  secondary_phone: null
-  slug: lambeth-south-croydon
-  urls:
-    homepage: https://lambethsouthcroydon.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/lambeth-south-croydon/
-    self: https://www.givefood.org.uk/api/2/foodbank/lambeth-south-croydon/
-    shopping_list: https://lambethsouthcroydon.foodbank.org.uk/give-help/donate-food/
 - address: "115A Queensferry Road\r\nRosyth\r\nKY11 2PS"
   alt_name: null
   charity:
@@ -4326,6 +4295,37 @@
     html: https://www.givefood.org.uk/needs/at/eats-rosyth/
     self: https://www.givefood.org.uk/api/2/foodbank/eats-rosyth/
     shopping_list: https://www.eatsrosyth.org.uk/
+- address: "St Margaret's Church\r\nBarcombe Avenue\r\nStreatham Hill\r\nSW2 3BH"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151274&subid=0
+    registration_id: '1151274'
+  closed: false
+  country: England
+  created: 2019-07-11 19:56:11.377000
+  email: support@lambethpartnership.foodbank.org.uk
+  lat_lng: 51.4382098,-0.1194779
+  name: Lambeth South & Croydon Food Bank
+  network: Trussell
+  phone: 07722121108
+  politics:
+    district: Lambeth
+    mp: Bell Ribeiro-Addy
+    mp_parl_id: 4764
+    mp_party: Labour
+    parliamentary_constituency: Streatham and Croydon North
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/streatham-and-croydon-north/
+      self: https://www.givefood.org.uk/api/2/constituency/streatham-and-croydon-north/
+    ward: Streatham Hill East
+  postcode: SW2 3BH
+  secondary_phone: null
+  slug: lambeth-south-croydon
+  urls:
+    homepage: https://lambethsouthcroydon.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/lambeth-south-croydon/
+    self: https://www.givefood.org.uk/api/2/foodbank/lambeth-south-croydon/
+    shopping_list: https://lambethsouthcroydon.foodbank.org.uk/give-help/donate-food/
 - address: "Dacre House\r\n19 Hillfield Road\r\nHemel Hempstead\r\nHP2 4AA"
   alt_name: null
   charity:
@@ -7402,37 +7402,6 @@
     html: https://www.givefood.org.uk/needs/at/arc-centre/
     self: https://www.givefood.org.uk/api/2/foodbank/arc-centre/
     shopping_list: https://www.thearccentre.org/foodbank
-- address: "Progress Way\r\nCoventry\r\nWest Midlands\r\nCV3 2NT"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1112955&subid=0
-    registration_id: '1112955'
-  closed: false
-  country: England
-  created: 2020-01-08 12:17:39.731678
-  email: info@coventry.foodbank.org.uk
-  lat_lng: 52.3947575,-1.4377197
-  name: Coventry Food Bank
-  network: Trussell
-  phone: 02476993770
-  politics:
-    district: Coventry
-    mp: Zarah Sultana
-    mp_parl_id: 4786
-    mp_party: Labour
-    parliamentary_constituency: Coventry East
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/coventry-east/
-      self: https://www.givefood.org.uk/api/2/constituency/coventry-east/
-    ward: Binley and Willenhall
-  postcode: CV3 2NT
-  secondary_phone: null
-  slug: coventry
-  urls:
-    homepage: https://coventry.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/coventry/
-    self: https://www.givefood.org.uk/api/2/foodbank/coventry/
-    shopping_list: https://coventryfoodbank.org.uk/list/
 - address: "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU"
   alt_name: null
   charity:
@@ -7496,6 +7465,37 @@
     html: https://www.givefood.org.uk/needs/at/st-helens/
     self: https://www.givefood.org.uk/api/2/foodbank/st-helens/
     shopping_list: https://sthelens.foodbank.org.uk/give-help/donate-food/
+- address: "Progress Way\r\nCoventry\r\nWest Midlands\r\nCV3 2NT"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1112955&subid=0
+    registration_id: '1112955'
+  closed: false
+  country: England
+  created: 2020-01-08 12:17:39.731678
+  email: info@coventry.foodbank.org.uk
+  lat_lng: 52.3947575,-1.4377197
+  name: Coventry Food Bank
+  network: Trussell
+  phone: 02476993770
+  politics:
+    district: Coventry
+    mp: Zarah Sultana
+    mp_parl_id: 4786
+    mp_party: Labour
+    parliamentary_constituency: Coventry East
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/coventry-east/
+      self: https://www.givefood.org.uk/api/2/constituency/coventry-east/
+    ward: Binley and Willenhall
+  postcode: CV3 2NT
+  secondary_phone: null
+  slug: coventry
+  urls:
+    homepage: https://coventry.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/coventry/
+    self: https://www.givefood.org.uk/api/2/foodbank/coventry/
+    shopping_list: https://coventryfoodbank.org.uk/list/
 - address: "Hazel Grove Baptist Church\r\nStation Street\r\nHazel Grove\r\nStockport\r\
     \nSK7 4EX"
   alt_name: null
@@ -12386,6 +12386,38 @@
     html: https://www.givefood.org.uk/needs/at/sherwood-forest/
     self: https://www.givefood.org.uk/api/2/foodbank/sherwood-forest/
     shopping_list: https://sherwoodforest.foodbank.org.uk/give-help/donate-food/
+- address: "Unit 80\r\nFirst Street\r\nGreenham Business Park\r\nNewbury\r\nBerks\r\
+    \nRG19 6HW"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151996&subid=0
+    registration_id: '1151996'
+  closed: false
+  country: England
+  created: 2019-10-07 11:34:18.709766
+  email: info@westberks.foodbank.org.uk
+  lat_lng: 51.3730665,-1.2787989
+  name: West Berks Food Bank
+  network: Trussell
+  phone: 07512774864
+  politics:
+    district: West Berkshire
+    mp: Laura Farris
+    mp_parl_id: 4826
+    mp_party: Conservative
+    parliamentary_constituency: Newbury
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/newbury/
+      self: https://www.givefood.org.uk/api/2/constituency/newbury/
+    ward: Newbury Greenham
+  postcode: RG19 6HW
+  secondary_phone: null
+  slug: west-berks
+  urls:
+    homepage: https://westberks.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/west-berks/
+    self: https://www.givefood.org.uk/api/2/foodbank/west-berks/
+    shopping_list: https://westberks.foodbank.org.uk/give-help/donate-food/
 - address: "Unit 9\r\nSwan Shopping Centre\r\nBlackwell Street\r\nKidderminster\r\n\
     DY10 2DP"
   alt_name: null
@@ -12450,38 +12482,6 @@
     html: https://www.givefood.org.uk/needs/at/south-tyneside/
     self: https://www.givefood.org.uk/api/2/foodbank/south-tyneside/
     shopping_list: https://www.hospitalityandhope.org.uk/donate-items
-- address: "Unit 80\r\nFirst Street\r\nGreenham Business Park\r\nNewbury\r\nBerks\r\
-    \nRG19 6HW"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151996&subid=0
-    registration_id: '1151996'
-  closed: false
-  country: England
-  created: 2019-10-07 11:34:18.709766
-  email: info@westberks.foodbank.org.uk
-  lat_lng: 51.3730665,-1.2787989
-  name: West Berks Food Bank
-  network: Trussell
-  phone: 07512774864
-  politics:
-    district: West Berkshire
-    mp: Laura Farris
-    mp_parl_id: 4826
-    mp_party: Conservative
-    parliamentary_constituency: Newbury
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/newbury/
-      self: https://www.givefood.org.uk/api/2/constituency/newbury/
-    ward: Newbury Greenham
-  postcode: RG19 6HW
-  secondary_phone: null
-  slug: west-berks
-  urls:
-    homepage: https://westberks.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/west-berks/
-    self: https://www.givefood.org.uk/api/2/foodbank/west-berks/
-    shopping_list: https://westberks.foodbank.org.uk/give-help/donate-food/
 - address: "c/o All Saints Parish Church\r\nChurch Street\r\nSt Ives\r\nPE27 6DG"
   alt_name: null
   charity:
@@ -15777,37 +15777,6 @@
     html: https://www.givefood.org.uk/needs/at/malvern-hills/
     self: https://www.givefood.org.uk/api/2/foodbank/malvern-hills/
     shopping_list: https://malvernhills.foodbank.org.uk/give-help/donate-food/
-- address: "41 High Street\r\nStaple Hill\r\nSouth Gloucestershire\r\nBS16 5HD"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1181408&subid=0
-    registration_id: '1181408'
-  closed: false
-  country: England
-  created: 2023-03-09 15:39:09.235389
-  email: hello@ignite-life.co.uk
-  lat_lng: 51.4814831,-2.5129952
-  name: Ignite Life Food Bank
-  network: Independent
-  phone: null
-  politics:
-    district: South Gloucestershire
-    mp: Jack Lopresti
-    mp_parl_id: 3989
-    mp_party: Conservative
-    parliamentary_constituency: Bristol North East
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/bristol-north-east/
-      self: https://www.givefood.org.uk/api/2/constituency/bristol-north-east/
-    ward: Staple Hill & Mangotsfield
-  postcode: BS16 5HD
-  secondary_phone: null
-  slug: ignite-life
-  urls:
-    homepage: https://www.ignite-life.co.uk/services#food-support
-    html: https://www.givefood.org.uk/needs/at/ignite-life/
-    self: https://www.givefood.org.uk/api/2/foodbank/ignite-life/
-    shopping_list: https://www.ignite-life.co.uk/services#food-support
 - address: "Wickham Community Centre\r\nMill Lane\r\nWickham\r\nFareham\r\nPO17 5AL"
   alt_name: null
   charity:
@@ -15839,6 +15808,37 @@
     html: https://www.givefood.org.uk/needs/at/meon-valley/
     self: https://www.givefood.org.uk/api/2/foodbank/meon-valley/
     shopping_list: https://www.meonvalleyfoodbank.co.uk/updates/
+- address: "41 High Street\r\nStaple Hill\r\nSouth Gloucestershire\r\nBS16 5HD"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1181408&subid=0
+    registration_id: '1181408'
+  closed: false
+  country: England
+  created: 2023-03-09 15:39:09.235389
+  email: hello@ignite-life.co.uk
+  lat_lng: 51.4814831,-2.5129952
+  name: Ignite Life Food Bank
+  network: Independent
+  phone: null
+  politics:
+    district: South Gloucestershire
+    mp: Jack Lopresti
+    mp_parl_id: 3989
+    mp_party: Conservative
+    parliamentary_constituency: Bristol North East
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/bristol-north-east/
+      self: https://www.givefood.org.uk/api/2/constituency/bristol-north-east/
+    ward: Staple Hill & Mangotsfield
+  postcode: BS16 5HD
+  secondary_phone: null
+  slug: ignite-life
+  urls:
+    homepage: https://www.ignite-life.co.uk/services#food-support
+    html: https://www.givefood.org.uk/needs/at/ignite-life/
+    self: https://www.givefood.org.uk/api/2/foodbank/ignite-life/
+    shopping_list: https://www.ignite-life.co.uk/services#food-support
 - address: "F15 Gloucester House\r\n399 Silbury Boulevard\r\nMilton Keynes\r\nMK9\
     \ 2AH"
   alt_name: null
@@ -18154,37 +18154,6 @@
     html: https://www.givefood.org.uk/needs/at/cramlington/
     self: https://www.givefood.org.uk/api/2/foodbank/cramlington/
     shopping_list: https://cramlington.foodbank.org.uk/give-help/donate-food/
-- address: "36 High Street\r\nStotfold\r\nHitchin\r\nSG5 4LL"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2023-11-15 12:52:17.614463
-  email: admin@theneedproject.org
-  lat_lng: 52.0147965,-0.2302509
-  name: The Need Project Food Bank
-  network: Independent
-  phone: 07496833940
-  politics:
-    district: Central Bedfordshire
-    mp: Richard Fuller
-    mp_parl_id: 3912
-    mp_party: Conservative
-    parliamentary_constituency: Hitchin
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hitchin/
-      self: https://www.givefood.org.uk/api/2/constituency/hitchin/
-    ward: Stotfold
-  postcode: SG5 4LL
-  secondary_phone: null
-  slug: the-need-project
-  urls:
-    homepage: https://theneedproject.org
-    html: https://www.givefood.org.uk/needs/at/the-need-project/
-    self: https://www.givefood.org.uk/api/2/foodbank/the-need-project/
-    shopping_list: https://theneedproject.org/2022/06/27/food-parcel-example/
 - address: "St Mark's Church \r\nBattersea Rise \r\nLondon\r\nSW11 1EJ"
   alt_name: null
   charity:
@@ -18216,6 +18185,37 @@
     html: https://www.givefood.org.uk/needs/at/wandsworth/
     self: https://www.givefood.org.uk/api/2/foodbank/wandsworth/
     shopping_list: https://wandsworth.foodbank.org.uk/give-help/donate-food/
+- address: "36 High Street\r\nStotfold\r\nHitchin\r\nSG5 4LL"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2023-11-15 12:52:17.614463
+  email: admin@theneedproject.org
+  lat_lng: 52.0147965,-0.2302509
+  name: The Need Project Food Bank
+  network: Independent
+  phone: 07496833940
+  politics:
+    district: Central Bedfordshire
+    mp: Richard Fuller
+    mp_parl_id: 3912
+    mp_party: Conservative
+    parliamentary_constituency: Hitchin
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hitchin/
+      self: https://www.givefood.org.uk/api/2/constituency/hitchin/
+    ward: Stotfold
+  postcode: SG5 4LL
+  secondary_phone: null
+  slug: the-need-project
+  urls:
+    homepage: https://theneedproject.org
+    html: https://www.givefood.org.uk/needs/at/the-need-project/
+    self: https://www.givefood.org.uk/api/2/foodbank/the-need-project/
+    shopping_list: https://theneedproject.org/2022/06/27/food-parcel-example/
 - address: "Wellspring Family Church\r\n35 Neatherd Road\r\nDereham\r\nNR19 2AE"
   alt_name: null
   charity:
@@ -18840,37 +18840,6 @@
     html: https://www.givefood.org.uk/needs/at/cheadle-and-district/
     self: https://www.givefood.org.uk/api/2/foodbank/cheadle-and-district/
     shopping_list: https://cheadledistrict.foodbank.org.uk/give-help/donate-food/
-- address: "53A Russell Road\r\nRuncorn\r\nWA7 4BH"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1169600&subid=0
-    registration_id: '1169600'
-  closed: false
-  country: England
-  created: 2020-01-19 15:20:51.596503
-  email: info@runcorndistrict.foodbank.org.uk
-  lat_lng: 53.3297627,-2.7485271
-  name: Runcorn District Food Bank
-  network: Trussell
-  phone: 01928577679
-  politics:
-    district: Halton
-    mp: Derek Twigg
-    mp_parl_id: 429
-    mp_party: Labour
-    parliamentary_constituency: Runcorn and Helsby
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/runcorn-and-helsby/
-      self: https://www.givefood.org.uk/api/2/constituency/runcorn-and-helsby/
-    ward: Mersey & Weston
-  postcode: WA7 4BH
-  secondary_phone: null
-  slug: runcorn-district
-  urls:
-    homepage: https://runcorndistrict.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/runcorn-district/
-    self: https://www.givefood.org.uk/api/2/foodbank/runcorn-district/
-    shopping_list: https://runcorndistrict.foodbank.org.uk
 - address: "Dedworth Green Baptist Church\r\nSmiths Lane\r\nWindsor\r\nSL4 5PE"
   alt_name: null
   charity:
@@ -18902,6 +18871,37 @@
     html: https://www.givefood.org.uk/needs/at/windsor-food-share/
     self: https://www.givefood.org.uk/api/2/foodbank/windsor-food-share/
     shopping_list: https://www.windsorfoodshare.org.uk/food-donations/
+- address: "53A Russell Road\r\nRuncorn\r\nWA7 4BH"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1169600&subid=0
+    registration_id: '1169600'
+  closed: false
+  country: England
+  created: 2020-01-19 15:20:51.596503
+  email: info@runcorndistrict.foodbank.org.uk
+  lat_lng: 53.3297627,-2.7485271
+  name: Runcorn District Food Bank
+  network: Trussell
+  phone: 01928577679
+  politics:
+    district: Halton
+    mp: Derek Twigg
+    mp_parl_id: 429
+    mp_party: Labour
+    parliamentary_constituency: Runcorn and Helsby
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/runcorn-and-helsby/
+      self: https://www.givefood.org.uk/api/2/constituency/runcorn-and-helsby/
+    ward: Mersey & Weston
+  postcode: WA7 4BH
+  secondary_phone: null
+  slug: runcorn-district
+  urls:
+    homepage: https://runcorndistrict.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/runcorn-district/
+    self: https://www.givefood.org.uk/api/2/foodbank/runcorn-district/
+    shopping_list: https://runcorndistrict.foodbank.org.uk
 - address: "Southgate Methodist Church\r\nLangdale Street\r\nElland\r\nHX5 0JL"
   alt_name: null
   charity:
