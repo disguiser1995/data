@@ -4,9 +4,9 @@
 
 👋 Hello!
 
-🕰️ Generated at Mon, 10 Feb 2025 09:43:08 +0000
-🖥️ By machine 00ca3695d272b70e721693250d2bc720698f3eb9ee57a84822a321a94aaa2528d9da46ad880c09da4f85db439545800fe55c7dbd0617bda179f837e86b7a4e2af463386619e0c7d67f05d6409bab
-💾 Using code v20250209t094048
+🕰️ Generated at Mon, 10 Feb 2025 10:30:24 +0000
+🖥️ By machine 00ca3695d236680d16f8faa2302f0bccbf7d67e915f978a9afa4368c08a31e731a901c7e1017576b3239cd0782db5d743052773060a0a1119f239b7c1b77a4353124934dfa7e95efc514af3a44
+💾 Using code v20250210t115248
 🔩 By app unknown
 🌍 Language en
 
@@ -36,8 +36,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#F2DECB">
-  <link rel="stylesheet" href="/static/css/bulma.min.css?v=20250209t094048">
-  <link rel="stylesheet" href="/static/css/gf.css?v=20250209t094048">
+  <link rel="stylesheet" href="/static/css/bulma.min.css?v=20250210t115248">
+  <link rel="stylesheet" href="/static/css/gf.css?v=20250210t115248">
   <link rel="preload" href="/static/fonts/soehne-buch.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-kraftig.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-dreiviertelfett.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -92,19 +92,13 @@
       <div class="container">
         <div class="columns">
           <div class="column has-text-left">
-            <ul>
-              <li><a href="/register-foodbank/">Register a food bank</a></li>
-              <li><a href="/dashboard/">Dashboards</a></li>
-              <li><a href="/api/">API</a> </li>
-              <li><a href="/annual-reports/">Annual reports</a></li>
-            </ul>
+            <form action="/human/" method="post" class="flag">
+              <input type="hidden" name="target" value="/flag/">
+              <input type="hidden" name="url" value="https://www.givefood.org.uk/proxy/ifan/">
+              <input type="hidden" name="action" value="flag">
+              <a href="/flag/" onclick="javascript:document.querySelector('.flag').submit();return false;"><svg fill="none" height="16" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="16"><path d="m4 15s1-1 4-1 5 2 8 2 4-1 4-1v-12s-1 1-4 1-5-2-8-2-4 1-4 1z"/><path d="m4 22v-7"/></svg> Something wrong in this page?</a>
+            </form>
             <br>
-            <ul>
-              <li><a href="/donate/">Donate</a></li>
-              <li><a href="/about-us/">About us</a></li>
-            </ul>
-          </div>
-          <div class="column has-text-right">
             <p>
               Last updated <span class="lastupdated" data-include="/frag/last-updated/"></span><br>
               <span class="needhits" data-include="/frag/need-hits/"></span> food bank needs viewed this week
@@ -114,14 +108,25 @@
               Registered with the <a href="https://www.fundraisingregulator.org.uk/directory/give-food">Fundraising Regulator</a><br>
               ICO Data Protection Registration <a href="https://ico.org.uk/ESDWebPages/Entry/ZB528540">ZB528540</a>
             </p>
-            <p><a href="/privacy/">Privacy policy</a></p>
+          </div>
+          <div class="column has-text-right">
+            <ul>
+              <li><a href="/">Home</a></li>
+              <li><a href="/register-foodbank/">Register a food bank</a></li>
+              <li><a href="/dashboard/">Dashboards</a></li>
+              <li><a href="/api/">API</a> </li>
+              <li><a href="/annual-reports/">Annual reports</a></li>
+              <li><a href="/donate/">Donate</a></li>
+              <li><a href="/about-us/">About us</a></li>
+              <li><a href="/privacy/">Privacy policy</a></li>
+            </ul>
           </div>
         </div>
       </div>
     </footer>
   
   
-  <script src="/static/js/csi.js?v=20250209t094048" defer></script>
+  <script src="/static/js/csi.js?v=20250210t115248" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153866507-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
