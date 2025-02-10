@@ -4,9 +4,9 @@
 
 👋 Hello!
 
-🕰️ Generated at Mon, 10 Feb 2025 13:00:34 +0000
-🖥️ By machine 00ca3695d236680d16f8faa2302f0bccbf7d67e915f978a9afa4368c08a31e731a901c7e1017576b3239cd0782db5d743052773060a0a1119f239b7c1b77a4353124934dfa7e95efc514af3a44
-💾 Using code v20250210t115248
+🕰️ Generated at Mon, 10 Feb 2025 13:24:23 +0000
+🖥️ By machine 00ca3695d213ac1ba6131350f64a8584165f002f6988448fcaa66194a8e079436eccc8e8725d6344e3f359360e2b746d10dd4d9032cf44b84083398f29ef40d95dd5af9108890ffed962d7f46b8a32
+💾 Using code v20250210t151347
 🔩 By app unknown
 🌍 Language en
 
@@ -36,8 +36,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#F2DECB">
-  <link rel="stylesheet" href="/static/css/bulma.min.css?v=20250210t115248">
-  <link rel="stylesheet" href="/static/css/gf.css?v=20250210t115248">
+  <link rel="stylesheet" href="/static/css/bulma.min.css?v=20250210t151347">
+  <link rel="stylesheet" href="/static/css/gf.css?v=20250210t151347">
   <link rel="preload" href="/static/fonts/soehne-buch.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-kraftig.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-dreiviertelfett.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -92,13 +92,10 @@
       <div class="container">
         <div class="columns">
           <div class="column has-text-left">
-            <form action="/human/" method="post" class="flag">
-              <input type="hidden" name="target" value="/flag/">
-              <input type="hidden" name="url" value="https://www.givefood.org.uk/proxy/trusselltrust/">
-              <input type="hidden" name="action" value="flag">
-              <a href="/flag/" onclick="javascript:document.querySelector('.flag').submit();return false;"><svg fill="none" height="16" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="16"><path d="m4 15s1-1 4-1 5 2 8 2 4-1 4-1v-12s-1 1-4 1-5-2-8-2-4 1-4 1z"/><path d="m4 22v-7"/></svg> Something wrong in this page?</a>
-            </form>
-            <br>
+            
+              <a href="/flag/?url=https%3A//www.givefood.org.uk/proxy/trusselltrust/" rel="nofollow" class="flag"><svg fill="none" height="16" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="16"><path d="m4 15s1-1 4-1 5 2 8 2 4-1 4-1v-12s-1 1-4 1-5-2-8-2-4 1-4 1z"/><path d="m4 22v-7"/></svg> Something wrong in this page?</a>
+              <br><br>
+            
             <p>
               Last updated <span class="lastupdated" data-include="/frag/last-updated/"></span><br>
               <span class="needhits" data-include="/frag/need-hits/"></span> food bank needs viewed this week
@@ -126,7 +123,7 @@
     </footer>
   
   
-  <script src="/static/js/csi.js?v=20250210t115248" defer></script>
+  <script src="/static/js/csi.js?v=20250210t151347" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153866507-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
