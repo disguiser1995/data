@@ -1150,6 +1150,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.5010049,
+          51.4591606
+        ]
+      },
+      "properties": {
+        "name": "Time for the Homeless",
+        "slug": "time-for-the-homeless",
+        "address": "44a Chancery Road\r\nCliffe\r\nME3 7TL",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/time-for-the-homeless/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/time-for-the-homeless/",
+        "network": "IFAN",
+        "email": "timeforthehomeless@outlook.com",
+        "telephone": "07496108583",
+        "parliamentary_constituency": "Rochester and Strood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1988594,
           51.5247116
         ]
@@ -1165,28 +1187,6 @@
         "email": "info@npfoodbank.org.uk",
         "telephone": "07932623443",
         "parliamentary_constituency": "Queen's Park and Maida Vale"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.5010049,
-          51.4591606
-        ]
-      },
-      "properties": {
-        "name": "Time for the Homeless",
-        "slug": "time-for-the-homeless",
-        "address": "44a Chancery Rd\r\nCliffe\r\nME3 7TL",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/time-for-the-homeless/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/time-for-the-homeless/",
-        "network": "IFAN",
-        "email": "timeforthehomeless@outlook.com",
-        "telephone": "07496108583",
-        "parliamentary_constituency": "Rochester and Strood"
       }
     },
     {
@@ -3042,8 +3042,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.3350535,
-          53.452427
+          -2.3350528,
+          53.4524307
         ]
       },
       "properties": {
@@ -3900,28 +3900,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2966244,
-          51.159463
-        ]
-      },
-      "properties": {
-        "name": "Nourish Community",
-        "slug": "nourish-community",
-        "address": "Nourish Community Foodbank\r\nUnit 5\r\nKingstanding Way\r\nTunbridge Wells\r\nTN2 3UP",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/nourish-community/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/nourish-community/",
-        "network": "Independent",
-        "email": "office@nourishcommunityfoodbank.org.uk",
-        "telephone": "01892548892",
-        "parliamentary_constituency": "Tunbridge Wells"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.8716651,
           53.2698288
         ]
@@ -3959,6 +3937,28 @@
         "email": "info@newport.foodbank.org.uk",
         "telephone": null,
         "parliamentary_constituency": "Newport East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2966027,
+          51.15952619999999
+        ]
+      },
+      "properties": {
+        "name": "Nourish Community",
+        "slug": "nourish-community",
+        "address": "Nourish Community Foodbank\r\nUnit 5\r\nKingstanding Way\r\nTunbridge Wells\r\nTN2 3UP",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/nourish-community/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/nourish-community/",
+        "network": "Independent",
+        "email": "office@nourishcommunityfoodbank.org.uk",
+        "telephone": "01892548892",
+        "parliamentary_constituency": "Tunbridge Wells"
       }
     },
     {
@@ -18178,6 +18178,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.2759892,
+          51.41971340000001
+        ]
+      },
+      "properties": {
+        "name": "Vale",
+        "slug": "vale",
+        "address": "Coastlands Family Church\r\nThe Gateway Centre\r\nTennyson Road\r\nColcot\r\nBarry\r\nVale of Glamorgan\r\nCF62 9TN",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/vale/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/vale/",
+        "network": "Trussell",
+        "email": "info@vale.foodbank.org.uk",
+        "telephone": "07879562077",
+        "parliamentary_constituency": "Vale of Glamorgan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1905366,
           51.4688764
         ]
@@ -18215,28 +18237,6 @@
         "email": "foodbank@silklife.co.uk",
         "telephone": "01625611121",
         "parliamentary_constituency": "Macclesfield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2759892,
-          51.41971340000001
-        ]
-      },
-      "properties": {
-        "name": "Vale",
-        "slug": "vale",
-        "address": "Coastlands Family Church\r\nThe Gateway Centre\r\nTennyson Road\r\nColcot\r\nBarry\r\nVale of Glamorgan\r\nCF62 9TN",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/vale/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/vale/",
-        "network": "Trussell",
-        "email": "info@vale.foodbank.org.uk",
-        "telephone": "07879562077",
-        "parliamentary_constituency": "Vale of Glamorgan"
       }
     },
     {
