@@ -116,6 +116,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.3439954,
+          53.4095472
+        ]
+      },
+      "properties": {
+        "name": "Amlwch",
+        "slug": "amlwch",
+        "address": "Citizens Advice Amlwch\r\nLon Goch\r\nAmlwch\r\nLL68 9EN",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/amlwch/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/amlwch/",
+        "network": null,
+        "email": "angleseyca@gmail.com",
+        "telephone": "07845655892",
+        "parliamentary_constituency": "Ynys M\u00f4n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1118859,
           51.49819
         ]
@@ -153,28 +175,6 @@
         "email": "larder@caisterprimaryfederation.org",
         "telephone": "01493378300",
         "parliamentary_constituency": "Great Yarmouth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3439954,
-          53.4095472
-        ]
-      },
-      "properties": {
-        "name": "Amlwch",
-        "slug": "amlwch",
-        "address": "Citizens Advice Amlwch\r\nLon Goch\r\nAmlwch\r\nLL68 9EN",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/amlwch/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/amlwch/",
-        "network": null,
-        "email": "angleseyca@gmail.com",
-        "telephone": "07845655892",
-        "parliamentary_constituency": "Ynys M\u00f4n"
       }
     },
     {
@@ -2294,28 +2294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1085921,
-          52.44808219999999
-        ]
-      },
-      "properties": {
-        "name": "Ramsey",
-        "slug": "ramsey",
-        "address": "The Small Hall\r\nRamsey Methodist Church\r\nHigh Street\r\nRamsey\r\nPE26 1AA",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/ramsey/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/ramsey/",
-        "network": "Trussell",
-        "email": "info@ramsey.foodbank.org.uk",
-        "telephone": "07596544157",
-        "parliamentary_constituency": "North West Cambridgeshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0725467,
           51.5872187
         ]
@@ -2353,6 +2331,28 @@
         "email": "info@renfrewshire.foodbank.org.uk",
         "telephone": "03001022500",
         "parliamentary_constituency": "Paisley and Renfrewshire North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1085921,
+          52.44808219999999
+        ]
+      },
+      "properties": {
+        "name": "Ramsey",
+        "slug": "ramsey",
+        "address": "The Small Hall\r\nRamsey Methodist Church\r\nHigh Street\r\nRamsey\r\nPE26 1AA",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/ramsey/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/ramsey/",
+        "network": "Trussell",
+        "email": "info@ramsey.foodbank.org.uk",
+        "telephone": "07596544157",
+        "parliamentary_constituency": "North West Cambridgeshire"
       }
     },
     {
