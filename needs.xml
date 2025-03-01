@@ -1,6 +1,27 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>c60469dd</id>
+		<found>2025-03-01T12:23:09.842569</found>
+		<foodbank>
+			<name>Brent</name>
+			<slug>brent</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/brent/</self>
+				<html>https://www.givefood.org.uk/needs/at/brent/</html>
+			</urls>
+		</foodbank>
+		<needs>Meat Soup
+Tinned Fish
+Tinned Meat
+Rice (500G/1Kg)
+Squash
+Plastic Bags/Bags For Life</needs>
+		<excess>Biscuits
+Snacks/Crisps</excess>
+		<self>https://www.givefood.org.uk/api/2/need/c60469dd/</self>
+	</need>
+	<need>
 		<id>a1dd51bb</id>
 		<found>2025-03-01T03:26:00.085125</found>
 		<foodbank>
@@ -2678,42 +2699,5 @@ Tinned Tomatoes
 Tea Bags</needs>
 		<excess/>
 		<self>https://www.givefood.org.uk/api/2/need/8a606bad/</self>
-	</need>
-	<need>
-		<id>242ff4f6</id>
-		<found>2025-02-20T15:45:46.036797</found>
-		<foodbank>
-			<name>York</name>
-			<slug>york</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/york/</self>
-				<html>https://www.givefood.org.uk/needs/at/york/</html>
-			</urls>
-		</foodbank>
-		<needs>Jars Of Pasta Or Curry Sauce
-Long Life Cartons Of Juice
-Strong Carrier Bags/Bags For Life
-Tinned Rice Pudding And Custard
-Sponge Puddings (Not Refrigerated)
-Packets Of Biscuits
-UHT Milk
-Powdered Milk
-Breakfast Cereals (Not Porridge)
-Tinned Meat (Not Corned Beef)
-Tinned Soup
-Sugar
-Tinned Fruit
-Jars Of Jam
-Men'S And Ladies' Deodorants
-Toilet Rolls
-Household Cleaning Sprays
-Nappies Sizes 5 And 6
-Shampoo
-Shaving Foam And Disposable Razors
-Toothpaste</needs>
-		<excess>Baked Beans
-Tinned Spaghetti
-Cat Food</excess>
-		<self>https://www.givefood.org.uk/api/2/need/242ff4f6/</self>
 	</need>
 </needs>
