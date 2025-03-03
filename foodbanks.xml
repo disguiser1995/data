@@ -2825,6 +2825,46 @@ TF9 1AF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Ferndown Food Bank</name>
+		<alt_name/>
+		<slug>ferndown</slug>
+		<phone>01202872312</phone>
+		<secondary_phone/>
+		<email>info@ferndowncommunitysupport.org.uk</email>
+		<address>Rear of Day Centre
+Library Road
+Ferndown
+BH22 9HA</address>
+		<postcode>BH22 9HA</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>50.8027137,-1.892404</lat_lng>
+		<network>Independent</network>
+		<created>2024-12-09T15:04:38.181560</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/ferndown/</self>
+			<html>https://www.givefood.org.uk/needs/at/ferndown/</html>
+			<homepage>https://ferndowncommunitysupport.org.uk/community-larder/</homepage>
+			<shopping_list>https://ferndowncommunitysupport.org.uk/community-larder/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Christchurch</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Ferndown North</ward>
+			<district>Dorset</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/christchurch/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/christchurch/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Lifeshare (Manchester) Food Bank</name>
 		<alt_name/>
 		<slug>lifeshare-manchester</slug>
@@ -2861,6 +2901,46 @@ M1 3WA</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/manchester-central/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/manchester-central/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Dartmouth &amp; District Food Bank</name>
+		<alt_name/>
+		<slug>dartmouth-district</slug>
+		<phone>07716109869</phone>
+		<secondary_phone/>
+		<email>dartmouthfoodbank@gmail.com</email>
+		<address>Townstal Community Hall
+Davis Road
+Dartmouth
+TQ6 9LJ</address>
+		<postcode>TQ6 9LJ</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>50.3490295,-3.5985038</lat_lng>
+		<network>Independent</network>
+		<created>2020-08-15T16:35:22.991643</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/dartmouth-district/</self>
+			<html>https://www.givefood.org.uk/needs/at/dartmouth-district/</html>
+			<homepage>https://dartmouthanddistrictfoodbank.org.uk</homepage>
+			<shopping_list>https://dartmouthanddistrictfoodbank.org.uk/donate/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1205422</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1205422&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>South Devon</parliamentary_constituency>
+			<mp>Anthony Mangnall</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4762</mp_parl_id>
+			<ward>Dartmouth &amp; East Dart</ward>
+			<district>South Hams</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/south-devon/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/south-devon/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -2943,86 +3023,6 @@ PE23 5DU</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/louth-and-horncastle/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/louth-and-horncastle/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Dartmouth &amp; District Food Bank</name>
-		<alt_name/>
-		<slug>dartmouth-district</slug>
-		<phone>07716109869</phone>
-		<secondary_phone/>
-		<email>dartmouthfoodbank@gmail.com</email>
-		<address>Townstal Community Hall
-Davis Road
-Dartmouth
-TQ6 9LJ</address>
-		<postcode>TQ6 9LJ</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>50.3490295,-3.5985038</lat_lng>
-		<network>Independent</network>
-		<created>2020-08-15T16:35:22.991643</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/dartmouth-district/</self>
-			<html>https://www.givefood.org.uk/needs/at/dartmouth-district/</html>
-			<homepage>https://dartmouthanddistrictfoodbank.org.uk</homepage>
-			<shopping_list>https://dartmouthanddistrictfoodbank.org.uk/donate/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1205422</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1205422&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>South Devon</parliamentary_constituency>
-			<mp>Anthony Mangnall</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4762</mp_parl_id>
-			<ward>Dartmouth &amp; East Dart</ward>
-			<district>South Hams</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/south-devon/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/south-devon/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Ferndown Food Bank</name>
-		<alt_name/>
-		<slug>ferndown</slug>
-		<phone>01202872312</phone>
-		<secondary_phone/>
-		<email>info@ferndowncommunitysupport.org.uk</email>
-		<address>Rear of Day Centre
-Library Road
-Ferndown
-BH22 9HA</address>
-		<postcode>BH22 9HA</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>50.8027137,-1.892404</lat_lng>
-		<network>Independent</network>
-		<created>2024-12-09T15:04:38.181560</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/ferndown/</self>
-			<html>https://www.givefood.org.uk/needs/at/ferndown/</html>
-			<homepage>https://ferndowncommunitysupport.org.uk/community-larder/</homepage>
-			<shopping_list>https://ferndowncommunitysupport.org.uk/community-larder/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Christchurch</parliamentary_constituency>
-			<mp/>
-			<mp_party/>
-			<mp_parl_id/>
-			<ward>Ferndown North</ward>
-			<district>Dorset</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/christchurch/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/christchurch/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -27525,45 +27525,6 @@ SY11 1QW</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Selkirk Food Bank</name>
-		<alt_name/>
-		<slug>selkirk</slug>
-		<phone/>
-		<secondary_phone/>
-		<email>contact@selkirkfoodbank.org.uk</email>
-		<address>35 Market Place
-Selkirk
-TD7 4BL</address>
-		<postcode>TD7 4BL</postcode>
-		<closed>false</closed>
-		<country>Scotland</country>
-		<lat_lng>55.5468348,-2.8414118</lat_lng>
-		<network>IFAN</network>
-		<created>2020-09-18T09:40:19.249142</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/selkirk/</self>
-			<html>https://www.givefood.org.uk/needs/at/selkirk/</html>
-			<homepage>https://www.facebook.com/profile.php?id=100086170811325</homepage>
-			<shopping_list>https://www.facebook.com/profile.php?id=100086170811325</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Berwickshire, Roxburgh and Selkirk</parliamentary_constituency>
-			<mp>John Lamont</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4608</mp_parl_id>
-			<ward>Selkirkshire</ward>
-			<district>Scottish Borders</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/berwickshire-roxburgh-and-selkirk/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/berwickshire-roxburgh-and-selkirk/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>South Derbyshire CVS Food Bank</name>
 		<alt_name/>
 		<slug>south-derbyshire-cvs</slug>
@@ -27601,6 +27562,45 @@ DE11 9AZ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/south-derbyshire/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/south-derbyshire/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Selkirk Food Bank</name>
+		<alt_name/>
+		<slug>selkirk</slug>
+		<phone/>
+		<secondary_phone/>
+		<email>contact@selkirkfoodbank.org.uk</email>
+		<address>35 Market Place
+Selkirk
+TD7 4BL</address>
+		<postcode>TD7 4BL</postcode>
+		<closed>false</closed>
+		<country>Scotland</country>
+		<lat_lng>55.5468348,-2.8414118</lat_lng>
+		<network>IFAN</network>
+		<created>2020-09-18T09:40:19.249142</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/selkirk/</self>
+			<html>https://www.givefood.org.uk/needs/at/selkirk/</html>
+			<homepage>https://www.facebook.com/profile.php?id=100086170811325</homepage>
+			<shopping_list>https://www.facebook.com/profile.php?id=100086170811325</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Berwickshire, Roxburgh and Selkirk</parliamentary_constituency>
+			<mp>John Lamont</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4608</mp_parl_id>
+			<ward>Selkirkshire</ward>
+			<district>Scottish Borders</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/berwickshire-roxburgh-and-selkirk/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/berwickshire-roxburgh-and-selkirk/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -28812,6 +28812,45 @@ NE66 1AU</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Walk INN Food Bank</name>
+		<alt_name/>
+		<slug>walk-inn</slug>
+		<phone>02895933232</phone>
+		<secondary_phone/>
+		<email>admin@balcproject.org.uk</email>
+		<address>16 Holywood Road
+Belfast
+BT4 1NT</address>
+		<postcode>BT4 1NT</postcode>
+		<closed>false</closed>
+		<country>Northern Ireland</country>
+		<lat_lng>54.5980157,-5.888132000000001</lat_lng>
+		<network>IFAN</network>
+		<created>2020-08-29T10:41:31.385263</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/walk-inn/</self>
+			<html>https://www.givefood.org.uk/needs/at/walk-inn/</html>
+			<homepage>https://balcproject.org.uk/walk-inn-foodbank</homepage>
+			<shopping_list>https://balcproject.org.uk/walk-inn-foodbank/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Belfast East</parliamentary_constituency>
+			<mp>Gavin Robinson</mp>
+			<mp_party>DUP</mp_party>
+			<mp_parl_id>4360</mp_parl_id>
+			<ward>Connswater</ward>
+			<district>Belfast</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/belfast-east/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/belfast-east/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Community Essentials Food Bank</name>
 		<alt_name/>
 		<slug>community-essentials</slug>
@@ -29012,45 +29051,6 @@ NG21 0JR</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/sherwood-forest/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/sherwood-forest/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Walk INN Food Bank</name>
-		<alt_name/>
-		<slug>walk-inn</slug>
-		<phone>02895933232</phone>
-		<secondary_phone/>
-		<email>admin@balcproject.org.uk</email>
-		<address>16 Holywood Road
-Belfast
-BT4 1NT</address>
-		<postcode>BT4 1NT</postcode>
-		<closed>false</closed>
-		<country>Northern Ireland</country>
-		<lat_lng>54.5980157,-5.888132000000001</lat_lng>
-		<network>IFAN</network>
-		<created>2020-08-29T10:41:31.385263</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/walk-inn/</self>
-			<html>https://www.givefood.org.uk/needs/at/walk-inn/</html>
-			<homepage>https://balcproject.org.uk/walk-inn-foodbank</homepage>
-			<shopping_list>https://balcproject.org.uk/walk-inn-foodbank/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Belfast East</parliamentary_constituency>
-			<mp>Gavin Robinson</mp>
-			<mp_party>DUP</mp_party>
-			<mp_parl_id>4360</mp_parl_id>
-			<ward>Connswater</ward>
-			<district>Belfast</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/belfast-east/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/belfast-east/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -29658,6 +29658,47 @@ TA19 0DU</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Sustain Food Bank</name>
+		<alt_name/>
+		<slug>sustain</slug>
+		<phone>01732352824</phone>
+		<secondary_phone/>
+		<email>hello@tonbridgebaptist.church</email>
+		<address>Tonbridge Baptist Church
+Darenth Avenue
+Tonbridge
+Kent
+TN10 3HZ</address>
+		<postcode>TN10 3HZ</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.2104819,0.2754415</lat_lng>
+		<network>Independent</network>
+		<created>2020-11-02T11:39:58.423080</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/sustain/</self>
+			<html>https://www.givefood.org.uk/needs/at/sustain/</html>
+			<homepage>https://www.tonbridgebaptist.church/get-involved/tn10/sustain/?from=HomeSustain</homepage>
+			<shopping_list>https://www.tonbridgebaptist.church/get-involved/tn10/sustain/?from=HomeSustain</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1136980</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1136980&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Tonbridge</parliamentary_constituency>
+			<mp>Thomas Tugendhat</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4462</mp_parl_id>
+			<ward>Trench</ward>
+			<district>Tonbridge and Malling</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/tonbridge/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/tonbridge/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Springbank Community Group Food Bank</name>
 		<alt_name/>
 		<slug>springbank-community-group</slug>
@@ -29935,47 +29976,6 @@ S35 3HS</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/penistone-and-stocksbridge/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/penistone-and-stocksbridge/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Sustain Food Bank</name>
-		<alt_name/>
-		<slug>sustain</slug>
-		<phone>01732352824</phone>
-		<secondary_phone/>
-		<email>hello@tonbridgebaptist.church</email>
-		<address>Tonbridge Baptist Church
-Darenth Avenue
-Tonbridge
-Kent
-TN10 3HZ</address>
-		<postcode>TN10 3HZ</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.2104819,0.2754415</lat_lng>
-		<network>Independent</network>
-		<created>2020-11-02T11:39:58.423080</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/sustain/</self>
-			<html>https://www.givefood.org.uk/needs/at/sustain/</html>
-			<homepage>https://www.tonbridgebaptist.church/get-involved/tn10/sustain/?from=HomeSustain</homepage>
-			<shopping_list>https://www.tonbridgebaptist.church/get-involved/tn10/sustain/?from=HomeSustain</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1136980</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1136980&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Tonbridge</parliamentary_constituency>
-			<mp>Thomas Tugendhat</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4462</mp_parl_id>
-			<ward>Trench</ward>
-			<district>Tonbridge and Malling</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/tonbridge/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/tonbridge/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -30463,46 +30463,6 @@ TD11 3DB</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>The Storehouse Congleton Food Bank</name>
-		<alt_name/>
-		<slug>the-storehouse-congleton</slug>
-		<phone>01260297961</phone>
-		<secondary_phone/>
-		<email>thestorehouse@nichurch.org.uk</email>
-		<address>West Road 
-Congleton
-Cheshire
-CW12 4EY</address>
-		<postcode>CW12 4EY</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.1645352,-2.2248696</lat_lng>
-		<network>Independent</network>
-		<created>2020-03-23T23:23:26.683420</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/the-storehouse-congleton/</self>
-			<html>https://www.givefood.org.uk/needs/at/the-storehouse-congleton/</html>
-			<homepage>https://nlchurch.org.uk/storehouse</homepage>
-			<shopping_list>https://nlchurch.org.uk/storehouse</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Congleton</parliamentary_constituency>
-			<mp>Fiona Bruce</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>3958</mp_parl_id>
-			<ward>Congleton West</ward>
-			<district>Cheshire East</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/congleton/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/congleton/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Fallowfield &amp; Withington Food Bank</name>
 		<alt_name/>
 		<slug>fallowfield-withington</slug>
@@ -30539,6 +30499,46 @@ M14 6EQ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/manchester-rusholme/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/manchester-rusholme/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>The Storehouse Congleton Food Bank</name>
+		<alt_name/>
+		<slug>the-storehouse-congleton</slug>
+		<phone>01260297961</phone>
+		<secondary_phone/>
+		<email>thestorehouse@nichurch.org.uk</email>
+		<address>West Road 
+Congleton
+Cheshire
+CW12 4EY</address>
+		<postcode>CW12 4EY</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>53.1645352,-2.2248696</lat_lng>
+		<network>Independent</network>
+		<created>2020-03-23T23:23:26.683420</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/the-storehouse-congleton/</self>
+			<html>https://www.givefood.org.uk/needs/at/the-storehouse-congleton/</html>
+			<homepage>https://nlchurch.org.uk/storehouse</homepage>
+			<shopping_list>https://nlchurch.org.uk/storehouse</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Congleton</parliamentary_constituency>
+			<mp>Fiona Bruce</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>3958</mp_parl_id>
+			<ward>Congleton West</ward>
+			<district>Cheshire East</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/congleton/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/congleton/</html>
 			</urls>
 		</politics>
 	</foodbank>
