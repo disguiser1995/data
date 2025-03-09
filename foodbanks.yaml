@@ -3449,37 +3449,6 @@
     html: https://www.givefood.org.uk/needs/at/sparkhill/
     self: https://www.givefood.org.uk/api/2/foodbank/sparkhill/
     shopping_list: https://sparkhill.foodbank.org.uk/give-help/donate-food/
-- address: "Hertford United Reformed Church\r\nCowbridge\r\nHertford\r\nSG14 1PG"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&subid=0
-    registration_id: '1157028'
-  closed: false
-  country: England
-  created: 2019-12-27 01:15:26.117126
-  email: info@hertforddistrict.foodbank.org.uk
-  lat_lng: 51.7980968,-0.0818335
-  name: Hertford & District Food Bank
-  network: Trussell
-  phone: 07851708470
-  politics:
-    district: East Hertfordshire
-    mp: Julie Marson
-    mp_parl_id: 4768
-    mp_party: Conservative
-    parliamentary_constituency: Hertford and Stortford
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/
-      self: https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/
-    ward: Hertford Bengeo
-  postcode: SG14 1PG
-  secondary_phone: null
-  slug: hertford-district
-  urls:
-    homepage: https://hertforddistrict.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/hertford-district/
-    self: https://www.givefood.org.uk/api/2/foodbank/hertford-district/
-    shopping_list: https://hertforddistrict.foodbank.org.uk/give-help/donate-food/
 - address: "3 Civic Square\r\nTranent\r\nEH33 1LH"
   alt_name: null
   charity:
@@ -3542,6 +3511,37 @@
     html: https://www.givefood.org.uk/needs/at/cirencester/
     self: https://www.givefood.org.uk/api/2/foodbank/cirencester/
     shopping_list: https://cirencester.foodbank.org.uk/give-help/donate-food/
+- address: "Hertford United Reformed Church\r\nCowbridge\r\nHertford\r\nSG14 1PG"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&subid=0
+    registration_id: '1157028'
+  closed: false
+  country: England
+  created: 2019-12-27 01:15:26.117126
+  email: info@hertforddistrict.foodbank.org.uk
+  lat_lng: 51.7980968,-0.0818335
+  name: Hertford & District Food Bank
+  network: Trussell
+  phone: 07851708470
+  politics:
+    district: East Hertfordshire
+    mp: Julie Marson
+    mp_parl_id: 4768
+    mp_party: Conservative
+    parliamentary_constituency: Hertford and Stortford
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/
+      self: https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/
+    ward: Hertford Bengeo
+  postcode: SG14 1PG
+  secondary_phone: null
+  slug: hertford-district
+  urls:
+    homepage: https://hertforddistrict.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/hertford-district/
+    self: https://www.givefood.org.uk/api/2/foodbank/hertford-district/
+    shopping_list: https://hertforddistrict.foodbank.org.uk/give-help/donate-food/
 - address: "8 Queensway House\r\nBuckland\r\nNewton Abbot\r\nTQ12 4BA"
   alt_name: null
   charity:
