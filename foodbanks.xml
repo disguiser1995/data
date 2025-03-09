@@ -4440,46 +4440,6 @@ B11 2AG</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Hertford &amp; District Food Bank</name>
-		<alt_name/>
-		<slug>hertford-district</slug>
-		<phone>07851708470</phone>
-		<secondary_phone/>
-		<email>info@hertforddistrict.foodbank.org.uk</email>
-		<address>Hertford United Reformed Church
-Cowbridge
-Hertford
-SG14 1PG</address>
-		<postcode>SG14 1PG</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.7980968,-0.0818335</lat_lng>
-		<network>Trussell</network>
-		<created>2019-12-27T01:15:26.117126</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/hertford-district/</self>
-			<html>https://www.givefood.org.uk/needs/at/hertford-district/</html>
-			<homepage>https://hertforddistrict.foodbank.org.uk</homepage>
-			<shopping_list>https://hertforddistrict.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1157028</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Hertford and Stortford</parliamentary_constituency>
-			<mp>Julie Marson</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4768</mp_parl_id>
-			<ward>Hertford Bengeo</ward>
-			<district>East Hertfordshire</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>East Lothian Food Bank</name>
 		<alt_name/>
 		<slug>east-lothian</slug>
@@ -4556,6 +4516,46 @@ GL7 7BA</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/south-cotswolds/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/south-cotswolds/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Hertford &amp; District Food Bank</name>
+		<alt_name/>
+		<slug>hertford-district</slug>
+		<phone>07851708470</phone>
+		<secondary_phone/>
+		<email>info@hertforddistrict.foodbank.org.uk</email>
+		<address>Hertford United Reformed Church
+Cowbridge
+Hertford
+SG14 1PG</address>
+		<postcode>SG14 1PG</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.7980968,-0.0818335</lat_lng>
+		<network>Trussell</network>
+		<created>2019-12-27T01:15:26.117126</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/hertford-district/</self>
+			<html>https://www.givefood.org.uk/needs/at/hertford-district/</html>
+			<homepage>https://hertforddistrict.foodbank.org.uk</homepage>
+			<shopping_list>https://hertforddistrict.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1157028</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157028&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Hertford and Stortford</parliamentary_constituency>
+			<mp>Julie Marson</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4768</mp_parl_id>
+			<ward>Hertford Bengeo</ward>
+			<district>East Hertfordshire</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/hertford-and-stortford/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/hertford-and-stortford/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -24669,45 +24669,6 @@ DG1 2RF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Hereford Food Bank</name>
-		<alt_name/>
-		<slug>hereford</slug>
-		<phone>01432607011</phone>
-		<secondary_phone/>
-		<email>requests@herefordfoodbank.co.uk</email>
-		<address>41 Monkmoor Street
-Hereford
-HR1 2DX</address>
-		<postcode>HR1 2DX</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>52.0585685,-2.7116404</lat_lng>
-		<network>Independent</network>
-		<created>2019-10-27T10:27:27.108548</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/hereford/</self>
-			<html>https://www.givefood.org.uk/needs/at/hereford/</html>
-			<homepage>https://herefordfoodbank.co.uk</homepage>
-			<shopping_list>https://herefordfoodbank.co.uk/make-a-donation-1</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1170826</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1170826&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Hereford and South Herefordshire</parliamentary_constituency>
-			<mp>Jesse Norman</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>3991</mp_parl_id>
-			<ward>Widemarsh</ward>
-			<district>Herefordshire, County of</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/hereford-and-south-herefordshire/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/hereford-and-south-herefordshire/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Woodley Food Bank</name>
 		<alt_name/>
 		<slug>woodley</slug>
@@ -24867,6 +24828,45 @@ BT63 5WG</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/upper-bann/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/upper-bann/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Hereford Food Bank</name>
+		<alt_name/>
+		<slug>hereford</slug>
+		<phone>01432607011</phone>
+		<secondary_phone/>
+		<email>requests@herefordfoodbank.co.uk</email>
+		<address>41 Monkmoor Street
+Hereford
+HR1 2DX</address>
+		<postcode>HR1 2DX</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>52.0585685,-2.7116404</lat_lng>
+		<network>Independent</network>
+		<created>2019-10-27T10:27:27.108548</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/hereford/</self>
+			<html>https://www.givefood.org.uk/needs/at/hereford/</html>
+			<homepage>https://herefordfoodbank.co.uk</homepage>
+			<shopping_list>https://herefordfoodbank.co.uk/make-a-donation-1</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1170826</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1170826&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Hereford and South Herefordshire</parliamentary_constituency>
+			<mp>Jesse Norman</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>3991</mp_parl_id>
+			<ward>Widemarsh</ward>
+			<district>Herefordshire, County of</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/hereford-and-south-herefordshire/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/hereford-and-south-herefordshire/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -26037,6 +26037,46 @@ SY9 5AF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>Jubilee Storehouse Food Bank</name>
+		<alt_name>Stordy y Jiwbbilî</alt_name>
+		<slug>jubilee-storehouse</slug>
+		<phone>08002425844</phone>
+		<secondary_phone/>
+		<email>jubileestorehouse@broaberystwyth.co.uk</email>
+		<address>St Anne's Church
+Southgate
+Aberystwyth
+SY23 1RY</address>
+		<postcode>SY23 1RY</postcode>
+		<closed>false</closed>
+		<country>Wales</country>
+		<lat_lng>52.39968450000001,-4.0711037</lat_lng>
+		<network>IFAN</network>
+		<created>2021-11-22T15:49:59.919743</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/jubilee-storehouse/</self>
+			<html>https://www.givefood.org.uk/needs/at/jubilee-storehouse/</html>
+			<homepage>https://jubileestorehouse.org</homepage>
+			<shopping_list>https://jubileestorehouse.org/how-to-help/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1134858</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1134858&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Ceredigion Preseli</parliamentary_constituency>
+			<mp>Ben Lake</mp>
+			<mp_party>Plaid Cymru</mp_party>
+			<mp_parl_id>4630</mp_parl_id>
+			<ward>Aberystwyth Penparcau</ward>
+			<district>Ceredigion</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/ceredigion-preseli/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/ceredigion-preseli/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Rhondda Food Bank</name>
 		<alt_name/>
 		<slug>rhondda</slug>
@@ -26113,46 +26153,6 @@ OX5 2DS</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/bicester-and-woodstock/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/bicester-and-woodstock/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Jubilee Storehouse Food Bank</name>
-		<alt_name>Stordy y Jiwbbilî</alt_name>
-		<slug>jubilee-storehouse</slug>
-		<phone>08002425844</phone>
-		<secondary_phone/>
-		<email>jubileestorehouse@broaberystwyth.co.uk</email>
-		<address>St Anne's Church
-Southgate
-Aberystwyth
-SY23 1RY</address>
-		<postcode>SY23 1RY</postcode>
-		<closed>false</closed>
-		<country>Wales</country>
-		<lat_lng>52.39968450000001,-4.0711037</lat_lng>
-		<network>IFAN</network>
-		<created>2021-11-22T15:49:59.919743</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/jubilee-storehouse/</self>
-			<html>https://www.givefood.org.uk/needs/at/jubilee-storehouse/</html>
-			<homepage>https://jubileestorehouse.org</homepage>
-			<shopping_list>https://jubileestorehouse.org/how-to-help/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1134858</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1134858&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Ceredigion Preseli</parliamentary_constituency>
-			<mp>Ben Lake</mp>
-			<mp_party>Plaid Cymru</mp_party>
-			<mp_parl_id>4630</mp_parl_id>
-			<ward>Aberystwyth Penparcau</ward>
-			<district>Ceredigion</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/ceredigion-preseli/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/ceredigion-preseli/</html>
 			</urls>
 		</politics>
 	</foodbank>
