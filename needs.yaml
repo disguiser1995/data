@@ -27,6 +27,31 @@
   self: https://www.givefood.org.uk/api/2/need/c9235c38/
 - excess: ''
   foodbank:
+    name: Coventry
+    slug: coventry
+    urls:
+      html: https://www.givefood.org.uk/needs/at/coventry/
+      self: https://www.givefood.org.uk/api/2/foodbank/coventry/
+  found: 2025-03-11 18:34:08.719589
+  id: 8777389d
+  needs: 'UHT Long Life Milk
+
+    Dry Noodles
+
+    Fruit Juice Or Squash
+
+    Cooking Sauce
+
+    Jam
+
+    Tinned Tomatoes
+
+    Female Toiletries
+
+    Male Toiletries'
+  self: https://www.givefood.org.uk/api/2/need/8777389d/
+- excess: ''
+  foodbank:
     name: West Berks
     slug: west-berks
     urls:
@@ -3424,34 +3449,3 @@
 
     Tins Of Peas'
   self: https://www.givefood.org.uk/api/2/need/9d2ed695/
-- excess: Cereal
-  foodbank:
-    name: Bradford Central
-    slug: bradford-central
-    urls:
-      html: https://www.givefood.org.uk/needs/at/bradford-central/
-      self: https://www.givefood.org.uk/api/2/foodbank/bradford-central/
-  found: 2025-03-03 11:45:22.474321
-  id: 3fbc3b26
-  needs: 'Toiletries
-
-    Chopped Tomatoes
-
-    UHT Milk
-
-    Chapatti Flour
-
-    Baked Beans
-
-    Tinned Meat
-
-    Tinned Tomatoes
-
-    Shampoo
-
-    Biscuits
-
-    Toothbrushes
-
-    Tinned Fish'
-  self: https://www.givefood.org.uk/api/2/need/3fbc3b26/
