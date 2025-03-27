@@ -1062,6 +1062,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1036486,
+          52.585767
+        ]
+      },
+      "properties": {
+        "name": "Leicester South",
+        "slug": "leicester-south",
+        "address": "Community Hub\r\n40 Bell Street\r\nWigston\r\nLeicestershire\r\nLE18 1AD",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/leicester-south/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/leicester-south/",
+        "network": "Trussell",
+        "email": "info@leicestersouth.foodbank.org.uk",
+        "telephone": "07912194783",
+        "parliamentary_constituency": "Harborough, Oadby and Wigston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.1626634,
           51.6783714
         ]
@@ -1143,28 +1165,6 @@
         "email": "office@livingit.org.uk",
         "telephone": "01449774000",
         "parliamentary_constituency": "Bury St Edmunds and Stowmarket"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1036486,
-          52.585767
-        ]
-      },
-      "properties": {
-        "name": "Leicester South",
-        "slug": "leicester-south",
-        "address": "Community Hub\r\n40 Bell Street\r\nWigston\r\nLeicestershire\r\nLE18 1AD",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/leicester-south/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/leicester-south/",
-        "network": "Trussell",
-        "email": "info@leicestersouth.foodbank.org.uk",
-        "telephone": "07912194783",
-        "parliamentary_constituency": "Harborough, Oadby and Wigston"
       }
     },
     {
@@ -15802,28 +15802,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8101883,
-          52.4417955
-        ]
-      },
-      "properties": {
-        "name": "Community Essentials",
-        "slug": "community-essentials",
-        "address": "55-57i Warwick Road\r\nOlton\r\nSolihull\r\nB92 7HS",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/community-essentials/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/community-essentials/",
-        "network": "Independent",
-        "email": "hello@community-essentials.org.uk",
-        "telephone": "01218271110",
-        "parliamentary_constituency": "Solihull West and Shirley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7015099,
           55.4052109
         ]
@@ -15883,6 +15861,28 @@
         "email": "info@thestreet-angels.org",
         "telephone": "07827298882",
         "parliamentary_constituency": "Chatham and Aylesford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8101883,
+          52.4417955
+        ]
+      },
+      "properties": {
+        "name": "Community Essentials",
+        "slug": "community-essentials",
+        "address": "55-57i Warwick Road\r\nOlton\r\nSolihull\r\nB92 7HS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/community-essentials/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/community-essentials/",
+        "network": "Independent",
+        "email": "hello@community-essentials.org.uk",
+        "telephone": "01218271110",
+        "parliamentary_constituency": "Solihull West and Shirley"
       }
     },
     {
@@ -19916,28 +19916,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1705863,
-          52.9693817
-        ]
-      },
-      "properties": {
-        "name": "Llangollen",
-        "slug": "llangollen",
-        "address": "36c Castle Street\r\nLlangollen\r\nLL20 8RT",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/llangollen/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/llangollen/",
-        "network": "Independent",
-        "email": "llangollenfoodshare@gmail.com",
-        "telephone": "07538894449",
-        "parliamentary_constituency": "Clwyd East"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5475179,
           53.1352562
         ]
@@ -19975,6 +19953,28 @@
         "email": "office@scbc.org.uk",
         "telephone": "01213555088",
         "parliamentary_constituency": "Sutton Coldfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1705863,
+          52.9693817
+        ]
+      },
+      "properties": {
+        "name": "Llangollen",
+        "slug": "llangollen",
+        "address": "36c Castle Street\r\nLlangollen\r\nLL20 8RT",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/llangollen/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/llangollen/",
+        "network": "Independent",
+        "email": "llangollenfoodshare@gmail.com",
+        "telephone": "07538894449",
+        "parliamentary_constituency": "Clwyd East"
       }
     },
     {
