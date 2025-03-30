@@ -1,63 +1,6 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
-		<id>732a0868</id>
-		<found>2025-03-30T08:50:49.816409</found>
-		<foodbank>
-			<name>Towcester</name>
-			<slug>towcester</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/towcester/</self>
-				<html>https://www.givefood.org.uk/needs/at/towcester/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Meat (Curry, Pies, Stew, Chilli, Ham, Sausages Etc)
-Tinned Fruit
-Toothbrushes (Child &amp; Adult)
-Toiletries (Men And Women)
-Carrier Bags / Bags For Life
-Feminine Hygiene (Towels)</needs>
-		<excess>Tinned Tomatoes
-Tinned Soup
-Cereal
-Tampons</excess>
-		<self>https://www.givefood.org.uk/api/2/need/732a0868/</self>
-	</need>
-	<need>
-		<id>104cbb80</id>
-		<found>2025-03-30T08:50:17.954548</found>
-		<foodbank>
-			<name>Purley</name>
-			<slug>purley</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/purley/</self>
-				<html>https://www.givefood.org.uk/needs/at/purley/</html>
-			</urls>
-		</foodbank>
-		<needs>Tin Openers
-Meat Meals
-Tinned Carrots
-Sweetcorn
-Cartons Of Long Life Full Fat Milk
-Jars Of Peanut Butter
-Meat &amp; Fish Paste
-Tins Of Dessert Fruit
-Rice Pudding
-Small Bottles Of Shampoo
-Bars Of Soap
-Sanitary Pads
-Laundry Washing Capsules
-Tinned Meat
-Coffee
-Chocolate
-Spreads
-Desserts
-Vegetarian Meals
-Pasta Sauce</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/104cbb80/</self>
-	</need>
-	<need>
 		<id>a05de912</id>
 		<found>2025-03-30T08:12:08.389137</found>
 		<foodbank>
@@ -2899,5 +2842,71 @@ Pasta
 Porridge Oats
 Powdered Milk</excess>
 		<self>https://www.givefood.org.uk/api/2/need/9f81bf14/</self>
+	</need>
+	<need>
+		<id>dc616e65</id>
+		<found>2025-03-20T15:45:24.892406</found>
+		<foodbank>
+			<name>Epsom and Ewell</name>
+			<slug>epsom-and-ewell</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/epsom-and-ewell/</self>
+				<html>https://www.givefood.org.uk/needs/at/epsom-and-ewell/</html>
+			</urls>
+		</foodbank>
+		<needs>Squash
+Tinned Fish
+Cooking Sauces
+Instant Coffee
+Tea Bags
+Long Life Milk
+Ketchup/Mayonnaise/Brown Sauce
+Custard
+Powdered Milk
+Tinned Fruit
+Long Life Sponge Puddings
+Sugar (500Gr)
+Savoury Biscuits
+Biscuits
+Crisps
+Chocolate Biscuit Bars
+Chocolate Spread/Honey/Jam
+Deodorant (Male/Female)
+Shower Gel
+Sanitary Towels/Tampons
+Shampoo &amp; Conditioner
+Shaving Foam
+Washing Up Liquid
+Washing Powder</needs>
+		<excess>Tinned Tomatoes
+Tinned Soup
+Cat Food
+Pasta
+Pulses</excess>
+		<self>https://www.givefood.org.uk/api/2/need/dc616e65/</self>
+	</need>
+	<need>
+		<id>aaab40ba</id>
+		<found>2025-03-20T15:36:46.506444</found>
+		<foodbank>
+			<name>Sid Valley</name>
+			<slug>sid-valley</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/sid-valley/</self>
+				<html>https://www.givefood.org.uk/needs/at/sid-valley/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Tuna
+Pasta Sauce
+Tomato Ketchup
+Cereals
+Mayonnaise
+Cleaning Products
+Washing Powder/Liquid
+Gluten Free Items
+Food Suitable For Diabetics
+Non-Dairy Milk</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/aaab40ba/</self>
 	</need>
 </needs>
