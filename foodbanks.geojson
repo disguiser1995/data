@@ -512,28 +512,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1665284,
-          52.95930370000001
-        ]
-      },
-      "properties": {
-        "name": "Himmah",
-        "slug": "himmah",
-        "address": "Unit 2 Forest Court\r\nGamble Street\r\nRadford\r\nNottingham\r\nNG7 4EX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/himmah/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/himmah/",
-        "network": "IFAN",
-        "email": "info@himmah.org",
-        "telephone": "01158376116",
-        "parliamentary_constituency": "Nottingham East"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1101422,
           51.4439059
         ]
@@ -615,6 +593,28 @@
         "email": "thorneandmoorendsschfb@gmail.com",
         "telephone": null,
         "parliamentary_constituency": "Doncaster East and the Isle of Axholme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1665284,
+          52.95930370000001
+        ]
+      },
+      "properties": {
+        "name": "Himmah",
+        "slug": "himmah",
+        "address": "Unit 2 Forest Court\r\nGamble Street\r\nRadford\r\nNottingham\r\nNG7 4EX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/himmah/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/himmah/",
+        "network": "IFAN",
+        "email": "info@himmah.org",
+        "telephone": "01158376116",
+        "parliamentary_constituency": "Nottingham East"
       }
     },
     {
@@ -17034,8 +17034,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8088542,
-          53.0748567
+          -0.8082815999999999,
+          53.0751939
         ]
       },
       "properties": {
