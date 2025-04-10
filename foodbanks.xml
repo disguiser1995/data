@@ -21949,47 +21949,6 @@ SS17 7QH</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Whitchurch Food Bank</name>
-		<alt_name/>
-		<slug>whitchurch</slug>
-		<phone>01948663943</phone>
-		<secondary_phone/>
-		<email>info@whitchurch.foodbank.org.uk</email>
-		<address>Bargates Hall
-Church Street
-Whitchurch
-Shropshire
-SY13 1LB</address>
-		<postcode>SY13 1LB</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>52.9712624,-2.6853868</lat_lng>
-		<network>Trussell</network>
-		<created>2019-09-30T12:09:27.406209</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/whitchurch/</self>
-			<html>https://www.givefood.org.uk/needs/at/whitchurch/</html>
-			<homepage>https://whitchurch.foodbank.org.uk</homepage>
-			<shopping_list>https://whitchurch.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1153274</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1153274&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North Shropshire</parliamentary_constituency>
-			<mp>Helen Morgan</mp>
-			<mp_party>Liberal Democrat</mp_party>
-			<mp_parl_id>4934</mp_parl_id>
-			<ward>Whitchurch North</ward>
-			<district>Shropshire</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-shropshire/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-shropshire/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Glasgow NE Food Bank</name>
 		<alt_name/>
 		<slug>glasgow-ne</slug>
@@ -22067,6 +22026,47 @@ RM1 3BL</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/romford/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/romford/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Whitchurch Food Bank</name>
+		<alt_name/>
+		<slug>whitchurch</slug>
+		<phone>01948663943</phone>
+		<secondary_phone/>
+		<email>info@whitchurch.foodbank.org.uk</email>
+		<address>Bargates Hall
+Church Street
+Whitchurch
+Shropshire
+SY13 1LB</address>
+		<postcode>SY13 1LB</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>52.9712624,-2.6853868</lat_lng>
+		<network>Trussell</network>
+		<created>2019-09-30T12:09:27.406209</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/whitchurch/</self>
+			<html>https://www.givefood.org.uk/needs/at/whitchurch/</html>
+			<homepage>https://whitchurch.foodbank.org.uk</homepage>
+			<shopping_list>https://whitchurch.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1153274</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1153274&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North Shropshire</parliamentary_constituency>
+			<mp>Helen Morgan</mp>
+			<mp_party>Liberal Democrat</mp_party>
+			<mp_parl_id>4934</mp_parl_id>
+			<ward>Whitchurch North</ward>
+			<district>Shropshire</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-shropshire/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-shropshire/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -32150,7 +32150,7 @@ B43 5AL</address>
 		<urls>
 			<self>https://www.givefood.org.uk/api/2/foodbank/great-barr/</self>
 			<html>https://www.givefood.org.uk/needs/at/great-barr/</html>
-			<homepage>https://greatbarr.foodbank.org.uk</homepage>
+			<homepage>https://greatbarr.foodbank.org.uk/</homepage>
 			<shopping_list>https://greatbarr.foodbank.org.uk/give-help/donate-food/</shopping_list>
 		</urls>
 		<charity>
