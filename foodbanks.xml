@@ -1380,6 +1380,46 @@ KT12 2TZ</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<name>South Norwood Baptist Food Bank</name>
+		<alt_name/>
+		<slug>south-norwood-baptist</slug>
+		<phone>02038749482</phone>
+		<secondary_phone/>
+		<email>southnorwoodbaptistfoodbank@gmail.com</email>
+		<address>2 Oliver Avenue
+South Norwood
+London
+SE25 6TY</address>
+		<postcode>SE25 6TY</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.3995727,-0.07956750000000001</lat_lng>
+		<network>Independent</network>
+		<created>2024-09-22T09:03:35.802912</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/south-norwood-baptist/</self>
+			<html>https://www.givefood.org.uk/needs/at/south-norwood-baptist/</html>
+			<homepage>https://www.southnorwoodbaptist.org/foodbank</homepage>
+			<shopping_list>https://www.southnorwoodbaptist.org/foodbank</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Croydon West</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>South Norwood</ward>
+			<district>Croydon</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/croydon-west/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/croydon-west/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<name>Cleckheaton Food Bank</name>
 		<alt_name/>
 		<slug>cleckheaton</slug>
@@ -1536,46 +1576,6 @@ RG9 2AA</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/henley-and-thame/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/henley-and-thame/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>South Norwood Baptist Food Bank</name>
-		<alt_name/>
-		<slug>south-norwood-baptist</slug>
-		<phone>02038749482</phone>
-		<secondary_phone/>
-		<email>southnorwoodbaptistfoodbank@gmail.com</email>
-		<address>2 Oliver Avenue
-South Norwood
-London
-SE25 6TY</address>
-		<postcode>SE25 6TY</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.3995727,-0.07956750000000001</lat_lng>
-		<network>Independent</network>
-		<created>2024-09-22T09:03:35.802912</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/south-norwood-baptist/</self>
-			<html>https://www.givefood.org.uk/needs/at/south-norwood-baptist/</html>
-			<homepage>https://www.southnorwoodbaptist.org/foodbank</homepage>
-			<shopping_list>https://www.southnorwoodbaptist.org/foodbank</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Croydon West</parliamentary_constituency>
-			<mp/>
-			<mp_party/>
-			<mp_parl_id/>
-			<ward>South Norwood</ward>
-			<district>Croydon</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/croydon-west/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/croydon-west/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -8571,41 +8571,43 @@ BS31 1HF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Ealing Food Bank</name>
+		<name>Ormskirk Food Bank</name>
 		<alt_name/>
-		<slug>ealing</slug>
-		<phone>02088409428</phone>
+		<slug>ormskirk</slug>
+		<phone>07748951274</phone>
 		<secondary_phone/>
-		<email>info@ealing.foodbank.org.uk</email>
-		<address>65 Tawny Close
-West Ealing
-W13 9LX</address>
-		<postcode>W13 9LX</postcode>
+		<email>info@ormskirk.foodbank.org.uk</email>
+		<address>New Church House
+Church Street
+Ormskirk
+Lancashire
+L39 3RD</address>
+		<postcode>L39 3RD</postcode>
 		<closed>false</closed>
 		<country>England</country>
-		<lat_lng>51.5095106,-0.320034</lat_lng>
+		<lat_lng>53.5688624,-2.8880356</lat_lng>
 		<network>Trussell</network>
-		<created>2020-01-02T15:08:07.255379</created>
+		<created>2019-09-29T10:20:09.804535</created>
 		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/ealing/</self>
-			<html>https://www.givefood.org.uk/needs/at/ealing/</html>
-			<homepage>https://ealing.foodbank.org.uk</homepage>
-			<shopping_list>https://ealing.foodbank.org.uk/give-help/donate-food/</shopping_list>
+			<self>https://www.givefood.org.uk/api/2/foodbank/ormskirk/</self>
+			<html>https://www.givefood.org.uk/needs/at/ormskirk/</html>
+			<homepage>https://ormskirk.foodbank.org.uk</homepage>
+			<shopping_list>https://ormskirk.foodbank.org.uk/give-help/donate-food/</shopping_list>
 		</urls>
 		<charity>
-			<registration_id>1156369</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1156369&amp;subid=0</register_url>
+			<registration_id>1185980</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1185980&amp;subid=0</register_url>
 		</charity>
 		<politics>
-			<parliamentary_constituency>Ealing Southall</parliamentary_constituency>
-			<mp>Rupa Huq</mp>
+			<parliamentary_constituency>West Lancashire</parliamentary_constituency>
+			<mp>Rosie Cooper</mp>
 			<mp_party>Labour</mp_party>
-			<mp_parl_id>4511</mp_parl_id>
-			<ward>Walpole</ward>
-			<district>Ealing</district>
+			<mp_parl_id>1538</mp_parl_id>
+			<ward>Ormskirk West</ward>
+			<district>West Lancashire</district>
 			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/ealing-southall/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/ealing-southall/</html>
+				<self>https://www.givefood.org.uk/api/2/constituency/west-lancashire/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/west-lancashire/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -8646,47 +8648,6 @@ SA3 5LD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/gower/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/gower/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<name>Ormskirk Food Bank</name>
-		<alt_name/>
-		<slug>ormskirk</slug>
-		<phone>07748951274</phone>
-		<secondary_phone/>
-		<email>info@ormskirk.foodbank.org.uk</email>
-		<address>New Church House
-Church Street
-Ormskirk
-Lancashire
-L39 3RD</address>
-		<postcode>L39 3RD</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.5688624,-2.8880356</lat_lng>
-		<network>Trussell</network>
-		<created>2019-09-29T10:20:09.804535</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/ormskirk/</self>
-			<html>https://www.givefood.org.uk/needs/at/ormskirk/</html>
-			<homepage>https://ormskirk.foodbank.org.uk</homepage>
-			<shopping_list>https://ormskirk.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1185980</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1185980&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>West Lancashire</parliamentary_constituency>
-			<mp>Rosie Cooper</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>1538</mp_parl_id>
-			<ward>Ormskirk West</ward>
-			<district>West Lancashire</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/west-lancashire/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/west-lancashire/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -8850,6 +8811,45 @@ TQ9 5AD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/south-devon/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/south-devon/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Ealing Food Bank</name>
+		<alt_name/>
+		<slug>ealing</slug>
+		<phone>02088409428</phone>
+		<secondary_phone/>
+		<email>info@ealing.foodbank.org.uk</email>
+		<address>65 Tawny Close
+West Ealing
+W13 9LX</address>
+		<postcode>W13 9LX</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.5095106,-0.320034</lat_lng>
+		<network>Trussell</network>
+		<created>2020-01-02T15:08:07.255379</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/ealing/</self>
+			<html>https://www.givefood.org.uk/needs/at/ealing/</html>
+			<homepage>https://ealing.foodbank.org.uk</homepage>
+			<shopping_list>https://ealing.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1156369</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1156369&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Ealing Southall</parliamentary_constituency>
+			<mp>Rupa Huq</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>4511</mp_parl_id>
+			<ward>Walpole</ward>
+			<district>Ealing</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/ealing-southall/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/ealing-southall/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -20095,47 +20095,6 @@ SE15 4AN</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Taff Bargoed Food Bank</name>
-		<alt_name>Banc Bwyd Taf Bargoed</alt_name>
-		<slug>taff-bargoed</slug>
-		<phone>01443450832</phone>
-		<secondary_phone/>
-		<email>info@taffbargoed.foodbank.org.uk</email>
-		<address>St John's Church and Church Hall
-High Street
-Nelson
-Caerphilly
-CF46 6HA</address>
-		<postcode>CF46 6HA</postcode>
-		<closed>false</closed>
-		<country>Wales</country>
-		<lat_lng>51.6514192,-3.287425</lat_lng>
-		<network>Trussell</network>
-		<created>2021-03-04T08:49:07.130109</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/taff-bargoed/</self>
-			<html>https://www.givefood.org.uk/needs/at/taff-bargoed/</html>
-			<homepage>https://taffbargoed.foodbank.org.uk</homepage>
-			<shopping_list>https://taffbargoed.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Caerphilly</parliamentary_constituency>
-			<mp>Wayne David</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>1398</mp_parl_id>
-			<ward>Nelson</ward>
-			<district>Caerphilly</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/caerphilly/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/caerphilly/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Newport (Shropshire) Food Bank</name>
 		<alt_name/>
 		<slug>newport-shropshire</slug>
@@ -20173,6 +20132,47 @@ TF10 7AJ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/the-wrekin/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/the-wrekin/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Taff Bargoed Food Bank</name>
+		<alt_name>Banc Bwyd Taf Bargoed</alt_name>
+		<slug>taff-bargoed</slug>
+		<phone>01443450832</phone>
+		<secondary_phone/>
+		<email>info@taffbargoed.foodbank.org.uk</email>
+		<address>St John's Church and Church Hall
+High Street
+Nelson
+Caerphilly
+CF46 6HA</address>
+		<postcode>CF46 6HA</postcode>
+		<closed>false</closed>
+		<country>Wales</country>
+		<lat_lng>51.6514192,-3.287425</lat_lng>
+		<network>Trussell</network>
+		<created>2021-03-04T08:49:07.130109</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/taff-bargoed/</self>
+			<html>https://www.givefood.org.uk/needs/at/taff-bargoed/</html>
+			<homepage>https://taffbargoed.foodbank.org.uk</homepage>
+			<shopping_list>https://taffbargoed.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Caerphilly</parliamentary_constituency>
+			<mp>Wayne David</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>1398</mp_parl_id>
+			<ward>Nelson</ward>
+			<district>Caerphilly</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/caerphilly/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/caerphilly/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -20506,14 +20506,15 @@ WV6 0QR</address>
 		<phone>01684564491</phone>
 		<secondary_phone>07529322985</secondary_phone>
 		<email>info@malvernhills.foodbank.org.uk</email>
-		<address>Unit 4, Spring Court
+		<address>Unit 4
+Spring Court
 Spring Lane South
 Malvern
 WR14 1AT</address>
 		<postcode>WR14 1AT</postcode>
 		<closed>false</closed>
 		<country>England</country>
-		<lat_lng>52.1267253,-2.3074557</lat_lng>
+		<lat_lng>52.1243929,-2.305712</lat_lng>
 		<network>Trussell</network>
 		<created>2019-10-19T19:58:48.412306</created>
 		<urls>
