@@ -31326,47 +31326,6 @@ LL18 2PD</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>East Neuk Food Bank</name>
-		<alt_name/>
-		<slug>east-neuk</slug>
-		<phone>01333310156</phone>
-		<secondary_phone/>
-		<email>eastneukfoodbank@gmail.com</email>
-		<address>Anstruther Parish Church
-School Green
-Anstruther
-Fife
-KY10 3HF</address>
-		<postcode>KY10 3HF</postcode>
-		<closed>false</closed>
-		<country>Scotland</country>
-		<lat_lng>56.2235421,-2.699889</lat_lng>
-		<network>IFAN</network>
-		<created>2020-09-01T17:36:38.932259</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/east-neuk/</self>
-			<html>https://www.givefood.org.uk/needs/at/east-neuk/</html>
-			<homepage>https://www.facebook.com/eastneukfoodbank</homepage>
-			<shopping_list>https://www.facebook.com/eastneukfoodbank</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North East Fife</parliamentary_constituency>
-			<mp>Wendy Chamberlain</mp>
-			<mp_party>Liberal Democrats</mp_party>
-			<mp_parl_id>4765</mp_parl_id>
-			<ward>East Neuk and Landward</ward>
-			<district>Fife</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-east-fife/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-east-fife/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Haslemere Food Bank</name>
 		<alt_name/>
 		<slug>haslemere</slug>
@@ -31645,6 +31604,47 @@ WN1 1DN</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/wigan/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/wigan/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>East Neuk Food Bank</name>
+		<alt_name/>
+		<slug>east-neuk</slug>
+		<phone>01333310156</phone>
+		<secondary_phone/>
+		<email>eastneukfoodbank@gmail.com</email>
+		<address>Anstruther Parish Church
+School Green
+Anstruther
+Fife
+KY10 3HF</address>
+		<postcode>KY10 3HF</postcode>
+		<closed>false</closed>
+		<country>Scotland</country>
+		<lat_lng>56.2235421,-2.699889</lat_lng>
+		<network>IFAN</network>
+		<created>2020-09-01T17:36:38.932259</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/east-neuk/</self>
+			<html>https://www.givefood.org.uk/needs/at/east-neuk/</html>
+			<homepage>https://www.facebook.com/eastneukfoodbank</homepage>
+			<shopping_list>https://www.facebook.com/eastneukfoodbank</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North East Fife</parliamentary_constituency>
+			<mp>Wendy Chamberlain</mp>
+			<mp_party>Liberal Democrats</mp_party>
+			<mp_parl_id>4765</mp_parl_id>
+			<ward>East Neuk and Landward</ward>
+			<district>Fife</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-east-fife/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-east-fife/</html>
 			</urls>
 		</politics>
 	</foodbank>
