@@ -336,6 +336,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2572233,
+          52.0859489
+        ]
+      },
+      "properties": {
+        "name": "Biggleswade",
+        "slug": "biggleswade",
+        "address": "Biggleswade Baptist Church\r\n24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/biggleswade/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/biggleswade/",
+        "network": "Independent",
+        "email": "foodbank@bbchurch.org",
+        "telephone": "01767312667",
+        "parliamentary_constituency": "North Bedfordshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.1533815,
           55.936881
         ]
@@ -402,21 +424,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.257392,
-          52.08596379999999
+          -3.4812748,
+          50.8174551
         ]
       },
       "properties": {
-        "name": "Biggleswade",
-        "slug": "biggleswade",
-        "address": "24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB",
+        "name": "Silverton Community Larder",
+        "slug": "silverton-community-larder",
+        "address": "Wyndham Road\r\nSilverton\r\nExeter\r\nEX5 4JZ",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/biggleswade/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/biggleswade/",
+        "url": "https://www.givefood.org.uk/needs/at/silverton-community-larder/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/silverton-community-larder/",
         "network": "Independent",
-        "email": "foodbank@bbchurch.org",
-        "telephone": "01767312667",
-        "parliamentary_constituency": "North Bedfordshire"
+        "email": "gkb43@outlook.com",
+        "telephone": null,
+        "parliamentary_constituency": "Central Devon"
       }
     },
     {
@@ -505,28 +527,6 @@
         "email": "info@stannsadvice.org.uk",
         "telephone": "01159506867",
         "parliamentary_constituency": "Nottingham East"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.4812748,
-          50.8174551
-        ]
-      },
-      "properties": {
-        "name": "Silverton Community Larder",
-        "slug": "silverton-community-larder",
-        "address": "Wyndham Road\r\nSilverton\r\nExeter\r\nEX5 4JZ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/silverton-community-larder/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/silverton-community-larder/",
-        "network": "Independent",
-        "email": "gkb43@outlook.com",
-        "telephone": null,
-        "parliamentary_constituency": "Central Devon"
       }
     },
     {
@@ -3592,28 +3592,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3326282,
-          51.2325293
-        ]
-      },
-      "properties": {
-        "name": "Dorking Area",
-        "slug": "dorking-area",
-        "address": "The Christian Centre\r\nChurch Street\r\nDorking\r\nRH4 1DW",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/dorking-area/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/dorking-area/",
-        "network": "Trussell",
-        "email": "info@dorkingarea.foodbank.org.uk",
-        "telephone": "07494226743",
-        "parliamentary_constituency": "Dorking and Horley"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.0823029,
           51.47085670000001
         ]
@@ -3761,6 +3739,28 @@
         "email": "admin@barrowfoodbank.co.uk",
         "telephone": "01229343436",
         "parliamentary_constituency": "Barrow and Furness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3326282,
+          51.2325293
+        ]
+      },
+      "properties": {
+        "name": "Dorking Area",
+        "slug": "dorking-area",
+        "address": "The Christian Centre\r\nChurch Street\r\nDorking\r\nRH4 1DW",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/dorking-area/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/dorking-area/",
+        "network": "Trussell",
+        "email": "info@dorkingarea.foodbank.org.uk",
+        "telephone": "07494226743",
+        "parliamentary_constituency": "Dorking and Horley"
       }
     },
     {
@@ -4208,28 +4208,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1879831,
-          55.970015
-        ]
-      },
-      "properties": {
-        "name": "Edinburgh NE",
-        "slug": "edinburgh-ne",
-        "address": "19 Stewartfield\r\nEdinburgh\r\nEH6 5RQ",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/edinburgh-ne/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/edinburgh-ne/",
-        "network": "Trussell",
-        "email": "info@edinburghne.foodbank.org.uk",
-        "telephone": "01315535694",
-        "parliamentary_constituency": "Edinburgh North and Leith"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.4668266,
           51.1961841
         ]
@@ -4399,6 +4377,28 @@
         "email": "foodbank@dens.org.uk",
         "telephone": "01442262274",
         "parliamentary_constituency": "Hemel Hempstead"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1879831,
+          55.970015
+        ]
+      },
+      "properties": {
+        "name": "Edinburgh NE",
+        "slug": "edinburgh-ne",
+        "address": "19 Stewartfield\r\nEdinburgh\r\nEH6 5RQ",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/edinburgh-ne/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/edinburgh-ne/",
+        "network": "Trussell",
+        "email": "info@edinburghne.foodbank.org.uk",
+        "telephone": "01315535694",
+        "parliamentary_constituency": "Edinburgh North and Leith"
       }
     },
     {
@@ -14614,28 +14614,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8909114,
-          52.4759706
-        ]
-      },
-      "properties": {
-        "name": "Feedo Needo",
-        "slug": "feedo-needo",
-        "address": "Smithfield House\r\nDigbeth\r\nBirmingham\r\nB5 6BS",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/feedo-needo/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/feedo-needo/",
-        "network": "Independent",
-        "email": "info@feedoneedo.org.uk",
-        "telephone": "03003111312",
-        "parliamentary_constituency": "Birmingham Ladywood"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1597841,
           51.99148229999999
         ]
@@ -14651,6 +14629,28 @@
         "email": "info@tewkesbury.foodbank.org.uk",
         "telephone": "01684296824",
         "parliamentary_constituency": "Tewkesbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8909114,
+          52.4759706
+        ]
+      },
+      "properties": {
+        "name": "Feedo Needo",
+        "slug": "feedo-needo",
+        "address": "Smithfield House\r\nDigbeth\r\nBirmingham\r\nB5 6BS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/feedo-needo/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/feedo-needo/",
+        "network": "Independent",
+        "email": "info@feedoneedo.org.uk",
+        "telephone": "03003111312",
+        "parliamentary_constituency": "Birmingham Ladywood"
       }
     },
     {
@@ -15010,6 +15010,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2990703,
+          54.5485137
+        ]
+      },
+      "properties": {
+        "name": "Thornaby",
+        "slug": "thornaby",
+        "address": "Thornaby Baptist Church\r\nThorntree Road\r\nThornaby\r\nStockton-on-Tees\r\nTS17 8FZ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/thornaby/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/thornaby/",
+        "network": "Independent",
+        "email": "thornabyfoodbank@gmail.com",
+        "telephone": "07469920606",
+        "parliamentary_constituency": "Middlesbrough and Thornaby East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.8414118,
           55.5468348
         ]
@@ -15047,28 +15069,6 @@
         "email": "info@eastrenfrewshire.foodbank.org.uk",
         "telephone": "01418818250",
         "parliamentary_constituency": "East Renfrewshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2990703,
-          54.5485137
-        ]
-      },
-      "properties": {
-        "name": "Thornaby",
-        "slug": "thornaby",
-        "address": "Thornaby Baptist Church\r\nThorntree Road\r\nThornaby\r\nStockton-on-Tees\r\nTS17 8FZ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/thornaby/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/thornaby/",
-        "network": "Independent",
-        "email": "thornabyfoodbank@gmail.com",
-        "telephone": "07469920606",
-        "parliamentary_constituency": "Middlesbrough and Thornaby East"
       }
     },
     {
@@ -20202,28 +20202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8363786,
-          55.7344271
-        ]
-      },
-      "properties": {
-        "name": "Clydesdale",
-        "slug": "clydesdale",
-        "address": "Highmill \r\n96 Chapel Street\r\nCarluke\r\nML8 4BA",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/clydesdale/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/clydesdale/",
-        "network": "IFAN",
-        "email": "cfoodbank@yahoo.co.uk",
-        "telephone": "01555771700",
-        "parliamentary_constituency": "Motherwell, Wishaw and Carluke"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.6114616,
           55.4283213
         ]
@@ -20239,6 +20217,28 @@
         "email": "kintyrefoodbank@gmail.com",
         "telephone": "07880659178",
         "parliamentary_constituency": "Argyll, Bute and South Lochaber"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8363786,
+          55.7344271
+        ]
+      },
+      "properties": {
+        "name": "Clydesdale",
+        "slug": "clydesdale",
+        "address": "Highmill \r\n96 Chapel Street\r\nCarluke\r\nML8 4BA",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/clydesdale/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/clydesdale/",
+        "network": "IFAN",
+        "email": "cfoodbank@yahoo.co.uk",
+        "telephone": "01555771700",
+        "parliamentary_constituency": "Motherwell, Wishaw and Carluke"
       }
     },
     {
