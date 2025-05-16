@@ -31446,46 +31446,6 @@ N4 2LW</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Sufra NW London Food Bank</name>
-		<alt_name/>
-		<slug>sufra-nw-london</slug>
-		<phone>02034411335</phone>
-		<secondary_phone/>
-		<email>admin@sufra-nwlondon.org.uk</email>
-		<address>160 Pitfield Way
-Stonebridge
-London
-NW10 0PW</address>
-		<postcode>NW10 0PW</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.5488522,-0.2660772</lat_lng>
-		<network>Independent</network>
-		<created>2019-10-06T15:26:59.078625</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/sufra-nw-london/</self>
-			<html>https://www.givefood.org.uk/needs/at/sufra-nw-london/</html>
-			<homepage>https://www.sufra-nwlondon.org.uk</homepage>
-			<shopping_list>https://www.sufra-nwlondon.org.uk/get-involved/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1151911</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151911&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Brent East</parliamentary_constituency>
-			<mp>Dawn Butler</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>1489</mp_parl_id>
-			<ward>Stonebridge</ward>
-			<district>Brent</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/brent-east/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/brent-east/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Ashington Life Centre Food Bank</name>
 		<alt_name/>
 		<slug>ashington-life-centre</slug>
@@ -31604,6 +31564,46 @@ GU27 1LD</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/farnham-and-bordon/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/farnham-and-bordon/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Sufra NW London Food Bank</name>
+		<alt_name/>
+		<slug>sufra-nw-london</slug>
+		<phone>02034411335</phone>
+		<secondary_phone/>
+		<email>admin@sufra-nwlondon.org.uk</email>
+		<address>160 Pitfield Way
+Stonebridge
+London
+NW10 0PW</address>
+		<postcode>NW10 0PW</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.5488522,-0.2660772</lat_lng>
+		<network>Independent</network>
+		<created>2019-10-06T15:26:59.078625</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/sufra-nw-london/</self>
+			<html>https://www.givefood.org.uk/needs/at/sufra-nw-london/</html>
+			<homepage>https://www.sufra-nwlondon.org.uk</homepage>
+			<shopping_list>https://www.sufra-nwlondon.org.uk/get-involved/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1151911</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151911&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Brent East</parliamentary_constituency>
+			<mp>Dawn Butler</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>1489</mp_parl_id>
+			<ward>Stonebridge</ward>
+			<district>Brent</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/brent-east/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/brent-east/</html>
 			</urls>
 		</politics>
 	</foodbank>
