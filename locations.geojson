@@ -52,29 +52,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8768504,
-          52.4905413
-        ]
-      },
-      "properties": {
-        "name": "St Matthew's Community Hall, Aston & Nechells Food Bank",
-        "slug": "st-matthews-community-hall",
-        "address": "63 Wardlow Road\r\nNechells\r\nBirmingham\r\nB7 4JH",
-        "url": "https://www.givefood.org.uk/needs/at/aston-nechells/st-matthews-community-hall/",
-        "network": "Trussell",
-        "email": "info@astonnechells.foodbank.org.uk",
-        "telephone": "07384213621",
-        "foodbank": "Aston & Nechells",
-        "foodbank_slug": "aston-nechells",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/aston-nechells/",
-        "parliamentary_constituency": "Birmingham Ladywood"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.889195,
           50.7203808
         ]
@@ -6462,6 +6439,29 @@
         "foodbank_slug": "portsmouth",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/portsmouth/",
         "parliamentary_constituency": "Portsmouth North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8768504,
+          52.4905413
+        ]
+      },
+      "properties": {
+        "name": "St Matthew's Community Hall, Aston & Nechells Food Bank",
+        "slug": "st-matthews-community-hall",
+        "address": "63 Wardlow Road\r\nNechells\r\nBirmingham\r\nB7 4JH",
+        "url": "https://www.givefood.org.uk/needs/at/aston-nechells/st-matthews-community-hall/",
+        "network": "Trussell",
+        "email": "info@astonnechells.foodbank.org.uk",
+        "telephone": "07384213621",
+        "foodbank": "Aston & Nechells",
+        "foodbank_slug": "aston-nechells",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/aston-nechells/",
+        "parliamentary_constituency": "Birmingham Ladywood"
       }
     },
     {
