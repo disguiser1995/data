@@ -4164,6 +4164,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.3794259,
+          52.2398329
+        ]
+      },
+      "properties": {
+        "name": "Llandrindod",
+        "slug": "llandrindod",
+        "address": "Oasis\r\nSpa Road\r\nLlandrindod Wells\r\nPowys\r\nLD1 5ER",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/llandrindod/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/llandrindod/",
+        "network": "Trussell",
+        "email": "info@llandrindod.foodbank.org.uk",
+        "telephone": "07519839189",
+        "parliamentary_constituency": "Brecon, Radnor and Cwm Tawe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2404098,
           52.77890859999999
         ]
@@ -4245,28 +4267,6 @@
         "email": "s20foodbank@gmail.com",
         "telephone": "07732823028",
         "parliamentary_constituency": "Sheffield South East"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.3794259,
-          52.2398329
-        ]
-      },
-      "properties": {
-        "name": "Llandrindod",
-        "slug": "llandrindod",
-        "address": "Oasis\r\nSpa Road\r\nLlandrindod Wells\r\nPowys\r\nLD1 5ER",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/llandrindod/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/llandrindod/",
-        "network": "Trussell",
-        "email": "info@llandrindod.foodbank.org.uk",
-        "telephone": "07519839189",
-        "parliamentary_constituency": "Brecon, Radnor and Cwm Tawe"
       }
     },
     {
