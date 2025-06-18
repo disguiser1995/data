@@ -908,6 +908,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.1763123,
+          51.4408201
+        ]
+      },
+      "properties": {
+        "name": "Penarth",
+        "slug": "penarth",
+        "address": "Arcot House\r\nPlassey Street\r\nPenarth\r\nCF64 1EN",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/penarth/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/penarth/",
+        "network": "Independent",
+        "email": "foodbank@tabspenarth.org.uk",
+        "telephone": "02920702690",
+        "parliamentary_constituency": "Cardiff South and Penarth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1101422,
           51.4439059
         ]
