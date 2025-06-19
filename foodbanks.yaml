@@ -469,6 +469,37 @@
     html: https://www.givefood.org.uk/needs/at/colwyn-bay/
     self: https://www.givefood.org.uk/api/2/foodbank/colwyn-bay/
     shopping_list: https://www.facebook.com/ColwynBayCommunityHwb/
+- address: "SM Complex\r\nBeckside Lane\r\nBradford\r\nBD7 2JX"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1104771&subid=0
+    registration_id: '1104771'
+  closed: false
+  country: England
+  created: 2025-06-18 15:04:46.304254
+  email: info@smtrust.org.uk
+  lat_lng: 53.78349069999999,-1.787575
+  name: SMT Foodbank
+  network: Independent
+  phone: '01274270043'
+  politics:
+    district: Bradford
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: Bradford South
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/bradford-south/
+      self: https://www.givefood.org.uk/api/2/constituency/bradford-south/
+    ward: Great Horton
+  postcode: BD7 2JX
+  secondary_phone: null
+  slug: smt
+  urls:
+    homepage: https://www.smtrust.org.uk/food-bank-uk/
+    html: https://www.givefood.org.uk/needs/at/smt/
+    self: https://www.givefood.org.uk/api/2/foodbank/smt/
+    shopping_list: https://www.smtrust.org.uk/food-bank-uk/
 - address: "St Nicholas Church Centre\r\n30 Wareham Road\r\nCorfe Mullen\r\nDorset\r\
     \nBH21 3LE"
   alt_name: null
@@ -595,37 +626,6 @@
     html: https://www.givefood.org.uk/needs/at/time-for-the-homeless/
     self: https://www.givefood.org.uk/api/2/foodbank/time-for-the-homeless/
     shopping_list: https://www.facebook.com/pages/category/Charity-Organization/Time-For-The-Homeless-250523678990484/
-- address: "SM Complex\r\nBeckside Lane\r\nBradford\r\nBD7 2JX"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1104771&subid=0
-    registration_id: '1104771'
-  closed: false
-  country: England
-  created: 2025-06-18 15:04:46.304254
-  email: info@smtrust.org.uk
-  lat_lng: 53.78349069999999,-1.787575
-  name: SMT Foodbank
-  network: Independent
-  phone: '01274270043'
-  politics:
-    district: Bradford
-    mp: null
-    mp_parl_id: null
-    mp_party: null
-    parliamentary_constituency: Bradford South
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/bradford-south/
-      self: https://www.givefood.org.uk/api/2/constituency/bradford-south/
-    ward: Great Horton
-  postcode: BD7 2JX
-  secondary_phone: null
-  slug: smt
-  urls:
-    homepage: https://www.smtrust.org.uk/food-bank-uk/
-    html: https://www.givefood.org.uk/needs/at/smt/
-    self: https://www.givefood.org.uk/api/2/foodbank/smt/
-    shopping_list: https://www.smtrust.org.uk/food-bank-uk/
 - address: "United Reformed Church Hall\r\n11 North Street\r\nSouthminster\r\nEssex\r\
     \nCM0 7DF"
   alt_name: null
@@ -10823,37 +10823,6 @@
     html: https://www.givefood.org.uk/needs/at/chiltern/
     self: https://www.givefood.org.uk/api/2/foodbank/chiltern/
     shopping_list: https://chiltern.foodbank.org.uk/support-us/donate-food
-- address: "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1208406&subid=0
-    registration_id: '1208406'
-  closed: false
-  country: England
-  created: 2020-08-15 17:31:40.158932
-  email: info@wellsstorehouse.co.uk
-  lat_lng: 51.2031589,-2.650812
-  name: Wells Foodbank
-  network: Independent
-  phone: 07587125228
-  politics:
-    district: Somerset
-    mp: James Heappey
-    mp_parl_id: 4528
-    mp_party: Conservative
-    parliamentary_constituency: Wells and Mendip Hills
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/wells-and-mendip-hills/
-      self: https://www.givefood.org.uk/api/2/constituency/wells-and-mendip-hills/
-    ward: Wells
-  postcode: BA5 1TU
-  secondary_phone: null
-  slug: wells
-  urls:
-    homepage: https://www.wellsstorehouse.co.uk/
-    html: https://www.givefood.org.uk/needs/at/wells/
-    self: https://www.givefood.org.uk/api/2/foodbank/wells/
-    shopping_list: https://www.wellsstorehouse.co.uk/donate/
 - address: "19-21 Main Street\r\nKilsyth\r\nGlasgow\r\nG65 0AH"
   alt_name: null
   charity:
@@ -11011,6 +10980,37 @@
     html: https://www.givefood.org.uk/needs/at/bloxwich-blakenall/
     self: https://www.givefood.org.uk/api/2/foodbank/bloxwich-blakenall/
     shopping_list: https://bloxwichblakenall.foodbank.org.uk/give-help/donate-food/
+- address: "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1208406&subid=0
+    registration_id: '1208406'
+  closed: false
+  country: England
+  created: 2020-08-15 17:31:40.158932
+  email: info@wellsstorehouse.co.uk
+  lat_lng: 51.2031589,-2.650812
+  name: Wells Foodbank
+  network: Independent
+  phone: 07587125228
+  politics:
+    district: Somerset
+    mp: James Heappey
+    mp_parl_id: 4528
+    mp_party: Conservative
+    parliamentary_constituency: Wells and Mendip Hills
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/wells-and-mendip-hills/
+      self: https://www.givefood.org.uk/api/2/constituency/wells-and-mendip-hills/
+    ward: Wells
+  postcode: BA5 1TU
+  secondary_phone: null
+  slug: wells
+  urls:
+    homepage: https://www.wellsstorehouse.co.uk/
+    html: https://www.givefood.org.uk/needs/at/wells/
+    self: https://www.givefood.org.uk/api/2/foodbank/wells/
+    shopping_list: https://www.wellsstorehouse.co.uk/donate/
 - address: "Dunbar Parish Church Hall\r\n32A High Street\r\nDunbar\r\nEH42 1AA"
   alt_name: null
   charity:
@@ -19259,37 +19259,6 @@
     html: https://www.givefood.org.uk/needs/at/eastern-valley/
     self: https://www.givefood.org.uk/api/2/foodbank/eastern-valley/
     shopping_list: https://easternvalley.foodbank.org.uk/give-help/donate-food/
-- address: "St Paul's Centre\r\nHightown\r\nCrewe\r\nCW1 3BY"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1001566&subid=0
-    registration_id: '1001566'
-  closed: false
-  country: England
-  created: 2020-09-19 07:59:13.811000
-  email: pantry@stpaulscentre.org.uk
-  lat_lng: 53.1006436,-2.4471848
-  name: St Paul's Crewe Foodbank
-  network: IFAN
-  phone: 01270586186
-  politics:
-    district: Cheshire East
-    mp: Kieran Mullan
-    mp_parl_id: 4860
-    mp_party: Conservative
-    parliamentary_constituency: Crewe and Nantwich
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/crewe-and-nantwich/
-      self: https://www.givefood.org.uk/api/2/constituency/crewe-and-nantwich/
-    ward: Crewe Central
-  postcode: CW1 3BY
-  secondary_phone: null
-  slug: st-pauls-crewe
-  urls:
-    homepage: https://www.stpaulscentre.org.uk/food
-    html: https://www.givefood.org.uk/needs/at/st-pauls-crewe/
-    self: https://www.givefood.org.uk/api/2/foodbank/st-pauls-crewe/
-    shopping_list: https://www.stpaulscentre.org.uk/shoppinglist
 - address: "Suite 110\r\n61 Victoria Road\r\nSurbiton\r\nSurrey\r\nKT6 4JX"
   alt_name: null
   charity:
@@ -19384,6 +19353,37 @@
     html: https://www.givefood.org.uk/needs/at/wisbech/
     self: https://www.givefood.org.uk/api/2/foodbank/wisbech/
     shopping_list: https://wisbech.foodbank.org.uk/support-us/donate-food
+- address: "St Paul's Centre\r\nHightown\r\nCrewe\r\nCW1 3BY"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1001566&subid=0
+    registration_id: '1001566'
+  closed: false
+  country: England
+  created: 2020-09-19 07:59:13.811000
+  email: pantry@stpaulscentre.org.uk
+  lat_lng: 53.1006436,-2.4471848
+  name: St Paul's Crewe Foodbank
+  network: IFAN
+  phone: 01270586186
+  politics:
+    district: Cheshire East
+    mp: Kieran Mullan
+    mp_parl_id: 4860
+    mp_party: Conservative
+    parliamentary_constituency: Crewe and Nantwich
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/crewe-and-nantwich/
+      self: https://www.givefood.org.uk/api/2/constituency/crewe-and-nantwich/
+    ward: Crewe Central
+  postcode: CW1 3BY
+  secondary_phone: null
+  slug: st-pauls-crewe
+  urls:
+    homepage: https://www.stpaulscentre.org.uk/food
+    html: https://www.givefood.org.uk/needs/at/st-pauls-crewe/
+    self: https://www.givefood.org.uk/api/2/foodbank/st-pauls-crewe/
+    shopping_list: https://www.stpaulscentre.org.uk/shoppinglist
 - address: "Dodson House\r\nDodson Way\r\nFengate\r\nPE1 5XG"
   alt_name: null
   charity:

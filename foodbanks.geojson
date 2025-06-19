@@ -336,6 +336,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.787575,
+          53.78349069999999
+        ]
+      },
+      "properties": {
+        "name": "SMT",
+        "slug": "smt",
+        "address": "SM Complex\r\nBeckside Lane\r\nBradford\r\nBD7 2JX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/smt/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/smt/",
+        "network": "Independent",
+        "email": "info@smtrust.org.uk",
+        "telephone": "01274270043",
+        "parliamentary_constituency": "Bradford South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.016785,
           50.7753096
         ]
@@ -417,28 +439,6 @@
         "email": "timeforthehomeless@outlook.com",
         "telephone": "07496108583",
         "parliamentary_constituency": "Rochester and Strood"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.787575,
-          53.78349069999999
-        ]
-      },
-      "properties": {
-        "name": "SMT",
-        "slug": "smt",
-        "address": "SM Complex\r\nBeckside Lane\r\nBradford\r\nBD7 2JX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/smt/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/smt/",
-        "network": "Independent",
-        "email": "info@smtrust.org.uk",
-        "telephone": "01274270043",
-        "parliamentary_constituency": "Bradford South"
       }
     },
     {
@@ -7596,28 +7596,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.650812,
-          51.2031589
-        ]
-      },
-      "properties": {
-        "name": "Wells",
-        "slug": "wells",
-        "address": "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/wells/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/wells/",
-        "network": "Independent",
-        "email": "info@wellsstorehouse.co.uk",
-        "telephone": "07587125228",
-        "parliamentary_constituency": "Wells and Mendip Hills"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.0564517,
           55.9765808
         ]
@@ -7721,6 +7699,28 @@
         "email": "info@bloxwichblakenall.foodbank.org.uk",
         "telephone": "07747301374",
         "parliamentary_constituency": "Walsall and Bloxwich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.650812,
+          51.2031589
+        ]
+      },
+      "properties": {
+        "name": "Wells",
+        "slug": "wells",
+        "address": "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/wells/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/wells/",
+        "network": "Independent",
+        "email": "info@wellsstorehouse.co.uk",
+        "telephone": "07587125228",
+        "parliamentary_constituency": "Wells and Mendip Hills"
       }
     },
     {
@@ -8388,28 +8388,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6711746,
-          54.9733549
-        ]
-      },
-      "properties": {
-        "name": "Newcastle",
-        "slug": "newcastle",
-        "address": "The Food Bank Centre\r\nBenwell Lane\r\nNewcastle upon Tyne\r\nNE15 6LX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/newcastle/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/newcastle/",
-        "network": "Trussell",
-        "email": "info@newcastlefoodbank.org",
-        "telephone": "01912753019",
-        "parliamentary_constituency": "Newcastle upon Tyne Central and West"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.3662146,
           52.5994265
         ]
@@ -8557,6 +8535,28 @@
         "email": "rukhsanakhanfoundation@outlook.com",
         "telephone": "07980351351",
         "parliamentary_constituency": "Walthamstow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6711746,
+          54.9733549
+        ]
+      },
+      "properties": {
+        "name": "Newcastle",
+        "slug": "newcastle",
+        "address": "The Food Bank Centre\r\nBenwell Lane\r\nNewcastle upon Tyne\r\nNE15 6LX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/newcastle/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/newcastle/",
+        "network": "Trussell",
+        "email": "info@newcastlefoodbank.org",
+        "telephone": "01912753019",
+        "parliamentary_constituency": "Newcastle upon Tyne Central and West"
       }
     },
     {
@@ -13514,28 +13514,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4471848,
-          53.1006436
-        ]
-      },
-      "properties": {
-        "name": "St Paul's Crewe",
-        "slug": "st-pauls-crewe",
-        "address": "St Paul's Centre\r\nHightown\r\nCrewe\r\nCW1 3BY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/st-pauls-crewe/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/st-pauls-crewe/",
-        "network": "IFAN",
-        "email": "pantry@stpaulscentre.org.uk",
-        "telephone": "01270586186",
-        "parliamentary_constituency": "Crewe and Nantwich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.3069841,
           51.391965
         ]
@@ -13595,6 +13573,28 @@
         "email": "info@wisbech.foodbank.org.uk",
         "telephone": "07933572054",
         "parliamentary_constituency": "North East Cambridgeshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4471848,
+          53.1006436
+        ]
+      },
+      "properties": {
+        "name": "St Paul's Crewe",
+        "slug": "st-pauls-crewe",
+        "address": "St Paul's Centre\r\nHightown\r\nCrewe\r\nCW1 3BY",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/st-pauls-crewe/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/st-pauls-crewe/",
+        "network": "IFAN",
+        "email": "pantry@stpaulscentre.org.uk",
+        "telephone": "01270586186",
+        "parliamentary_constituency": "Crewe and Nantwich"
       }
     },
     {
