@@ -15912,6 +15912,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.3899839,
+          55.7994527
+        ]
+      },
+      "properties": {
+        "name": "East Renfrewshire",
+        "slug": "east-renfrewshire",
+        "address": "14 Lowndes Street\r\nBarrhead\r\nEast Renfrewshire\r\nG78 2QX",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/east-renfrewshire/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/east-renfrewshire/",
+        "network": "Trussell",
+        "email": "info@eastrenfrewshire.foodbank.org.uk",
+        "telephone": "01418818250",
+        "parliamentary_constituency": "East Renfrewshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5588293,
           52.7726097
         ]
@@ -15949,28 +15971,6 @@
         "email": "info@oswestryandborders.foodbank.org.uk",
         "telephone": "03001020110",
         "parliamentary_constituency": "North Shropshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3899839,
-          55.7994527
-        ]
-      },
-      "properties": {
-        "name": "East Renfrewshire",
-        "slug": "east-renfrewshire",
-        "address": "14 Lowndes Street\r\nBarrhead\r\nEast Renfrewshire\r\nG78 2QX",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/east-renfrewshire/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/east-renfrewshire/",
-        "network": "Independent",
-        "email": "info@eastrenfrewshire.foodbank.org.uk",
-        "telephone": "01418818250",
-        "parliamentary_constituency": "East Renfrewshire"
       }
     },
     {
