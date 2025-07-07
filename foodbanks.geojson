@@ -6914,28 +6914,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2572233,
-          52.0859489
-        ]
-      },
-      "properties": {
-        "name": "Biggleswade",
-        "slug": "biggleswade",
-        "address": "Biggleswade Baptist Church\r\n24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/biggleswade/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/biggleswade/",
-        "network": "Independent",
-        "email": "foodbank@bbchurch.org",
-        "telephone": "01767312667",
-        "parliamentary_constituency": "North Bedfordshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.8174404,
           51.3661308
         ]
@@ -6951,6 +6929,28 @@
         "email": "info@crowthorne.foodbank.org.uk",
         "telephone": "01344780087",
         "parliamentary_constituency": "Bracknell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2572233,
+          52.0859489
+        ]
+      },
+      "properties": {
+        "name": "Biggleswade",
+        "slug": "biggleswade",
+        "address": "Biggleswade Baptist Church\r\n24 London Road\r\nBiggleswade\r\nBedfordshire\r\nSG18 8EB",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/biggleswade/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/biggleswade/",
+        "network": "Independent",
+        "email": "foodbank@bbchurch.org",
+        "telephone": "01767312667",
+        "parliamentary_constituency": "North Bedfordshire"
       }
     },
     {
@@ -7574,21 +7574,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0127233,
-          53.96177970000001
+          0.2828774,
+          50.7924759
         ]
       },
       "properties": {
-        "name": "Skipton",
-        "slug": "skipton",
-        "address": "Skipton Baptist Church\r\nRectory Road\r\nSkipton\r\nBD23 1ET",
+        "name": "Eastbourne",
+        "slug": "eastbourne",
+        "address": "Unit 3\r\n55 Brampton Road\r\nEastbourne\r\nBN22 9AF",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/skipton/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/skipton/",
-        "network": "Independent",
-        "email": "food@skiptonfoodbank.org",
-        "telephone": "07856080194",
-        "parliamentary_constituency": "Skipton and Ripon"
+        "url": "https://www.givefood.org.uk/needs/at/eastbourne/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/eastbourne/",
+        "network": "Trussell",
+        "email": "admin@eastbourne.foodbank.org.uk",
+        "telephone": "01323409925",
+        "parliamentary_constituency": "Eastbourne"
       }
     },
     {
@@ -7618,21 +7618,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2828774,
-          50.7924759
+          -2.0127233,
+          53.96177970000001
         ]
       },
       "properties": {
-        "name": "Eastbourne",
-        "slug": "eastbourne",
-        "address": "Unit 3\r\n55 Brampton Road\r\nEastbourne\r\nBN22 9AF",
+        "name": "Skipton",
+        "slug": "skipton",
+        "address": "Skipton Baptist Church\r\nRectory Road\r\nSkipton\r\nBD23 1ET",
         "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/eastbourne/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/eastbourne/",
-        "network": "Trussell",
-        "email": "admin@eastbourne.foodbank.org.uk",
-        "telephone": "01323409925",
-        "parliamentary_constituency": "Eastbourne"
+        "url": "https://www.givefood.org.uk/needs/at/skipton/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/skipton/",
+        "network": "Independent",
+        "email": "food@skiptonfoodbank.org",
+        "telephone": "07856080194",
+        "parliamentary_constituency": "Skipton and Ripon"
       }
     },
     {
@@ -10192,28 +10192,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1537532,
-          51.4766009
-        ]
-      },
-      "properties": {
-        "name": "Cardiff",
-        "slug": "cardiff",
-        "address": "Unit G\r\nCardiff Bay Business Centre\r\nTitan Road\r\nCardiff\r\nCF24 5BS",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/cardiff/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/cardiff/",
-        "network": "Trussell",
-        "email": "info@cardiff.foodbank.org.uk",
-        "telephone": "02920484120",
-        "parliamentary_constituency": "Cardiff South and Penarth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.222713,
           51.57385739999999
         ]
@@ -10229,6 +10207,28 @@
         "email": "info@caerphilly.foodbank.org.uk",
         "telephone": "02920868151",
         "parliamentary_constituency": "Caerphilly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1537532,
+          51.4766009
+        ]
+      },
+      "properties": {
+        "name": "Cardiff",
+        "slug": "cardiff",
+        "address": "Unit G\r\nCardiff Bay Business Centre\r\nTitan Road\r\nCardiff\r\nCF24 5BS",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/cardiff/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/cardiff/",
+        "network": "Trussell",
+        "email": "info@cardiff.foodbank.org.uk",
+        "telephone": "02920484120",
+        "parliamentary_constituency": "Cardiff South and Penarth"
       }
     },
     {
