@@ -15951,46 +15951,6 @@ BA7 7EE</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<name>Blackwood &amp; District Foodbank</name>
-		<alt_name/>
-		<slug>blackwood-district</slug>
-		<phone>07971668547</phone>
-		<secondary_phone/>
-		<email>info@blackwooddistrict.foodbank.org.uk</email>
-		<address>Oasis Christian Centre
-Bryn Road
-Blackwood
-NP12 3LY</address>
-		<postcode>NP12 3LY</postcode>
-		<closed>false</closed>
-		<country>Wales</country>
-		<lat_lng>51.6669444,-3.2074721</lat_lng>
-		<network>Trussell</network>
-		<created>2020-01-07T12:40:11.498181</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/blackwood-district/</self>
-			<html>https://www.givefood.org.uk/needs/at/blackwood-district/</html>
-			<homepage>https://blackwooddistrict.foodbank.org.uk</homepage>
-			<shopping_list>https://blackwooddistrict.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1175604</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1175604&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Newport West and Islwyn</parliamentary_constituency>
-			<mp>Chris Evans</mp>
-			<mp_party>Labour Co-operative</mp_party>
-			<mp_parl_id>4040</mp_parl_id>
-			<ward>Blackwood</ward>
-			<district>Caerphilly</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/newport-west-and-islwyn/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/newport-west-and-islwyn/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<name>Farnborough Foodbank</name>
 		<alt_name/>
 		<slug>farnborough</slug>
@@ -16028,6 +15988,46 @@ GU11 2BU</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/aldershot/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/aldershot/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<name>Blackwood &amp; District Foodbank</name>
+		<alt_name/>
+		<slug>blackwood-district</slug>
+		<phone>07971668547</phone>
+		<secondary_phone/>
+		<email>info@blackwooddistrict.foodbank.org.uk</email>
+		<address>Oasis Christian Centre
+Bryn Road
+Blackwood
+NP12 3LY</address>
+		<postcode>NP12 3LY</postcode>
+		<closed>false</closed>
+		<country>Wales</country>
+		<lat_lng>51.6669444,-3.2074721</lat_lng>
+		<network>Trussell</network>
+		<created>2020-01-07T12:40:11.498181</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/blackwood-district/</self>
+			<html>https://www.givefood.org.uk/needs/at/blackwood-district/</html>
+			<homepage>https://blackwooddistrict.foodbank.org.uk</homepage>
+			<shopping_list>https://blackwooddistrict.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1175604</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1175604&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Newport West and Islwyn</parliamentary_constituency>
+			<mp>Chris Evans</mp>
+			<mp_party>Labour Co-operative</mp_party>
+			<mp_parl_id>4040</mp_parl_id>
+			<ward>Blackwood</ward>
+			<district>Caerphilly</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/newport-west-and-islwyn/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/newport-west-and-islwyn/</html>
 			</urls>
 		</politics>
 	</foodbank>
