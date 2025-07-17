@@ -4098,6 +4098,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.2677869,
+          54.8448917
+        ]
+      },
+      "properties": {
+        "name": "Ballymena",
+        "slug": "ballymena",
+        "address": "Green Pastures Church\r\n1 Faith Avenue\r\nThe Gateway\r\nBallymena\r\nCo. Antrim\r\nBT42 3FF",
+        "country": "Northern Ireland",
+        "url": "https://www.givefood.org.uk/needs/at/ballymena/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/ballymena/",
+        "network": "Trussell",
+        "email": "info@ballymena.foodbank.org.uk",
+        "telephone": "02825422543",
+        "parliamentary_constituency": "North Antrim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.4926074,
           53.0505291
         ]
@@ -9261,28 +9283,6 @@
         "email": "info@foyle.foodbank.org.uk",
         "telephone": "02871263699",
         "parliamentary_constituency": "Foyle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2677869,
-          54.8448917
-        ]
-      },
-      "properties": {
-        "name": "Ballymena",
-        "slug": "ballymena",
-        "address": "Green Pastures Church\r\n1 Faith Avenue\r\nThe Gateway\r\nBallymena\r\nCo. Antrim\r\nBT42 3FF",
-        "country": "Northern Ireland",
-        "url": "https://www.givefood.org.uk/needs/at/ballymena/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/ballymena/",
-        "network": "Trussell",
-        "email": "info@ballymena.foodbank.org.uk",
-        "telephone": "02825422543",
-        "parliamentary_constituency": "North Antrim"
       }
     },
     {

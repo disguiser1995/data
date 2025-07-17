@@ -6016,6 +6016,39 @@
     html: https://www.givefood.org.uk/needs/at/fitzjohns/
     self: https://www.givefood.org.uk/api/2/foodbank/fitzjohns/
     shopping_list: https://www.facebook.com/fitzjohnsfood/
+- address: "Green Pastures Church\r\n1 Faith Avenue\r\nThe Gateway\r\nBallymena\r\n\
+    Co. Antrim\r\nBT42 3FF"
+  alt_name: null
+  charity:
+    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=101360
+    registration_id: '101360'
+  closed: false
+  country: Northern Ireland
+  created: 2020-01-15 13:35:21.547003
+  email: info@ballymena.foodbank.org.uk
+  id: 8dbb170f-9f40-4cdd-9e84-a9f155532916
+  lat_lng: 54.8448917,-6.2677869
+  name: Ballymena Foodbank
+  network: Trussell
+  phone: 02825422543
+  politics:
+    district: Mid and East Antrim
+    mp: Ian Paisley
+    mp_parl_id: 4129
+    mp_party: DUP
+    parliamentary_constituency: North Antrim
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/north-antrim/
+      self: https://www.givefood.org.uk/api/2/constituency/north-antrim/
+    ward: Ballee and Harryville
+  postcode: BT42 3FF
+  secondary_phone: null
+  slug: ballymena
+  urls:
+    homepage: https://ballymena.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/ballymena/
+    self: https://www.givefood.org.uk/api/2/foodbank/ballymena/
+    shopping_list: https://ballymena.foodbank.org.uk/give-help/donate-food/
 - address: "Stapeley House\r\nLondon Road\r\nNantwich\r\nCW5 7JW"
   alt_name: null
   charity:
@@ -13611,39 +13644,6 @@
     html: https://www.givefood.org.uk/needs/at/foyle/
     self: https://www.givefood.org.uk/api/2/foodbank/foyle/
     shopping_list: https://foyle.foodbank.org.uk/give-help/donate-food/
-- address: "Green Pastures Church\r\n1 Faith Avenue\r\nThe Gateway\r\nBallymena\r\n\
-    Co. Antrim\r\nBT42 3FF"
-  alt_name: null
-  charity:
-    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=101360
-    registration_id: '101360'
-  closed: false
-  country: Northern Ireland
-  created: 2020-01-15 13:35:21.547003
-  email: info@ballymena.foodbank.org.uk
-  id: 8dbb170f-9f40-4cdd-9e84-a9f155532916
-  lat_lng: 54.8448917,-6.2677869
-  name: Ballymena Foodbank
-  network: Trussell
-  phone: 02825422543
-  politics:
-    district: Mid and East Antrim
-    mp: Ian Paisley
-    mp_parl_id: 4129
-    mp_party: DUP
-    parliamentary_constituency: North Antrim
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/north-antrim/
-      self: https://www.givefood.org.uk/api/2/constituency/north-antrim/
-    ward: Ballee and Harryville
-  postcode: BT42 3FF
-  secondary_phone: null
-  slug: ballymena
-  urls:
-    homepage: https://ballymena.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/ballymena/
-    self: https://www.givefood.org.uk/api/2/foodbank/ballymena/
-    shopping_list: https://ballymena.foodbank.org.uk/give-help/donate-food/
 - address: "St John's Church\r\n26 Bridgetown\r\nTotnes\r\nDevon\r\nTQ9 5AD"
   alt_name: null
   charity:
