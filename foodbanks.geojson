@@ -4956,28 +4956,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9894766,
-          50.7135669
-        ]
-      },
-      "properties": {
-        "name": "Poole",
-        "slug": "poole",
-        "address": "Jimmy's Place\r\nSt James' Church Centre\r\nChurch Street\r\nPoole\r\nBH15 1JN",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/poole/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/poole/",
-        "network": "IFAN",
-        "email": "poolefood@faith-works.org.uk",
-        "telephone": "01202672694",
-        "parliamentary_constituency": "Poole"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1027027,
           51.2741222
         ]
@@ -4993,6 +4971,28 @@
         "email": "admin@basingstoke.foodbank.org.uk",
         "telephone": "07722673645",
         "parliamentary_constituency": "Basingstoke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9894766,
+          50.7135669
+        ]
+      },
+      "properties": {
+        "name": "Poole",
+        "slug": "poole",
+        "address": "Jimmy's Place\r\nSt James' Church Centre\r\nChurch Street\r\nPoole\r\nBH15 1JN",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/poole/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/poole/",
+        "network": "IFAN",
+        "email": "poolefood@faith-works.org.uk",
+        "telephone": "01202672694",
+        "parliamentary_constituency": "Poole"
       }
     },
     {
@@ -13624,28 +13624,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7864677,
-          52.5268374
-        ]
-      },
-      "properties": {
-        "name": "North Solihull",
-        "slug": "north-solihull",
-        "address": "1258 Kingsbury Road\r\nCastle Vale\r\nBirmingham\r\nB35 6AG",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/north-solihull/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/north-solihull/",
-        "network": "Trussell",
-        "email": "info@northsolihull.foodbank.org.uk",
-        "telephone": "07902030134",
-        "parliamentary_constituency": "Birmingham Erdington"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.358811,
           50.6407624
         ]
@@ -13661,6 +13639,28 @@
         "email": "info@launceston.foodbank.org.uk",
         "telephone": "01566779550",
         "parliamentary_constituency": "North Cornwall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7864677,
+          52.5268374
+        ]
+      },
+      "properties": {
+        "name": "North Solihull",
+        "slug": "north-solihull",
+        "address": "1258 Kingsbury Road\r\nCastle Vale\r\nBirmingham\r\nB35 6AG",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/north-solihull/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/north-solihull/",
+        "network": "Trussell",
+        "email": "info@northsolihull.foodbank.org.uk",
+        "telephone": "07902030134",
+        "parliamentary_constituency": "Birmingham Erdington"
       }
     },
     {
