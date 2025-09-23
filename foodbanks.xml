@@ -1819,48 +1819,6 @@ G82 5BN</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>57d037f3-b980-4d46-8cb0-0ddbf13dcda5</id>
-		<name>Andover Foodbank</name>
-		<alt_name/>
-		<slug>andover</slug>
-		<phone>01264362111</phone>
-		<secondary_phone/>
-		<email>office@andoverfoodbank.org.uk</email>
-		<address>St John the Baptist RC Church 
-Alexandra Road
-Andover
-Hampshire
-SP10 3AD</address>
-		<postcode>SP10 3AD</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.2085947,-1.4882991</lat_lng>
-		<network>Trussell</network>
-		<created>2019-08-14T08:21:38.091327</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/andover/</self>
-			<html>https://www.givefood.org.uk/needs/at/andover/</html>
-			<homepage>https://andover.foodbank.org.uk</homepage>
-			<shopping_list>https://andover.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>246871</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=246871&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North West Hampshire</parliamentary_constituency>
-			<mp>Kit Malthouse</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4495</mp_parl_id>
-			<ward>Andover Millway</ward>
-			<district>Test Valley</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-west-hampshire/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-west-hampshire/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>87a9279c-7530-4068-9964-76b4ff3455e3</id>
 		<name>Abingdon Foodbank</name>
 		<alt_name/>
@@ -9741,48 +9699,6 @@ BN7 1BL</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>a3e7f01b-a0a7-4928-ac09-30288182e49b</id>
-		<name>Epping Forest Foodbank</name>
-		<alt_name/>
-		<slug>epping-forest</slug>
-		<phone>03001029808</phone>
-		<secondary_phone/>
-		<email>info@eppingforest.foodbank.org.uk</email>
-		<address>Unit 24
-Oakwood Industrial Estate
-Loughton
-Essex
-IG10 3TZ</address>
-		<postcode>IG10 3TZ</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.642522,0.0765916</lat_lng>
-		<network>Trussell</network>
-		<created>2020-01-08T15:54:11.132638</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/epping-forest/</self>
-			<html>https://www.givefood.org.uk/needs/at/epping-forest/</html>
-			<homepage>https://eppingforest.foodbank.org.uk</homepage>
-			<shopping_list>https://eppingforest.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1182270</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1182270&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Epping Forest</parliamentary_constituency>
-			<mp>Eleanor Laing</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>36</mp_parl_id>
-			<ward>Loughton Roding</ward>
-			<district>Epping Forest</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/epping-forest/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/epping-forest/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>a5f8a5e7-aa36-489c-b27b-83d36a4ca2e8</id>
 		<name>Godmanchester Foodbank</name>
 		<alt_name/>
@@ -9821,6 +9737,48 @@ PE29 2BJ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/huntingdon/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/huntingdon/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>a3e7f01b-a0a7-4928-ac09-30288182e49b</id>
+		<name>Epping Forest Foodbank</name>
+		<alt_name/>
+		<slug>epping-forest</slug>
+		<phone>03001029808</phone>
+		<secondary_phone/>
+		<email>info@eppingforest.foodbank.org.uk</email>
+		<address>Unit 24
+Oakwood Industrial Estate
+Loughton
+Essex
+IG10 3TZ</address>
+		<postcode>IG10 3TZ</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.642522,0.0765916</lat_lng>
+		<network>Trussell</network>
+		<created>2020-01-08T15:54:11.132638</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/epping-forest/</self>
+			<html>https://www.givefood.org.uk/needs/at/epping-forest/</html>
+			<homepage>https://eppingforest.foodbank.org.uk</homepage>
+			<shopping_list>https://eppingforest.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1182270</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1182270&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Epping Forest</parliamentary_constituency>
+			<mp>Eleanor Laing</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>36</mp_parl_id>
+			<ward>Loughton Roding</ward>
+			<district>Epping Forest</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/epping-forest/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/epping-forest/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -20818,47 +20776,6 @@ PO31 7ET</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>253f7456-7a68-489c-beba-11ecd5b7b354</id>
-		<name>North Norfolk Foodbank</name>
-		<alt_name/>
-		<slug>north-norfolk</slug>
-		<phone>07826376343</phone>
-		<secondary_phone/>
-		<email>info@northnorfolk.foodbank.org.uk</email>
-		<address>Cromer Methodist Church Hall
-Corner of West St and Hall Road
-Cromer
-NR27 9DT</address>
-		<postcode>NR27 9DT</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>52.9303059,1.2957447</lat_lng>
-		<network>Trussell</network>
-		<created>2019-12-26T01:54:55.726734</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/north-norfolk/</self>
-			<html>https://www.givefood.org.uk/needs/at/north-norfolk/</html>
-			<homepage>https://northnorfolk.foodbank.org.uk</homepage>
-			<shopping_list>https://northnorfolk.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1149156</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1149156&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>North Norfolk</parliamentary_constituency>
-			<mp>Duncan Baker</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4784</mp_parl_id>
-			<ward>Cromer Town</ward>
-			<district>North Norfolk</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/north-norfolk/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/north-norfolk/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>e0c133c7-835f-4a14-9eae-455f98b5bbbc</id>
 		<name>Kingsbridge Foodbank</name>
 		<alt_name/>
@@ -26526,6 +26443,48 @@ GL20 5RX</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<id>57d037f3-b980-4d46-8cb0-0ddbf13dcda5</id>
+		<name>Andover Foodbank</name>
+		<alt_name/>
+		<slug>andover</slug>
+		<phone>01264362111</phone>
+		<secondary_phone/>
+		<email>office@andoverfoodbank.org.uk</email>
+		<address>St John the Baptist RC Church 
+Alexandra Road
+Andover
+Hampshire
+SP10 3AD</address>
+		<postcode>SP10 3AD</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.2085947,-1.4882991</lat_lng>
+		<network>Trussell</network>
+		<created>2019-08-14T08:21:38.091327</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/andover/</self>
+			<html>https://www.givefood.org.uk/needs/at/andover/</html>
+			<homepage>https://andover.foodbank.org.uk</homepage>
+			<shopping_list>https://andover.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>246871</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=246871&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North West Hampshire</parliamentary_constituency>
+			<mp>Kit Malthouse</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4495</mp_parl_id>
+			<ward>Andover Millway</ward>
+			<district>Test Valley</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-west-hampshire/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-west-hampshire/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<id>cc040511-3e66-4ad1-9ccd-915d48fbd7ed</id>
 		<name>Risca Foodbank</name>
 		<alt_name/>
@@ -27509,6 +27468,47 @@ TW8 8NT</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/brentford-and-isleworth/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/brentford-and-isleworth/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>253f7456-7a68-489c-beba-11ecd5b7b354</id>
+		<name>North Norfolk Foodbank</name>
+		<alt_name/>
+		<slug>north-norfolk</slug>
+		<phone>07826376343</phone>
+		<secondary_phone/>
+		<email>info@northnorfolk.foodbank.org.uk</email>
+		<address>Cromer Methodist Church Hall
+Corner of West St and Hall Road
+Cromer
+NR27 9DT</address>
+		<postcode>NR27 9DT</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>52.9303059,1.2957447</lat_lng>
+		<network>Trussell</network>
+		<created>2019-12-26T01:54:55.726734</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/north-norfolk/</self>
+			<html>https://www.givefood.org.uk/needs/at/north-norfolk/</html>
+			<homepage>https://northnorfolk.foodbank.org.uk</homepage>
+			<shopping_list>https://northnorfolk.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1149156</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1149156&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>North Norfolk</parliamentary_constituency>
+			<mp>Duncan Baker</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4784</mp_parl_id>
+			<ward>Cromer Town</ward>
+			<district>North Norfolk</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/north-norfolk/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/north-norfolk/</html>
 			</urls>
 		</politics>
 	</foodbank>
