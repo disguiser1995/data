@@ -1,5 +1,40 @@
 - excess: ''
   foodbank:
+    name: Black Country
+    slug: black-country
+    urls:
+      html: https://www.givefood.org.uk/needs/at/black-country/
+      self: https://www.givefood.org.uk/api/2/foodbank/black-country/
+  found: 2025-10-03 12:46:52.622664
+  id: c76faa60
+  needs: 'Jars Of Pasta Sauce/cooking Sauce
+
+    Tinned Macaroni Cheese
+
+    Tinned Chicken In White Sauce
+
+    Tinned Rice Pudding
+
+    Tinned Custard
+
+    Tinned Veg: Peas/carrots/sweetcorn
+
+    Tinned Fish
+
+    Tinned Spaghetti
+
+    Tea Bags Box Of 40’s
+
+    Shower Gel
+
+    Toilet Roll
+
+    Bars Of Soap
+
+    Shampoo'
+  self: https://www.givefood.org.uk/api/2/need/c76faa60/
+- excess: ''
+  foodbank:
     name: Manna
     slug: manna
     urls:
@@ -3737,34 +3772,3 @@
 
     Tinned Fruit'
   self: https://www.givefood.org.uk/api/2/need/be2779a5/
-- excess: 'Hand/Liquid Soap
-
-    Baby Food
-
-    Baby Toiletries
-
-    Cereals
-
-    Toothpaste & Toothbrushes'
-  foodbank:
-    name: North Cotswold
-    slug: north-cotswold
-    urls:
-      html: https://www.givefood.org.uk/needs/at/north-cotswold/
-      self: https://www.givefood.org.uk/api/2/foodbank/north-cotswold/
-  found: 2025-09-23 19:49:49.905551
-  id: d92f4632
-  needs: 'Carrier Bags
-
-    Tinned Potatoes
-
-    Tinned Meat
-
-    Ketchup
-
-    Mayonnaise
-
-    Tea
-
-    Fruit Juice'
-  self: https://www.givefood.org.uk/api/2/need/d92f4632/
