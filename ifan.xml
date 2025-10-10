@@ -4,10 +4,10 @@
 
 👋 Hello!
 
-🕰️ Generated at Fri, 10 Oct 2025 11:43:15 +0000
+🕰️ Generated at Fri, 10 Oct 2025 12:54:50 +0000
 
 🖥️ By machine ec84wgc
-💾 Using code 951ce2a
+💾 Using code fdca14d
 🔩 By app unknown
 ⏱️ Took PUTTHERENDERTIMEHEREms
 
@@ -16,7 +16,7 @@
 🔣 Language direction &gt; ltr
 
 🐙 Code https://github.com/givefood/givefood
-🐱 Code version https://github.com/givefood/givefood/commit/951ce2a
+🐱 Code version https://github.com/givefood/givefood/commit/fdca14d
 
 ============================================
 |  ,dP""8a "888888b,  d8b    "888b  ,888"  |
@@ -44,8 +44,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#F2DECB">
-  <link rel="stylesheet" href="/static/css/bulma.min.css?v=951ce2a">
-  <link rel="stylesheet" href="/static/css/gf.css?v=951ce2a">
+  <link rel="stylesheet" href="/static/css/bulma.min.css?v=fdca14d">
+  <link rel="stylesheet" href="/static/css/gf.css?v=fdca14d">
   <link rel="preload" href="/static/fonts/soehne-buch.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-kraftig.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-dreiviertelfett.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -108,8 +108,8 @@
               </p>
             
             <p>
-              Last updated <span class="lastupdated" data-include="/frag/last-updated/" data-update="120"></span><br>
-              <span class="needhits" data-include="/frag/need-hits/" data-update="120"></span> food bank needs viewed this week
+              Last updated <span class="lastupdated" data-include="/frag/last-updated/" data-update="130"></span><br>
+              <span class="needhits" data-include="/frag/need-hits/" data-update="130"></span> food bank needs viewed this week
             </p>
             <p>
               Give Food is a registered charity in England & Wales <a rel="self" href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5147019">1188192</a><br>
@@ -134,8 +134,7 @@
     </footer>
   
   
-  <script src="/static/js/gf.js?v=951ce2a" defer></script>
-  <script src="/static/js/csi.js?v=951ce2a" defer></script>
+  <script src="/static/js/csi.js?v=fdca14d" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153866507-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -151,5 +150,21 @@
     gtag('config', 'AW-448372895');
   </script>
   <script src="/static/js/instantpage-5.2.0.js" type="module"></script>
+  <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "where": { "selector_matches": ".menu a, .langswitcher a" },
+          "eagerness": "eager"
+        }
+      ],
+      "prefetch": [
+        {
+          "where": { "selector_matches": ".cta a" },
+          "eagerness": "eager"
+        }
+      ]
+    }
+  </script>
 </body>
 </html>
