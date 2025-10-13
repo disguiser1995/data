@@ -4,10 +4,10 @@
 
 👋 Hello!
 
-🕰️ Generated at Mon, 13 Oct 2025 14:47:20 +0000
+🕰️ Generated at Mon, 13 Oct 2025 15:44:59 +0000
 
 🖥️ By machine ec84wgc
-💾 Using code 4b7e9cf
+💾 Using code 9e75fcb
 🔩 By app unknown
 ⏱️ Took PUTTHERENDERTIMEHEREms
 
@@ -16,7 +16,7 @@
 🔣 Language direction &gt; ltr
 
 🐙 Code https://github.com/givefood/givefood
-🐱 Code version https://github.com/givefood/givefood/commit/4b7e9cf
+🐱 Code version https://github.com/givefood/givefood/commit/9e75fcb
 
 ============================================
 |  ,dP""8a "888888b,  d8b    "888b  ,888"  |
@@ -44,8 +44,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#F2DECB">
-  <link rel="stylesheet" href="/static/css/bulma.min.css?v=4b7e9cf">
-  <link rel="stylesheet" href="/static/css/gf.css?v=4b7e9cf">
+  <link rel="stylesheet" href="/static/css/bulma.min.css?v=9e75fcb">
+  <link rel="stylesheet" href="/static/css/gf.css?v=9e75fcb">
   <link rel="preload" href="/static/fonts/soehne-buch.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-kraftig.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-dreiviertelfett.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -134,7 +134,7 @@
     </footer>
   
   
-  <script src="/static/js/csi.js?v=4b7e9cf" defer></script>
+  <script src="/static/js/csi.js?v=9e75fcb" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-448372895"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -159,6 +159,12 @@
         "selector_matches": ".cta a"
       },
       "eagerness": "eager"
+    },
+    {
+      "where": {
+        "selector_matches": "a"
+      },
+      "eagerness": "moderate"
     }
   ]
 }
