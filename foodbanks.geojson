@@ -4252,6 +4252,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2077701,
+          52.57479069999999
+        ]
+      },
+      "properties": {
+        "name": "Peterborough",
+        "slug": "peterborough",
+        "address": "Dodson House\r\nDodson Way\r\nFengate\r\nPE1 5XG",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/peterborough/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/peterborough/",
+        "network": "Trussell",
+        "email": "info@peterborough.foodbank.org.uk",
+        "telephone": "01733575083",
+        "parliamentary_constituency": "Peterborough"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.3428359,
           55.7778264
         ]
@@ -11556,28 +11578,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2077701,
-          52.57479069999999
-        ]
-      },
-      "properties": {
-        "name": "Peterborough",
-        "slug": "peterborough",
-        "address": "Dodson House\r\nDodson Way\r\nFengate\r\nPE1 5XG",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/peterborough/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/peterborough/",
-        "network": "Trussell",
-        "email": "info@peterborough.foodbank.org.uk",
-        "telephone": "01733575083",
-        "parliamentary_constituency": "Peterborough"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.982651,
           52.4519009
         ]
@@ -11769,28 +11769,6 @@
         "email": "info@gillingham.foodbank.org.uk",
         "telephone": "01747822076",
         "parliamentary_constituency": "North Dorset"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1217634,
-          53.3780289
-        ]
-      },
-      "properties": {
-        "name": "Stockport",
-        "slug": "stockport",
-        "address": "Hazel Grove Baptist Church\r\nStation Street\r\nHazel Grove\r\nStockport\r\nSK7 4EX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/stockport/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/stockport/",
-        "network": "Trussell",
-        "email": "foodbank@stockportfoodbank.org.uk",
-        "telephone": "07483115349",
-        "parliamentary_constituency": "Hazel Grove"
       }
     },
     {
@@ -20833,6 +20811,28 @@
         "email": "foodbank@kerith.church",
         "telephone": "01344862699",
         "parliamentary_constituency": "Bracknell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1217634,
+          53.3780289
+        ]
+      },
+      "properties": {
+        "name": "Stockport",
+        "slug": "stockport",
+        "address": "Hazel Grove Baptist Church\r\nStation Street\r\nHazel Grove\r\nStockport\r\nSK7 4EX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/stockport/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/stockport/",
+        "network": "Trussell",
+        "email": "foodbank@stockportfoodbank.org.uk",
+        "telephone": "07483115349",
+        "parliamentary_constituency": "Hazel Grove"
       }
     },
     {
