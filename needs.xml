@@ -1,6 +1,108 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>06064f28-fa92-4b37-a7c9-18f2b2e472ec</id>
+		<found>2025-10-22T16:06:33.033957</found>
+		<foodbank>
+			<name>Meon Valley</name>
+			<slug>meon-valley</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/meon-valley/</self>
+				<html>https://www.givefood.org.uk/needs/at/meon-valley/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Beef Meals
+Tea Bags
+Toothpaste
+Shower Gel
+Chocolate Advent Calendars
+Tinned Meat Meals
+Tinned Vegetables
+Tinned Fruit
+Washing Tablets (Non-Bio)
+Small (500g) Bags Of Sugar</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/06064f28-fa92-4b37-a7c9-18f2b2e472ec/</self>
+	</need>
+	<need>
+		<id>b1a33146-8595-45f1-9953-cc2af7aed310</id>
+		<found>2025-10-22T16:00:07.326472</found>
+		<foodbank>
+			<name>Braintree Area</name>
+			<slug>braintree-area</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/braintree-area/</self>
+				<html>https://www.givefood.org.uk/needs/at/braintree-area/</html>
+			</urls>
+		</foodbank>
+		<needs>Biscuits
+Cereal
+Chocolate
+Coffee
+Cup-A-Soup
+Deodorant
+Instant Mashed Potato
+Jam
+Long-Life Milk
+Men's Deodorant
+Pasta
+Rice
+Rice Sachets (Microwavable)
+Shampoo
+Shower Gel
+Sponge Puddings
+Squash
+Tea Bags
+Tinned Custard
+Tinned Fish
+Tinned Fruit
+Tinned Ham
+Tinned Meat
+Tinned Soup
+Tinned Tomatoes
+Tinned Tuna
+Toothbrushes
+Women's Deodorant</needs>
+		<excess>Baked Beans
+Nappies - Size 0
+Nappies - Size 1
+Nappies - Size 2
+Nappies - Size 3
+Nappies - Size 4
+Nappies - Size 5
+Nappies - Size 6
+Nappies - Size 7
+Sanitary Towels
+Tinned Potatoes
+Tinned Pulses</excess>
+		<self>https://www.givefood.org.uk/api/2/need/b1a33146-8595-45f1-9953-cc2af7aed310/</self>
+	</need>
+	<need>
+		<id>8e19207c-a773-487c-b32a-ba2e4ad8cfe1</id>
+		<found>2025-10-22T15:46:13.786430</found>
+		<foodbank>
+			<name>North Enfield</name>
+			<slug>north-enfield</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/north-enfield/</self>
+				<html>https://www.givefood.org.uk/needs/at/north-enfield/</html>
+			</urls>
+		</foodbank>
+		<needs>Christmas Food Items
+Sweet And Savoury Snacks
+Tinned Vegetarian Meals
+Tinned Meat And Fish
+Long Life Ready Meals/ Noodles
+Tinned Rice Pudding/ Custard
+Jam/ Spreads
+Sugar And Cooking Oil
+Coffee/ Hot Chocolate
+Washing Powder And Cleaning Products
+Toiletries</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/8e19207c-a773-487c-b32a-ba2e4ad8cfe1/</self>
+	</need>
+	<need>
 		<id>2adbb577-3a7d-471c-b67d-35fed9693a79</id>
 		<found>2025-10-22T12:12:45.522763</found>
 		<foodbank>
@@ -2654,70 +2756,5 @@ Pasta (Dried)
 Tea
 Biscuits</excess>
 		<self>https://www.givefood.org.uk/api/2/need/097a4a28-e4a2-4cb0-ab01-7abac01fd47e/</self>
-	</need>
-	<need>
-		<id>929b1156-5d12-4b8e-82b2-d69bb95559e5</id>
-		<found>2025-10-12T11:49:32.521775</found>
-		<foodbank>
-			<name>North Cotswold</name>
-			<slug>north-cotswold</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/north-cotswold/</self>
-				<html>https://www.givefood.org.uk/needs/at/north-cotswold/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Pasta
-Jellies
-Sponge Puddings
-Custard
-Tinned Potatoes
-Tinned Meat
-Ketchup
-Mayonnaise
-Tea
-Fruit Juice
-Sweet &amp; Savoury Snacks
-Washing Up Liquid
-Toilet Rolls</needs>
-		<excess>Hand/Liquid Soap
-Baby Food
-Baby Toiletries
-Cereals
-Toothpaste &amp; Toothbrushes</excess>
-		<self>https://www.givefood.org.uk/api/2/need/929b1156-5d12-4b8e-82b2-d69bb95559e5/</self>
-	</need>
-	<need>
-		<id>e00fa150-88f5-49be-b618-5fa89eb99abc</id>
-		<found>2025-10-12T08:09:25.097216</found>
-		<foodbank>
-			<name>Bognor Regis</name>
-			<slug>bognor-regis</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/bognor-regis/</self>
-				<html>https://www.givefood.org.uk/needs/at/bognor-regis/</html>
-			</urls>
-		</foodbank>
-		<needs>Strong Carrier Bags
-Dry Pasta
-Biscuits
-Tinned Mash Potato
-Instant Coffee</needs>
-		<excess>Pulses</excess>
-		<self>https://www.givefood.org.uk/api/2/need/e00fa150-88f5-49be-b618-5fa89eb99abc/</self>
-	</need>
-	<need>
-		<id>14e9b9a6-c392-4080-96d9-a24a37793608</id>
-		<found>2025-10-11T17:32:11.386229</found>
-		<foodbank>
-			<name>Galashiels and Area</name>
-			<slug>galashiels-and-area</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/galashiels-and-area/</self>
-				<html>https://www.givefood.org.uk/needs/at/galashiels-and-area/</html>
-			</urls>
-		</foodbank>
-		<needs>Unknown</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/14e9b9a6-c392-4080-96d9-a24a37793608/</self>
 	</need>
 </needs>
