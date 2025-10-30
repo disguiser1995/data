@@ -6,6 +6,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.2957447,
+          52.9303059
+        ]
+      },
+      "properties": {
+        "name": "North Norfolk",
+        "slug": "north-norfolk",
+        "address": "Cromer Methodist Church Hall\r\nCorner of West St and Hall Road\r\nCromer\r\nNR27 9DT",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/north-norfolk/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/north-norfolk/",
+        "network": "Trussell",
+        "email": "info@northnorfolk.foodbank.org.uk",
+        "telephone": "07826376343",
+        "parliamentary_constituency": "North Norfolk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.4925964,
           55.6027174
         ]
@@ -14387,28 +14409,6 @@
         "email": "admin@stgeorges.lewisham.sch.uk",
         "telephone": "02086995127",
         "parliamentary_constituency": "Lewisham West and East Dulwich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2957447,
-          52.9303059
-        ]
-      },
-      "properties": {
-        "name": "North Norfolk",
-        "slug": "north-norfolk",
-        "address": "Cromer Methodist Church Hall\r\nCorner of West St and Hall Road\r\nCromer\r\nNR27 9DT",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/north-norfolk/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/north-norfolk/",
-        "network": "Trussell",
-        "email": "info@northnorfolk.foodbank.org.uk",
-        "telephone": "07826376343",
-        "parliamentary_constituency": "North Norfolk"
       }
     },
     {
