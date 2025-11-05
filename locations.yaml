@@ -16410,6 +16410,33 @@
   slug: st-michael-all-angels-church
   urls:
     html: https://www.givefood.org.uk/needs/at/watford/st-michael-all-angels-church/
+- address: "Church Road\r\nRhoose\r\nBarry\r\nCF62 3EX"
+  email: info@vale.foodbank.org.uk
+  foodbank:
+    name: Vale
+    network: Trussell
+    slug: vale
+    urls:
+      html: https://www.givefood.org.uk/needs/at/vale/
+      self: https://www.givefood.org.uk/api/2/foodbank/vale/
+  id: 12c5d66b-c67a-4580-8eaa-c1db4749dbb2
+  lat_lng: 51.38908989999999,-3.3477045
+  name: St Peters Church
+  phone: 01446719734
+  politics:
+    district: Vale of Glamorgan
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: Vale of Glamorgan
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/vale-of-glamorgan/
+      self: https://www.givefood.org.uk/api/2/constituency/vale-of-glamorgan/
+    ward: Rhoose
+  postcode: CF62 3EX
+  slug: st-peters-church
+  urls:
+    html: https://www.givefood.org.uk/needs/at/vale/st-peters-church/
 - address: "Collier Row Road\r\nRomford\r\nRM5 2BA"
   email: info@collierrowromford.foodbank.org.uk
   foodbank:
@@ -18586,33 +18613,6 @@
   slug: elim-mitcham
   urls:
     html: https://www.givefood.org.uk/needs/at/wimbledon/elim-mitcham/
-- address: "The Gathering Place\r\nFlemingston Road\r\nSt. Athan\r\nCF62 4JH"
-  email: info@vale.foodbank.org.uk
-  foodbank:
-    name: Vale
-    network: Trussell
-    slug: vale
-    urls:
-      html: https://www.givefood.org.uk/needs/at/vale/
-      self: https://www.givefood.org.uk/api/2/foodbank/vale/
-  id: e9b9e2f1-3609-41e6-81ca-e3ab5f9096c2
-  lat_lng: 51.4134919,-3.4192348
-  name: St. Athan
-  phone: 07879562077
-  politics:
-    district: Vale of Glamorgan
-    mp: Alun Cairns
-    mp_parl_id: 4086
-    mp_party: Conservative
-    parliamentary_constituency: Vale of Glamorgan
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/vale-of-glamorgan/
-      self: https://www.givefood.org.uk/api/2/constituency/vale-of-glamorgan/
-    ward: St Athan
-  postcode: CF62 4JH
-  slug: st-athan
-  urls:
-    html: https://www.givefood.org.uk/needs/at/vale/st-athan/
 - address: "Northwich Methodist Outreach Centre\r\nWitton Street\r\nNorthwich\r\n\
     CW9 5LP"
   email: info@midcheshire.foodbank.org.uk
