@@ -688,6 +688,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.5858743,
+          55.9492676
+        ]
+      },
+      "properties": {
+        "name": "West Dunbartonshire Community Foodshare",
+        "slug": "west-dunbartonshire-community-foodshare",
+        "address": "Unit 21\r\nLeven Valley Enterprise Centre\r\nCastlehill Road\r\nDumbarton\r\nG82 5BN",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/west-dunbartonshire-community-foodshare/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/west-dunbartonshire-community-foodshare/",
+        "network": "IFAN",
+        "email": "wdcommunityfoodshare@outlook.com",
+        "telephone": "01389764135",
+        "parliamentary_constituency": "West Dunbartonshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4909032,
           53.3205452
         ]
@@ -11681,28 +11703,6 @@
         "email": "leominsterfoodbank@gmail.com",
         "telephone": "07715410575",
         "parliamentary_constituency": "North Herefordshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.5858743,
-          55.9492676
-        ]
-      },
-      "properties": {
-        "name": "West Dunbartonshire Community Foodshare",
-        "slug": "west-dunbartonshire-community-foodshare",
-        "address": "Unit 21\r\nLeven Valley Enterprise Centre\r\nCastlehill Road\r\nDumbarton\r\nG82 5BN",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/west-dunbartonshire-community-foodshare/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/west-dunbartonshire-community-foodshare/",
-        "network": "IFAN",
-        "email": "wdcommunityfoodshare@outlook.com",
-        "telephone": "01389764135",
-        "parliamentary_constituency": "West Dunbartonshire"
       }
     },
     {
