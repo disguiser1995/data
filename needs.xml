@@ -1,6 +1,27 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>899ea49d-3b45-4f7f-a4c5-f6d598de9125</id>
+		<found>2025-11-08T11:48:25.630648</found>
+		<foodbank>
+			<name>Truro</name>
+			<slug>truro</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/truro/</self>
+				<html>https://www.givefood.org.uk/needs/at/truro/</html>
+			</urls>
+		</foodbank>
+		<needs>Long-Life Fruit Juice
+Fruit Cordial/Squash
+Toothpaste
+Toothbrushes
+Shampoo</needs>
+		<excess>Packets Of Rice
+Porridge Oats
+Sweets, Chocolates &amp; Crisps</excess>
+		<self>https://www.givefood.org.uk/api/2/need/899ea49d-3b45-4f7f-a4c5-f6d598de9125/</self>
+	</need>
+	<need>
 		<id>7101d08d-1b26-4ea0-8db7-743cd8b819fc</id>
 		<found>2025-11-08T08:21:37.278121</found>
 		<foodbank>
@@ -2833,48 +2854,5 @@ Tinned Fish / Tuna
 Tinned Pasta Ready Meals
 Tinned Ready Meals</excess>
 		<self>https://www.givefood.org.uk/api/2/need/7c94e4fd-cd83-4cc6-a96b-5ef40aba0aa3/</self>
-	</need>
-	<need>
-		<id>c67258cd-0d96-4436-8e4b-89d1e522e8be</id>
-		<found>2025-10-31T12:06:47.336018</found>
-		<foodbank>
-			<name>Haywards Heath</name>
-			<slug>haywards-heath</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/haywards-heath/</self>
-				<html>https://www.givefood.org.uk/needs/at/haywards-heath/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Vegetables
-Tinned Meat
-Long Life Fruit Juice
-Small 500g Packs Rice
-Small Jars Of Instant Coffee
-Tinned Rice Pudding / Custard
-Tinned Tomatoes
-Washing Detergent
-Cleaning Products
-Cereal Bars Suitable For Children
-Packs Of Small Fruit Juices
-Long Life Milk - Small Cartons If Possible
-Multipacks Of Small Cereal Boxes
-Longer Life Brioche Rolls Etc
-Jam
-Peanut Butter
-Tinned Fruit
-Long Life Milk
-Jam / Honey / Choc Spread
-Pasta Sauces
-Tinned Pulses
-Baby Wash / Baby Shampoo
-Baby Food
-Deodorants
-Washing Up Liquid
-Kitchen Roll</needs>
-		<excess>Pasta
-Baked Beans
-Soup
-Tinned Soup</excess>
-		<self>https://www.givefood.org.uk/api/2/need/c67258cd-0d96-4436-8e4b-89d1e522e8be/</self>
 	</need>
 </needs>
