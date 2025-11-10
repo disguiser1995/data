@@ -20053,42 +20053,6 @@ KT12 4AA</address>
 		</politics>
 	</location>
 	<location>
-		<id>57b415ed-fcb9-4eba-aa04-e447975da63f</id>
-		<name>All Saints Goodmayes</name>
-		<slug>all-saints-goodmayes</slug>
-		<phone>02085180056</phone>
-		<email>info@redbridgefoodbank.org</email>
-		<address>Goodmayes Lane
-Ilford
-IG3 9SJ</address>
-		<postcode>IG3 9SJ</postcode>
-		<lat_lng>51.5618333,0.1096142</lat_lng>
-		<urls>
-			<html>https://www.givefood.org.uk/needs/at/redbridge/all-saints-goodmayes/</html>
-		</urls>
-		<foodbank>
-			<name>Redbridge</name>
-			<slug>redbridge</slug>
-			<network>Trussell</network>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/redbridge/</self>
-				<html>https://www.givefood.org.uk/needs/at/redbridge/</html>
-			</urls>
-		</foodbank>
-		<politics>
-			<parliamentary_constituency>Ilford South</parliamentary_constituency>
-			<mp>Sam Tarry</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>4829</mp_parl_id>
-			<ward>Goodmayes</ward>
-			<district>Redbridge</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/ilford-south/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/ilford-south/</html>
-			</urls>
-		</politics>
-	</location>
-	<location>
 		<id>fac7ba00-7df9-49de-98b3-23edc7bd19c8</id>
 		<name>Chester City Centre</name>
 		<slug>chester-city-centre</slug>
@@ -68748,6 +68712,42 @@ S41 0SJ</address>
 		</politics>
 	</location>
 	<location>
+		<id>57b415ed-fcb9-4eba-aa04-e447975da63f</id>
+		<name>All Saints Goodmayes</name>
+		<slug>all-saints-goodmayes</slug>
+		<phone>02085180056</phone>
+		<email>info@redbridgefoodbank.org</email>
+		<address>51 Goodmayes Lane
+Ilford
+IG3 9SJ</address>
+		<postcode>IG3 9SJ</postcode>
+		<lat_lng>51.5606005,0.1099571</lat_lng>
+		<urls>
+			<html>https://www.givefood.org.uk/needs/at/redbridge/all-saints-goodmayes/</html>
+		</urls>
+		<foodbank>
+			<name>Redbridge</name>
+			<slug>redbridge</slug>
+			<network>Trussell</network>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/redbridge/</self>
+				<html>https://www.givefood.org.uk/needs/at/redbridge/</html>
+			</urls>
+		</foodbank>
+		<politics>
+			<parliamentary_constituency>Ilford South</parliamentary_constituency>
+			<mp>Sam Tarry</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>4829</mp_parl_id>
+			<ward>Goodmayes</ward>
+			<district>Redbridge</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/ilford-south/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/ilford-south/</html>
+			</urls>
+		</politics>
+	</location>
+	<location>
 		<id>4c638cd8-1a81-4ba0-9a1e-a6ba574f02c1</id>
 		<name>North Walsham</name>
 		<slug>north-walsham</slug>
@@ -69175,6 +69175,42 @@ TD1 1DQ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/None/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/None/</html>
+			</urls>
+		</politics>
+	</location>
+	<location>
+		<id>aa19defc-87e0-453c-999c-8796e117b2d2</id>
+		<name>New Testament Church of God</name>
+		<slug>new-testament-church-of-god</slug>
+		<phone>02085548194</phone>
+		<email>info@redbridgefoodbank.org</email>
+		<address>73 Netley Road
+Ilford
+IG2 7NP</address>
+		<postcode>IG2 7NP</postcode>
+		<lat_lng>51.5784046,0.08694819999999999</lat_lng>
+		<urls>
+			<html>https://www.givefood.org.uk/needs/at/redbridge/new-testament-church-of-god/</html>
+		</urls>
+		<foodbank>
+			<name>Redbridge</name>
+			<slug>redbridge</slug>
+			<network>Trussell</network>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/redbridge/</self>
+				<html>https://www.givefood.org.uk/needs/at/redbridge/</html>
+			</urls>
+		</foodbank>
+		<politics>
+			<parliamentary_constituency>Ilford North</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Aldborough</ward>
+			<district>Redbridge</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/ilford-north/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/ilford-north/</html>
 			</urls>
 		</politics>
 	</location>
