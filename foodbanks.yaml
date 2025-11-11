@@ -1809,39 +1809,6 @@
     html: https://www.givefood.org.uk/needs/at/chorley-help-the-homeless/
     self: https://www.givefood.org.uk/api/2/foodbank/chorley-help-the-homeless/
     shopping_list: https://www.chorleyhelpthehomeless.org/donate--wish-list.html
-- address: "Hampden Street Operations Centre\r\nHampden Street\r\nSouth Shields\r\n\
-    NE33 4JR"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1159213&subid=0
-    registration_id: '1159213'
-  closed: false
-  country: England
-  created: 2021-05-19 17:04:13.811753
-  email: hello@hospitalityandhope.org.uk
-  id: 02bad79b-0778-4afd-9e83-de5e0b74ff8a
-  lat_lng: 54.9846614,-1.430749
-  name: South Tyneside Foodbank
-  network: Trussell
-  phone: 01914203336
-  politics:
-    district: South Tyneside
-    mp: Emma Lewell-Buck
-    mp_parl_id: 4277
-    mp_party: Labour
-    parliamentary_constituency: South Shields
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-shields/
-      self: https://www.givefood.org.uk/api/2/constituency/south-shields/
-    ward: West Park
-  postcode: NE33 4JR
-  secondary_phone: null
-  slug: south-tyneside
-  urls:
-    homepage: https://www.hospitalityandhope.org.uk/south-tyneside-food-bank
-    html: https://www.givefood.org.uk/needs/at/south-tyneside/
-    self: https://www.givefood.org.uk/api/2/foodbank/south-tyneside/
-    shopping_list: https://www.hospitalityandhope.org.uk/donate-items
 - address: "Haslemere Methodist Church\r\nLion Green\r\nHaslemere\r\nSurrey\r\nGU27\
     \ 1LD"
   alt_name: null
@@ -1908,6 +1875,39 @@
     html: https://www.givefood.org.uk/needs/at/cbc/
     self: https://www.givefood.org.uk/api/2/foodbank/cbc/
     shopping_list: https://www.catshillbaptist.org.uk/cbc-foodbank-2/
+- address: "Hampden Street Operations Centre\r\nHampden Street\r\nSouth Shields\r\n\
+    NE33 4JR"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1159213&subid=0
+    registration_id: '1159213'
+  closed: false
+  country: England
+  created: 2021-05-19 17:04:13.811753
+  email: hello@hospitalityandhope.org.uk
+  id: 02bad79b-0778-4afd-9e83-de5e0b74ff8a
+  lat_lng: 54.9846614,-1.430749
+  name: South Tyneside Foodbank
+  network: Trussell
+  phone: 01914203336
+  politics:
+    district: South Tyneside
+    mp: Emma Lewell-Buck
+    mp_parl_id: 4277
+    mp_party: Labour
+    parliamentary_constituency: South Shields
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-shields/
+      self: https://www.givefood.org.uk/api/2/constituency/south-shields/
+    ward: West Park
+  postcode: NE33 4JR
+  secondary_phone: null
+  slug: south-tyneside
+  urls:
+    homepage: https://hospitalityandhope.org.uk/food-bank/
+    html: https://www.givefood.org.uk/needs/at/south-tyneside/
+    self: https://www.givefood.org.uk/api/2/foodbank/south-tyneside/
+    shopping_list: https://hospitalityandhope.org.uk/food-bank/
 - address: "18 Gaolgate Street\r\nStafford\r\nST16 2BQ"
   alt_name: null
   charity:
@@ -5935,38 +5935,6 @@
     html: https://www.givefood.org.uk/needs/at/rugby/
     self: https://www.givefood.org.uk/api/2/foodbank/rugby/
     shopping_list: https://rugby.foodbank.org.uk/give-help/donate-food/
-- address: "102 Hounslow Road\r\nFeltham\r\nTW14 0AX"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1163930&subid=0
-    registration_id: '1163930'
-  closed: false
-  country: England
-  created: 2020-09-18 09:01:18.691902
-  email: felthamfoodbank@gmail.com
-  id: 06e13cf9-dd39-452f-a9e7-14ac2866a03a
-  lat_lng: 51.45394169999999,-0.4041737
-  name: Feltham Foodbank
-  network: Independent
-  phone: 07448831297
-  politics:
-    district: Hounslow
-    mp: Seema Malhotra MP
-    mp_parl_id: 4253
-    mp_party: Labour Co-operative
-    parliamentary_constituency: Feltham and Heston
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/feltham-and-heston/
-      self: https://www.givefood.org.uk/api/2/constituency/feltham-and-heston/
-    ward: Feltham North
-  postcode: TW14 0AX
-  secondary_phone: 07783368928
-  slug: feltham
-  urls:
-    homepage: https://felthamfoodbank.org
-    html: https://www.givefood.org.uk/needs/at/feltham/
-    self: https://www.givefood.org.uk/api/2/foodbank/feltham/
-    shopping_list: https://felthamfoodbank.org/6.html
 - address: "St Mags Church\r\nUnion Street\r\nTorquay\r\nTQ1 4BX"
   alt_name: null
   charity:
@@ -5999,6 +5967,38 @@
     html: https://www.givefood.org.uk/needs/at/st-mags/
     self: https://www.givefood.org.uk/api/2/foodbank/st-mags/
     shopping_list: https://stmags.org.uk/page/the-store-room.html
+- address: "102 Hounslow Road\r\nFeltham\r\nTW14 0AX"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1163930&subid=0
+    registration_id: '1163930'
+  closed: false
+  country: England
+  created: 2020-09-18 09:01:18.691902
+  email: felthamfoodbank@gmail.com
+  id: 06e13cf9-dd39-452f-a9e7-14ac2866a03a
+  lat_lng: 51.45394169999999,-0.4041737
+  name: Feltham Foodbank
+  network: Independent
+  phone: 07448831297
+  politics:
+    district: Hounslow
+    mp: Seema Malhotra MP
+    mp_parl_id: 4253
+    mp_party: Labour Co-operative
+    parliamentary_constituency: Feltham and Heston
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/feltham-and-heston/
+      self: https://www.givefood.org.uk/api/2/constituency/feltham-and-heston/
+    ward: Feltham North
+  postcode: TW14 0AX
+  secondary_phone: 07783368928
+  slug: feltham
+  urls:
+    homepage: https://felthamfoodbank.org
+    html: https://www.givefood.org.uk/needs/at/feltham/
+    self: https://www.givefood.org.uk/api/2/foodbank/feltham/
+    shopping_list: https://felthamfoodbank.org/6.html
 - address: "1 Seaforth Street\r\nBlyth\r\nNorthumberland\r\nNE24 1AY"
   alt_name: null
   charity:
@@ -10241,38 +10241,6 @@
     html: https://www.givefood.org.uk/needs/at/pantry/
     self: https://www.givefood.org.uk/api/2/foodbank/pantry/
     shopping_list: https://www.pantryfoodbank.org/donate.html
-- address: "32-38 Dixon Avenue\r\nCrosshill\r\nGlasgow\r\nG42 8EJ"
-  alt_name: null
-  charity:
-    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC047177
-    registration_id: SC047177
-  closed: false
-  country: Scotland
-  created: 2020-08-28 11:46:36.149040
-  email: info@afecc.org
-  id: 762cf70f-6242-46d4-b1b0-651d8c38727b
-  lat_lng: 55.83479500000001,-4.262617
-  name: AFECC Foodbank
-  network: IFAN
-  phone: 01414332686
-  politics:
-    district: Glasgow City
-    mp: Stewart McDonald
-    mp_parl_id: 4461
-    mp_party: Scottish National
-    parliamentary_constituency: Glasgow East
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/glasgow-east/
-      self: https://www.givefood.org.uk/api/2/constituency/glasgow-east/
-    ward: Southside Central
-  postcode: G42 8EJ
-  secondary_phone: null
-  slug: afecc
-  urls:
-    homepage: https://afecc.co.uk/services/food-bank/
-    html: https://www.givefood.org.uk/needs/at/afecc/
-    self: https://www.givefood.org.uk/api/2/foodbank/afecc/
-    shopping_list: https://afecc.co.uk/services/food-bank/
 - address: "36 Melton Road\r\nOakham\r\nLE15 6AY"
   alt_name: null
   charity:
@@ -26021,39 +25989,6 @@
     html: https://www.givefood.org.uk/needs/at/droylsden-and-district/
     self: https://www.givefood.org.uk/api/2/foodbank/droylsden-and-district/
     shopping_list: https://droylsdendistrict.foodbank.org.uk/give-help/donate-food/
-- address: "Ladyloan Place\r\nUnit 9\r\nKCEDG\r\nMain Reception\r\nDrumchapel\r\n\
-    Glasgow\r\nG15 8LB"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: Scotland
-  created: 2023-03-07 08:52:52.014043
-  email: contact@drumchapelfoodbank.com
-  id: 4c88ef66-abce-4119-974b-4b20e44f084b
-  lat_lng: 55.91721039999999,-4.3795167
-  name: Drumchapel Foodbank
-  network: Independent
-  phone: 01419443335
-  politics:
-    district: Glasgow City
-    mp: Carol Monaghan
-    mp_parl_id: 4443
-    mp_party: Scottish National
-    parliamentary_constituency: Glasgow West
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/glasgow-west/
-      self: https://www.givefood.org.uk/api/2/constituency/glasgow-west/
-    ward: Drumchapel/Anniesland
-  postcode: G15 8LB
-  secondary_phone: null
-  slug: drumchapel
-  urls:
-    homepage: https://www.drumchapelfoodbank.com
-    html: https://www.givefood.org.uk/needs/at/drumchapel/
-    self: https://www.givefood.org.uk/api/2/foodbank/drumchapel/
-    shopping_list: https://www.drumchapelfoodbank.com/donate-food
 - address: "29 Telegraph Mews\r\nGoodmayes\r\nIlford\r\nIG3 8TA"
   alt_name: null
   charity:
@@ -26151,6 +26086,39 @@
     html: https://www.givefood.org.uk/needs/at/dalbeattie/
     self: https://www.givefood.org.uk/api/2/foodbank/dalbeattie/
     shopping_list: https://theinitiative.scot/
+- address: "Ladyloan Place\r\nUnit 9\r\nKCEDG\r\nMain Reception\r\nDrumchapel\r\n\
+    Glasgow\r\nG15 8LB"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: Scotland
+  created: 2023-03-07 08:52:52.014043
+  email: contact@drumchapelfoodbank.com
+  id: 4c88ef66-abce-4119-974b-4b20e44f084b
+  lat_lng: 55.91721039999999,-4.3795167
+  name: Drumchapel Foodbank
+  network: Independent
+  phone: 01419443335
+  politics:
+    district: Glasgow City
+    mp: Carol Monaghan
+    mp_parl_id: 4443
+    mp_party: Scottish National
+    parliamentary_constituency: Glasgow West
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/glasgow-west/
+      self: https://www.givefood.org.uk/api/2/constituency/glasgow-west/
+    ward: Drumchapel/Anniesland
+  postcode: G15 8LB
+  secondary_phone: null
+  slug: drumchapel
+  urls:
+    homepage: https://www.drumchapelfoodbank.com
+    html: https://www.givefood.org.uk/needs/at/drumchapel/
+    self: https://www.givefood.org.uk/api/2/foodbank/drumchapel/
+    shopping_list: https://www.drumchapelfoodbank.com/donate-food
 - address: "1811 Building\r\nNew Lane\r\nSelby\r\nYO8 4QB"
   alt_name: null
   charity:
@@ -26833,6 +26801,38 @@
     html: https://www.givefood.org.uk/needs/at/huntingdon/
     self: https://www.givefood.org.uk/api/2/foodbank/huntingdon/
     shopping_list: https://www.ansaryfoundation.co.uk/huntingdonfoodbank
+- address: "32-38 Dixon Avenue\r\nCrosshill\r\nGlasgow\r\nG42 8EJ"
+  alt_name: null
+  charity:
+    register_url: https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC047177
+    registration_id: SC047177
+  closed: false
+  country: Scotland
+  created: 2020-08-28 11:46:36.149040
+  email: info@afecc.org
+  id: 762cf70f-6242-46d4-b1b0-651d8c38727b
+  lat_lng: 55.83479500000001,-4.262617
+  name: AFECC Foodbank
+  network: IFAN
+  phone: 01414332686
+  politics:
+    district: Glasgow City
+    mp: Stewart McDonald
+    mp_parl_id: 4461
+    mp_party: Scottish National
+    parliamentary_constituency: Glasgow East
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/glasgow-east/
+      self: https://www.givefood.org.uk/api/2/constituency/glasgow-east/
+    ward: Southside Central
+  postcode: G42 8EJ
+  secondary_phone: null
+  slug: afecc
+  urls:
+    homepage: https://afecc.co.uk/services/food-bank/
+    html: https://www.givefood.org.uk/needs/at/afecc/
+    self: https://www.givefood.org.uk/api/2/foodbank/afecc/
+    shopping_list: https://afecc.co.uk/services/food-bank/
 - address: "Lighthouse Project\r\nS6b/c Middleton Shopping Centre\r\nLimetree Road\r\
     \nMiddleton\r\nM24 4EL"
   alt_name: null
@@ -31880,38 +31880,6 @@
     html: https://www.givefood.org.uk/needs/at/york/
     self: https://www.givefood.org.uk/api/2/foodbank/york/
     shopping_list: https://york.foodbank.org.uk/give-help/donate-food/
-- address: "St Swithun's Church\r\n2 Cary Road\r\nSheffield\r\nS2 1JP"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1162137&subid=0
-    registration_id: '1162137'
-  closed: false
-  country: England
-  created: 2024-07-11 15:20:12.425536
-  email: admin@s2foodbank.org.uk
-  id: e68fe495-9a4e-4ba6-8822-4366d838d974
-  lat_lng: 53.3660453,-1.4282344
-  name: S2 Foodbank
-  network: Independent
-  phone: 07804406267
-  politics:
-    district: Sheffield
-    mp: null
-    mp_parl_id: null
-    mp_party: null
-    parliamentary_constituency: Sheffield Heeley
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/sheffield-heeley/
-      self: https://www.givefood.org.uk/api/2/constituency/sheffield-heeley/
-    ward: Manor Castle
-  postcode: S2 1JP
-  secondary_phone: null
-  slug: s2
-  urls:
-    homepage: https://www.s2foodbank.org.uk/
-    html: https://www.givefood.org.uk/needs/at/s2/
-    self: https://www.givefood.org.uk/api/2/foodbank/s2/
-    shopping_list: https://www.s2foodbank.org.uk/
 - address: "1 Oxford Road\r\nCalne\r\nSN11 8AA"
   alt_name: null
   charity:
@@ -31976,6 +31944,38 @@
     html: https://www.givefood.org.uk/needs/at/portland/
     self: https://www.givefood.org.uk/api/2/foodbank/portland/
     shopping_list: http://portlandfoodbank.co.uk
+- address: "St Swithun's Church\r\n2 Cary Road\r\nSheffield\r\nS2 1JP"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1162137&subid=0
+    registration_id: '1162137'
+  closed: false
+  country: England
+  created: 2024-07-11 15:20:12.425536
+  email: admin@s2foodbank.org.uk
+  id: e68fe495-9a4e-4ba6-8822-4366d838d974
+  lat_lng: 53.3660453,-1.4282344
+  name: S2 Foodbank
+  network: Independent
+  phone: 07804406267
+  politics:
+    district: Sheffield
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: Sheffield Heeley
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/sheffield-heeley/
+      self: https://www.givefood.org.uk/api/2/constituency/sheffield-heeley/
+    ward: Manor Castle
+  postcode: S2 1JP
+  secondary_phone: null
+  slug: s2
+  urls:
+    homepage: https://www.s2foodbank.org.uk/
+    html: https://www.givefood.org.uk/needs/at/s2/
+    self: https://www.givefood.org.uk/api/2/foodbank/s2/
+    shopping_list: https://www.s2foodbank.org.uk/
 - address: "4 New Windsor Street\r\nUxbridge\r\nUB8 2TU"
   alt_name: null
   charity:
