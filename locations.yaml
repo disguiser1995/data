@@ -10838,6 +10838,33 @@
   slug: the-baptist-church
   urls:
     html: https://www.givefood.org.uk/needs/at/oxford-community-emergency/the-baptist-church/
+- address: "Fleming Avenue\r\nNorth Baddesley\r\nSO52 9AQ"
+  email: info@romsey.foodbank.org.uk
+  foodbank:
+    name: Romsey
+    network: Trussell
+    slug: romsey
+    urls:
+      html: https://www.givefood.org.uk/needs/at/romsey/
+      self: https://www.givefood.org.uk/api/2/foodbank/romsey/
+  id: 9336245d-abe8-47cc-9b7a-3c674bde669b
+  lat_lng: 50.97667800000001,-1.4374075
+  name: Community Life Centre
+  phone: 07761405870
+  politics:
+    district: Test Valley
+    mp: Caroline Nokes
+    mp_parl_id: 4048
+    mp_party: Conservative
+    parliamentary_constituency: Romsey and Southampton North
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/romsey-and-southampton-north/
+      self: https://www.givefood.org.uk/api/2/constituency/romsey-and-southampton-north/
+    ward: North Baddesley
+  postcode: SO52 9AQ
+  slug: community-life-centre
+  urls:
+    html: https://www.givefood.org.uk/needs/at/romsey/community-life-centre/
 - address: "Royal British Legion\r\nChester Road\r\nLittle Sutton\r\nCH66 3RJ"
   email: info@westcheshire.foodbank.org.uk
   foodbank:
@@ -50835,33 +50862,6 @@
   slug: the-deepings
   urls:
     html: https://www.givefood.org.uk/needs/at/deepings/the-deepings/
-- address: "23 Fleming Avenue\r\nNorth Baddesley\r\nSouthampton\r\nSO52 9EJ"
-  email: info@romsey.foodbank.org.uk
-  foodbank:
-    name: Romsey
-    network: Trussell
-    slug: romsey
-    urls:
-      html: https://www.givefood.org.uk/needs/at/romsey/
-      self: https://www.givefood.org.uk/api/2/foodbank/romsey/
-  id: 9336245d-abe8-47cc-9b7a-3c674bde669b
-  lat_lng: 50.97667800000001,-1.4374075
-  name: Community Life Centre
-  phone: 02380410648
-  politics:
-    district: Test Valley
-    mp: Caroline Nokes
-    mp_parl_id: 4048
-    mp_party: Conservative
-    parliamentary_constituency: Romsey and Southampton North
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/romsey-and-southampton-north/
-      self: https://www.givefood.org.uk/api/2/constituency/romsey-and-southampton-north/
-    ward: North Baddesley
-  postcode: SO52 9EJ
-  slug: community-life-centre
-  urls:
-    html: https://www.givefood.org.uk/needs/at/romsey/community-life-centre/
 - address: ''
   email: info@uttlesford.foodbank.org.uk
   foodbank:
