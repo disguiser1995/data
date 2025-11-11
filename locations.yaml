@@ -24561,6 +24561,33 @@
   slug: launceston-foodbank-charity-shop
   urls:
     html: https://www.givefood.org.uk/needs/at/launceston/launceston-foodbank-charity-shop/
+- address: "Drayton Close\r\nWeston\r\nSouthampton\r\nSO19 9JP"
+  email: foodcentre@kingscommunitychurch.co.uk
+  foodbank:
+    name: Hedge End
+    network: IFAN
+    slug: hedge-end
+    urls:
+      html: https://www.givefood.org.uk/needs/at/hedge-end/
+      self: https://www.givefood.org.uk/api/2/foodbank/hedge-end/
+  id: f452dd6c-b1d5-49f9-9a48-473305fec692
+  lat_lng: 50.8850226,-1.361144
+  name: The Hope Centre
+  phone: 01489784333
+  politics:
+    district: Southampton
+    mp: null
+    mp_parl_id: null
+    mp_party: null
+    parliamentary_constituency: Southampton Itchen
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/southampton-itchen/
+      self: https://www.givefood.org.uk/api/2/constituency/southampton-itchen/
+    ward: Woolston
+  postcode: SO19 9JP
+  slug: the-hope-centre
+  urls:
+    html: https://www.givefood.org.uk/needs/at/hedge-end/the-hope-centre/
 - address: "St Paul's Church\r\nQuarrelton Road\r\nJohnstone\r\nPA5 8NH"
   email: info@renfrewshire.foodbank.org.uk
   foodbank:
