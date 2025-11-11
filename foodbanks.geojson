@@ -14790,6 +14790,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1861621,
+          52.332471
+        ]
+      },
+      "properties": {
+        "name": "Huntingdon",
+        "slug": "huntingdon",
+        "address": "83 High Street\r\nHuntingdon\r\nCambridgeshire\r\nPE29 3ER",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/huntingdon/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/huntingdon/",
+        "network": "Independent",
+        "email": "ansaryfoundation5@gmail.com",
+        "telephone": "07717418416",
+        "parliamentary_constituency": "Huntingdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.045339999999999,
           54.5119048
         ]
@@ -18237,28 +18259,6 @@
         "email": "email@email.com",
         "telephone": "07934723099",
         "parliamentary_constituency": "Neath and Swansea East"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1861621,
-          52.332471
-        ]
-      },
-      "properties": {
-        "name": "Huntingdon",
-        "slug": "huntingdon",
-        "address": "83 High Street\r\nHuntingdon\r\nCambridgeshire\r\nPE29 3ER",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/huntingdon/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/huntingdon/",
-        "network": "Independent",
-        "email": "ansaryfoundation5@gmail.com",
-        "telephone": "07717418416",
-        "parliamentary_constituency": "Huntingdon"
       }
     },
     {
