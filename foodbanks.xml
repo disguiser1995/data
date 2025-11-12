@@ -8909,47 +8909,6 @@ E9 5QB</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>bdf873d4-8033-4685-aba0-c8242353da6e</id>
-		<name>Brecon Foodbank</name>
-		<alt_name/>
-		<slug>brecon</slug>
-		<phone>01874611723</phone>
-		<secondary_phone/>
-		<email>info@brecon.foodbank.org.uk</email>
-		<address>St John's Centre
-Pendre Close
-Brecon
-LD3 9EA</address>
-		<postcode>LD3 9EA</postcode>
-		<closed>false</closed>
-		<country>Wales</country>
-		<lat_lng>51.9520795,-3.3927201</lat_lng>
-		<network>Trussell</network>
-		<created>2019-08-25T20:32:05.805370</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/brecon/</self>
-			<html>https://www.givefood.org.uk/needs/at/brecon/</html>
-			<homepage>https://brecon.foodbank.org.uk</homepage>
-			<shopping_list>https://brecon.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1157203</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157203&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Brecon, Radnor and Cwm Tawe</parliamentary_constituency>
-			<mp>Fay Jones</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4763</mp_parl_id>
-			<ward>Brecon West</ward>
-			<district>Powys</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/brecon-radnor-and-cwm-tawe/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/brecon-radnor-and-cwm-tawe/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>1b7fe81e-e525-4729-8887-5579caa10d8c</id>
 		<name>Northfield Foodbank</name>
 		<alt_name/>
@@ -9070,6 +9029,47 @@ SK14 3RB</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/stalybridge-and-hyde/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/stalybridge-and-hyde/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>bdf873d4-8033-4685-aba0-c8242353da6e</id>
+		<name>Brecon Foodbank</name>
+		<alt_name/>
+		<slug>brecon</slug>
+		<phone>01874611723</phone>
+		<secondary_phone/>
+		<email>info@brecon.foodbank.org.uk</email>
+		<address>St John's Centre
+Pendre Close
+Brecon
+LD3 9EA</address>
+		<postcode>LD3 9EA</postcode>
+		<closed>false</closed>
+		<country>Wales</country>
+		<lat_lng>51.9520795,-3.3927201</lat_lng>
+		<network>Trussell</network>
+		<created>2019-08-25T20:32:05.805370</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/brecon/</self>
+			<html>https://www.givefood.org.uk/needs/at/brecon/</html>
+			<homepage>https://brecon.foodbank.org.uk</homepage>
+			<shopping_list>https://brecon.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1157203</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1157203&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Brecon, Radnor and Cwm Tawe</parliamentary_constituency>
+			<mp>Fay Jones</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4763</mp_parl_id>
+			<ward>Brecon West</ward>
+			<district>Powys</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/brecon-radnor-and-cwm-tawe/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/brecon-radnor-and-cwm-tawe/</html>
 			</urls>
 		</politics>
 	</foodbank>
