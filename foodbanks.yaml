@@ -3462,38 +3462,6 @@
     html: https://www.givefood.org.uk/needs/at/ivybridge-district/
     self: https://www.givefood.org.uk/api/2/foodbank/ivybridge-district/
     shopping_list: https://ivybridge.foodbank.org.uk/support-us/donate-food
-- address: "Dacre House\r\n19 Hillfield Road\r\nHemel Hempstead\r\nHP2 4AA"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1097185&subid=0
-    registration_id: '1097185'
-  closed: false
-  country: England
-  created: 2020-01-13 12:12:53.041019
-  email: foodbank@dens.org.uk
-  id: 453044a0-9ade-466e-8d5a-94971a801218
-  lat_lng: 51.7529143,-0.4701045999999999
-  name: DENS Foodbank
-  network: Trussell
-  phone: '01442262274'
-  politics:
-    district: Dacorum
-    mp: Mike Penning
-    mp_parl_id: 1528
-    mp_party: Conservative
-    parliamentary_constituency: Hemel Hempstead
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/hemel-hempstead/
-      self: https://www.givefood.org.uk/api/2/constituency/hemel-hempstead/
-    ward: Hemel Hempstead Town
-  postcode: HP2 4AA
-  secondary_phone: null
-  slug: dens
-  urls:
-    homepage: https://www.dens.org.uk/our-services/foodbank/
-    html: https://www.givefood.org.uk/needs/at/dens/
-    self: https://www.givefood.org.uk/api/2/foodbank/dens/
-    shopping_list: https://www.dens.org.uk/get-involved/high-needs-list/
 - address: "St Peter's Church\r\nWarwick Road\r\nKineton\r\nWarwickshire\r\nCV35 0HN"
   alt_name: null
   charity:
@@ -3526,6 +3494,38 @@
     html: https://www.givefood.org.uk/needs/at/fosse/
     self: https://www.givefood.org.uk/api/2/foodbank/fosse/
     shopping_list: https://fosse.foodbank.org.uk/give-help/donate-food/
+- address: "Dacre House\r\n19 Hillfield Road\r\nHemel Hempstead\r\nHP2 4AA"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1097185&subid=0
+    registration_id: '1097185'
+  closed: false
+  country: England
+  created: 2020-01-13 12:12:53.041019
+  email: foodbank@dens.org.uk
+  id: 453044a0-9ade-466e-8d5a-94971a801218
+  lat_lng: 51.7529143,-0.4701045999999999
+  name: DENS Foodbank
+  network: Trussell
+  phone: '01442262274'
+  politics:
+    district: Dacorum
+    mp: Mike Penning
+    mp_parl_id: 1528
+    mp_party: Conservative
+    parliamentary_constituency: Hemel Hempstead
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/hemel-hempstead/
+      self: https://www.givefood.org.uk/api/2/constituency/hemel-hempstead/
+    ward: Hemel Hempstead Town
+  postcode: HP2 4AA
+  secondary_phone: null
+  slug: dens
+  urls:
+    homepage: https://www.dens.org.uk/our-services/foodbank/
+    html: https://www.givefood.org.uk/needs/at/dens/
+    self: https://www.givefood.org.uk/api/2/foodbank/dens/
+    shopping_list: https://www.dens.org.uk/get-involved/high-needs-list/
 - address: "Woodley Baptist Church\r\nHurricane Way\r\nWoodley\r\nReading\r\nRG5 4UX"
   alt_name: null
   charity:
@@ -9701,38 +9701,6 @@
     html: https://www.givefood.org.uk/needs/at/jubilee-storehouse/
     self: https://www.givefood.org.uk/api/2/foodbank/jubilee-storehouse/
     shopping_list: https://jubileestorehouse.org/how-to-help/
-- address: "St Botolphs Church Hall\r\nNorthfleet\r\nGravesend\r\nKent\r\nDA11 9EU"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1166553&subid=0
-    registration_id: '1166553'
-  closed: false
-  country: England
-  created: 2020-03-23 22:37:39.088140
-  email: hivehopeuk@gmail.com
-  id: 28295dae-ff85-4b1e-b93c-5ab44daa06b0
-  lat_lng: 51.4427185,0.3356392
-  name: Northfleet Hive Hope Foodbank
-  network: Independent
-  phone: 07479312206
-  politics:
-    district: Gravesham
-    mp: Adam Holloway
-    mp_parl_id: 1522
-    mp_party: Conservative
-    parliamentary_constituency: Gravesham
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/gravesham/
-      self: https://www.givefood.org.uk/api/2/constituency/gravesham/
-    ward: Northfleet & Springhead
-  postcode: DA11 9EU
-  secondary_phone: null
-  slug: northfleet-hive-hope
-  urls:
-    homepage: https://hivehope.org.uk/
-    html: https://www.givefood.org.uk/needs/at/northfleet-hive-hope/
-    self: https://www.givefood.org.uk/api/2/foodbank/northfleet-hive-hope/
-    shopping_list: https://hivehope.org.uk/want-to-help/
 - address: "St Albans Church\r\nLindsell Road\r\nAltrincham\r\nCheshire\r\nWA14 5NX"
   alt_name: null
   charity:
@@ -19527,6 +19495,38 @@
     html: https://www.givefood.org.uk/needs/at/andover/
     self: https://www.givefood.org.uk/api/2/foodbank/andover/
     shopping_list: https://andover.foodbank.org.uk/give-help/donate-food/
+- address: "Maes Y Gollen\r\nParklands\r\nSketty\r\nSwansea\r\nSA2 8HQ"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1196608&subid=0
+    registration_id: '1196608'
+  closed: false
+  country: Wales
+  created: 2023-03-15 20:28:03.530534
+  email: skettyfoodbank@gmail.com
+  id: 4e5a4d6d-8d57-4cc3-80f7-3f66f18f414f
+  lat_lng: 51.61733,-3.9954919
+  name: Sketty Foodbank
+  network: Independent
+  phone: 07803818322
+  politics:
+    district: Swansea
+    mp: Geraint Davies
+    mp_parl_id: 155
+    mp_party: Labour Co-operative
+    parliamentary_constituency: Swansea West
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/swansea-west/
+      self: https://www.givefood.org.uk/api/2/constituency/swansea-west/
+    ward: Sketty
+  postcode: SA2 8HQ
+  secondary_phone: null
+  slug: sketty
+  urls:
+    homepage: https://www.skettyfoodbank.co.uk
+    html: https://www.givefood.org.uk/needs/at/sketty/
+    self: https://www.givefood.org.uk/api/2/foodbank/sketty/
+    shopping_list: https://www.skettyfoodbank.co.uk
 - address: "St. Michael The Archangel Church\r\nChurch Street\r\nAlcombe\r\nMinehead\r\
     \nTA24 6BL"
   alt_name: null
@@ -20012,6 +20012,38 @@
     html: https://www.givefood.org.uk/needs/at/black-country/
     self: https://www.givefood.org.uk/api/2/foodbank/black-country/
     shopping_list: https://www.blackcountryfoodbank.org.uk/support/shortages/
+- address: "St Botolphs Church Hall\r\nNorthfleet\r\nGravesend\r\nKent\r\nDA11 9EU"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1166553&subid=0
+    registration_id: '1166553'
+  closed: false
+  country: England
+  created: 2020-03-23 22:37:39.088140
+  email: hivehopeuk@gmail.com
+  id: 28295dae-ff85-4b1e-b93c-5ab44daa06b0
+  lat_lng: 51.4427185,0.3356392
+  name: Northfleet Hive Hope Foodbank
+  network: Independent
+  phone: 07479312206
+  politics:
+    district: Gravesham
+    mp: Adam Holloway
+    mp_parl_id: 1522
+    mp_party: Conservative
+    parliamentary_constituency: Gravesham
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/gravesham/
+      self: https://www.givefood.org.uk/api/2/constituency/gravesham/
+    ward: Northfleet & Springhead
+  postcode: DA11 9EU
+  secondary_phone: null
+  slug: northfleet-hive-hope
+  urls:
+    homepage: https://hivehope.org.uk/
+    html: https://www.givefood.org.uk/needs/at/northfleet-hive-hope/
+    self: https://www.givefood.org.uk/api/2/foodbank/northfleet-hive-hope/
+    shopping_list: https://hivehope.org.uk/want-to-help/
 - address: "St Peter's and St Andrew's Church\r\nBeanfield Avenue\r\nCorby\r\nNN18\
     \ 0EH"
   alt_name: null
@@ -26252,38 +26284,6 @@
     html: https://www.givefood.org.uk/needs/at/knebworth/
     self: https://www.givefood.org.uk/api/2/foodbank/knebworth/
     shopping_list: https://www.facebook.com/profile.php?id=100084514285192
-- address: "Maes Y Gollen\r\nParklands\r\nSketty\r\nSwansea\r\nSA2 8HQ"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1196608&subid=0
-    registration_id: '1196608'
-  closed: false
-  country: Wales
-  created: 2023-03-15 20:28:03.530534
-  email: skettyfoodbank@gmail.com
-  id: 4e5a4d6d-8d57-4cc3-80f7-3f66f18f414f
-  lat_lng: 51.61733,-3.9954919
-  name: Sketty Foodbank
-  network: Independent
-  phone: 07803818322
-  politics:
-    district: Swansea
-    mp: Geraint Davies
-    mp_parl_id: 155
-    mp_party: Labour Co-operative
-    parliamentary_constituency: Swansea West
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/swansea-west/
-      self: https://www.givefood.org.uk/api/2/constituency/swansea-west/
-    ward: Sketty
-  postcode: SA2 8HQ
-  secondary_phone: null
-  slug: sketty
-  urls:
-    homepage: https://www.skettyfoodbank.co.uk
-    html: https://www.givefood.org.uk/needs/at/sketty/
-    self: https://www.givefood.org.uk/api/2/foodbank/sketty/
-    shopping_list: https://www.skettyfoodbank.co.uk
 - address: "Seven Sisters RFC\r\nNeath\r\nSA10 9EL"
   alt_name: null
   charity:
