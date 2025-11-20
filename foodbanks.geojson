@@ -402,6 +402,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.4651153,
+          54.8270828
+        ]
+      },
+      "properties": {
+        "name": "Strabane",
+        "slug": "strabane",
+        "address": "Strabane Community Project\r\n5 John Wesley Street\r\nStrabane\r\nTyrone\r\nBT82 8RJ",
+        "country": "Northern Ireland",
+        "url": "https://www.givefood.org.uk/needs/at/strabane/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/strabane/",
+        "network": "Trussell",
+        "email": "foodbank@strabanecommunityproject.org.uk",
+        "telephone": "02871414142",
+        "parliamentary_constituency": "West Tyrone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.6853868,
           52.9712624
         ]
@@ -13485,28 +13507,6 @@
         "email": "info@waltonhersham.foodbank.org.uk",
         "telephone": "07884046665",
         "parliamentary_constituency": "Esher and Walton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4651153,
-          54.8270828
-        ]
-      },
-      "properties": {
-        "name": "Strabane",
-        "slug": "strabane",
-        "address": "Strabane Community Project\r\n5 John Wesley Street\r\nStrabane\r\nTyrone\r\nBT82 8RJ",
-        "country": "Northern Ireland",
-        "url": "https://www.givefood.org.uk/needs/at/strabane/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/strabane/",
-        "network": "Trussell",
-        "email": "foodbank@strabanecommunityproject.org.uk",
-        "telephone": "02871414142",
-        "parliamentary_constituency": "West Tyrone"
       }
     },
     {
