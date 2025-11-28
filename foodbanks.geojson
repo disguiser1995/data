@@ -28,6 +28,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8629509,
+          51.9212313
+        ]
+      },
+      "properties": {
+        "name": "North Cotswold",
+        "slug": "north-cotswold",
+        "address": "Unit 2\r\nGlebe Farm Buildings\r\nGuiting Power\r\nCheltenham\r\nGloucestershire\r\nGL54 5TZ",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/north-cotswold/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/north-cotswold/",
+        "network": "Trussell",
+        "email": "info@northcotswold.foodbank.org.uk",
+        "telephone": "07879375562",
+        "parliamentary_constituency": "North Cotswolds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1430749,
           51.5460284
         ]
@@ -65,6 +87,28 @@
         "email": "info@ardwickandlongsightfoodbank.org.uk",
         "telephone": "01612733977",
         "parliamentary_constituency": "Manchester Rusholme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1224264,
+          52.482506
+        ]
+      },
+      "properties": {
+        "name": "Black Country",
+        "slug": "black-country",
+        "address": "Albion Street\r\nBrierley Hill\r\nDY5 3EE",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/black-country/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/black-country/",
+        "network": "IFAN",
+        "email": "admin@blackcountryfoodbank.org.uk",
+        "telephone": "01384671250",
+        "parliamentary_constituency": "Stourbridge"
       }
     },
     {
@@ -15230,28 +15274,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1224264,
-          52.482506
-        ]
-      },
-      "properties": {
-        "name": "Black Country",
-        "slug": "black-country",
-        "address": "Albion Street\r\nBrierley Hill\r\nDY5 3EE",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/black-country/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/black-country/",
-        "network": "IFAN",
-        "email": "admin@blackcountryfoodbank.org.uk",
-        "telephone": "01384671250",
-        "parliamentary_constituency": "Stourbridge"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.4980721,
           54.0009723
         ]
@@ -20591,28 +20613,6 @@
         "email": "stanthonystmark@rcdom.org.uk",
         "telephone": "01416343053",
         "parliamentary_constituency": "Rutherglen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8629509,
-          51.9212313
-        ]
-      },
-      "properties": {
-        "name": "North Cotswold",
-        "slug": "north-cotswold",
-        "address": "Unit 2\r\nGlebe Farm Buildings\r\nGuiting Power\r\nCheltenham\r\nGloucestershire\r\nGL54 5TZ",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/north-cotswold/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/north-cotswold/",
-        "network": "Trussell",
-        "email": "info@northcotswold.foodbank.org.uk",
-        "telephone": "07879375562",
-        "parliamentary_constituency": "North Cotswolds"
       }
     },
     {
