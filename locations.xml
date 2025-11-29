@@ -4638,43 +4638,6 @@ AB24 2BL</address>
 		</politics>
 	</location>
 	<location>
-		<id>35ca24a4-29d9-4298-bee9-09ff160f0b71</id>
-		<name>St Martins Church Llay</name>
-		<slug>st-martins-church-llay</slug>
-		<phone>07538547971</phone>
-		<email>info@wrexham.foodbank.org.uk</email>
-		<address>St Martins Church
-Seventh Avenue
-Llay
-LL12 0SB</address>
-		<postcode>LL12 0SB</postcode>
-		<lat_lng>53.0949093,-2.9966756</lat_lng>
-		<urls>
-			<html>https://www.givefood.org.uk/needs/at/wrexham/st-martins-church-llay/</html>
-		</urls>
-		<foodbank>
-			<name>Wrexham</name>
-			<slug>wrexham</slug>
-			<network>Trussell</network>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/wrexham/</self>
-				<html>https://www.givefood.org.uk/needs/at/wrexham/</html>
-			</urls>
-		</foodbank>
-		<politics>
-			<parliamentary_constituency>Wrexham</parliamentary_constituency>
-			<mp/>
-			<mp_party/>
-			<mp_parl_id/>
-			<ward>Llay</ward>
-			<district>Wrexham</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/wrexham/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/wrexham/</html>
-			</urls>
-		</politics>
-	</location>
-	<location>
 		<id>d4a9a816-72d2-4fc7-9244-bdac1e844bd3</id>
 		<name>Waltham Abbey</name>
 		<slug>waltham-abbey</slug>
@@ -71591,6 +71554,43 @@ GL5 2HZ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/stroud/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/stroud/</html>
+			</urls>
+		</politics>
+	</location>
+	<location>
+		<id>556efb41-4626-4f09-9208-71732f5ca6cf</id>
+		<name>Llay Community Church of the Nazarene</name>
+		<slug>llay-community-church-of-the-nazarene</slug>
+		<phone>07835022193</phone>
+		<email>info@wrexham.foodbank.org.uk</email>
+		<address>Nant-Y-Gaer Road
+Llay
+Wrexham
+LL12 0SG</address>
+		<postcode>LL12 0SG</postcode>
+		<lat_lng>53.09208659999999,-2.9956165</lat_lng>
+		<urls>
+			<html>https://www.givefood.org.uk/needs/at/wrexham/llay-community-church-of-the-nazarene/</html>
+		</urls>
+		<foodbank>
+			<name>Wrexham</name>
+			<slug>wrexham</slug>
+			<network>Trussell</network>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/wrexham/</self>
+				<html>https://www.givefood.org.uk/needs/at/wrexham/</html>
+			</urls>
+		</foodbank>
+		<politics>
+			<parliamentary_constituency>Wrexham</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Llay</ward>
+			<district>Wrexham</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/wrexham/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/wrexham/</html>
 			</urls>
 		</politics>
 	</location>
