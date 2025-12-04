@@ -3839,47 +3839,6 @@ BN11 2NA</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>f8073806-4fe5-47f5-8607-308b7ab46d74</id>
-		<name>Newcastle Foodbank</name>
-		<alt_name/>
-		<slug>newcastle</slug>
-		<phone>01912753019</phone>
-		<secondary_phone>07580751365</secondary_phone>
-		<email>info@newcastlefoodbank.org</email>
-		<address>The Food Bank Centre
-Benwell Lane
-Newcastle upon Tyne
-NE15 6LX</address>
-		<postcode>NE15 6LX</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>54.9733549,-1.6711746</lat_lng>
-		<network>Trussell</network>
-		<created>2019-07-12T15:39:57.652957</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/newcastle/</self>
-			<html>https://www.givefood.org.uk/needs/at/newcastle/</html>
-			<homepage>https://www.newcastlefoodbank.org</homepage>
-			<shopping_list>https://www.newcastlefoodbank.org/urgently-needed-items/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1152656</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1152656&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Newcastle upon Tyne Central and West</parliamentary_constituency>
-			<mp>Chi Onwurah</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>4124</mp_parl_id>
-			<ward>Benwell &amp; Scotswood</ward>
-			<district>Newcastle upon Tyne</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/newcastle-upon-tyne-central-and-west/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/newcastle-upon-tyne-central-and-west/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>a9607b36-2c01-42d8-b42d-1e040b2fec90</id>
 		<name>Vale Foodbank</name>
 		<alt_name>Banc Bwyd Y Fro</alt_name>
@@ -4001,6 +3960,47 @@ N22 8HE</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/southgate-and-wood-green/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/southgate-and-wood-green/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>f8073806-4fe5-47f5-8607-308b7ab46d74</id>
+		<name>Newcastle Foodbank</name>
+		<alt_name/>
+		<slug>newcastle</slug>
+		<phone>01912753019</phone>
+		<secondary_phone>07580751365</secondary_phone>
+		<email>info@newcastlefoodbank.org</email>
+		<address>The Food Bank Centre
+Benwell Lane
+Newcastle upon Tyne
+NE15 6LX</address>
+		<postcode>NE15 6LX</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>54.9733549,-1.6711746</lat_lng>
+		<network>Trussell</network>
+		<created>2019-07-12T15:39:57.652957</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/newcastle/</self>
+			<html>https://www.givefood.org.uk/needs/at/newcastle/</html>
+			<homepage>https://www.newcastlefoodbank.org</homepage>
+			<shopping_list>https://www.newcastlefoodbank.org/urgently-needed-items/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1152656</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1152656&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Newcastle upon Tyne Central and West</parliamentary_constituency>
+			<mp>Chi Onwurah</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>4124</mp_parl_id>
+			<ward>Benwell &amp; Scotswood</ward>
+			<district>Newcastle upon Tyne</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/newcastle-upon-tyne-central-and-west/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/newcastle-upon-tyne-central-and-west/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -6069,48 +6069,6 @@ LE4 1DS</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/leicester-west/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/leicester-west/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<id>9e5d8d43-8529-494d-99e7-31f1f518cf22</id>
-		<name>Cardiff Foodbank</name>
-		<alt_name>Banc Bwyd Caerdydd</alt_name>
-		<slug>cardiff</slug>
-		<phone>02920484120</phone>
-		<secondary_phone/>
-		<email>info@cardiff.foodbank.org.uk</email>
-		<address>Unit G
-Cardiff Bay Business Centre
-Titan Road
-Cardiff
-CF24 5BS</address>
-		<postcode>CF24 5BS</postcode>
-		<closed>false</closed>
-		<country>Wales</country>
-		<lat_lng>51.4766009,-3.1537532</lat_lng>
-		<network>Trussell</network>
-		<created>2019-07-13T11:12:44.950223</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/cardiff/</self>
-			<html>https://www.givefood.org.uk/needs/at/cardiff/</html>
-			<homepage>https://cardiff.foodbank.org.uk</homepage>
-			<shopping_list>https://cardiff.foodbank.org.uk/support-us/donate-food</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1139456</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1139456&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Cardiff South and Penarth</parliamentary_constituency>
-			<mp>Stephen Doughty</mp>
-			<mp_party>Labour Co-operative</mp_party>
-			<mp_parl_id>4264</mp_parl_id>
-			<ward>Splott</ward>
-			<district>Cardiff</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/cardiff-south-and-penarth/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/cardiff-south-and-penarth/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -28234,49 +28192,6 @@ TR18 4DF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>7f2675a7-1b07-41b2-a878-276cf844da8f</id>
-		<name>Norwich Foodbank</name>
-		<alt_name/>
-		<slug>norwich</slug>
-		<phone>03003651123</phone>
-		<secondary_phone/>
-		<email>admin@norwich.foodbank.org.uk</email>
-		<address>Unit 14
-Henderson Industrial Units
-Ivy Road
-Norwich
-Norfolk
-NR5 8BF</address>
-		<postcode>NR5 8BF</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>52.6354541,1.2561945</lat_lng>
-		<network>Trussell</network>
-		<created>2019-07-26T08:25:26.602207</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/norwich/</self>
-			<html>https://www.givefood.org.uk/needs/at/norwich/</html>
-			<homepage>https://norwich.foodbank.org.uk</homepage>
-			<shopping_list>https://norwich.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1143528</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1143528&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Norwich South</parliamentary_constituency>
-			<mp>Clive Lewis</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>4500</mp_parl_id>
-			<ward>Wensum</ward>
-			<district>Norwich</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/norwich-south/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/norwich-south/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>7f728672-e7c2-477f-8ae4-8ac0777a9308</id>
 		<name>Holbeach Community Larder Foodbank</name>
 		<alt_name/>
@@ -29519,6 +29434,49 @@ CW7 3QG</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<id>7f2675a7-1b07-41b2-a878-276cf844da8f</id>
+		<name>Norwich Foodbank</name>
+		<alt_name/>
+		<slug>norwich</slug>
+		<phone>03003651123</phone>
+		<secondary_phone/>
+		<email>admin@norwich.foodbank.org.uk</email>
+		<address>Unit 14
+Henderson Industrial Units
+Ivy Road
+Norwich
+Norfolk
+NR5 8BF</address>
+		<postcode>NR5 8BF</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>52.6354541,1.2561945</lat_lng>
+		<network>Trussell</network>
+		<created>2019-07-26T08:25:26.602207</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/norwich/</self>
+			<html>https://www.givefood.org.uk/needs/at/norwich/</html>
+			<homepage>https://norwich.foodbank.org.uk</homepage>
+			<shopping_list>https://norwich.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1143528</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1143528&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Norwich South</parliamentary_constituency>
+			<mp>Clive Lewis</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>4500</mp_parl_id>
+			<ward>Wensum</ward>
+			<district>Norwich</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/norwich-south/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/norwich-south/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<id>63e15f67-eed7-4fb8-a3c3-af4c9315a3ce</id>
 		<name>Black Country Foodbank</name>
 		<alt_name/>
@@ -29803,6 +29761,48 @@ NE63 8RN</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/blyth-and-ashington/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/blyth-and-ashington/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>9e5d8d43-8529-494d-99e7-31f1f518cf22</id>
+		<name>Cardiff Foodbank</name>
+		<alt_name>Banc Bwyd Caerdydd</alt_name>
+		<slug>cardiff</slug>
+		<phone>02920484120</phone>
+		<secondary_phone/>
+		<email>info@cardiff.foodbank.org.uk</email>
+		<address>Unit G
+Cardiff Bay Business Centre
+Titan Road
+Cardiff
+CF24 5BS</address>
+		<postcode>CF24 5BS</postcode>
+		<closed>false</closed>
+		<country>Wales</country>
+		<lat_lng>51.4766009,-3.1537532</lat_lng>
+		<network>Trussell</network>
+		<created>2019-07-13T11:12:44.950223</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/cardiff/</self>
+			<html>https://www.givefood.org.uk/needs/at/cardiff/</html>
+			<homepage>https://cardiff.foodbank.org.uk</homepage>
+			<shopping_list>https://cardiff.foodbank.org.uk/support-us/donate-food</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1139456</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1139456&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Cardiff South and Penarth</parliamentary_constituency>
+			<mp>Stephen Doughty</mp>
+			<mp_party>Labour Co-operative</mp_party>
+			<mp_parl_id>4264</mp_parl_id>
+			<ward>Splott</ward>
+			<district>Cardiff</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/cardiff-south-and-penarth/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/cardiff-south-and-penarth/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -31534,47 +31534,6 @@ HU3 3PF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>e0ad2278-3a2b-4ffc-9679-399721acbd26</id>
-		<name>Bognor Regis Foodbank</name>
-		<alt_name/>
-		<slug>bognor-regis</slug>
-		<phone>01243866952</phone>
-		<secondary_phone/>
-		<email>info@bognorregis.foodbank.org.uk</email>
-		<address>Argyle Hall
-Argyle Road
-Bognor Regis
-PO21 1DY</address>
-		<postcode>PO21 1DY</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>50.7827724,-0.678676</lat_lng>
-		<network>Trussell</network>
-		<created>2019-11-09T18:42:26.054076</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/bognor-regis/</self>
-			<html>https://www.givefood.org.uk/needs/at/bognor-regis/</html>
-			<homepage>https://bognorregis.foodbank.org.uk</homepage>
-			<shopping_list>https://bognorregis.foodbank.org.uk/give-help/donate-food/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1148187</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1148187&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Bognor Regis and Littlehampton</parliamentary_constituency>
-			<mp>Nick Gibb</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>111</mp_parl_id>
-			<ward>Marine</ward>
-			<district>Arun</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/bognor-regis-and-littlehampton/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/bognor-regis-and-littlehampton/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>0649f41b-34f9-41ed-b956-9e6b6e722094</id>
 		<name>Glasgow SE Foodbank</name>
 		<alt_name/>
@@ -31654,6 +31613,47 @@ PH3 1DF</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/stirling-and-strathallan/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/stirling-and-strathallan/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>e0ad2278-3a2b-4ffc-9679-399721acbd26</id>
+		<name>Bognor Regis Foodbank</name>
+		<alt_name/>
+		<slug>bognor-regis</slug>
+		<phone>01243866952</phone>
+		<secondary_phone/>
+		<email>info@bognorregis.foodbank.org.uk</email>
+		<address>Argyle Hall
+Argyle Road
+Bognor Regis
+PO21 1DY</address>
+		<postcode>PO21 1DY</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>50.7827724,-0.678676</lat_lng>
+		<network>Trussell</network>
+		<created>2019-11-09T18:42:26.054076</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/bognor-regis/</self>
+			<html>https://www.givefood.org.uk/needs/at/bognor-regis/</html>
+			<homepage>https://bognorregis.foodbank.org.uk</homepage>
+			<shopping_list>https://bognorregis.foodbank.org.uk/give-help/donate-food/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1148187</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1148187&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Bognor Regis and Littlehampton</parliamentary_constituency>
+			<mp>Nick Gibb</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>111</mp_parl_id>
+			<ward>Marine</ward>
+			<district>Arun</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/bognor-regis-and-littlehampton/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/bognor-regis-and-littlehampton/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -41146,6 +41146,47 @@ HD1 1QA</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<id>9c288f28-5c79-4b8b-b54e-3ce30cfa9a04</id>
+		<name>Stocksbridge Foodbank</name>
+		<alt_name/>
+		<slug>stocksbridge</slug>
+		<phone>07912609791</phone>
+		<secondary_phone/>
+		<email>coordinator@stocksbridgefoodbank.gmail.com</email>
+		<address>The Christian Centre
+1 Cedar Road
+Stocksbridge
+S36 1AS</address>
+		<postcode>S36 1AS</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>53.4759907,-1.598428</lat_lng>
+		<network>Independent</network>
+		<created>2021-08-30T10:35:45.342465</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/stocksbridge/</self>
+			<html>https://www.givefood.org.uk/needs/at/stocksbridge/</html>
+			<homepage>https://stocksbridgefoodbank.org</homepage>
+			<shopping_list>https://stocksbridgefoodbank.org</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Penistone and Stocksbridge</parliamentary_constituency>
+			<mp>Miriam Cates</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4865</mp_parl_id>
+			<ward>Stocksbridge and Upper Don</ward>
+			<district>Sheffield</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/penistone-and-stocksbridge/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/penistone-and-stocksbridge/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<id>3c8a631e-7a2d-4fdf-8ebc-c586b2f49290</id>
 		<name>Aberdeen North Foodbank</name>
 		<alt_name/>
@@ -41184,47 +41225,6 @@ AB23 8BL</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/aberdeen-north/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/aberdeen-north/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<id>9c288f28-5c79-4b8b-b54e-3ce30cfa9a04</id>
-		<name>Stocksbridge Foodbank</name>
-		<alt_name/>
-		<slug>stocksbridge</slug>
-		<phone>07912609791</phone>
-		<secondary_phone/>
-		<email>coordinator@stocksbridgefoodbank.gmail.com</email>
-		<address>The Christian Centre
-1 Cedar Road
-Stocksbridge
-S36 1AS</address>
-		<postcode>S36 1AS</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.4759907,-1.598428</lat_lng>
-		<network>Independent</network>
-		<created>2021-08-30T10:35:45.342465</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/stocksbridge/</self>
-			<html>https://www.givefood.org.uk/needs/at/stocksbridge/</html>
-			<homepage>https://stocksbridgefoodbank.org</homepage>
-			<shopping_list>https://stocksbridgefoodbank.org</shopping_list>
-		</urls>
-		<charity>
-			<registration_id/>
-			<register_url/>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Penistone and Stocksbridge</parliamentary_constituency>
-			<mp>Miriam Cates</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4865</mp_parl_id>
-			<ward>Stocksbridge and Upper Don</ward>
-			<district>Sheffield</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/penistone-and-stocksbridge/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/penistone-and-stocksbridge/</html>
 			</urls>
 		</politics>
 	</foodbank>
