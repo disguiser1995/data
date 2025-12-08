@@ -545,6 +545,38 @@
     html: https://www.givefood.org.uk/needs/at/ledbury/
     self: https://www.givefood.org.uk/api/2/foodbank/ledbury/
     shopping_list: http://www.ledburyfoodbank.org/
+- address: "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1208406&subid=0
+    registration_id: '1208406'
+  closed: false
+  country: England
+  created: 2020-08-15 17:31:40.158932
+  email: info@wellsstorehouse.co.uk
+  id: b8e55ade-c83a-467b-9698-168c2ae76056
+  lat_lng: 51.2031589,-2.650812
+  name: Wells Foodbank
+  network: Independent
+  phone: 07587125228
+  politics:
+    district: Somerset
+    mp: James Heappey
+    mp_parl_id: 4528
+    mp_party: Conservative
+    parliamentary_constituency: Wells and Mendip Hills
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/wells-and-mendip-hills/
+      self: https://www.givefood.org.uk/api/2/constituency/wells-and-mendip-hills/
+    ward: Wells
+  postcode: BA5 1TU
+  secondary_phone: null
+  slug: wells
+  urls:
+    homepage: https://www.wellsstorehouse.co.uk/
+    html: https://www.givefood.org.uk/needs/at/wells/
+    self: https://www.givefood.org.uk/api/2/foodbank/wells/
+    shopping_list: https://www.wellsstorehouse.co.uk/donate/
 - address: "177 Kirkwood Drive\r\nKenton\r\nNewcastle Upon Tyne\r\nNE3 3BE"
   alt_name: null
   charity:
@@ -641,38 +673,6 @@
     html: https://www.givefood.org.uk/needs/at/taff-ely/
     self: https://www.givefood.org.uk/api/2/foodbank/taff-ely/
     shopping_list: https://taffely.foodbank.org.uk/give-help/donate-food/
-- address: "The Old Pumphouse\r\nRowdens Road\r\nWells\r\nBA5 1TU"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1208406&subid=0
-    registration_id: '1208406'
-  closed: false
-  country: England
-  created: 2020-08-15 17:31:40.158932
-  email: info@wellsstorehouse.co.uk
-  id: b8e55ade-c83a-467b-9698-168c2ae76056
-  lat_lng: 51.2031589,-2.650812
-  name: Wells Foodbank
-  network: Independent
-  phone: 07587125228
-  politics:
-    district: Somerset
-    mp: James Heappey
-    mp_parl_id: 4528
-    mp_party: Conservative
-    parliamentary_constituency: Wells and Mendip Hills
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/wells-and-mendip-hills/
-      self: https://www.givefood.org.uk/api/2/constituency/wells-and-mendip-hills/
-    ward: Wells
-  postcode: BA5 1TU
-  secondary_phone: null
-  slug: wells
-  urls:
-    homepage: https://www.wellsstorehouse.co.uk/
-    html: https://www.givefood.org.uk/needs/at/wells/
-    self: https://www.givefood.org.uk/api/2/foodbank/wells/
-    shopping_list: https://www.wellsstorehouse.co.uk/donate/
 - address: "Noor Hall\r\nNoor St\r\nPreston\r\nPR1 1QS"
   alt_name: null
   charity:
@@ -2329,39 +2329,6 @@
     html: https://www.givefood.org.uk/needs/at/east-elmbridge/
     self: https://www.givefood.org.uk/api/2/foodbank/east-elmbridge/
     shopping_list: https://eastelmbridge.foodbank.org.uk/give-help/donate-food/
-- address: "Unit 15b\r\nThreemilestone Industrial Estate\r\nThreemilestone\r\nTruro\r\
-    \nTR4 9LD"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1176281&subid=0
-    registration_id: '1176281'
-  closed: false
-  country: England
-  created: 2019-10-05 09:06:47.161610
-  email: trurofoodbank@gmail.com
-  id: e164f5f9-f11c-4429-a94c-3db465a281bd
-  lat_lng: 50.26253029999999,-5.1238759
-  name: Truro Foodbank
-  network: Trussell
-  phone: 07721711669
-  politics:
-    district: Cornwall
-    mp: Cherilyn Mackrory
-    mp_parl_id: 4758
-    mp_party: Conservative
-    parliamentary_constituency: Truro and Falmouth
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/truro-and-falmouth/
-      self: https://www.givefood.org.uk/api/2/constituency/truro-and-falmouth/
-    ward: Threemilestone & Chacewater
-  postcode: TR4 9LD
-  secondary_phone: null
-  slug: truro
-  urls:
-    homepage: https://truro.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/truro/
-    self: https://www.givefood.org.uk/api/2/foodbank/truro/
-    shopping_list: https://truro.foodbank.org.uk/give-help/donate-food/
 - address: "Clarence Hall\r\nBradfield Court\r\nHawley Road\r\nLondon\r\nNW1 8RN"
   alt_name: null
   charity:
@@ -8936,6 +8903,39 @@
     html: https://www.givefood.org.uk/needs/at/leeds-south-east/
     self: https://www.givefood.org.uk/api/2/foodbank/leeds-south-east/
     shopping_list: https://leedssouthandeast.foodbank.org.uk/give-help/donate-food/
+- address: "Unit 15b\r\nThreemilestone Industrial Estate\r\nThreemilestone\r\nTruro\r\
+    \nTR4 9LD"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1176281&subid=0
+    registration_id: '1176281'
+  closed: false
+  country: England
+  created: 2019-10-05 09:06:47.161610
+  email: trurofoodbank@gmail.com
+  id: e164f5f9-f11c-4429-a94c-3db465a281bd
+  lat_lng: 50.26253029999999,-5.1238759
+  name: Truro Foodbank
+  network: Trussell
+  phone: 07721711669
+  politics:
+    district: Cornwall
+    mp: Cherilyn Mackrory
+    mp_parl_id: 4758
+    mp_party: Conservative
+    parliamentary_constituency: Truro and Falmouth
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/truro-and-falmouth/
+      self: https://www.givefood.org.uk/api/2/constituency/truro-and-falmouth/
+    ward: Threemilestone & Chacewater
+  postcode: TR4 9LD
+  secondary_phone: null
+  slug: truro
+  urls:
+    homepage: https://truro.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/truro/
+    self: https://www.givefood.org.uk/api/2/foodbank/truro/
+    shopping_list: https://truro.foodbank.org.uk/give-help/donate-food/
 - address: "Social Justice Hub\r\nSt Andrew’s Church\r\nAvonmouth Road\r\nAvonmouth\r\
     \nBristol\r\nBS11 9EN"
   alt_name: null
@@ -15668,38 +15668,6 @@
     html: https://www.givefood.org.uk/needs/at/horsham-district/
     self: https://www.givefood.org.uk/api/2/foodbank/horsham-district/
     shopping_list: https://horshamdistrict.foodbank.org.uk/give-help/donate-food/
-- address: "St John's Church Hall\r\nVentnor Road\r\nPortland\r\nDT5 1JE"
-  alt_name: null
-  charity:
-    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1194428&subid=0
-    registration_id: '1194428'
-  closed: false
-  country: England
-  created: 2020-08-16 14:21:35.596244
-  email: manager@portlandfoodbank.co.uk
-  id: c8de7364-d674-4bf8-b0f5-3148d89aaf83
-  lat_lng: 50.5607745,-2.4433904
-  name: Portland Foodbank
-  network: Independent
-  phone: 07913170495
-  politics:
-    district: Dorset
-    mp: Richard Drax
-    mp_parl_id: 4132
-    mp_party: Conservative
-    parliamentary_constituency: South Dorset
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-dorset/
-      self: https://www.givefood.org.uk/api/2/constituency/south-dorset/
-    ward: Portland
-  postcode: DT5 1JE
-  secondary_phone: null
-  slug: portland
-  urls:
-    homepage: http://portlandfoodbank.co.uk
-    html: https://www.givefood.org.uk/needs/at/portland/
-    self: https://www.givefood.org.uk/api/2/foodbank/portland/
-    shopping_list: http://portlandfoodbank.co.uk
 - address: "Top Floor of Unit G\r\nSharpes Industrial Estate\r\nAlexandra Rd\r\nSwadlincote\r\
     \nDE11 9AZ"
   alt_name: null
@@ -15733,6 +15701,38 @@
     html: https://www.givefood.org.uk/needs/at/south-derbyshire-cvs/
     self: https://www.givefood.org.uk/api/2/foodbank/south-derbyshire-cvs/
     shopping_list: https://www.sdcvs.org.uk/food-hub
+- address: "St John's Church Hall\r\nVentnor Road\r\nPortland\r\nDT5 1JE"
+  alt_name: null
+  charity:
+    register_url: https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1194428&subid=0
+    registration_id: '1194428'
+  closed: false
+  country: England
+  created: 2020-08-16 14:21:35.596244
+  email: manager@portlandfoodbank.co.uk
+  id: c8de7364-d674-4bf8-b0f5-3148d89aaf83
+  lat_lng: 50.5607745,-2.4433904
+  name: Portland Foodbank
+  network: Independent
+  phone: 07913170495
+  politics:
+    district: Dorset
+    mp: Richard Drax
+    mp_parl_id: 4132
+    mp_party: Conservative
+    parliamentary_constituency: South Dorset
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-dorset/
+      self: https://www.givefood.org.uk/api/2/constituency/south-dorset/
+    ward: Portland
+  postcode: DT5 1JE
+  secondary_phone: null
+  slug: portland
+  urls:
+    homepage: http://portlandfoodbank.co.uk
+    html: https://www.givefood.org.uk/needs/at/portland/
+    self: https://www.givefood.org.uk/api/2/foodbank/portland/
+    shopping_list: http://portlandfoodbank.co.uk
 - address: "Beaumont Way\r\nLeicester\r\nLE4 1DS"
   alt_name: null
   charity:
