@@ -13345,39 +13345,6 @@
     html: https://www.givefood.org.uk/needs/at/loughborough-area/
     self: https://www.givefood.org.uk/api/2/foodbank/loughborough-area/
     shopping_list: https://loughborougharea.foodbank.org.uk/give-help/donate-food/
-- address: "Park Avenue & Community Centre \r\nCastlewellan\r\nNewcastle \r\nCounty\
-    \ Down\r\nBT33 0HL"
-  alt_name: null
-  charity:
-    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=103477
-    registration_id: NIC103477
-  closed: false
-  country: Northern Ireland
-  created: 2020-08-22 11:11:24.944498
-  email: thepantryfoodbank@gmail.com
-  id: 896d46f9-48ef-46ff-aefe-84a3f2c9171a
-  lat_lng: 54.2579967,-5.9418219
-  name: The Pantry Foodbank
-  network: Independent
-  phone: '07517766006'
-  politics:
-    district: Newry, Mourne and Down
-    mp: Chris Hazzard
-    mp_parl_id: 4636
-    mp_party: Sinn Féin
-    parliamentary_constituency: South Down
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-down/
-      self: https://www.givefood.org.uk/api/2/constituency/south-down/
-    ward: Donard
-  postcode: BT33 0HL
-  secondary_phone: null
-  slug: the-pantry
-  urls:
-    homepage: https://www.facebook.com/Pantry14
-    html: https://www.givefood.org.uk/needs/at/the-pantry/
-    self: https://www.givefood.org.uk/api/2/foodbank/the-pantry/
-    shopping_list: https://www.facebook.com/Pantry14/
 - address: "c/o The Bureau\r\nBank House\r\n22 Henry Street\r\nGlossop\r\nSK13 8BW"
   alt_name: null
   charity:
@@ -13507,6 +13474,39 @@
     html: https://www.givefood.org.uk/needs/at/st-mags/
     self: https://www.givefood.org.uk/api/2/foodbank/st-mags/
     shopping_list: https://stmags.org.uk/page/the-store-room.html
+- address: "Park Avenue & Community Centre \r\nCastlewellan\r\nNewcastle \r\nCounty\
+    \ Down\r\nBT33 0HL"
+  alt_name: null
+  charity:
+    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=103477
+    registration_id: NIC103477
+  closed: false
+  country: Northern Ireland
+  created: 2020-08-22 11:11:24.944498
+  email: thepantryfoodbank@gmail.com
+  id: 896d46f9-48ef-46ff-aefe-84a3f2c9171a
+  lat_lng: 54.2579967,-5.9418219
+  name: The Pantry Foodbank
+  network: Independent
+  phone: '07517766006'
+  politics:
+    district: Newry, Mourne and Down
+    mp: Chris Hazzard
+    mp_parl_id: 4636
+    mp_party: Sinn Féin
+    parliamentary_constituency: South Down
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-down/
+      self: https://www.givefood.org.uk/api/2/constituency/south-down/
+    ward: Donard
+  postcode: BT33 0HL
+  secondary_phone: null
+  slug: the-pantry
+  urls:
+    homepage: https://www.facebook.com/Pantry14
+    html: https://www.givefood.org.uk/needs/at/the-pantry/
+    self: https://www.givefood.org.uk/api/2/foodbank/the-pantry/
+    shopping_list: https://www.facebook.com/Pantry14/
 - address: "Liverpool Cathedral\r\nSt James Mount\r\nLiverpool\r\nL1 7AZ"
   alt_name: null
   charity:
