@@ -18061,6 +18061,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.5208387999999999,
+          51.540511
+        ]
+      },
+      "properties": {
+        "name": "Iver, Slough Foodbank",
+        "slug": "iver",
+        "address": "The Pavillion\r\nIver Heath Recreation Ground\r\nIver\r\nSL0 0PN",
+        "url": "https://www.givefood.org.uk/needs/at/slough/iver/",
+        "network": "Trussell",
+        "email": "office@slough.foodbank.org.uk",
+        "telephone": "01753550303",
+        "foodbank": "Slough",
+        "foodbank_slug": "slough",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/slough/",
+        "parliamentary_constituency": "Beaconsfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.8658795,
           51.3283745
         ]
@@ -22792,6 +22815,29 @@
         "foodbank_slug": "norwich",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/norwich/",
         "parliamentary_constituency": "Norwich South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5471064999999999,
+          51.500344
+        ]
+      },
+      "properties": {
+        "name": "Langley, Slough Foodbank",
+        "slug": "langley",
+        "address": "100 Trelawney Avenue\r\nLangley\r\nSlough\r\nSL3 8RW",
+        "url": "https://www.givefood.org.uk/needs/at/slough/langley/",
+        "network": "Trussell",
+        "email": "office@slough.foodbank.org.uk",
+        "telephone": "01753540771",
+        "foodbank": "Slough",
+        "foodbank_slug": "slough",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/slough/",
+        "parliamentary_constituency": "Windsor"
       }
     },
     {
