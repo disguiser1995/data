@@ -3548,6 +3548,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.7817497,
+          56.3344347
+        ]
+      },
+      "properties": {
+        "name": "St Andrews",
+        "slug": "st-andrews",
+        "address": "St Davids Centre\r\nAlbany Park\r\nSt Andrews\r\nFife\r\nKY16 8BP",
+        "country": "Scotland",
+        "url": "https://www.givefood.org.uk/needs/at/st-andrews/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/st-andrews/",
+        "network": "Independent",
+        "email": "storehouse@kingdomvineyard.com",
+        "telephone": "01334845985",
+        "parliamentary_constituency": "North East Fife"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.3301101,
           51.5982756
         ]
@@ -4824,6 +4846,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.8496503999999999,
+          51.82334849999999
+        ]
+      },
+      "properties": {
+        "name": "Aylesbury",
+        "slug": "aylesbury",
+        "address": "44 Rabans Close\r\nAylesbury\r\nBuckinghamshire\r\nHP19 8RS",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/aylesbury/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/aylesbury/",
+        "network": "Trussell",
+        "email": "info@aylesbury.foodbank.org.uk",
+        "telephone": "01296395514",
+        "parliamentary_constituency": "Aylesbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.535841,
           52.345152
         ]
@@ -5396,6 +5440,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.4062293,
+          51.4431417
+        ]
+      },
+      "properties": {
+        "name": "Riverside Vineyard Storehouse",
+        "slug": "riverside-vineyard-storehouse",
+        "address": "Riverside Vineyard Church\r\nAir Park Way\r\nFeltham\r\nTW13 7LX",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/riverside-vineyard-storehouse/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/riverside-vineyard-storehouse/",
+        "network": "IFAN",
+        "email": "storehouse@riversidevineyard.com",
+        "telephone": "02088902626",
+        "parliamentary_constituency": "Feltham and Heston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.7521922,
           51.3262101
         ]
@@ -5433,28 +5499,6 @@
         "email": "skettyfoodbank@gmail.com",
         "telephone": "07803818322",
         "parliamentary_constituency": "Swansea West"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4062293,
-          51.4431417
-        ]
-      },
-      "properties": {
-        "name": "Riverside Vineyard Storehouse",
-        "slug": "riverside-vineyard-storehouse",
-        "address": "Riverside Vineyard Church\r\nAir Park Way\r\nFeltham\r\nTW13 7LX",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/riverside-vineyard-storehouse/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/riverside-vineyard-storehouse/",
-        "network": "IFAN",
-        "email": "storehouse@riversidevineyard.com",
-        "telephone": "02088902626",
-        "parliamentary_constituency": "Feltham and Heston"
       }
     },
     {
@@ -10236,28 +10280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8496503999999999,
-          51.82334849999999
-        ]
-      },
-      "properties": {
-        "name": "Aylesbury",
-        "slug": "aylesbury",
-        "address": "44 Rabans Close\r\nAylesbury\r\nBuckinghamshire\r\nHP19 8RS",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/aylesbury/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/aylesbury/",
-        "network": "Trussell",
-        "email": "info@aylesbury.foodbank.org.uk",
-        "telephone": "01296395514",
-        "parliamentary_constituency": "Aylesbury"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1033664,
           49.18602370000001
         ]
@@ -10515,28 +10537,6 @@
         "email": "info@hammersmithfulham.foodbank.org.uk",
         "telephone": "02077313693",
         "parliamentary_constituency": "Chelsea and Fulham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.4552253999999999,
-          51.5232665
-        ]
-      },
-      "properties": {
-        "name": "Thurrock",
-        "slug": "thurrock",
-        "address": "Thurrock Christian Fellowship\r\n2-4 Chase Road\r\nCorringham\r\nEssex\r\nSS17 7QH",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/thurrock/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/thurrock/",
-        "network": "Trussell",
-        "email": "info@thurrock.foodbank.org.uk",
-        "telephone": null,
-        "parliamentary_constituency": "South Basildon and East Thurrock"
       }
     },
     {
@@ -10845,28 +10845,6 @@
         "email": "largsfoodbank@googlegroups.com",
         "telephone": "07842718541",
         "parliamentary_constituency": "North Ayrshire and Arran"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7817497,
-          56.3344347
-        ]
-      },
-      "properties": {
-        "name": "St Andrews",
-        "slug": "st-andrews",
-        "address": "St Davids Centre\r\nAlbany Park\r\nSt Andrews\r\nFife\r\nKY16 8BP",
-        "country": "Scotland",
-        "url": "https://www.givefood.org.uk/needs/at/st-andrews/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/st-andrews/",
-        "network": "Independent",
-        "email": "storehouse@kingdomvineyard.com",
-        "telephone": "01334845985",
-        "parliamentary_constituency": "North East Fife"
       }
     },
     {
@@ -14211,6 +14189,28 @@
         "email": "foodbankvolunteershv@gmail.com",
         "telephone": "07534855332",
         "parliamentary_constituency": "Colne Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4552253999999999,
+          51.5232665
+        ]
+      },
+      "properties": {
+        "name": "Thurrock",
+        "slug": "thurrock",
+        "address": "Thurrock Christian Fellowship\r\n2-4 Chase Road\r\nCorringham\r\nEssex\r\nSS17 7QH",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/thurrock/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/thurrock/",
+        "network": "Trussell",
+        "email": "info@thurrock.foodbank.org.uk",
+        "telephone": null,
+        "parliamentary_constituency": "South Basildon and East Thurrock"
       }
     },
     {
