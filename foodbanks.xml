@@ -208,49 +208,6 @@ SA9 1AF</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>d2a68d70-eec7-4035-9392-4bbbcc2dd29c</id>
-		<name>The Bay Foodbank</name>
-		<alt_name/>
-		<slug>the-bay</slug>
-		<phone>01912573820</phone>
-		<secondary_phone/>
-		<email>info@thebayfoodbank.org.uk</email>
-		<address>The Barn
-Meadow Well Way
-Waterville Road
-Meadow Well
-North Shields
-NE29 6BA</address>
-		<postcode>NE29 6BA</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>55.00161319999999,-1.4656959</lat_lng>
-		<network>Independent</network>
-		<created>2020-08-05T16:39:36.812483</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/the-bay/</self>
-			<html>https://www.givefood.org.uk/needs/at/the-bay/</html>
-			<homepage>https://www.thebayfoodbank.org.uk/</homepage>
-			<shopping_list>https://www.thebayfoodbank.org.uk/wish-list</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1151746</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151746&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Tynemouth</parliamentary_constituency>
-			<mp>Alan Campbell</mp>
-			<mp_party>Labour</mp_party>
-			<mp_parl_id>529</mp_parl_id>
-			<ward>Chirton &amp; Percy Main</ward>
-			<district>North Tyneside</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/tynemouth/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/tynemouth/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>20a3fdf8-ec50-4354-82ca-5ec864a3a7a4</id>
 		<name>Fareham &amp; Gosport Basics Bank Foodbank</name>
 		<alt_name/>
@@ -413,6 +370,49 @@ LE5 2NG</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/leicester-east/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/leicester-east/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>d2a68d70-eec7-4035-9392-4bbbcc2dd29c</id>
+		<name>The Bay Foodbank</name>
+		<alt_name/>
+		<slug>the-bay</slug>
+		<phone>01912573820</phone>
+		<secondary_phone/>
+		<email>info@thebayfoodbank.org.uk</email>
+		<address>The Barn
+Meadow Well Way
+Waterville Road
+Meadow Well
+North Shields
+NE29 6BA</address>
+		<postcode>NE29 6BA</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>55.00161319999999,-1.4656959</lat_lng>
+		<network>Independent</network>
+		<created>2020-08-05T16:39:36.812483</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/the-bay/</self>
+			<html>https://www.givefood.org.uk/needs/at/the-bay/</html>
+			<homepage>https://www.thebayfoodbank.org.uk/</homepage>
+			<shopping_list>https://www.thebayfoodbank.org.uk/wish-list</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1151746</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1151746&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Tynemouth</parliamentary_constituency>
+			<mp>Alan Campbell</mp>
+			<mp_party>Labour</mp_party>
+			<mp_parl_id>529</mp_parl_id>
+			<ward>Chirton &amp; Percy Main</ward>
+			<district>North Tyneside</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/tynemouth/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/tynemouth/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -1163,47 +1163,6 @@ KY13 8AY</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>e68fe495-9a4e-4ba6-8822-4366d838d974</id>
-		<name>S2 Foodbank</name>
-		<alt_name/>
-		<slug>s2</slug>
-		<phone>07804406267</phone>
-		<secondary_phone/>
-		<email>admin@s2foodbank.org.uk</email>
-		<address>St Swithun's Church
-2 Cary Road
-Sheffield
-S2 1JP</address>
-		<postcode>S2 1JP</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>53.3660453,-1.4282344</lat_lng>
-		<network>Independent</network>
-		<created>2024-07-11T15:20:12.425536</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/s2/</self>
-			<html>https://www.givefood.org.uk/needs/at/s2/</html>
-			<homepage>https://www.s2foodbank.org.uk/</homepage>
-			<shopping_list>https://www.s2foodbank.org.uk/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1162137</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1162137&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Sheffield Heeley</parliamentary_constituency>
-			<mp/>
-			<mp_party/>
-			<mp_parl_id/>
-			<ward>Manor Castle</ward>
-			<district>Sheffield</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/sheffield-heeley/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/sheffield-heeley/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>2aaefad9-45b9-4920-85bb-ba6a1ee8b1f4</id>
 		<name>Henley Bridge Free Pantry Foodbank</name>
 		<alt_name/>
@@ -1282,6 +1241,47 @@ LE3 8BQ</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/mid-leicestershire/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/mid-leicestershire/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>e68fe495-9a4e-4ba6-8822-4366d838d974</id>
+		<name>S2 Foodbank</name>
+		<alt_name/>
+		<slug>s2</slug>
+		<phone>07804406267</phone>
+		<secondary_phone/>
+		<email>admin@s2foodbank.org.uk</email>
+		<address>St Swithun's Church
+2 Cary Road
+Sheffield
+S2 1JP</address>
+		<postcode>S2 1JP</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>53.3660453,-1.4282344</lat_lng>
+		<network>Independent</network>
+		<created>2024-07-11T15:20:12.425536</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/s2/</self>
+			<html>https://www.givefood.org.uk/needs/at/s2/</html>
+			<homepage>https://www.s2foodbank.org.uk/</homepage>
+			<shopping_list>https://www.s2foodbank.org.uk/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1162137</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1162137&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Sheffield Heeley</parliamentary_constituency>
+			<mp/>
+			<mp_party/>
+			<mp_parl_id/>
+			<ward>Manor Castle</ward>
+			<district>Sheffield</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/sheffield-heeley/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/sheffield-heeley/</html>
 			</urls>
 		</politics>
 	</foodbank>
@@ -30967,6 +30967,46 @@ SO15 0LP</address>
 		</politics>
 	</foodbank>
 	<foodbank>
+		<id>06e13cf9-dd39-452f-a9e7-14ac2866a03a</id>
+		<name>Feltham Foodbank</name>
+		<alt_name/>
+		<slug>feltham</slug>
+		<phone>07448831297</phone>
+		<secondary_phone>07783368928</secondary_phone>
+		<email>felthamfoodbank@gmail.com</email>
+		<address>102 Hounslow Road
+Feltham
+TW14 0AX</address>
+		<postcode>TW14 0AX</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.45394169999999,-0.4041737</lat_lng>
+		<network>Independent</network>
+		<created>2020-09-18T09:01:18.691902</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/feltham/</self>
+			<html>https://www.givefood.org.uk/needs/at/feltham/</html>
+			<homepage>https://felthamfoodbank.org</homepage>
+			<shopping_list>https://felthamfoodbank.org/6.html</shopping_list>
+		</urls>
+		<charity>
+			<registration_id>1163930</registration_id>
+			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1163930&amp;subid=0</register_url>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Feltham and Heston</parliamentary_constituency>
+			<mp>Seema Malhotra MP</mp>
+			<mp_party>Labour Co-operative</mp_party>
+			<mp_parl_id>4253</mp_parl_id>
+			<ward>Feltham North</ward>
+			<district>Hounslow</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/feltham-and-heston/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/feltham-and-heston/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
 		<id>482477b4-3a8c-4a17-873c-a5b8f7bb4302</id>
 		<name>Feed Newport Foodbank</name>
 		<alt_name/>
@@ -31086,46 +31126,6 @@ SS17 7QH</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/south-basildon-and-east-thurrock/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/south-basildon-and-east-thurrock/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
-		<id>06e13cf9-dd39-452f-a9e7-14ac2866a03a</id>
-		<name>Feltham Foodbank</name>
-		<alt_name/>
-		<slug>feltham</slug>
-		<phone>07448831297</phone>
-		<secondary_phone>07783368928</secondary_phone>
-		<email>felthamfoodbank@gmail.com</email>
-		<address>102 Hounslow Road
-Feltham
-TW14 0AX</address>
-		<postcode>TW14 0AX</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.45394169999999,-0.4041737</lat_lng>
-		<network>Independent</network>
-		<created>2020-09-18T09:01:18.691902</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/feltham/</self>
-			<html>https://www.givefood.org.uk/needs/at/feltham/</html>
-			<homepage>https://felthamfoodbank.org</homepage>
-			<shopping_list>https://felthamfoodbank.org/6.html</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1163930</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1163930&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Feltham and Heston</parliamentary_constituency>
-			<mp>Seema Malhotra MP</mp>
-			<mp_party>Labour Co-operative</mp_party>
-			<mp_parl_id>4253</mp_parl_id>
-			<ward>Feltham North</ward>
-			<district>Hounslow</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/feltham-and-heston/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/feltham-and-heston/</html>
 			</urls>
 		</politics>
 	</foodbank>
