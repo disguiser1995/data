@@ -1787,47 +1787,6 @@ PE6 8QB</address>
 		</politics>
 	</foodbank>
 	<foodbank>
-		<id>f68612f5-4114-4c0b-acd8-8cbec654f89f</id>
-		<name>The King's Pantry Foodbank</name>
-		<alt_name/>
-		<slug>the-kings-pantry</slug>
-		<phone>01582329189</phone>
-		<secondary_phone/>
-		<email>foodbank@bethanycc.org.uk</email>
-		<address>The Salvation Army Hall
-Leyton Green
-Harpenden
-AL5 2TG</address>
-		<postcode>AL5 2TG</postcode>
-		<closed>false</closed>
-		<country>England</country>
-		<lat_lng>51.8146841,-0.3569457</lat_lng>
-		<network>IFAN</network>
-		<created>2023-06-19T16:52:49.768995</created>
-		<urls>
-			<self>https://www.givefood.org.uk/api/2/foodbank/the-kings-pantry/</self>
-			<html>https://www.givefood.org.uk/needs/at/the-kings-pantry/</html>
-			<homepage>https://bethanycc.uk/our-community/ministries/food-bank/</homepage>
-			<shopping_list>https://bethanycc.uk/our-community/ministries/food-bank/</shopping_list>
-		</urls>
-		<charity>
-			<registration_id>1130496</registration_id>
-			<register_url>https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1130496&amp;subid=0</register_url>
-		</charity>
-		<politics>
-			<parliamentary_constituency>Harpenden and Berkhamsted</parliamentary_constituency>
-			<mp>Bim Afolami</mp>
-			<mp_party>Conservative</mp_party>
-			<mp_parl_id>4639</mp_parl_id>
-			<ward>Harpenden West</ward>
-			<district>St Albans</district>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/constituency/harpenden-and-berkhamsted/</self>
-				<html>https://www.givefood.org.uk/needs/in/constituency/harpenden-and-berkhamsted/</html>
-			</urls>
-		</politics>
-	</foodbank>
-	<foodbank>
 		<id>5362a705-0230-4960-8598-02c0b85c3488</id>
 		<name>Tottenham Foodbank</name>
 		<alt_name/>
@@ -36681,6 +36640,47 @@ DN3 1TR</address>
 			<urls>
 				<self>https://www.givefood.org.uk/api/2/constituency/doncaster-central/</self>
 				<html>https://www.givefood.org.uk/needs/in/constituency/doncaster-central/</html>
+			</urls>
+		</politics>
+	</foodbank>
+	<foodbank>
+		<id>f68612f5-4114-4c0b-acd8-8cbec654f89f</id>
+		<name>The King's Pantry Foodbank</name>
+		<alt_name/>
+		<slug>the-kings-pantry</slug>
+		<phone>01582329189</phone>
+		<secondary_phone/>
+		<email>foodbank@bethanycc.org.uk</email>
+		<address>The Salvation Army Hall
+Leyton Green
+Harpenden
+AL5 2TG</address>
+		<postcode>AL5 2TG</postcode>
+		<closed>false</closed>
+		<country>England</country>
+		<lat_lng>51.8146841,-0.3569457</lat_lng>
+		<network>IFAN</network>
+		<created>2023-06-19T16:52:49.768995</created>
+		<urls>
+			<self>https://www.givefood.org.uk/api/2/foodbank/the-kings-pantry/</self>
+			<html>https://www.givefood.org.uk/needs/at/the-kings-pantry/</html>
+			<homepage>https://bethanycc.uk/our-community/ministries/food-bank/</homepage>
+			<shopping_list>https://bethanycc.uk/our-community/ministries/food-bank/</shopping_list>
+		</urls>
+		<charity>
+			<registration_id/>
+			<register_url/>
+		</charity>
+		<politics>
+			<parliamentary_constituency>Harpenden and Berkhamsted</parliamentary_constituency>
+			<mp>Bim Afolami</mp>
+			<mp_party>Conservative</mp_party>
+			<mp_parl_id>4639</mp_parl_id>
+			<ward>Harpenden West</ward>
+			<district>St Albans</district>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/constituency/harpenden-and-berkhamsted/</self>
+				<html>https://www.givefood.org.uk/needs/in/constituency/harpenden-and-berkhamsted/</html>
 			</urls>
 		</politics>
 	</foodbank>
