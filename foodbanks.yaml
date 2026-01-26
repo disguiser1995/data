@@ -2006,6 +2006,39 @@
     html: https://www.givefood.org.uk/needs/at/brixham/
     self: https://www.givefood.org.uk/api/2/foodbank/brixham/
     shopping_list: https://brixhamchamber.co.uk/brixham-foodbank/
+- address: "Carnmoney Church\r\n258 Carnmoney Road\r\nNewtownabbey\r\nCo Antrim\r\n\
+    BT36 6JZ"
+  alt_name: null
+  charity:
+    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=104499
+    registration_id: '104499'
+  closed: false
+  country: Northern Ireland
+  created: 2020-01-02 14:03:33.841232
+  email: info@newtownabbey.foodbank.org.uk
+  id: 0c7a1f45-318a-4d9b-8c0d-ea3e81ffdff5
+  lat_lng: 54.6843327,-5.9520905
+  name: Newtownabbey Foodbank
+  network: Trussell
+  phone: 07581179604
+  politics:
+    district: Antrim and Newtownabbey
+    mp: Paul Girvan
+    mp_parl_id: 4633
+    mp_party: DUP
+    parliamentary_constituency: South Antrim
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/south-antrim/
+      self: https://www.givefood.org.uk/api/2/constituency/south-antrim/
+    ward: Carnmoney
+  postcode: BT36 6JZ
+  secondary_phone: null
+  slug: newtownabbey
+  urls:
+    homepage: https://newtownabbey.foodbank.org.uk
+    html: https://www.givefood.org.uk/needs/at/newtownabbey/
+    self: https://www.givefood.org.uk/api/2/foodbank/newtownabbey/
+    shopping_list: https://newtownabbey.foodbank.org.uk/give-help/donate-food/
 - address: "TS Vancouver Building\r\nSt Margaret's Lane\r\nKing's Lynn\r\nPE30 5DS"
   alt_name: null
   charity:
@@ -2103,39 +2136,6 @@
     html: https://www.givefood.org.uk/needs/at/ormskirk/
     self: https://www.givefood.org.uk/api/2/foodbank/ormskirk/
     shopping_list: https://ormskirk.foodbank.org.uk/give-help/donate-food/
-- address: "Carnmoney Church\r\n258 Carnmoney Road\r\nNewtownabbey\r\nCo Antrim\r\n\
-    BT36 6JZ"
-  alt_name: null
-  charity:
-    register_url: https://www.charitycommissionni.org.uk/charity-details/?regId=104499
-    registration_id: '104499'
-  closed: false
-  country: Northern Ireland
-  created: 2020-01-02 14:03:33.841232
-  email: info@newtownabbey.foodbank.org.uk
-  id: 0c7a1f45-318a-4d9b-8c0d-ea3e81ffdff5
-  lat_lng: 54.6843327,-5.9520905
-  name: Newtownabbey Foodbank
-  network: Trussell
-  phone: 07581179604
-  politics:
-    district: Antrim and Newtownabbey
-    mp: Paul Girvan
-    mp_parl_id: 4633
-    mp_party: DUP
-    parliamentary_constituency: South Antrim
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/south-antrim/
-      self: https://www.givefood.org.uk/api/2/constituency/south-antrim/
-    ward: Carnmoney
-  postcode: BT36 6JZ
-  secondary_phone: null
-  slug: newtownabbey
-  urls:
-    homepage: https://newtownabbey.foodbank.org.uk
-    html: https://www.givefood.org.uk/needs/at/newtownabbey/
-    self: https://www.givefood.org.uk/api/2/foodbank/newtownabbey/
-    shopping_list: https://newtownabbey.foodbank.org.uk/give-help/donate-food/
 - address: "Horley Methodist Church\r\nVictoria Road\r\nHorley\r\nRH6 7AS"
   alt_name: null
   charity:
@@ -16448,38 +16448,6 @@
     html: https://www.givefood.org.uk/needs/at/broxtowe-community-projects/
     self: https://www.givefood.org.uk/api/2/foodbank/broxtowe-community-projects/
     shopping_list: https://www.broxtoweprojects.org
-- address: "Abbrook Park\r\nStrap Lane\r\nKingsteignton\r\nNewton Abbot\r\nTQ12 3PS"
-  alt_name: null
-  charity:
-    register_url: null
-    registration_id: null
-  closed: false
-  country: England
-  created: 2023-05-19 16:03:49.714550
-  email: info@hitsfoodbank.org
-  id: b65a87d7-9cb2-415b-a5eb-664a239f9e35
-  lat_lng: 50.5585798,-3.6025409
-  name: HITS Foodbank
-  network: Independent
-  phone: 01626906371
-  politics:
-    district: Teignbridge
-    mp: Anne Marie Morris
-    mp_parl_id: 4249
-    mp_party: Conservative
-    parliamentary_constituency: Newton Abbot
-    urls:
-      html: https://www.givefood.org.uk/needs/in/constituency/newton-abbot/
-      self: https://www.givefood.org.uk/api/2/constituency/newton-abbot/
-    ward: Kingsteignton West
-  postcode: TQ12 3PS
-  secondary_phone: null
-  slug: hits
-  urls:
-    homepage: https://hitsfoodbank.org
-    html: https://www.givefood.org.uk/needs/at/hits/
-    self: https://www.givefood.org.uk/api/2/foodbank/hits/
-    shopping_list: https://hitsfoodbank.org/support-us/donating/
 - address: "All Saints Church\r\nChurch Lane\r\nKings Langley\r\nWD4 8JS"
   alt_name: null
   charity:
@@ -20454,6 +20422,38 @@
     html: https://www.givefood.org.uk/needs/at/newquay/
     self: https://www.givefood.org.uk/api/2/foodbank/newquay/
     shopping_list: https://newquay.foodbank.org.uk/give-help/donate-food/
+- address: "Abbrook Park\r\nStrap Lane\r\nKingsteignton\r\nNewton Abbot\r\nTQ12 3PS"
+  alt_name: null
+  charity:
+    register_url: null
+    registration_id: null
+  closed: false
+  country: England
+  created: 2023-05-19 16:03:49.714550
+  email: info@hitsfoodbank.org
+  id: b65a87d7-9cb2-415b-a5eb-664a239f9e35
+  lat_lng: 50.5585798,-3.6025409
+  name: HITS Foodbank
+  network: Independent
+  phone: 01626906371
+  politics:
+    district: Teignbridge
+    mp: Anne Marie Morris
+    mp_parl_id: 4249
+    mp_party: Conservative
+    parliamentary_constituency: Newton Abbot
+    urls:
+      html: https://www.givefood.org.uk/needs/in/constituency/newton-abbot/
+      self: https://www.givefood.org.uk/api/2/constituency/newton-abbot/
+    ward: Kingsteignton West
+  postcode: TQ12 3PS
+  secondary_phone: null
+  slug: hits
+  urls:
+    homepage: https://hitsfoodbank.org
+    html: https://www.givefood.org.uk/needs/at/hits/
+    self: https://www.givefood.org.uk/api/2/foodbank/hits/
+    shopping_list: https://hitsfoodbank.org/support-us/donating/
 - address: "Stow Park Community Centre\r\nBrynhyfryd Road\r\nNewport\r\nNP20 4FX"
   alt_name: Banc Bwyd Casnewydd a'r Cylch
   charity:
