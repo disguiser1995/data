@@ -4,10 +4,10 @@
 
 👋 Hello!
 
-🕰️ Generated at Sun, 15 Feb 2026 18:38:33 +0000
+🕰️ Generated at Sun, 15 Feb 2026 19:26:52 +0000
 
 🖥️ By machine ec84wgc
-💾 Using code a8aeec0
+💾 Using code ccf0533
 🔩 By app unknown
 ⏱️ Took PUTTHERENDERTIMEHEREms
 
@@ -16,7 +16,7 @@
 🔣 Language direction ltr
 
 🐙 Code https://github.com/givefood/givefood
-🐱 Code version https://github.com/givefood/givefood/commit/a8aeec0
+🐱 Code version https://github.com/givefood/givefood/commit/ccf0533
 
 ============================================
 |  ,dP""8a "888888b,  d8b    "888b  ,888"  |
@@ -44,8 +44,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#F2DECB">
-  <link rel="stylesheet" href="/static/css/bulma.min.css?v=a8aeec0">
-  <link rel="stylesheet" href="/static/css/gf.css?v=a8aeec0">
+  <link rel="stylesheet" href="/static/css/bulma.min.css?v=ccf0533">
+  <link rel="stylesheet" href="/static/css/gf.css?v=ccf0533">
   <link rel="preload" href="/static/fonts/soehne-buch.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-kraftig.woff2" as="font" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" href="/static/fonts/soehne-dreiviertelfett.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -63,6 +63,20 @@
   </script>
   
   
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NGO",
+    "@id": "https://www.givefood.org.uk/#organization",
+    "name": "Give Food",
+    "url": "https://www.givefood.org.uk",
+    "logo": "https://www.givefood.org.uk/static/img/logo.svg",
+    "sameAs": [
+      "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5147019"
+    ],
+    "description": "A UK charity that uses data to highlight food insecurity and provides tools to help alleviate it."
+  }
+  </script>
   <title>404 - Not Found - Give Food</title>
 </head>
 <body data-instant-allow-query-string data-instant-allow-external-links>
@@ -143,8 +157,8 @@
     </footer>
   
   
-  <script src="/static/js/gf.js?v=a8aeec0" defer></script>
-  <script src="/static/js/csi.js?v=a8aeec0" defer></script>
+  <script src="/static/js/gf.js?v=ccf0533" defer></script>
+  <script src="/static/js/csi.js?v=ccf0533" defer></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-448372895"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
