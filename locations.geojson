@@ -7274,29 +7274,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3253859,
-          52.2766714
-        ]
-      },
-      "properties": {
-        "name": "Burwell, Ely Foodbank",
-        "slug": "burwell",
-        "address": "Burwell Day Centre\r\nAsh Grove\r\nBurwell\r\nCB25 0DR",
-        "url": "https://www.givefood.org.uk/needs/at/ely/burwell/",
-        "network": "Trussell",
-        "email": "info@elyfoodbank.org.uk",
-        "telephone": "01353468626",
-        "foodbank": "Ely",
-        "foodbank_slug": "ely",
-        "foodbank_url": "https://www.givefood.org.uk/needs/at/ely/",
-        "parliamentary_constituency": "Ely and East Cambridgeshire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.5034611,
           50.9593727
         ]
@@ -45654,6 +45631,29 @@
         "foodbank_slug": "lincoln",
         "foodbank_url": "https://www.givefood.org.uk/needs/at/lincoln/",
         "parliamentary_constituency": "Sleaford and North Hykeham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3270014,
+          52.26769669999999
+        ]
+      },
+      "properties": {
+        "name": "Burwell, Ely Foodbank",
+        "slug": "burwell",
+        "address": "Mandeville Hall\r\nTan House Lane\r\nCambridge\r\nCB25 0AR",
+        "url": "https://www.givefood.org.uk/needs/at/ely/burwell/",
+        "network": "Trussell",
+        "email": "info@elyfoodbank.org.uk",
+        "telephone": "01353468626",
+        "foodbank": "Ely",
+        "foodbank_slug": "ely",
+        "foodbank_url": "https://www.givefood.org.uk/needs/at/ely/",
+        "parliamentary_constituency": "Ely and East Cambridgeshire"
       }
     }
   ]
