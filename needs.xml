@@ -1,6 +1,56 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>d0cf0e2c-57eb-45aa-bf55-02607a61036d</id>
+		<found>2026-06-05T18:29:00.198032</found>
+		<foodbank>
+			<name>Walton &amp; Hersham</name>
+			<slug>walton-hersham</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/walton-hersham/</self>
+				<html>https://www.givefood.org.uk/needs/at/walton-hersham/</html>
+			</urls>
+		</foodbank>
+		<needs>Tinned Meat
+Long-Life Juice Or Squash
+Instant Coffee
+Chocolate Bars / Biscuits
+Jam / Marmite / Peanut Butter
+Tinned Spaghetti / Macaroni Cheese
+Long-Life Sponge Puddings / Rice Pudding
+Shampoo And Shower Gel
+Toilet Roll And Kitchen Roll
+Laundry Pods
+Deodorant
+Toothpaste</needs>
+		<excess>Soup
+Baked Beans
+Rice
+Tinned Tuna
+Pulses
+Nappies Of All Sizes</excess>
+		<self>https://www.givefood.org.uk/api/2/need/d0cf0e2c-57eb-45aa-bf55-02607a61036d/</self>
+	</need>
+	<need>
+		<id>16026760-0325-49c2-b367-17fd371c8dba</id>
+		<found>2026-06-05T16:29:02.991786</found>
+		<foodbank>
+			<name>Fareham</name>
+			<slug>fareham</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/fareham/</self>
+				<html>https://www.givefood.org.uk/needs/at/fareham/</html>
+			</urls>
+		</foodbank>
+		<needs>Jam
+Hot Dogs (Jars / Cans)
+Tinned Kidney Beans
+Instant Noodles
+Weetabix</needs>
+		<excess>Cardboard Egg Boxes</excess>
+		<self>https://www.givefood.org.uk/api/2/need/16026760-0325-49c2-b367-17fd371c8dba/</self>
+	</need>
+	<need>
 		<id>818e37ad-4f9a-4014-a1c3-a5cdf3614409</id>
 		<found>2026-06-05T15:11:03.398159</found>
 		<foodbank>
@@ -2797,51 +2847,5 @@ Shampoo</needs>
 Pasta
 Soup</excess>
 		<self>https://www.givefood.org.uk/api/2/need/d3b2f997-5723-4ee7-81d6-a43a01d93aec/</self>
-	</need>
-	<need>
-		<id>3e42dd84-f481-42e3-a2c7-eb4b5a22fd0c</id>
-		<found>2026-05-27T12:46:20.890324</found>
-		<foodbank>
-			<name>Ilkley</name>
-			<slug>ilkley</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/ilkley/</self>
-				<html>https://www.givefood.org.uk/needs/at/ilkley/</html>
-			</urls>
-		</foodbank>
-		<needs>Honey
-Custard
-Rice Pudding
-Cereals
-Sugar
-UHT Milk
-Chocolate And Sweets
-Deodorant
-Hand Wash</needs>
-		<excess>Corn Flakes
-Porridge</excess>
-		<self>https://www.givefood.org.uk/api/2/need/3e42dd84-f481-42e3-a2c7-eb4b5a22fd0c/</self>
-	</need>
-	<need>
-		<id>18a5ff6c-229a-404d-8fe5-0f3303831414</id>
-		<found>2026-05-27T08:31:01.528214</found>
-		<foodbank>
-			<name>Meon Valley</name>
-			<slug>meon-valley</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/meon-valley/</self>
-				<html>https://www.givefood.org.uk/needs/at/meon-valley/</html>
-			</urls>
-		</foodbank>
-		<needs>Tinned Chicken In White Wine Sauce
-Tinned Ham
-Pasta Sauce
-Tinned Fruit
-Tinned Meat Meals
-Tinned Vegetables
-Washing Tablets (Non-Bio)
-Small (500g) Bags Of Sugar</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/18a5ff6c-229a-404d-8fe5-0f3303831414/</self>
 	</need>
 </needs>
