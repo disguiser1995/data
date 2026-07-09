@@ -1,6 +1,61 @@
 <?xml version="1.0" ?>
 <needs>
 	<need>
+		<id>94c80513-7570-4e1c-8330-6e57bbe84caf</id>
+		<found>2026-07-09T11:20:37.663759</found>
+		<foodbank>
+			<name>Shrewsbury</name>
+			<slug>shrewsbury</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/shrewsbury/</self>
+				<html>https://www.givefood.org.uk/needs/at/shrewsbury/</html>
+			</urls>
+		</foodbank>
+		<needs>UHT Milk
+Jam/Spread
+Noodles
+Toothpaste
+Microwave Rice</needs>
+		<excess/>
+		<self>https://www.givefood.org.uk/api/2/need/94c80513-7570-4e1c-8330-6e57bbe84caf/</self>
+	</need>
+	<need>
+		<id>8bda9fa2-ed11-4f7c-927a-21c0c55257e2</id>
+		<found>2026-07-08T18:21:37.517546</found>
+		<foodbank>
+			<name>Wokingham</name>
+			<slug>wokingham</slug>
+			<urls>
+				<self>https://www.givefood.org.uk/api/2/foodbank/wokingham/</self>
+				<html>https://www.givefood.org.uk/needs/at/wokingham/</html>
+			</urls>
+		</foodbank>
+		<needs>Chocolate
+Conditioner
+Diluting Juice
+Multipack Crisps/ Snacks
+Preserves
+Savoury Snacks
+Shaving Foam/Gel
+Snacks (E.g. Crisps, Cereal Bars, Etc)
+Squash
+Tinned Chicken
+Tinned Corned Beef
+Tinned Curry
+Tinned Custard
+Tinned Macaroni Cheese
+Tinned Meat
+Tinned Meatballs
+Tinned Ravioli
+Tinned Soup
+Washing Powder
+Washing Up Liquid</needs>
+		<excess>Cat Food
+Dog Food
+Nappies</excess>
+		<self>https://www.givefood.org.uk/api/2/need/8bda9fa2-ed11-4f7c-927a-21c0c55257e2/</self>
+	</need>
+	<need>
 		<id>0a4de4e0-7f61-4269-8b1d-5486506cab95</id>
 		<found>2026-07-08T14:03:01.303085</found>
 		<foodbank>
@@ -2821,61 +2876,5 @@ Toiletries</needs>
 		<excess>Pasta
 Cereal</excess>
 		<self>https://www.givefood.org.uk/api/2/need/1173fb9c-851c-4e0d-a4c7-423ad24192c8/</self>
-	</need>
-	<need>
-		<id>99e8588e-91c4-40e8-9abd-40ef3d3ad0b3</id>
-		<found>2026-06-28T14:13:20.405914</found>
-		<foodbank>
-			<name>Jubilee Storehouse</name>
-			<slug>jubilee-storehouse</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/jubilee-storehouse/</self>
-				<html>https://www.givefood.org.uk/needs/at/jubilee-storehouse/</html>
-			</urls>
-		</foodbank>
-		<needs>Coffee
-Cup a Soup
-Deodorant
-Shower Gel</needs>
-		<excess/>
-		<self>https://www.givefood.org.uk/api/2/need/99e8588e-91c4-40e8-9abd-40ef3d3ad0b3/</self>
-	</need>
-	<need>
-		<id>ff80413e-cfad-4961-8b3f-7c9b0d041bc9</id>
-		<found>2026-06-28T13:39:28.387120</found>
-		<foodbank>
-			<name>South Cotswolds</name>
-			<slug>south-cotswolds</slug>
-			<urls>
-				<self>https://www.givefood.org.uk/api/2/foodbank/south-cotswolds/</self>
-				<html>https://www.givefood.org.uk/needs/at/south-cotswolds/</html>
-			</urls>
-		</foodbank>
-		<needs>Cat Food
-Chocolate
-Cold Tinned Meat
-Cup-A-Soup
-Hot Tinned Meat
-Household Cleaner
-Instant Coffee
-Long-Life Juice
-Shampoo
-Snacks
-Squash
-Tinned Rice Pudding
-Tinned Spaghetti
-Tinned Tomatoes
-Tinned Vegetables
-Toilet Cleaner
-Toilet Roll
-Washing Powder</needs>
-		<excess>Cereal
-Incontinence Products
-Pasta Sauce
-Rice
-Tinned Custard
-Tinned Fish
-Tinned Pulses</excess>
-		<self>https://www.givefood.org.uk/api/2/need/ff80413e-cfad-4961-8b3f-7c9b0d041bc9/</self>
 	</need>
 </needs>
