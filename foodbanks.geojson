@@ -1436,28 +1436,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3960629,
-          51.5255001
-        ]
-      },
-      "properties": {
-        "name": "Taff-Ely",
-        "slug": "taff-ely",
-        "address": "Unit 3\r\nEly Valley Business Park\r\nTylagarw\r\nPontyclun\r\nCF72 9DZ",
-        "country": "Wales",
-        "url": "https://www.givefood.org.uk/needs/at/taff-ely/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/taff-ely/",
-        "network": "Trussell",
-        "email": "info@taffely.foodbank.org.uk",
-        "telephone": "01443520730",
-        "parliamentary_constituency": "Cardiff West"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.3084001,
           51.0706751
         ]
@@ -1539,6 +1517,28 @@
         "email": "CoatbridgeCommunity@outlook.com",
         "telephone": "01236427959",
         "parliamentary_constituency": "Coatbridge and Bellshill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3960629,
+          51.5255001
+        ]
+      },
+      "properties": {
+        "name": "Taff-Ely",
+        "slug": "taff-ely",
+        "address": "Unit 3\r\nEly Valley Business Park\r\nTylagarw\r\nPontyclun\r\nCF72 9DZ",
+        "country": "Wales",
+        "url": "https://www.givefood.org.uk/needs/at/taff-ely/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/taff-ely/",
+        "network": "Trussell",
+        "email": "info@taffely.foodbank.org.uk",
+        "telephone": "01443520730",
+        "parliamentary_constituency": "Cardiff West"
       }
     },
     {
@@ -5330,6 +5330,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.2387742,
+          51.6014641
+        ]
+      },
+      "properties": {
+        "name": "Colindale",
+        "slug": "colindale",
+        "address": "Trinity Church\r\nNorthwest Centre\r\nAvion Crescent\r\nGrahame Park Way\r\nNW9 5QY",
+        "country": "England",
+        "url": "https://www.givefood.org.uk/needs/at/colindale/",
+        "json": "https://www.givefood.org.uk/api/2/foodbank/colindale/",
+        "network": "Trussell",
+        "email": "info@colindale.foodbank.org.uk",
+        "telephone": "07415223963",
+        "parliamentary_constituency": "Hendon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1866046,
           50.9035917
         ]
@@ -5389,28 +5411,6 @@
         "email": "info@farnworthkearsley.foodbank.org.uk",
         "telephone": "01204861671",
         "parliamentary_constituency": "Bolton South and Walkden"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2387742,
-          51.6014641
-        ]
-      },
-      "properties": {
-        "name": "Colindale",
-        "slug": "colindale",
-        "address": "Trinity Church\r\nNorthwest Centre\r\nAvion Crescent\r\nGrahame Park Way\r\nNW9 5QY",
-        "country": "England",
-        "url": "https://www.givefood.org.uk/needs/at/colindale/",
-        "json": "https://www.givefood.org.uk/api/2/foodbank/colindale/",
-        "network": "Trussell",
-        "email": "info@colindale.foodbank.org.uk",
-        "telephone": "07415223963",
-        "parliamentary_constituency": "Hendon"
       }
     },
     {
