@@ -1,5 +1,20 @@
 [
   {
+    "id": "506f7448-ff41-4644-a249-5539a520d720",
+    "found": "2026-09-05T19:28:08.639",
+    "foodbank": {
+      "name": "Black Country",
+      "slug": "black-country",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/black-country/",
+        "html": "https://www.givefood.org.uk/needs/at/black-country/"
+      }
+    },
+    "needs": "Tinned Soup\nPackets Of Mash Potato\nTinned Fruit In Juice\nTinned Veg\nLong Life Milk\nFray Bentos Pies\nTinned Corned Beef\nTinned Chilli Con Carne\nTinned Chicken In White Sauce\nToilet Roll\nShampoo\nShower Gel\nRoll On Deodorant",
+    "excess": null,
+    "self": "https://www.givefood.org.uk/api/2/need/506f7448-ff41-4644-a249-5539a520d720/"
+  },
+  {
     "id": "f09b2676-5bb0-470c-a187-912c81d2d2b1",
     "found": "2026-09-05T17:34:45.429",
     "foodbank": {
@@ -10,7 +25,7 @@
         "html": "https://www.givefood.org.uk/needs/at/jubilee-storehouse/"
       }
     },
-    "needs": "Cup A Soup\nToothpaste\nWomen\u2019s Deodorant\nChildren\u2019s Toiletries",
+    "needs": "Cup A Soup\nToothpaste\nWomen’s Deodorant\nChildren’s Toiletries",
     "excess": "",
     "self": "https://www.givefood.org.uk/api/2/need/f09b2676-5bb0-470c-a187-912c81d2d2b1/"
   },
@@ -28,6 +43,21 @@
     "needs": "Tinned Meat\nJars Of Pasta & Curry Sauces\nTinned Rice Pudding/Custard\nTinned Fruit\nLong Life Fruit Juice\nTinned Vegetables\nUHT Milk\nTinned Potatoes / Instant Mash\nTinned Spaghetti\nCoffee (100g Jars)\nShower Gel\nSoap (Individual Bars)\nToilet Roll",
     "excess": "Sanitary Wear\nTinned Soup\nPasta",
     "self": "https://www.givefood.org.uk/api/2/need/bd94ad25-dae4-46d8-b59d-9be139336dcb/"
+  },
+  {
+    "id": "ec151ead-a046-4cf6-9070-bf0c56198d74",
+    "found": "2026-09-05T15:18:33.472",
+    "foodbank": {
+      "name": "North Enfield",
+      "slug": "north-enfield",
+      "urls": {
+        "self": "https://www.givefood.org.uk/api/2/foodbank/north-enfield/",
+        "html": "https://www.givefood.org.uk/needs/at/north-enfield/"
+      }
+    },
+    "needs": "Tinned Meat (Beef, Chicken, Fish Etc)\nTinned Halal Meat\nTinned Vegetarian Meals\nPasta Sauce\nCoffee/ Hot Chocolate\nSweet And Savoury Snacks\nTinned Rice Pudding/ Custard\nLong Life Milk/ Juice\nJam And Spreads\nCereals\nToiletries (Soap, Shower Gel, Shampoo, Conditioner, Toothpaste, Deodorant, Toilet Roll Etc)\nNappies 5,6,7",
+    "excess": "",
+    "self": "https://www.givefood.org.uk/api/2/need/ec151ead-a046-4cf6-9070-bf0c56198d74/"
   },
   {
     "id": "aa7f7cae-b38f-4dd2-87b0-17bef3e9ad9a",
@@ -370,7 +400,7 @@
         "html": "https://www.givefood.org.uk/needs/at/exmouth/"
       }
     },
-    "needs": "Tins Of Soup\nTinned Tomatoes\nTinned Baked Beans And Spaghetti\nTinned Meat Meals Such As Stews, Meatballs Or Curry\nTinned Cold Meats Such As Ham, Chicken Or Corned Beef\nTinned Tuna\nTinned Fruit\nClean, Large \u2018Bags For Life\u2019",
+    "needs": "Tins Of Soup\nTinned Tomatoes\nTinned Baked Beans And Spaghetti\nTinned Meat Meals Such As Stews, Meatballs Or Curry\nTinned Cold Meats Such As Ham, Chicken Or Corned Beef\nTinned Tuna\nTinned Fruit\nClean, Large ‘Bags For Life’",
     "excess": "",
     "self": "https://www.givefood.org.uk/api/2/need/f1de2a16-8832-4858-b2f1-8944895a4f8d/"
   },
@@ -506,7 +536,7 @@
       }
     },
     "needs": "Cereal\nTinned Fruit\nShampoo\nSanitary Pads\nRice Puddings\nTinned Tomatoes\nUHT Milk (Long Life)\nWashing Up Liquid",
-    "excess": "Anything Containing Alcohol\nChilled Or Frozen Food\nFizzy Drinks\nInfant Formula Milk Or Powder\nFood That\u2019s Out Of Date, Opened, Or Unpackaged",
+    "excess": "Anything Containing Alcohol\nChilled Or Frozen Food\nFizzy Drinks\nInfant Formula Milk Or Powder\nFood That’s Out Of Date, Opened, Or Unpackaged",
     "self": "https://www.givefood.org.uk/api/2/need/461ee1b9-4270-4a0d-b67c-2772bde52044/"
   },
   {
@@ -970,7 +1000,7 @@
         "html": "https://www.givefood.org.uk/needs/at/bassetlaw/"
       }
     },
-    "needs": "Cooking Sauces \u2013 Pasta Or Curry Sauces\nInstant Noodles\nTinned Fish\nLong Life Milk\nCustard\nTinned Fruit\nTinned Carrots\nSoup\nPorridge \u2013 Ideally In Sachets\nBiscuits\nBleach\nCleaning Cloths\nWashing Up Liquid\nLaundry Pods\nConditioner & Shampoo\nDeodorant \u2013 Female & Male",
+    "needs": "Cooking Sauces – Pasta Or Curry Sauces\nInstant Noodles\nTinned Fish\nLong Life Milk\nCustard\nTinned Fruit\nTinned Carrots\nSoup\nPorridge – Ideally In Sachets\nBiscuits\nBleach\nCleaning Cloths\nWashing Up Liquid\nLaundry Pods\nConditioner & Shampoo\nDeodorant – Female & Male",
     "excess": "",
     "self": "https://www.givefood.org.uk/api/2/need/ba0839fc-b60b-433a-bbd4-315dc2a0ef44/"
   },
@@ -1001,7 +1031,7 @@
       }
     },
     "needs": "Washing Up Liquid\nSanitary Pads\nCereal\nLaundry Detergent (Small Boxes)\nCat Food\nTinned Tomatoes\nUHT Milk (Long Life)\nFruit Juice",
-    "excess": "Anything Containing Alcohol\nChilled Or Frozen Food\nFizzy Drinks\nInfant Formula Milk Or Powder\nFood That\u2019s Out Of Date, Opened, Or Unpackaged",
+    "excess": "Anything Containing Alcohol\nChilled Or Frozen Food\nFizzy Drinks\nInfant Formula Milk Or Powder\nFood That’s Out Of Date, Opened, Or Unpackaged",
     "self": "https://www.givefood.org.uk/api/2/need/631b6208-3458-4ae8-8e15-6d4dac90f49e/"
   },
   {
@@ -1468,35 +1498,5 @@
     "needs": "Tinned Veg Soup\nTinned Meat (Cold)\nTinned Tomatoes\nTinned Carrots\nInstant Mashed Potato (Sachet)\nTinned Fruit\nTinned Custard\nTinned Rice Pudding\nBiscuits (Other Than Chocolate)\nStrong Shopping Bags\nTea Bags (40s/80s)\nBreakfast Cereal\nLong Life Fruit Juice\nUHT/Long Life Milk\nSoup\nNoodles\nSavoury Rice Packets\nPasta Sauce\nCooking Oil\nTinned Meat\nTinned Potatoes\nTinned Fish\nTinned Or Jar Hotdogs\nTinned Meatballs\nTinned Corned Beef\nTinned Ham / Chicken\nTinned Ravioli\nTinned Vegetables\nRice (Dried Or Pouches)\nBaked Beans\nSponge Puddings - Tinned Or Microwaveable\nBiscuits\nMarmalade\nChocolate Biscuits Eg: Kitkat\nCereal Bars\nToiletries\nToothpaste\nHand Wash\nShampoo\nConditioner\nShower Gel\nPeriod Pads\nToilet Roll\nWashing-Up Liquid\nMulti-Surface Cleaner\nWashing Tabs/Pods",
     "excess": "Tinned Spaghetti\nNappies",
     "self": "https://www.givefood.org.uk/api/2/need/dbd55c45-44ce-4b40-b7d0-61e2ac29189d/"
-  },
-  {
-    "id": "71afba8d-9579-4781-a602-0e4a4c01cc21",
-    "found": "2026-08-24T16:49:13.410",
-    "foodbank": {
-      "name": "Taff-Ely",
-      "slug": "taff-ely",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/taff-ely/",
-        "html": "https://www.givefood.org.uk/needs/at/taff-ely/"
-      }
-    },
-    "needs": "Cold Tinned Meat\nInstant Mashed Potato\nLong-Life Milk\nSquash (Small)\nTinned Carrots\nTinned Fruit\nTinned Meatballs\nTinned Peas\nTinned Soup\nTinned Tomatoes",
-    "excess": "Pasta",
-    "self": "https://www.givefood.org.uk/api/2/need/71afba8d-9579-4781-a602-0e4a4c01cc21/"
-  },
-  {
-    "id": "74582a19-a9cf-415c-85d4-3baa0dd87721",
-    "found": "2026-08-24T16:41:55.202",
-    "foodbank": {
-      "name": "Purley",
-      "slug": "purley",
-      "urls": {
-        "self": "https://www.givefood.org.uk/api/2/foodbank/purley/",
-        "html": "https://www.givefood.org.uk/needs/at/purley/"
-      }
-    },
-    "needs": "Boxed Packet Soup Needing Only Hot Water\nSmall Bottles/Concentrated Discs Of Squash\nPasta Sauce In Cartons\nTinned Vegetables \u2013 Peas, Carrots, Sweetcorn \u2013\n500g Packets Of Sugar\nPackets Of Sweet Biscuits\nTinned Rice Pudding\nPacket Custard Needing Only Hot Water\nToothpaste\nSanitary Pads",
-    "excess": "",
-    "self": "https://www.givefood.org.uk/api/2/need/74582a19-a9cf-415c-85d4-3baa0dd87721/"
   }
 ]
